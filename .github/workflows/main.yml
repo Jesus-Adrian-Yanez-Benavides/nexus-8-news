@@ -1,0 +1,38 @@
+name: Actualizar Noticias Nexus 8
+
+on:
+  schedule:
+    # Esto corre el script todos los días a las 8:00 AM (hora UTC)
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Esto te permite darle "Play" manualmente cuando quieras
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso para que GitHub pueda guardar el index.html
+    steps:
+      - name: Descargar código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar herramientas
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar motor de IA
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python main.py
+
+      - name: Guardar y publicar cambios
+        run: |
+          git config --global user.name 'Nexus-8-Bot'
+          git config --global user.email 'bot@nexus8.com'
+          git add index.html
+          git commit -m "Actualización diaria de noticias" || echo "Sin cambios"
+          git push
