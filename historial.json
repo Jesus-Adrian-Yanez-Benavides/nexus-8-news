@@ -1,0 +1,47 @@
+[
+    {
+        "fecha": "23/04/2026",
+        "titulo": "Kia revoluciona el diseño en la Milán Design Week 2026",
+        "resumen": "Kia presenta dos exhibiciones en la Milan Design Week 2026 para mostrar la evolución de su filosofía de diseño y su visión eléctrica de futuro. La marca coreana busca innovar y sorprender con sus últimas creaciones. Con esta iniciativa, Kia busca establecerse como líder en el mercado del diseño y la tecnología.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Geeksroom.com",
+        "fuente_url": "https://geeksroom.com/2026/04/kia-milan-design-week-2026-resonance-of-opposites/145681/"
+    },
+    {
+        "fecha": "23/04/2026",
+        "titulo": "Oferta exclusiva: TV Samsung 55 pulgadas 4K QLED a mitad de precio",
+        "resumen": "MediaMarkt ofrece una oportunidad única para adquirir una TV Samsung de 55 pulgadas con pantalla 4K QLED a un precio muy atractivo. Esta oferta es ideal para aquellos que buscan mejorar su experiencia de visualización sin gastar demasiado. La TV cuenta con tecnología de vanguardia y una calidad de imagen impresionante.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Adslzone.net",
+        "fuente_url": "https://www.adslzone.net/ofertas/mediamartk-smart-tv-samsung-tq55q7faauxxc-0426/"
+    },
+    {
+        "fecha": "23/04/2026",
+        "titulo": "Análisis del POCO X8 Pro Max: el regreso del ADN de Xiaomi",
+        "resumen": "El POCO X8 Pro Max es un dispositivo que promete revolucionar el mercado de los smartphones. Con su potente procesador y cámara de alta calidad, este teléfono es ideal para aquellos que buscan una experiencia móvil sin compromisos. El análisis detallado del dispositivo revela sus fortalezas y debilidades.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/analisis/poco-x8-pro-max-analisis-este-es-adn-conociamos-xiaomi_2026042269e7fea9749308005f9fcacf.html"
+    },
+    {
+        "fecha": "23/04/2026",
+        "titulo": "El NAD C 589: la precisión digital para tus CDs",
+        "resumen": "El NAD C 589 es un reproductor de discos compactos que emplea tecnología de MQA Labs para corregir las fluctuaciones temporales. Esto permite que los CDs suenen como nunca antes, con una calidad de audio impresionante. El dispositivo es ideal para aquellos que buscan revivir su colección de CDs con una nueva dimensión sonora.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/nad-c-589-se-encomienda-precision-digital-tus-cds-suenen-como-nunca-imaginaste_2026042269e912ab20f315569055acad.html"
+    },
+    {
+        "fecha": "23/04/2026",
+        "titulo": "El acuerdo estratégico de IA entre Milei e Israel: el futuro de la inteligencia artificial",
+        "resumen": "El acuerdo estratégico de IA entre Milei e Israel busca desarrollar modelos de inteligencia artificial de forma conjunta y capacitar a especialistas en el campo. Esto puede tener un impacto significativo en la industria y la sociedad en general. El acuerdo puede ser un paso hacia el futuro de la inteligencia artificial y su aplicación en diversas áreas.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/economia/IA/el-proximo-hub-de-ia-del-mundo-de-que-se-trata-el-acuerdo-estrategico-de-ia-que-firmo-milei-con-nid22042026/"
+    }
+]

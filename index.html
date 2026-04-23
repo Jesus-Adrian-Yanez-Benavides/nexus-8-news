@@ -3,65 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nexus 8 | Tech News</title>
+    <title>Nexus 8 | Archivo Global</title>
     <style>
         body {
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            background-color: #0f172a;
-            color: #e2e8f0;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: #0f172a; color: #e2e8f0; margin: 0; padding: 0;
         }
         header {
-            background-color: #1e293b;
-            padding: 30px 20px;
-            text-align: center;
-            border-bottom: 3px solid #0ea5e9;
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+            background-color: #1e293b; padding: 40px 20px; text-align: center;
+            border-bottom: 4px solid #0ea5e9;
         }
-        h1 {
-            margin: 0;
-            color: #0ea5e9;
-            font-size: 2.8rem;
-            letter-spacing: 2px;
+        h1 { color: #0ea5e9; font-size: 3rem; margin: 0; letter-spacing: 2px; }
+        
+        /* Buscador */
+        .controles {
+            max-width: 1000px; margin: 30px auto; padding: 0 20px;
+            display: flex; gap: 15px; justify-content: center;
         }
-        .subtitle {
-            color: #94a3b8;
-            font-size: 1.1rem;
-            margin-top: 5px;
+        input[type="text"] {
+            padding: 12px 20px; font-size: 1.1rem; border-radius: 30px;
+            border: none; width: 60%; background: #334155; color: white;
+            outline: none; box-shadow: 0 4px 6px rgba(0,0,0,0.2);
         }
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 30px;
-            background-color: #1e293b;
-            border-radius: 12px;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+        input[type="text"]::placeholder { color: #94a3b8; }
+        
+        /* Grid Asimétrico */
+        .grid-noticias {
+            max-width: 1200px; margin: 0 auto 50px; padding: 20px;
+            display: grid; gap: 25px;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            /* Permite que las tarjetas grandes ocupen más espacio */
+            grid-auto-flow: dense;
         }
-        .date {
-            display: inline-block;
-            background-color: #0ea5e9;
-            color: #0f172a;
-            padding: 5px 15px;
-            border-radius: 20px;
-            font-weight: bold;
-            font-size: 0.85rem;
-            margin-bottom: 20px;
-            text-transform: uppercase;
+        .tarjeta {
+            background: #1e293b; border-radius: 12px; padding: 25px;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4);
+            transition: transform 0.2s; border: 1px solid #334155;
+            display: flex; flex-direction: column; justify-content: space-between;
         }
-        .content p {
-            font-size: 1.15rem;
-            color: #cbd5e1;
-            margin-bottom: 20px;
-            text-align: justify;
+        .tarjeta:hover { transform: translateY(-5px); border-color: #0ea5e9; }
+        
+        /* Clases de Impacto */
+        .card-grande {
+            grid-column: span 2; /* Ocupa doble ancho */
+            background: linear-gradient(145deg, #1e293b 0%, #172554 100%);
+            border-left: 5px solid #0ea5e9;
         }
-        footer {
-            text-align: center;
-            padding: 30px;
-            color: #64748b;
-            font-size: 0.9rem;
-            margin-top: 20px;
+        .card-grande h2 { font-size: 2rem; color: white; }
+        .card-pequena h2 { font-size: 1.3rem; color: #bae6fd; }
+        
+        /* Metadatos */
+        .etiqueta-categoria {
+            background: #0ea5e9; color: #0f172a; padding: 4px 12px;
+            border-radius: 20px; font-weight: bold; font-size: 0.8rem;
+            text-transform: uppercase; display: inline-block; margin-bottom: 15px;
+        }
+        .etiqueta-fecha { color: #64748b; font-size: 0.85rem; float: right; }
+        .contenido p { color: #cbd5e1; line-height: 1.6; font-size: 1rem; text-align: justify; }
+        .card-grande .contenido p { font-size: 1.15rem; }
+        
+        /* Bibliografía */
+        .bibliografia {
+            margin-top: 20px; padding-top: 15px; border-top: 1px solid #334155;
+            font-size: 0.9rem; color: #94a3b8;
+        }
+        .bibliografia a { color: #38bdf8; text-decoration: none; font-weight: bold; }
+        .bibliografia a:hover { text-decoration: underline; }
+        
+        @media (max-width: 768px) {
+            .card-grande { grid-column: span 1; } /* En celular todo es 1 columna */
+            .controles input { width: 100%; }
         }
     </style>
 </head>
@@ -69,23 +80,84 @@
 
     <header>
         <h1>NEXUS 8</h1>
-        <div class="subtitle">Radar Tecnológico Automatizado</div>
+        <p style="color: #94a3b8; font-size: 1.2rem;">Radar Tecnológico | Base de Datos Interactiva</p>
     </header>
 
-    <div class="container">
-        <div class="date">Actualizado: 23 de April, 2026</div>
-        <div class="content">
-            <p>El futuro de la tecnología está en constante evolución, y últimamente hemos sido testigos de cambios significativos en el mundo de la innovación. Uno de los eventos más destacados es el anuncio de Tim Cook, CEO de Apple, sobre su decisión de dejar el cargo después de 15 años al mando de la compañía. En su carta de despedida, Cook expresó su gratitud y confianza en su sucesor, John Ternus, quien se convertirá en el nuevo CEO de Apple. Esta transición marca el comienzo de una nueva era para la empresa, que seguirá siendo líder en la industria tecnológica.</p>
-
-<p>Mientras Apple se prepara para este cambio, la competencia no se detiene. Huawei, por ejemplo, ha presentado su propia alternativa al MacBook Neo, con su sistema operativo HarmonyOS y chip Kirin. Esta movida demuestra que la innovación es un proceso continuo, y las empresas deben estar siempre dispuestas a adaptarse y mejorar. Además, la tecnología también se está utilizando para crear herramientas divertidas y educativas, como las 8 herramientas gratuitas que permiten crear acertijos, crucigramas y sopas de letras con la ayuda de la inteligencia artificial. Estas herramientas son un ejemplo de cómo la tecnología puede ser accesible y entretenida para todos.</p>
-
-<p>En un contexto más amplio, la tecnología también juega un papel importante en la convergencia económica y social entre países. Un ejemplo de esto es la brecha de convergencia entre Polonia y México, donde Polonia ha logrado avanzar rápidamente hacia niveles de países desarrollados, mientras que México ha experimentado un estancamiento. La tecnología puede ser un factor clave para acelerar el crecimiento económico y reducir las brechas de desarrollo. En resumen, el futuro de la tecnología es emocionante y lleno de posibilidades, y es importante estar atentos a los cambios y tendencias que están dando forma al mundo de la innovación.</p>
-        </div>
+    <div class="controles">
+        <input type="text" id="buscador" onkeyup="filtrarNoticias()" placeholder="Buscar por palabra clave o categoría (ej. Hardware)...">
     </div>
 
-    <footer>
-        &copy; 2026 Nexus 8. Plataforma generada y curada por Inteligencia Artificial.
-    </footer>
+    <div class="grid-noticias" id="contenedor-noticias">
+        
+        <article class="tarjeta card-pequena" data-titulo="kia revoluciona el diseño en la milán design week 2026" data-categoria="gadgets">
+            <span class="etiqueta-categoria">Gadgets</span>
+            <span class="etiqueta-fecha">23/04/2026</span>
+            <h2>Kia revoluciona el diseño en la Milán Design Week 2026</h2>
+            <div class="contenido"><p>Kia presenta dos exhibiciones en la Milan Design Week 2026 para mostrar la evolución de su filosofía de diseño y su visión eléctrica de futuro. La marca coreana busca innovar y sorprender con sus últimas creaciones. Con esta iniciativa, Kia busca establecerse como líder en el mercado del diseño y la tecnología.</p></div>
+            <div class="bibliografia">
+                <strong>Fuente:</strong> <a href="https://geeksroom.com/2026/04/kia-milan-design-week-2026-resonance-of-opposites/145681/" target="_blank">Geeksroom.com</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-pequena" data-titulo="oferta exclusiva: tv samsung 55 pulgadas 4k qled a mitad de precio" data-categoria="gadgets">
+            <span class="etiqueta-categoria">Gadgets</span>
+            <span class="etiqueta-fecha">23/04/2026</span>
+            <h2>Oferta exclusiva: TV Samsung 55 pulgadas 4K QLED a mitad de precio</h2>
+            <div class="contenido"><p>MediaMarkt ofrece una oportunidad única para adquirir una TV Samsung de 55 pulgadas con pantalla 4K QLED a un precio muy atractivo. Esta oferta es ideal para aquellos que buscan mejorar su experiencia de visualización sin gastar demasiado. La TV cuenta con tecnología de vanguardia y una calidad de imagen impresionante.</p></div>
+            <div class="bibliografia">
+                <strong>Fuente:</strong> <a href="https://www.adslzone.net/ofertas/mediamartk-smart-tv-samsung-tq55q7faauxxc-0426/" target="_blank">Adslzone.net</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-pequena" data-titulo="análisis del poco x8 pro max: el regreso del adn de xiaomi" data-categoria="gadgets">
+            <span class="etiqueta-categoria">Gadgets</span>
+            <span class="etiqueta-fecha">23/04/2026</span>
+            <h2>Análisis del POCO X8 Pro Max: el regreso del ADN de Xiaomi</h2>
+            <div class="contenido"><p>El POCO X8 Pro Max es un dispositivo que promete revolucionar el mercado de los smartphones. Con su potente procesador y cámara de alta calidad, este teléfono es ideal para aquellos que buscan una experiencia móvil sin compromisos. El análisis detallado del dispositivo revela sus fortalezas y debilidades.</p></div>
+            <div class="bibliografia">
+                <strong>Fuente:</strong> <a href="https://www.larazon.es/tecnologia-consumo/analisis/poco-x8-pro-max-analisis-este-es-adn-conociamos-xiaomi_2026042269e7fea9749308005f9fcacf.html" target="_blank">Larazon.es</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-pequena" data-titulo="el nad c 589: la precisión digital para tus cds" data-categoria="gadgets">
+            <span class="etiqueta-categoria">Gadgets</span>
+            <span class="etiqueta-fecha">23/04/2026</span>
+            <h2>El NAD C 589: la precisión digital para tus CDs</h2>
+            <div class="contenido"><p>El NAD C 589 es un reproductor de discos compactos que emplea tecnología de MQA Labs para corregir las fluctuaciones temporales. Esto permite que los CDs suenen como nunca antes, con una calidad de audio impresionante. El dispositivo es ideal para aquellos que buscan revivir su colección de CDs con una nueva dimensión sonora.</p></div>
+            <div class="bibliografia">
+                <strong>Fuente:</strong> <a href="https://www.larazon.es/tecnologia-consumo/nad-c-589-se-encomienda-precision-digital-tus-cds-suenen-como-nunca-imaginaste_2026042269e912ab20f315569055acad.html" target="_blank">Larazon.es</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-grande" data-titulo="el acuerdo estratégico de ia entre milei e israel: el futuro de la inteligencia artificial" data-categoria="ia">
+            <span class="etiqueta-categoria">IA</span>
+            <span class="etiqueta-fecha">23/04/2026</span>
+            <h2>El acuerdo estratégico de IA entre Milei e Israel: el futuro de la inteligencia artificial</h2>
+            <div class="contenido"><p>El acuerdo estratégico de IA entre Milei e Israel busca desarrollar modelos de inteligencia artificial de forma conjunta y capacitar a especialistas en el campo. Esto puede tener un impacto significativo en la industria y la sociedad en general. El acuerdo puede ser un paso hacia el futuro de la inteligencia artificial y su aplicación en diversas áreas.</p></div>
+            <div class="bibliografia">
+                <strong>Fuente:</strong> <a href="https://www.lanacion.com.ar/economia/IA/el-proximo-hub-de-ia-del-mundo-de-que-se-trata-el-acuerdo-estrategico-de-ia-que-firmo-milei-con-nid22042026/" target="_blank">La Nacion</a>
+            </div>
+        </article>
+        
+    </div>
 
+    <script>
+        // Lógica del Motor de Búsqueda
+        function filtrarNoticias() {
+            let input = document.getElementById('buscador').value.toLowerCase();
+            let tarjetas = document.getElementsByClassName('tarjeta');
+            
+            for (let i = 0; i < tarjetas.length; i++) {
+                let titulo = tarjetas[i].getAttribute('data-titulo');
+                let categoria = tarjetas[i].getAttribute('data-categoria');
+                
+                if (titulo.includes(input) || categoria.includes(input)) {
+                    tarjetas[i].style.display = "";
+                } else {
+                    tarjetas[i].style.display = "none";
+                }
+            }
+        }
+    </script>
 </body>
 </html>
