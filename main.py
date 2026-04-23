@@ -104,16 +104,21 @@ def generar_pagina_web(historial):
     for n in historial:
         clase_impacto = "card-grande" if n["impacto"].lower() == "alto" else "card-pequena"
         
-        # HTML Dinámico: Mostramos el gancho, pero ocultamos el contenido completo para usarlo al hacer clic
+        # --- EL PARCHE MÁGICO ---
+        # Si la noticia es vieja y no tiene 'gancho', usamos el 'resumen'. Si no tiene nada, ponemos un texto por defecto.
+        texto_gancho = n.get('gancho', n.get('resumen', 'Haz clic para leer el artículo completo...'))
+        texto_completo = n.get('contenido_completo', n.get('resumen', 'Contenido no disponible.'))
+        # ------------------------
+
         html_noticias += f"""
         <article class="tarjeta {clase_impacto}" data-titulo="{n['titulo'].lower()}" data-categoria="{n['categoria'].lower()}" onclick="abrirNoticia(this)">
             <span class="etiqueta-categoria">{n['categoria']}</span>
             <span class="etiqueta-fecha">{n['fecha']}</span>
             <h2>{n['titulo']}</h2>
-            <div class="contenido"><p>{n['gancho']} <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            <div class="contenido"><p>{texto_gancho} <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
             
             <div class="texto-oculto" style="display:none;">
-                <p>{n['contenido_completo']}</p>
+                <p>{texto_completo}</p>
             </div>
             <div class="fuente-oculta" style="display:none;">
                 <strong>Fuente original:</strong> <a href="{n['fuente_url']}" target="_blank">{n['fuente_nombre']}</a>
@@ -121,6 +126,7 @@ def generar_pagina_web(historial):
         </article>
         """
 
+    # ... (El resto del HTML gigante se queda exactamente igual) ...
     html_template = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -132,11 +138,9 @@ def generar_pagina_web(historial):
         header {{ background-color: #1e293b; padding: 40px 20px; text-align: center; border-bottom: 4px solid #0ea5e9; }}
         h1 {{ color: #0ea5e9; font-size: 3rem; margin: 0; letter-spacing: 2px; }}
         
-        /* Buscador */
         .controles {{ max-width: 1000px; margin: 30px auto; padding: 0 20px; display: flex; justify-content: center; }}
         input[type="text"] {{ padding: 12px 20px; font-size: 1.1rem; border-radius: 30px; border: none; width: 60%; background: #334155; color: white; outline: none; box-shadow: 0 4px 6px rgba(0,0,0,0.2); }}
         
-        /* Grid Asimétrico */
         .grid-noticias {{ max-width: 1200px; margin: 0 auto 50px; padding: 20px; display: grid; gap: 25px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-auto-flow: dense; }}
         .tarjeta {{ background: #1e293b; border-radius: 12px; padding: 25px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4); transition: all 0.3s ease; border: 1px solid #334155; display: flex; flex-direction: column; cursor: pointer; }}
         .tarjeta:hover {{ transform: translateY(-5px); border-color: #0ea5e9; box-shadow: 0 15px 25px -5px rgba(14, 165, 233, 0.3); }}
@@ -149,7 +153,6 @@ def generar_pagina_web(historial):
         .etiqueta-fecha {{ color: #64748b; font-size: 0.85rem; float: right; }}
         .contenido p {{ color: #cbd5e1; line-height: 1.6; font-size: 1.1rem; }}
         
-        /* DISEÑO DE LA VENTANA MODAL */
         .modal-overlay {{ display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.9); z-index: 1000; align-items: center; justify-content: center; backdrop-filter: blur(5px); }}
         .modal-content {{ background: #1e293b; width: 90%; max-width: 800px; max-height: 85vh; border-radius: 15px; padding: 40px; position: relative; overflow-y: auto; border: 1px solid #334155; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5); }}
         .cerrar-btn {{ position: absolute; top: 20px; right: 25px; font-size: 2rem; color: #94a3b8; cursor: pointer; background: none; border: none; transition: color 0.2s; }}
@@ -188,7 +191,6 @@ def generar_pagina_web(historial):
     </div>
 
     <script>
-        // Lógica del Buscador
         function filtrarNoticias() {{
             let input = document.getElementById('buscador').value.toLowerCase();
             let tarjetas = document.getElementsByClassName('tarjeta');
@@ -199,26 +201,22 @@ def generar_pagina_web(historial):
             }}
         }}
 
-        // Lógica de la Ventana Modal
         function abrirNoticia(elemento) {{
-            // Extraer datos de la tarjeta clickeada e inyectarlos en la ventana modal
             document.getElementById('modal-categoria').innerText = elemento.querySelector('.etiqueta-categoria').innerText;
             document.getElementById('modal-fecha').innerText = elemento.querySelector('.etiqueta-fecha').innerText;
             document.getElementById('modal-titulo').innerText = elemento.querySelector('h2').innerText;
             document.getElementById('modal-texto').innerHTML = elemento.querySelector('.texto-oculto').innerHTML;
             document.getElementById('modal-fuente').innerHTML = elemento.querySelector('.fuente-oculta').innerHTML;
 
-            // Mostrar el modal y bloquear el scroll del fondo
             document.getElementById('modal-noticia').style.display = 'flex';
             document.body.style.overflow = 'hidden'; 
         }}
 
         function cerrarModal() {{
             document.getElementById('modal-noticia').style.display = 'none';
-            document.body.style.overflow = 'auto'; // Restaurar scroll
+            document.body.style.overflow = 'auto';
         }}
 
-        // Cerrar si haces clic en el fondo oscuro
         function cerrarSiClickFuera(event) {{
             if (event.target.id === 'modal-noticia') {{
                 cerrarModal();
