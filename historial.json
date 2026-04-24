@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "24/04/2026",
+        "titulo": "Bosch inicia pruebas de conducción autónoma",
+        "gancho": "Conducción autónoma en China",
+        "contenido_completo": "El grupo tecnológico alemán Bosch ha iniciado las pruebas de conducción autónoma de Nivel 3 en condiciones reales de tráfico en la ciudad china de Wuxi. Este avance supone un paso relevante en el desarrollo de la movilidad automatizada y en la consolidación de la tecnología de conducción autónoma. La prueba se lleva a cabo en un entorno urbano, lo que permite evaluar la capacidad del vehículo para interactuar con otros conductores y peatones. El objetivo de estas pruebas es mejorar la seguridad y eficiencia en la conducción, y sentar las bases para el desarrollo de vehículos autónomos más avanzados.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/motor/sector-00644/noticia-bosch-inicia-pruebas-conduccion-autonoma-nivel-china-20260423112041.html"
+    },
+    {
+        "fecha": "24/04/2026",
+        "titulo": "El arte y la ciencia se unen",
+        "gancho": "Arte y ciencia se fusionan",
+        "contenido_completo": "La relación entre el arte y la ciencia es cada vez más estrecha, según la neurocientífica Elaine L. Bearer. Ella afirma que el cerebro humano es capaz de crear y imaginar, y que la tecnología puede ayudar a entender mejor estos procesos. Sin embargo, también reconoce que hay preguntas fundamentales sobre el cerebro humano que siguen sin respuesta, y que quizás nunca tengamos la tecnología para resolverlas. La unión del arte y la ciencia puede llevar a nuevos descubrimientos y avances en nuestra comprensión del mundo. La creatividad y la imaginación son clave para el progreso en ambos campos. La colaboración entre artistas y científicos puede generar nuevas perspectivas y enfoques innovadores.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/04/23/ciencias/a06n1cie"
+    },
+    {
+        "fecha": "24/04/2026",
+        "titulo": "Música y fotografía se unen",
+        "gancho": "Música y fotos se fusionan",
+        "contenido_completo": "La música y la fotografía tienen una relación más estrecha de lo que se podría pensar, según la escritora Gabriela Villa. Ella ha desarrollado el oficio de 'cuentafotos', que consiste en crear una ficción antes y después de la fotografía. Esta práctica permite explorar los vínculos entre la música y la imagen, y generar nuevas historias y significados. La música puede inspirar la creación de imágenes, y la fotografía puede influir en la composición musical. La unión de estos dos arte puede llevar a la creación de obras innovadoras y emocionales. La experimentación y la creatividad son fundamentales en este proceso. La música y la fotografía pueden combinarse de muchas maneras, desde la creación de videos musicales hasta la composición de piezas sonoras inspiradas en imágenes.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/04/23/cultura/a03n1cul"
+    },
+    {
+        "fecha": "24/04/2026",
+        "titulo": "Wall Street se recupera",
+        "gancho": "Wall Street vuelve a subir",
+        "contenido_completo": "La bolsa de valores de Wall Street ha vuelto a subir, a pesar de la inestabilidad en Medio Oriente. La extensión de la tregua y las detenciones en el estrecho de Ormuz han contribuido a la recuperación del mercado. Sin embargo, la falta de avance en las negociaciones ha generado preocupación entre los inversores. La situación en Medio Oriente sigue siendo incierta, y los inversores están esperando a ver cómo se desarrollan los acontecimientos. La economía global está siendo afectada por la inestabilidad en la región, y los mercados están respondiendo de manera cauta. La recuperación de Wall Street es un signo positivo, pero es importante seguir monitoreando la situación para evitar sorpresas desagradables. La volatilidad del mercado puede ser beneficiosa para algunos inversores, pero también puede ser un desafío para aquellos que buscan estabilidad.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/04/23/economia/018n2eco"
+    },
+    {
+        "fecha": "24/04/2026",
+        "titulo": "Robot vence a jugadores de tenis de mesa",
+        "gancho": "Robot derrota a humanos",
+        "contenido_completo": "Un robot entrenado con inteligencia artificial (IA) ha vencido a jugadores élite de tenis de mesa, según un nuevo estudio. El robot, llamado Ace, es capaz de jugar al tenis de mesa con una habilidad comparable a la de los jugadores humanos de élite. La IA ha permitido al robot aprender y adaptarse a las estrategias de sus oponentes, lo que le ha permitido mejorar su rendimiento. El estudio demuestra el potencial de la IA en la creación de robots que puedan competir con los humanos en deportes y juegos. La tecnología de IA puede ser aplicada en una variedad de campos, desde la medicina hasta la educación. La capacidad de los robots para aprender y adaptarse es un avance significativo en el desarrollo de la IA. El tenis de mesa es un deporte que requiere habilidad, estrategia y velocidad, lo que lo hace ideal para probar la capacidad de los robots para competir con los humanos.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/04/23/deportes/a12n1dep"
+    },
+    {
         "fecha": "23/04/2026",
         "titulo": "Kia revoluciona el diseño en la Milán Design Week 2026",
         "resumen": "Kia presenta dos exhibiciones en la Milan Design Week 2026 para mostrar la evolución de su filosofía de diseño y su visión eléctrica de futuro. La marca coreana busca innovar y sorprender con sus últimas creaciones. Con esta iniciativa, Kia busca establecerse como líder en el mercado del diseño y la tecnología.",

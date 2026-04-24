@@ -5,75 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nexus 8 | Archivo Global</title>
     <style>
-        body {
-            font-family: 'Segoe UI', Roboto, sans-serif;
-            background-color: #0f172a; color: #e2e8f0; margin: 0; padding: 0;
-        }
-        header {
-            background-color: #1e293b; padding: 40px 20px; text-align: center;
-            border-bottom: 4px solid #0ea5e9;
-        }
+        body { font-family: 'Segoe UI', Roboto, sans-serif; background-color: #0f172a; color: #e2e8f0; margin: 0; padding: 0; }
+        header { background-color: #1e293b; padding: 40px 20px; text-align: center; border-bottom: 4px solid #0ea5e9; }
         h1 { color: #0ea5e9; font-size: 3rem; margin: 0; letter-spacing: 2px; }
         
-        /* Buscador */
-        .controles {
-            max-width: 1000px; margin: 30px auto; padding: 0 20px;
-            display: flex; gap: 15px; justify-content: center;
-        }
-        input[type="text"] {
-            padding: 12px 20px; font-size: 1.1rem; border-radius: 30px;
-            border: none; width: 60%; background: #334155; color: white;
-            outline: none; box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-        }
-        input[type="text"]::placeholder { color: #94a3b8; }
+        .controles { max-width: 1000px; margin: 30px auto; padding: 0 20px; display: flex; justify-content: center; }
+        input[type="text"] { padding: 12px 20px; font-size: 1.1rem; border-radius: 30px; border: none; width: 60%; background: #334155; color: white; outline: none; box-shadow: 0 4px 6px rgba(0,0,0,0.2); }
         
-        /* Grid Asimétrico */
-        .grid-noticias {
-            max-width: 1200px; margin: 0 auto 50px; padding: 20px;
-            display: grid; gap: 25px;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            /* Permite que las tarjetas grandes ocupen más espacio */
-            grid-auto-flow: dense;
-        }
-        .tarjeta {
-            background: #1e293b; border-radius: 12px; padding: 25px;
-            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4);
-            transition: transform 0.2s; border: 1px solid #334155;
-            display: flex; flex-direction: column; justify-content: space-between;
-        }
-        .tarjeta:hover { transform: translateY(-5px); border-color: #0ea5e9; }
+        .grid-noticias { max-width: 1200px; margin: 0 auto 50px; padding: 20px; display: grid; gap: 25px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); grid-auto-flow: dense; }
+        .tarjeta { background: #1e293b; border-radius: 12px; padding: 25px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.4); transition: all 0.3s ease; border: 1px solid #334155; display: flex; flex-direction: column; cursor: pointer; }
+        .tarjeta:hover { transform: translateY(-5px); border-color: #0ea5e9; box-shadow: 0 15px 25px -5px rgba(14, 165, 233, 0.3); }
         
-        /* Clases de Impacto */
-        .card-grande {
-            grid-column: span 2; /* Ocupa doble ancho */
-            background: linear-gradient(145deg, #1e293b 0%, #172554 100%);
-            border-left: 5px solid #0ea5e9;
-        }
+        .card-grande { grid-column: span 2; background: linear-gradient(145deg, #1e293b 0%, #172554 100%); border-left: 5px solid #0ea5e9; }
         .card-grande h2 { font-size: 2rem; color: white; }
         .card-pequena h2 { font-size: 1.3rem; color: #bae6fd; }
         
-        /* Metadatos */
-        .etiqueta-categoria {
-            background: #0ea5e9; color: #0f172a; padding: 4px 12px;
-            border-radius: 20px; font-weight: bold; font-size: 0.8rem;
-            text-transform: uppercase; display: inline-block; margin-bottom: 15px;
-        }
+        .etiqueta-categoria { background: #0ea5e9; color: #0f172a; padding: 4px 12px; border-radius: 20px; font-weight: bold; font-size: 0.8rem; text-transform: uppercase; display: inline-block; margin-bottom: 15px; }
         .etiqueta-fecha { color: #64748b; font-size: 0.85rem; float: right; }
-        .contenido p { color: #cbd5e1; line-height: 1.6; font-size: 1rem; text-align: justify; }
-        .card-grande .contenido p { font-size: 1.15rem; }
+        .contenido p { color: #cbd5e1; line-height: 1.6; font-size: 1.1rem; }
         
-        /* Bibliografía */
-        .bibliografia {
-            margin-top: 20px; padding-top: 15px; border-top: 1px solid #334155;
-            font-size: 0.9rem; color: #94a3b8;
-        }
-        .bibliografia a { color: #38bdf8; text-decoration: none; font-weight: bold; }
-        .bibliografia a:hover { text-decoration: underline; }
+        .modal-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(15, 23, 42, 0.9); z-index: 1000; align-items: center; justify-content: center; backdrop-filter: blur(5px); }
+        .modal-content { background: #1e293b; width: 90%; max-width: 800px; max-height: 85vh; border-radius: 15px; padding: 40px; position: relative; overflow-y: auto; border: 1px solid #334155; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5); }
+        .cerrar-btn { position: absolute; top: 20px; right: 25px; font-size: 2rem; color: #94a3b8; cursor: pointer; background: none; border: none; transition: color 0.2s; }
+        .cerrar-btn:hover { color: #ef4444; }
+        #modal-texto p { font-size: 1.15rem; line-height: 1.8; color: #e2e8f0; text-align: justify; margin-bottom: 20px; }
+        #modal-fuente { margin-top: 30px; padding-top: 20px; border-top: 1px solid #334155; }
+        #modal-fuente a { color: #0ea5e9; text-decoration: none; }
         
-        @media (max-width: 768px) {
-            .card-grande { grid-column: span 1; } /* En celular todo es 1 columna */
-            .controles input { width: 100%; }
-        }
+        @media (max-width: 768px) { .card-grande { grid-column: span 1; } .controles input { width: 100%; } .modal-content{ padding: 25px; } }
     </style>
 </head>
 <body>
@@ -89,73 +48,189 @@
 
     <div class="grid-noticias" id="contenedor-noticias">
         
-        <article class="tarjeta card-pequena" data-titulo="kia revoluciona el diseño en la milán design week 2026" data-categoria="gadgets">
+        <article class="tarjeta card-grande" data-titulo="bosch inicia pruebas de conducción autónoma" data-categoria="ia" onclick="abrirNoticia(this)">
+            <span class="etiqueta-categoria">IA</span>
+            <span class="etiqueta-fecha">24/04/2026</span>
+            <h2>Bosch inicia pruebas de conducción autónoma</h2>
+            <div class="contenido"><p>Conducción autónoma en China <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>El grupo tecnológico alemán Bosch ha iniciado las pruebas de conducción autónoma de Nivel 3 en condiciones reales de tráfico en la ciudad china de Wuxi. Este avance supone un paso relevante en el desarrollo de la movilidad automatizada y en la consolidación de la tecnología de conducción autónoma. La prueba se lleva a cabo en un entorno urbano, lo que permite evaluar la capacidad del vehículo para interactuar con otros conductores y peatones. El objetivo de estas pruebas es mejorar la seguridad y eficiencia en la conducción, y sentar las bases para el desarrollo de vehículos autónomos más avanzados.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.europapress.es/motor/sector-00644/noticia-bosch-inicia-pruebas-conduccion-autonoma-nivel-china-20260423112041.html" target="_blank">Europapress.es</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-pequena" data-titulo="el arte y la ciencia se unen" data-categoria="software" onclick="abrirNoticia(this)">
+            <span class="etiqueta-categoria">Software</span>
+            <span class="etiqueta-fecha">24/04/2026</span>
+            <h2>El arte y la ciencia se unen</h2>
+            <div class="contenido"><p>Arte y ciencia se fusionan <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>La relación entre el arte y la ciencia es cada vez más estrecha, según la neurocientífica Elaine L. Bearer. Ella afirma que el cerebro humano es capaz de crear y imaginar, y que la tecnología puede ayudar a entender mejor estos procesos. Sin embargo, también reconoce que hay preguntas fundamentales sobre el cerebro humano que siguen sin respuesta, y que quizás nunca tengamos la tecnología para resolverlas. La unión del arte y la ciencia puede llevar a nuevos descubrimientos y avances en nuestra comprensión del mundo. La creatividad y la imaginación son clave para el progreso en ambos campos. La colaboración entre artistas y científicos puede generar nuevas perspectivas y enfoques innovadores.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.jornada.com.mx/2026/04/23/ciencias/a06n1cie" target="_blank">Jornada.com.mx</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-pequena" data-titulo="música y fotografía se unen" data-categoria="gadgets" onclick="abrirNoticia(this)">
+            <span class="etiqueta-categoria">Gadgets</span>
+            <span class="etiqueta-fecha">24/04/2026</span>
+            <h2>Música y fotografía se unen</h2>
+            <div class="contenido"><p>Música y fotos se fusionan <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>La música y la fotografía tienen una relación más estrecha de lo que se podría pensar, según la escritora Gabriela Villa. Ella ha desarrollado el oficio de 'cuentafotos', que consiste en crear una ficción antes y después de la fotografía. Esta práctica permite explorar los vínculos entre la música y la imagen, y generar nuevas historias y significados. La música puede inspirar la creación de imágenes, y la fotografía puede influir en la composición musical. La unión de estos dos arte puede llevar a la creación de obras innovadoras y emocionales. La experimentación y la creatividad son fundamentales en este proceso. La música y la fotografía pueden combinarse de muchas maneras, desde la creación de videos musicales hasta la composición de piezas sonoras inspiradas en imágenes.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.jornada.com.mx/2026/04/23/cultura/a03n1cul" target="_blank">Jornada.com.mx</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-grande" data-titulo="wall street se recupera" data-categoria="hardware" onclick="abrirNoticia(this)">
+            <span class="etiqueta-categoria">Hardware</span>
+            <span class="etiqueta-fecha">24/04/2026</span>
+            <h2>Wall Street se recupera</h2>
+            <div class="contenido"><p>Wall Street vuelve a subir <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>La bolsa de valores de Wall Street ha vuelto a subir, a pesar de la inestabilidad en Medio Oriente. La extensión de la tregua y las detenciones en el estrecho de Ormuz han contribuido a la recuperación del mercado. Sin embargo, la falta de avance en las negociaciones ha generado preocupación entre los inversores. La situación en Medio Oriente sigue siendo incierta, y los inversores están esperando a ver cómo se desarrollan los acontecimientos. La economía global está siendo afectada por la inestabilidad en la región, y los mercados están respondiendo de manera cauta. La recuperación de Wall Street es un signo positivo, pero es importante seguir monitoreando la situación para evitar sorpresas desagradables. La volatilidad del mercado puede ser beneficiosa para algunos inversores, pero también puede ser un desafío para aquellos que buscan estabilidad.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.jornada.com.mx/2026/04/23/economia/018n2eco" target="_blank">Jornada.com.mx</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-grande" data-titulo="robot vence a jugadores de tenis de mesa" data-categoria="ia" onclick="abrirNoticia(this)">
+            <span class="etiqueta-categoria">IA</span>
+            <span class="etiqueta-fecha">24/04/2026</span>
+            <h2>Robot vence a jugadores de tenis de mesa</h2>
+            <div class="contenido"><p>Robot derrota a humanos <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>Un robot entrenado con inteligencia artificial (IA) ha vencido a jugadores élite de tenis de mesa, según un nuevo estudio. El robot, llamado Ace, es capaz de jugar al tenis de mesa con una habilidad comparable a la de los jugadores humanos de élite. La IA ha permitido al robot aprender y adaptarse a las estrategias de sus oponentes, lo que le ha permitido mejorar su rendimiento. El estudio demuestra el potencial de la IA en la creación de robots que puedan competir con los humanos en deportes y juegos. La tecnología de IA puede ser aplicada en una variedad de campos, desde la medicina hasta la educación. La capacidad de los robots para aprender y adaptarse es un avance significativo en el desarrollo de la IA. El tenis de mesa es un deporte que requiere habilidad, estrategia y velocidad, lo que lo hace ideal para probar la capacidad de los robots para competir con los humanos.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.jornada.com.mx/2026/04/23/deportes/a12n1dep" target="_blank">Jornada.com.mx</a>
+            </div>
+        </article>
+        
+        <article class="tarjeta card-pequena" data-titulo="kia revoluciona el diseño en la milán design week 2026" data-categoria="gadgets" onclick="abrirNoticia(this)">
             <span class="etiqueta-categoria">Gadgets</span>
             <span class="etiqueta-fecha">23/04/2026</span>
             <h2>Kia revoluciona el diseño en la Milán Design Week 2026</h2>
-            <div class="contenido"><p>Kia presenta dos exhibiciones en la Milan Design Week 2026 para mostrar la evolución de su filosofía de diseño y su visión eléctrica de futuro. La marca coreana busca innovar y sorprender con sus últimas creaciones. Con esta iniciativa, Kia busca establecerse como líder en el mercado del diseño y la tecnología.</p></div>
-            <div class="bibliografia">
-                <strong>Fuente:</strong> <a href="https://geeksroom.com/2026/04/kia-milan-design-week-2026-resonance-of-opposites/145681/" target="_blank">Geeksroom.com</a>
+            <div class="contenido"><p>Kia presenta dos exhibiciones en la Milan Design Week 2026 para mostrar la evolución de su filosofía de diseño y su visión eléctrica de futuro. La marca coreana busca innovar y sorprender con sus últimas creaciones. Con esta iniciativa, Kia busca establecerse como líder en el mercado del diseño y la tecnología. <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>Kia presenta dos exhibiciones en la Milan Design Week 2026 para mostrar la evolución de su filosofía de diseño y su visión eléctrica de futuro. La marca coreana busca innovar y sorprender con sus últimas creaciones. Con esta iniciativa, Kia busca establecerse como líder en el mercado del diseño y la tecnología.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://geeksroom.com/2026/04/kia-milan-design-week-2026-resonance-of-opposites/145681/" target="_blank">Geeksroom.com</a>
             </div>
         </article>
         
-        <article class="tarjeta card-pequena" data-titulo="oferta exclusiva: tv samsung 55 pulgadas 4k qled a mitad de precio" data-categoria="gadgets">
+        <article class="tarjeta card-pequena" data-titulo="oferta exclusiva: tv samsung 55 pulgadas 4k qled a mitad de precio" data-categoria="gadgets" onclick="abrirNoticia(this)">
             <span class="etiqueta-categoria">Gadgets</span>
             <span class="etiqueta-fecha">23/04/2026</span>
             <h2>Oferta exclusiva: TV Samsung 55 pulgadas 4K QLED a mitad de precio</h2>
-            <div class="contenido"><p>MediaMarkt ofrece una oportunidad única para adquirir una TV Samsung de 55 pulgadas con pantalla 4K QLED a un precio muy atractivo. Esta oferta es ideal para aquellos que buscan mejorar su experiencia de visualización sin gastar demasiado. La TV cuenta con tecnología de vanguardia y una calidad de imagen impresionante.</p></div>
-            <div class="bibliografia">
-                <strong>Fuente:</strong> <a href="https://www.adslzone.net/ofertas/mediamartk-smart-tv-samsung-tq55q7faauxxc-0426/" target="_blank">Adslzone.net</a>
+            <div class="contenido"><p>MediaMarkt ofrece una oportunidad única para adquirir una TV Samsung de 55 pulgadas con pantalla 4K QLED a un precio muy atractivo. Esta oferta es ideal para aquellos que buscan mejorar su experiencia de visualización sin gastar demasiado. La TV cuenta con tecnología de vanguardia y una calidad de imagen impresionante. <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>MediaMarkt ofrece una oportunidad única para adquirir una TV Samsung de 55 pulgadas con pantalla 4K QLED a un precio muy atractivo. Esta oferta es ideal para aquellos que buscan mejorar su experiencia de visualización sin gastar demasiado. La TV cuenta con tecnología de vanguardia y una calidad de imagen impresionante.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.adslzone.net/ofertas/mediamartk-smart-tv-samsung-tq55q7faauxxc-0426/" target="_blank">Adslzone.net</a>
             </div>
         </article>
         
-        <article class="tarjeta card-pequena" data-titulo="análisis del poco x8 pro max: el regreso del adn de xiaomi" data-categoria="gadgets">
+        <article class="tarjeta card-pequena" data-titulo="análisis del poco x8 pro max: el regreso del adn de xiaomi" data-categoria="gadgets" onclick="abrirNoticia(this)">
             <span class="etiqueta-categoria">Gadgets</span>
             <span class="etiqueta-fecha">23/04/2026</span>
             <h2>Análisis del POCO X8 Pro Max: el regreso del ADN de Xiaomi</h2>
-            <div class="contenido"><p>El POCO X8 Pro Max es un dispositivo que promete revolucionar el mercado de los smartphones. Con su potente procesador y cámara de alta calidad, este teléfono es ideal para aquellos que buscan una experiencia móvil sin compromisos. El análisis detallado del dispositivo revela sus fortalezas y debilidades.</p></div>
-            <div class="bibliografia">
-                <strong>Fuente:</strong> <a href="https://www.larazon.es/tecnologia-consumo/analisis/poco-x8-pro-max-analisis-este-es-adn-conociamos-xiaomi_2026042269e7fea9749308005f9fcacf.html" target="_blank">Larazon.es</a>
+            <div class="contenido"><p>El POCO X8 Pro Max es un dispositivo que promete revolucionar el mercado de los smartphones. Con su potente procesador y cámara de alta calidad, este teléfono es ideal para aquellos que buscan una experiencia móvil sin compromisos. El análisis detallado del dispositivo revela sus fortalezas y debilidades. <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>El POCO X8 Pro Max es un dispositivo que promete revolucionar el mercado de los smartphones. Con su potente procesador y cámara de alta calidad, este teléfono es ideal para aquellos que buscan una experiencia móvil sin compromisos. El análisis detallado del dispositivo revela sus fortalezas y debilidades.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.larazon.es/tecnologia-consumo/analisis/poco-x8-pro-max-analisis-este-es-adn-conociamos-xiaomi_2026042269e7fea9749308005f9fcacf.html" target="_blank">Larazon.es</a>
             </div>
         </article>
         
-        <article class="tarjeta card-pequena" data-titulo="el nad c 589: la precisión digital para tus cds" data-categoria="gadgets">
+        <article class="tarjeta card-pequena" data-titulo="el nad c 589: la precisión digital para tus cds" data-categoria="gadgets" onclick="abrirNoticia(this)">
             <span class="etiqueta-categoria">Gadgets</span>
             <span class="etiqueta-fecha">23/04/2026</span>
             <h2>El NAD C 589: la precisión digital para tus CDs</h2>
-            <div class="contenido"><p>El NAD C 589 es un reproductor de discos compactos que emplea tecnología de MQA Labs para corregir las fluctuaciones temporales. Esto permite que los CDs suenen como nunca antes, con una calidad de audio impresionante. El dispositivo es ideal para aquellos que buscan revivir su colección de CDs con una nueva dimensión sonora.</p></div>
-            <div class="bibliografia">
-                <strong>Fuente:</strong> <a href="https://www.larazon.es/tecnologia-consumo/nad-c-589-se-encomienda-precision-digital-tus-cds-suenen-como-nunca-imaginaste_2026042269e912ab20f315569055acad.html" target="_blank">Larazon.es</a>
+            <div class="contenido"><p>El NAD C 589 es un reproductor de discos compactos que emplea tecnología de MQA Labs para corregir las fluctuaciones temporales. Esto permite que los CDs suenen como nunca antes, con una calidad de audio impresionante. El dispositivo es ideal para aquellos que buscan revivir su colección de CDs con una nueva dimensión sonora. <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>El NAD C 589 es un reproductor de discos compactos que emplea tecnología de MQA Labs para corregir las fluctuaciones temporales. Esto permite que los CDs suenen como nunca antes, con una calidad de audio impresionante. El dispositivo es ideal para aquellos que buscan revivir su colección de CDs con una nueva dimensión sonora.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.larazon.es/tecnologia-consumo/nad-c-589-se-encomienda-precision-digital-tus-cds-suenen-como-nunca-imaginaste_2026042269e912ab20f315569055acad.html" target="_blank">Larazon.es</a>
             </div>
         </article>
         
-        <article class="tarjeta card-grande" data-titulo="el acuerdo estratégico de ia entre milei e israel: el futuro de la inteligencia artificial" data-categoria="ia">
+        <article class="tarjeta card-grande" data-titulo="el acuerdo estratégico de ia entre milei e israel: el futuro de la inteligencia artificial" data-categoria="ia" onclick="abrirNoticia(this)">
             <span class="etiqueta-categoria">IA</span>
             <span class="etiqueta-fecha">23/04/2026</span>
             <h2>El acuerdo estratégico de IA entre Milei e Israel: el futuro de la inteligencia artificial</h2>
-            <div class="contenido"><p>El acuerdo estratégico de IA entre Milei e Israel busca desarrollar modelos de inteligencia artificial de forma conjunta y capacitar a especialistas en el campo. Esto puede tener un impacto significativo en la industria y la sociedad en general. El acuerdo puede ser un paso hacia el futuro de la inteligencia artificial y su aplicación en diversas áreas.</p></div>
-            <div class="bibliografia">
-                <strong>Fuente:</strong> <a href="https://www.lanacion.com.ar/economia/IA/el-proximo-hub-de-ia-del-mundo-de-que-se-trata-el-acuerdo-estrategico-de-ia-que-firmo-milei-con-nid22042026/" target="_blank">La Nacion</a>
+            <div class="contenido"><p>El acuerdo estratégico de IA entre Milei e Israel busca desarrollar modelos de inteligencia artificial de forma conjunta y capacitar a especialistas en el campo. Esto puede tener un impacto significativo en la industria y la sociedad en general. El acuerdo puede ser un paso hacia el futuro de la inteligencia artificial y su aplicación en diversas áreas. <span style="color: #0ea5e9; font-weight: bold;">Leer más...</span></p></div>
+            
+            <div class="texto-oculto" style="display:none;">
+                <p>El acuerdo estratégico de IA entre Milei e Israel busca desarrollar modelos de inteligencia artificial de forma conjunta y capacitar a especialistas en el campo. Esto puede tener un impacto significativo en la industria y la sociedad en general. El acuerdo puede ser un paso hacia el futuro de la inteligencia artificial y su aplicación en diversas áreas.</p>
+            </div>
+            <div class="fuente-oculta" style="display:none;">
+                <strong>Fuente original:</strong> <a href="https://www.lanacion.com.ar/economia/IA/el-proximo-hub-de-ia-del-mundo-de-que-se-trata-el-acuerdo-estrategico-de-ia-que-firmo-milei-con-nid22042026/" target="_blank">La Nacion</a>
             </div>
         </article>
         
     </div>
 
+    <div id="modal-noticia" class="modal-overlay" onclick="cerrarSiClickFuera(event)">
+        <div class="modal-content">
+            <button class="cerrar-btn" onclick="cerrarModal()">&times;</button>
+            <span id="modal-categoria" class="etiqueta-categoria"></span>
+            <span id="modal-fecha" class="etiqueta-fecha"></span>
+            <h2 id="modal-titulo" style="font-size: 2.2rem; margin-top: 10px;"></h2>
+            <div id="modal-texto"></div>
+            <div id="modal-fuente"></div>
+        </div>
+    </div>
+
     <script>
-        // Lógica del Motor de Búsqueda
         function filtrarNoticias() {
             let input = document.getElementById('buscador').value.toLowerCase();
             let tarjetas = document.getElementsByClassName('tarjeta');
-            
             for (let i = 0; i < tarjetas.length; i++) {
                 let titulo = tarjetas[i].getAttribute('data-titulo');
                 let categoria = tarjetas[i].getAttribute('data-categoria');
-                
-                if (titulo.includes(input) || categoria.includes(input)) {
-                    tarjetas[i].style.display = "";
-                } else {
-                    tarjetas[i].style.display = "none";
-                }
+                tarjetas[i].style.display = (titulo.includes(input) || categoria.includes(input)) ? "" : "none";
+            }
+        }
+
+        function abrirNoticia(elemento) {
+            document.getElementById('modal-categoria').innerText = elemento.querySelector('.etiqueta-categoria').innerText;
+            document.getElementById('modal-fecha').innerText = elemento.querySelector('.etiqueta-fecha').innerText;
+            document.getElementById('modal-titulo').innerText = elemento.querySelector('h2').innerText;
+            document.getElementById('modal-texto').innerHTML = elemento.querySelector('.texto-oculto').innerHTML;
+            document.getElementById('modal-fuente').innerHTML = elemento.querySelector('.fuente-oculta').innerHTML;
+
+            document.getElementById('modal-noticia').style.display = 'flex';
+            document.body.style.overflow = 'hidden'; 
+        }
+
+        function cerrarModal() {
+            document.getElementById('modal-noticia').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+
+        function cerrarSiClickFuera(event) {
+            if (event.target.id === 'modal-noticia') {
+                cerrarModal();
             }
         }
     </script>
