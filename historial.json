@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "28/04/2026",
+        "titulo": "ZRO: Oportunidad de rebote",
+        "gancho": "ZRO cae 0,76%",
+        "contenido_completo": "LayerZero (ZRO) cotiza en USD $1,51 tras una caída del 0,76% en las últimas 24 horas, extendiendo una tendencia bajista que acumula -9,65% semanal. Con volumen diario en $36,5 MM y capitalización de $482 MM, el token de interoperabilidad blockchain enfrenta presiones bajistas. A pesar de esto, algunos analistas ven una oportunidad de rebote en el corto plazo. La pregunta es, ¿podrá ZRO recuperarse y alcanzar nuevos máximos? La respuesta depende de varios factores, incluyendo la adopción de la tecnología blockchain y la confianza de los inversores. En este artículo, exploraremos las posibles causas de la caída de ZRO y las oportunidades de crecimiento en el futuro.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zro-cae-076-en-sesion-volatil-oportunidad-de-rebote/"
+    },
+    {
+        "fecha": "28/04/2026",
+        "titulo": "ATOM en descenso",
+        "gancho": "ATOM cae 2,87%",
+        "contenido_completo": "ATOM registra una caída del 2,87% en 24 horas, cotizando en USD $1,95 con volumen en descenso. A pesar de las ganancias semanales del 9,27%, las medias móviles sugieren debilidad a corto plazo. En este análisis, exploraremos las causas técnicas y fundamentales detrás de la caída de ATOM y los posibles escenarios para el futuro. La tendencia bajista de ATOM puede ser una oportunidad para los inversores que buscan comprar en un momento de debilidad. Sin embargo, es importante considerar los riesgos y las posibles consecuencias de una caída adicional. En este artículo, proporcionaremos una visión detallada del mercado y las posibles estrategias para los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/atom-cae-287-ante-volumen-decreciente/"
+    },
+    {
+        "fecha": "28/04/2026",
+        "titulo": "Ena en retroceso",
+        "gancho": "Ena cae 4,6%",
+        "contenido_completo": "Ena (ENA) cotiza en USD $0,1068 tras un retroceso del 4,6% diario, manteniendo volumen estable pero lejos de su ATH de USD $1,51. En este análisis, desentrañaremos las causas técnicas y fundamentales detrás de la caída de Ena y exploraremos los posibles escenarios para el futuro. La caída de Ena puede ser una oportunidad para los inversores que buscan comprar en un momento de debilidad. Sin embargo, es importante considerar los riesgos y las posibles consecuencias de una caída adicional. En este artículo, proporcionaremos una visión detallada del mercado y las posibles estrategias para los inversores. La clave para el éxito es entender las tendencias y los patrones del mercado y tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/ena-cae-ante-resistencias-clave-en-usd-0106/"
+    },
+    {
+        "fecha": "28/04/2026",
+        "titulo": "Dash en caída",
+        "gancho": "Dash cae 3,58%",
+        "contenido_completo": "Dash ($DASH) registra una caída del 3,58% en las últimas 24 horas, cotizando en USD $35,47 con volumen diario 23,82% por debajo del promedio mensual. Este movimiento refleja presiones bajistas en un contexto de baja liquidez y precio bajo medias móviles clave. En este análisis, exploraremos las causas detrás de la caída de Dash y los posibles escenarios para el futuro. La caída de Dash puede ser una oportunidad para los inversores que buscan comprar en un momento de debilidad. Sin embargo, es importante considerar los riesgos y las posibles consecuencias de una caída adicional. En este artículo, proporcionaremos una visión detallada del mercado y las posibles estrategias para los inversores. La clave para el éxito es entender las tendencias y los patrones del mercado y tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dash-cae-358-en-24-horas-ante-volumen-menguante/"
+    },
+    {
+        "fecha": "28/04/2026",
+        "titulo": "Skycoin en descenso",
+        "gancho": "Skycoin cae 1,72%",
+        "contenido_completo": "Skycoin ($SKY) registra una caída del 1,72% en las últimas 24 horas, cotizando en USD $0,085, con volumen diario ligeramente superior al promedio pero capitalización estancada en $1,97 millones. A pesar de ganancias semanales del 6,90%, el activo muestra signos de debilidad. En este análisis, exploraremos las causas detrás de la caída de Skycoin y los posibles escenarios para el futuro. La caída de Skycoin puede ser una oportunidad para los inversores que buscan comprar en un momento de debilidad. Sin embargo, es importante considerar los riesgos y las posibles consecuencias de una caída adicional. En este artículo, proporcionaremos una visión detallada del mercado y las posibles estrategias para los inversores. La clave para el éxito es entender las tendencias y los patrones del mercado y tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/skycoin-sky-pierde-172-en-24-horas-ante-volumen-estable/"
+    },
+    {
         "fecha": "27/04/2026",
         "titulo": "LayerZero (ZRO) en caída",
         "gancho": "ZRO cae 0,56%",
