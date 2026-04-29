@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "29/04/2026",
+        "titulo": "Peugeot 408 2026: La Berlina Reinventada",
+        "gancho": "Berlina con carrocería fastback",
+        "contenido_completo": "La Peugeot 408 2026 es una berlina que se reinventa con una atractiva carrocería fastback. Esta nueva versión se actualiza con retoques que le refuerzan su diseño y características. La berlina de tres volúmenes ya no es lo que era, ahora es una opción más atractiva y moderna. Con su nuevo diseño, la Peugeot 408 2026 busca conquistar el mercado con su estilo y tecnología. La pregunta es, ¿podrá competir con las demás opciones del segmento? La respuesta solo la dará el tiempo. La Peugeot 408 2026 es una opción que debes considerar si estás buscando una berlina con estilo y tecnología.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Marca",
+        "fuente_url": "https://www.marca.com/coches-y-motos/coches/2026/04/28/peugeot-408-2026-probamos-berlina-encaja-segmento.html"
+    },
+    {
+        "fecha": "29/04/2026",
+        "titulo": "La Inteligencia Artificial en la Guerra",
+        "gancho": "IA que señala objetivos",
+        "contenido_completo": "La inteligencia artificial que se utiliza en la guerra es un tema delicado y controvertido. La falta de regulación en este ámbito puede llevar a consecuencias devastadoras, como la destrucción de una escuela con más de 160 personas dentro. La IA que señala objetivos para los bombardeos en Irán es un ejemplo de cómo la tecnología puede ser utilizada de manera peligrosa. La comunidad internacional debe tomar medidas para regular el uso de la IA en la guerra y evitar que se repitan tragedias como esta. La guerra es un tema serio y la IA no debe ser utilizada de manera irresponsable. La regulación es necesaria para evitar que la IA sea utilizada para matar a inocentes. La comunidad internacional debe actuar ahora para evitar que la IA sea utilizada de manera peligrosa.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Lamarea.com",
+        "fuente_url": "https://www.lamarea.com/2026/04/28/ia-matar-a-la-velocidad-de-la-maquina/"
+    },
+    {
+        "fecha": "29/04/2026",
+        "titulo": "China Responde a la UE",
+        "gancho": "China promete represalias",
+        "contenido_completo": "China ha prometido represalias en respuesta a las restricciones industriales de la Unión Europea. La Ley de Aceleración Industrial del bloque europeo, conocida como el plan 'Made in Europe', plantea graves obstáculos a la inversión extranjera. China considera que estas restricciones son discriminatorias y ha decidido tomar medidas para proteger sus intereses. La tensión entre China y la UE puede aumentar en los próximos días. La UE debe considerar las consecuencias de sus acciones y buscar una solución que beneficie a ambas partes. La cooperación es clave para evitar un conflicto comercial. La UE y China deben trabajar juntas para encontrar una solución que sea justa y beneficiosa para ambos. La economía global depende de la cooperación entre las naciones.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "RT",
+        "fuente_url": "https://actualidad.rt.com/actualidad/601776-china-advierte-tomara-medidas-respuesta"
+    },
+    {
+        "fecha": "29/04/2026",
+        "titulo": "El Fin de las Tarjetas Físicas",
+        "gancho": "Tarjetas físicas con los días contados",
+        "contenido_completo": "Las tarjetas físicas están a punto de desaparecer. Bizum ha llegado a los supermercados y tiendas, lo que significa que ya no necesitamos sacar nuestra tarjeta o rebuscar monedas para hacer una compra. La tecnología ha avanzado y ahora podemos pagar de manera más rápida y segura. La pregunta es, ¿qué pasará con las tarjetas físicas? ¿Desaparecerán por completo o seguirán siendo utilizadas en algunos lugares? La respuesta solo la dará el tiempo. La tecnología sigue avanzando y es importante adaptarse a los cambios. La comodidad y la seguridad son clave para el éxito de cualquier tecnología. La desaparición de las tarjetas físicas es solo el comienzo de una nueva era en la forma en que pagamos.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Directoalpaladar.com",
+        "fuente_url": "https://www.directoalpaladar.com/consumidores/tarjetas-fisicas-dias-contados-bizum-llega-a-supermercados-tiendas-a-partir-18-mayo"
+    },
+    {
+        "fecha": "29/04/2026",
+        "titulo": "La Invasión de los Coches Chinos",
+        "gancho": "La mitad de España mira a China",
+        "contenido_completo": "Los coches chinos ya no son una opción exótica en España. MG y BYD han dejado de ser marcas desconocidas y ahora son consideradas como opciones viables para muchos conductores. La calidad y el precio de los coches chinos han mejorado significativamente en los últimos años, lo que los hace atractivos para los compradores. La pregunta es, ¿qué significa esto para el mercado automotriz en España? ¿Podrán los coches chinos desplazar a las marcas tradicionales? La respuesta solo la dará el tiempo. La competencia es buena para el mercado y los consumidores se benefician de tener más opciones. La calidad y el precio son clave para el éxito de cualquier marca. La invasión de los coches chinos es solo el comienzo de una nueva era en el mercado automotriz.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/mg-byd-disparan-duda-mitad-espana-mira-china/202604281140001017707.html"
+    },
+    {
         "fecha": "28/04/2026",
         "titulo": "ZRO: Oportunidad de rebote",
         "gancho": "ZRO cae 0,76%",
