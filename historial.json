@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "30/04/2026",
+        "titulo": "Bubbles, el chimpancé de Michael Jackson",
+        "gancho": "El chimpancé famoso",
+        "contenido_completo": "Bubbles, el chimpancé que Michael Jackson rescató de la muerte, fue más que una mascota. Dormía en su habitación, comía en su mesa y aparecía en videoclips. La nueva biopic lo recreó con tecnología. Bubbles fue el compañero más extraño y célebre de Michael Jackson. Hoy en día, se encuentra retirado en un santuario de Florida. La historia de Bubbles es una de las más fascinantes de la vida de Michael Jackson. Desde su rescate hasta su retiro, Bubbles vivió una vida llena de lujo y fama. Sin embargo, su historia también tiene un lado más oscuro, ya que se ha cuestionado el trato que recibió por parte de Michael Jackson.",
+        "categoria": "Celebridades",
+        "impacto": "alto",
+        "fuente_nombre": "Latercera.com",
+        "fuente_url": "https://www.latercera.com/culto/noticia/que-fue-de-bubbles-el-chimpance-que-michael-jackson-rescato-de-la-muerte/"
+    },
+    {
+        "fecha": "30/04/2026",
+        "titulo": "Congestión Vehicular en la Ciudad de México",
+        "gancho": "Soluciones para el tráfico",
+        "contenido_completo": "La congestión vehicular en la Ciudad de México es un problema grave que afecta la calidad de vida de sus habitantes. Clemente Ruiz Durán realizó un diagnóstico sobre la movilidad urbana en la CDMX y propuso cuatro ejes de política pública para reducir el tráfico. Estos ejes incluyen la mejora de la infraestructura, la promoción del transporte público, la regulación del tráfico y la educación de los conductores. La implementación de estas propuestas podría mejorar significativamente la movilidad en la ciudad. La congestión vehicular no solo es un problema de tráfico, sino también un problema de salud y medio ambiente. Es importante abordar este problema de manera integral para mejorar la calidad de vida de los habitantes de la Ciudad de México.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "El Financiero",
+        "fuente_url": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/04/29/congestion-vehicular-en-la-ciudad-de-mexico-elementos-de-diagnostico-y-propuestas-de-politica-publica/"
+    },
+    {
+        "fecha": "30/04/2026",
+        "titulo": "El Torres, un SUV grande y práctico",
+        "gancho": "Un SUV a buen precio",
+        "contenido_completo": "El Torres es un SUV grande y práctico que ofrece una excelente relación calidad-precio. Con su diseño elegante y su interior espacioso, es ideal para familias o grupos de amigos. El Torres también cuenta con una gran capacidad de carga y una buena eficiencia de combustible. Además, su precio es muy competitivo en comparación con otros SUV del mercado. El Torres es una excelente opción para aquellos que buscan un vehículo práctico y cómodo sin gastar demasiado dinero. Con su tecnología avanzada y su seguridad, el Torres es un SUV que vale la pena considerar. En resumen, el Torres es un SUV que ofrece una excelente combinación de espacio, comodidad y valor.",
+        "categoria": "Automoción",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/motor/novedades/torres-suv-grande-practico-buen-precio-20260429115700-nt.html"
+    },
+    {
+        "fecha": "30/04/2026",
+        "titulo": "La KTM 450 Rally Replica 2027",
+        "gancho": "La moto del Dakar",
+        "contenido_completo": "La KTM 450 Rally Replica 2027 es una máquina de edición limitada que hereda toda la tecnología del equipo oficial del Dakar. Con apenas 150 unidades disponibles, esta joya austríaca es la oportunidad de sentir la emoción del rally en el desierto. La KTM 450 Rally Replica 2027 cuenta con un motor potente y una suspensión avanzada, lo que la hace ideal para los entusiastas de los raids. Además, su diseño agresivo y su equipamiento de alta calidad la convierten en una verdadera obra de arte. La KTM 450 Rally Replica 2027 es una oportunidad única para los amantes del motociclismo y del rally. Con su tecnología avanzada y su exclusividad, es una inversión que vale la pena considerar. En resumen, la KTM 450 Rally Replica 2027 es una máquina excepcional que ofrece una experiencia de conducción única y emocionante.",
+        "categoria": "Motociclismo",
+        "impacto": "bajo",
+        "fuente_nombre": "Todocircuito.com",
+        "fuente_url": "https://www.todocircuito.com/noticias/41845-asi-es-la-ktm-450-rally-replica-2027-lo-mas-cerca-que-estaras-de-ganar-el-dakar.html"
+    },
+    {
+        "fecha": "30/04/2026",
+        "titulo": "El Range Rover SV Ultra",
+        "gancho": "El SUV más lujoso",
+        "contenido_completo": "El Range Rover SV Ultra es la versión más lujosa y avanzada del SUV insignia de la marca. Con nuevos acabados y tecnología de audio inédita, este vehículo ofrece una experiencia de conducción sin igual. El Range Rover SV Ultra cuenta con materiales específicos y una apuesta clara por el confort sensorial, lo que lo convierte en un verdadero oasis en la carretera. Además, su diseño elegante y su interior espacioso lo hacen ideal para aquellos que buscan un vehículo que combine lujo y comodidad. El Range Rover SV Ultra es una excelente opción para aquellos que buscan un vehículo que les brinde una experiencia de conducción única y exclusiva. Con su tecnología avanzada y su lujo, el Range Rover SV Ultra es un vehículo que vale la pena considerar. En resumen, el Range Rover SV Ultra es un SUV que ofrece una experiencia de conducción lujosa y emocionante.",
+        "categoria": "Automoción",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/range-rover-sv-ultra-asi-es-suv-mas-lujoso-tecnologico/202604291152391017990.html"
+    },
+    {
         "fecha": "29/04/2026",
         "titulo": "Peugeot 408 2026: La Berlina Reinventada",
         "gancho": "Berlina con carrocería fastback",
