@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "02/05/2026",
+        "titulo": "La erupción del Vesubio",
+        "gancho": "Muerte en Pompeya",
+        "contenido_completo": "La institución anunció una recreación basada en restos encontrados en Porta Stabia junto con la Universidad de Padua, con el fin de acercar los datos al público sin perder rigor. La caída de fragmentos volcánicos obligó a tomar decisiones rápidas para tratar de sobrevivir. Sin embargo, un recipiente de piedra en las manos no evitó la muerte de un hombre ante la potencia del Vesubio. La erupción del Vesubio fue un evento devastador que cambió la historia de la región. La recreación con IA busca mostrar la realidad de aquellos momentos.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/spin/no-hubo-escapatoria-pompeya-recipiente-piedra-manos-no-evito-muerte-hombre-potencia-vesubio-pm_1_13187995.html"
+    },
+    {
+        "fecha": "02/05/2026",
+        "titulo": "Mejores teclados para Mac",
+        "gancho": "Teclados para Mac",
+        "contenido_completo": "Descubre qué teclado elegir para tu Mac: mecánico, inalámbrico o completo. La guía práctica ofrece consejos clave y modelos recomendados para que puedas tomar la mejor decisión. Los teclados son una parte fundamental de la experiencia de usuario, y elegir el adecuado puede mejorar la productividad y la comodidad. En esta guía, se presentan las opciones más populares y se analizan sus características y ventajas. Además, se ofrecen consejos para elegir el teclado perfecto para tus necesidades.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Soydemac.com",
+        "fuente_url": "https://www.soydemac.com/los-mejores-teclados-para-escribir-y-trabajar-con-tu-mac-guia-completa/"
+    },
+    {
+        "fecha": "02/05/2026",
+        "titulo": "Nueva técnica para tratar arritmias",
+        "gancho": "Aritmias cardíacas",
+        "contenido_completo": "La Unidad de Arritmias del Servicio de Cardiología del Hospital General Universitario Nuestra Señora del Prado de Talavera de la Reina ha realizado con éxito los primeros procedimientos de ablación para tratar las arritmias cardíacas. Esta técnica avanzada ofrece una nueva esperanza para los pacientes que sufren de esta condición. La ablación es un procedimiento minimamente invasivo que utiliza energía para destruir las células que causan la arritmia. El hospital ha invertido en la última tecnología para ofrecer esta opción a sus pacientes.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/castilla-lamancha/noticia-hospital-talavera-reina-incorpora-nueva-tecnica-avanzada-tratar-arritmias-cardiacas-20260501104454.html"
+    },
+    {
+        "fecha": "02/05/2026",
+        "titulo": "Hipótesis sobre enfermedad hereditaria",
+        "gancho": "Enfermedad hereditaria",
+        "contenido_completo": "Una investigación científica sugiere que una de las obras más célebres de la historia podría esconder mucho más que belleza y misterio. Detrás de ciertos detalles casi imperceptibles, se abre una hipótesis inquietante que conecta arte, medicina y una capacidad para registrar enfermedades hereditarias. La investigación busca descubrir si la obra de arte puede ser un registro temprano de una enfermedad hereditaria. Los científicos están estudiando la obra para determinar si hay evidencia de una condición genética.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/la-hipotesis-que-transforma-una-obra-legendaria-en-un-posible-registro-temprano-de-una-enfermedad-hereditaria-2000234132"
+    },
+    {
+        "fecha": "02/05/2026",
+        "titulo": "Planes culturales para el puente de mayo",
+        "gancho": "Planes culturales",
+        "contenido_completo": "Un truco vampírico, una ruta al pasado y otros planes culturales para el puente de mayo. La canción que ahonda en los demonios que pululan por el mundo o la instalación audiovisual basada en la resiliencia de los palestinos encarcelados son solo algunos de los planes para el fin de semana. El puente de mayo es una oportunidad para disfrutar de la cultura y la diversión. Los planes culturales ofrecen una variedad de opciones para todos los gustos y edades.",
+        "categoria": "Cultura",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/cultura/cultura/truco-vampirico-ruta-pasado-planes-culturales-puente-mayo_132_13187900.html"
+    },
+    {
         "fecha": "01/05/2026",
         "titulo": "La Diputación de Sevilla apoya la jornada 'Gobernar el sonido'",
         "gancho": "Apoyo a la transformación digital",
