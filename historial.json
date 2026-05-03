@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "03/05/2026",
+        "titulo": "Economía alemana en declive",
+        "gancho": "Pymes al rescate",
+        "contenido_completo": "La economía alemana ha estado experimentando un declive en varios sectores, lo que ha generado preocupación sobre su competitividad en el mercado global. Sin embargo, las pequeñas y medianas empresas (pymes) han demostrado ser un factor clave en la supervivencia de la economía alemana. A pesar de que Alemania ha perdido terreno en sectores como los paneles solares y los semiconductores, las pymes han encontrado formas de adaptarse y innovar. Esto ha permitido que la economía alemana mantenga su posición en el mercado global. La pregunta es, ¿podrán las pymes seguir siendo el motor de la economía alemana en el futuro? La respuesta depende de la capacidad de las pymes para seguir innovando y adaptándose a los cambios en el mercado. Si logran hacerlo, es probable que la economía alemana pueda mantener su posición y seguir siendo competitiva. Por otro lado, si no pueden adaptarse, es posible que la economía alemana siga en declive. En cualquier caso, es importante destacar el papel que han jugado las pymes en la economía alemana y su potencial para seguir siendo un factor clave en el futuro.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "DW (English)",
+        "fuente_url": "https://www.dw.com/es/econom%C3%ADa-de-alemania-en-declive-las-pymes-vienen-al-rescate/a-77015556"
+    },
+    {
+        "fecha": "03/05/2026",
+        "titulo": "Dani Pedrosa y la seguridad vial",
+        "gancho": "Airbag obligatorio",
+        "contenido_completo": "Dani Pedrosa, una de las leyendas del MotoGP, ha vuelto a hablar sobre la importancia de la seguridad vial. En una conversación con Motocard, Pedrosa defiende el uso del airbag como una capa extra de protección para los motoristas en carretera. Según Pedrosa, el airbag es una herramienta fundamental para reducir el riesgo de lesiones graves en caso de accidente. La seguridad vial es un tema que preocupa a muchos, y la opinión de Pedrosa es importante para concienciar a los motoristas sobre la importancia de tomar medidas para protegerse. El uso del airbag es solo una de las muchas formas en que los motoristas pueden reducir su riesgo de accidente. Otras medidas incluyen el uso de cascos y ropa de protección, así como la conducción defensiva. En resumen, la seguridad vial es un tema importante que requiere la atención de todos. La opinión de Pedrosa es un recordatorio de la importancia de tomar medidas para protegerse en la carretera. La seguridad vial es un tema que debe ser tomado en serio, y es importante que todos los motoristas tomen medidas para protegerse y reducir su riesgo de accidente.",
+        "categoria": "Seguridad vial",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/solomoto/20260502/1004177952/dani-pedrosa-claro-avisa-todos-moteros-mejor-tenerlo-no-tenerlo-smd.html"
+    },
+    {
+        "fecha": "03/05/2026",
+        "titulo": "Toyota entra en el mercado de las motos",
+        "gancho": "Scooter de hidrógeno",
+        "contenido_completo": "Toyota ha patentado un scooter de hidrógeno con depósitos intercambiables, lo que elimina la necesidad de repostar. Este es el primer paso de la empresa japonesa hacia el mercado de las motos, y refuerza su apuesta por el hidrógeno como alternativa real a los combustibles fósiles. El scooter de hidrógeno es una innovación importante en el sector de las motos, ya que ofrece una alternativa más limpia y eficiente a los motores de combustión interna. La tecnología de hidrógeno es una de las áreas de investigación más prometedoras en el sector del transporte, y Toyota está a la vanguardia de esta tendencia. La empresa japonesa ha estado trabajando en la desarrollo de vehículos de hidrógeno durante años, y su entrada en el mercado de las motos es un paso lógico en su estrategia de expansión. El scooter de hidrógeno de Toyota es solo el comienzo de una nueva era en el sector de las motos, y es probable que veamos más innovaciones en este área en el futuro.",
+        "categoria": "Motos",
+        "impacto": "alto",
+        "fuente_nombre": "Todocircuito.com",
+        "fuente_url": "https://www.todocircuito.com/noticias/41868-bombazo:-toyota-va-a-meterse-en-las-motos-y-hay-una-patente-revolucionaria-de-su-scooter.html"
+    },
+    {
+        "fecha": "03/05/2026",
+        "titulo": "La verdadera historia de los samurái",
+        "gancho": "Mercenarios y oportunistas",
+        "contenido_completo": "La imagen tradicional de los samurái como guerreros leales y disciplinados es solo una parte de la historia. En realidad, los samurái fueron mercenarios y oportunistas que luchaban por dinero y poder. La verdadera historia de los samurái es más compleja y matizada de lo que se cree. A lo largo de la historia de Japón, los samurái jugaron un papel importante en la política y la sociedad, pero su papel no fue siempre el de héroes nobles. En muchos casos, los samurái fueron responsables de atrocidades y violencia, y su código de honor, el bushido, fue utilizado para justificar sus acciones. La historia de los samurái es un tema fascinante que ha sido objeto de estudio y debate durante siglos. A pesar de su imagen romántica, los samurái fueron seres humanos complejos y multifacéticos, con sus propias motivaciones y debilidades. La verdadera historia de los samurái es un recordatorio de que la historia es siempre más compleja de lo que parece, y que la verdad a menudo se encuentra en los matices y las contradicciones.",
+        "categoria": "Historia",
+        "impacto": "bajo",
+        "fuente_nombre": "BBC News",
+        "fuente_url": "https://www.bbc.com/mundo/articles/c75e71g4k1po"
+    },
+    {
+        "fecha": "03/05/2026",
+        "titulo": "Arsys refuerza su seguridad en la nube",
+        "gancho": "Certificación ENS",
+        "contenido_completo": "La empresa riojana Arsys ha reforzado su compromiso con la seguridad en la nube al obtener la certificación del Esquema Nacional de Seguridad (ENS) en su categoría más alta. Esta certificación es un reconocimiento a la capacidad de Arsys para proteger la información de sus clientes y garantizar la seguridad de sus servicios en la nube. La seguridad en la nube es un tema cada vez más importante en la era digital, y la certificación ENS es un estándar de referencia para las empresas que buscan demostrar su compromiso con la seguridad. Arsys ha demostrado su capacidad para cumplir con los requisitos más estrictos de seguridad y proteger la información de sus clientes. La certificación ENS es un paso importante para Arsys en su estrategia de expansión y crecimiento, y refuerza su posición como proveedor de soluciones de seguridad en la nube. La seguridad en la nube es un tema que requiere la atención de todas las empresas, y la certificación ENS es un reconocimiento a la capacidad de Arsys para liderar en este área.",
+        "categoria": "Seguridad",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/la-rioja/noticia-arsys-blinda-ecosistema-cloud-certificacion-ens-nivel-alto-todo-portfolio-20260502110051.html"
+    },
+    {
         "fecha": "02/05/2026",
         "titulo": "La erupción del Vesubio",
         "gancho": "Muerte en Pompeya",
