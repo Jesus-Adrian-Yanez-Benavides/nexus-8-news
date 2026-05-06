@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "06/05/2026",
+        "titulo": "TDAH: ¿Un diagnóstico sobrevalorado?",
+        "gancho": "Niños inquietos sin TDAH",
+        "contenido_completo": "El consumo de fármacos para el Trastorno por Déficit de Atención con Hiperactividad (TDAH) ha aumentado significativamente en la última década. Según una publicación en The Lancet, el número de personas que toman medicamentos para el TDAH ha superado las 200.000. Sin embargo, expertos como Rafa Guerrero, psicólogo y experto en neuroeducación, advierten que no todos los niños inquietos tienen TDAH. Es importante entender las causas subyacentes de la hiperactividad y la falta de atención en los niños para evitar un diagnóstico incorrecto. La neuroeducación puede ser una herramienta valiosa para ayudar a los niños a desarrollar habilidades y estrategias para manejar su comportamiento y mejorar su rendimiento académico. Es fundamental que los padres y educadores estén informados sobre el TDAH y sus síntomas para proporcionar el apoyo adecuado a los niños que lo necesitan.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/familia/rafa-guerrero-psicologo-experto-neuroeducacion-20260505104845-nt.html"
+    },
+    {
+        "fecha": "06/05/2026",
+        "titulo": "Dash cae en valor",
+        "gancho": "Dash cae 4,67%",
+        "contenido_completo": "Dash ($DASH) ha experimentado una caída del 4,67% en las últimas 24 horas, cotizando en USD $44,87. A pesar de que el token había experimentado un rally semanal del 25,9%, el volumen de operaciones ha aumentado significativamente, lo que ha llevado a una corrección en el precio. Los analistas técnicos y fundamentales están estudiando las causas de esta caída para determinar si se trata de una corrección temporal o si hay factores más profundos que están afectando el valor de Dash. Es importante que los inversores estén atentos a los movimientos del mercado y ajusten sus estrategias según sea necesario. La volatilidad del mercado de criptomonedas puede ser alta, por lo que es fundamental estar informado y tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dash-cae-467-en-24-horas-ante-volumen-elevado/"
+    },
+    {
+        "fecha": "06/05/2026",
+        "titulo": "Chiliz rebota",
+        "gancho": "Chiliz sube 2,25%",
+        "contenido_completo": "Chiliz ($CHZ) ha experimentado un rebote del 2,25% en las últimas 24 horas, rompiendo la SMA-7 en USD $0,0421179. Aunque el volumen de operaciones ha sido 17% por debajo del promedio mensual, este movimiento puede ser un indicador de que el token está listo para recuperarse después de una caída semanal del 11%. La volatilidad del mercado de criptomonedas puede ser alta, y los inversores deben estar atentos a los movimientos del mercado para ajustar sus estrategias según sea necesario. Es importante analizar los fundamentos y los indicadores técnicos para determinar si este rebote es sostenible o si se trata de una corrección temporal. Los inversores deben estar informados y tomar decisiones informadas para maximizar sus ganancias y minimizar sus pérdidas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/chiliz-rebota-225-en-medio-de-volatilidad-sectorial/"
+    },
+    {
+        "fecha": "06/05/2026",
+        "titulo": "Algorand sube",
+        "gancho": "Algorand sube 3,72%",
+        "contenido_completo": "Algorand (ALGO) ha experimentado un avance del 3,72% en las últimas 24 horas, alcanzando USD $0,120. Este movimiento ha sido respaldado por un volumen superior al promedio y un cruce alcista de medias móviles. Los analistas técnicos y fundamentales están estudiando las causas de este avance para determinar si se trata de una tendencia alcista sostenible. Es importante que los inversores estén atentos a los movimientos del mercado y ajusten sus estrategias según sea necesario. La volatilidad del mercado de criptomonedas puede ser alta, por lo que es fundamental estar informado y tomar decisiones informadas. Los inversores deben analizar los fundamentos y los indicadores técnicos para determinar si este avance es sostenible o si se trata de una corrección temporal.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/algorand-sube-372-en-rebote-tecnico-senal-alcista/"
+    },
+    {
+        "fecha": "06/05/2026",
+        "titulo": "PENGU sube",
+        "gancho": "PENGU sube 4,58%",
+        "contenido_completo": "Pudgy Penguins (PENGU) ha experimentado un rebote del 4,58% en las últimas 24 horas, impulsado por un volumen récord y un momentum alcista en memecoins. Aunque el token aún está lejos de su máximo histórico, este movimiento puede ser un indicador de que el token está listo para recuperarse. Los inversores deben estar atentos a los movimientos del mercado y ajustar sus estrategias según sea necesario. Es importante analizar los fundamentos y los indicadores técnicos para determinar si este rebote es sostenible o si se trata de una corrección temporal. La volatilidad del mercado de criptomonedas puede ser alta, por lo que es fundamental estar informado y tomar decisiones informadas para maximizar las ganancias y minimizar las pérdidas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/pengu-sube-458-en-rebote-tecnico-2026-05-05/"
+    },
+    {
         "fecha": "05/05/2026",
         "titulo": "Avance en tecnología QKD satelital",
         "gancho": "Seguridad cuántica en Europa",
