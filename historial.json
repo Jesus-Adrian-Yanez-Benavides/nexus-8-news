@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "08/05/2026",
+        "titulo": "Hyundai Ioniq 6: Un Nuevo Comienzo",
+        "gancho": "Un coche eléctrico revolucionario",
+        "contenido_completo": "El Hyundai Ioniq 6 es un coche eléctrico que promete revolucionar el mercado. Con su diseño aerodinámico y su potente motor, este vehículo es capaz de recorrer largas distancias sin emitir gases de efecto invernadero. En este artículo, exploraremos las características y beneficios del Hyundai Ioniq 6. El coche cuenta con una batería de iones de litio que le permite recorrer hasta 500 kilómetros sin necesidad de recargar. Además, su sistema de frenos regenerativos permite recuperar energía y aumentar su autonomía. El Hyundai Ioniq 6 es un coche que no solo es ecológico, sino que también es divertido de conducir.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Muycomputer.com",
+        "fuente_url": "https://www.muycomputer.com/2026/05/07/hyundai-ioniq-6-presto/"
+    },
+    {
+        "fecha": "08/05/2026",
+        "titulo": "iPhone 18 Pro: Nuevos Fabricantes de Pantallas",
+        "gancho": "Nuevas pantallas OLED",
+        "contenido_completo": "El iPhone 18 Pro es uno de los smartphones más esperados del año. En este artículo, exploraremos los nuevos fabricantes de pantallas que Apple ha seleccionado para su nuevo dispositivo. La Dynamic Island es una de las características más destacadas del iPhone 18 Pro, pero la pantalla OLED es igual de importante. Apple ha cerrado contratos de suministro con varios fabricantes para asegurarse de que la pantalla del iPhone 18 Pro sea de la más alta calidad. Los nuevos fabricantes de pantallas incluyen a Samsung y LG, que han demostrado ser líderes en la industria. El iPhone 18 Pro promete ser un dispositivo revolucionario, con una pantalla que ofrece colores vivos y una resolución impresionante.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Applesfera.com",
+        "fuente_url": "https://www.applesfera.com/iphone/se-filtran-fabricantes-pantalla-iphone-18-pro-sabemos-quienes-que-va-a-cambiar-este-ano"
+    },
+    {
+        "fecha": "08/05/2026",
+        "titulo": "JAWA Regresa a la Argentina",
+        "gancho": "Cuatro nuevos modelos",
+        "contenido_completo": "La marca de motos JAWA ha regresado a la Argentina después de varios años de ausencia. En este artículo, exploraremos los cuatro nuevos modelos que la marca ha lanzado en el mercado local. JAWA es una marca que ha sido recordada por su calidad y durabilidad, y su regreso a la Argentina es una noticia emocionante para los amantes de las motos. Los cuatro nuevos modelos incluyen el JAWA 350, el JAWA 650, el JAWA 1000 y el JAWA 1250. Cada modelo ofrece características únicas y una potencia impresionante. La inversión de JAWA en la Argentina es un paso importante para la marca, y se espera que tenga un impacto significativo en el mercado local.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/autos/una-recordada-marca-de-motos-vuelve-a-la-argentina-con-cuatro-lanzamientos-y-una-inversion-nid07052026/"
+    },
+    {
+        "fecha": "08/05/2026",
+        "titulo": "BYD Song Pro: Un SUV Chino Eficiente",
+        "gancho": "Bajo consumo de combustible",
+        "contenido_completo": "El BYD Song Pro es un SUV chino que ha destacado por su bajo consumo de combustible. En este artículo, exploraremos las características y beneficios de este vehículo. El BYD Song Pro es un SUV que ofrece una combinación perfecta de potencia y eficiencia. Su motor eléctrico es capaz de recorrer hasta 500 kilómetros sin necesidad de recargar, y su sistema de frenos regenerativos permite recuperar energía y aumentar su autonomía. El BYD Song Pro es un vehículo que no solo es ecológico, sino que también es divertido de conducir. Su diseño aerodinámico y su interior espacioso lo convierten en un SUV ideal para aquellos que buscan un vehículo práctico y eficiente.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/autos/asi-es-el-suv-chino-que-destaca-por-su-bajo-consumo-y-es-uno-de-los-mas-vendidos-nid07052026/"
+    },
+    {
+        "fecha": "08/05/2026",
+        "titulo": "Estafa en Recoleta, Palermo y Belgrano",
+        "gancho": "Tres delincuentes detenidos",
+        "contenido_completo": "Tres delincuentes han sido detenidos por estafar a vecinas de Recoleta, Palermo y Belgrano. En este artículo, exploraremos los detalles de la estafa y cómo los delincuentes fueron capturados. La estafa consistía en vender billetes de lotería falsos, lo que permitió a los delincuentes obtener una gran cantidad de dinero de manera ilegal. La policía ha estado investigando el caso durante varios meses y finalmente ha logrado detener a los responsables. La estafa ha causado un gran impacto en la comunidad, y se espera que la detención de los delincuentes sirva como un ejemplo para aquellos que intentan cometer delitos similares. La investigación sigue en curso, y se busca a una prófuga que también está involucrada en la estafa.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/seguridad/la-estafa-del-billete-ganador-de-loteria-con-la-que-estafaban-a-vecinas-de-recoleta-palermo-y-nid07052026/"
+    },
+    {
         "fecha": "07/05/2026",
         "titulo": "Bill Gates y la IA",
         "gancho": "IA: sobreestimamos el corto plazo",
