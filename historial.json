@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "11/05/2026",
+        "titulo": "La tragedia de Trump",
+        "gancho": "Errores de Trump",
+        "contenido_completo": "Joseph E. Stiglitz analiza los errores de Trump. La política económica de Trump ha sido objeto de críticas. La globalización y el comercio internacional han sido afectados por sus decisiones. La economía estadounidense ha sufrido las consecuencias de sus políticas. La desigualdad económica ha aumentado y la confianza en el sistema financiero ha disminuido. La comunidad internacional ha reaccionado negativamente a sus políticas. La relación entre Estados Unidos y el resto del mundo ha sido tensa. La economía global ha sido afectada por sus decisiones.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/05/10/economia/014a1eco"
+    },
+    {
+        "fecha": "11/05/2026",
+        "titulo": "La tragedia de Trump",
+        "gancho": "Errores de Trump",
+        "contenido_completo": "Joseph E. Stiglitz analiza los errores de Trump. La política económica de Trump ha sido objeto de críticas. La globalización y el comercio internacional han sido afectados por sus decisiones. La economía estadounidense ha sufrido las consecuencias de sus políticas. La desigualdad económica ha aumentado y la confianza en el sistema financiero ha disminuido. La comunidad internacional ha reaccionado negativamente a sus políticas. La relación entre Estados Unidos y el resto del mundo ha sido tensa. La economía global ha sido afectada por sus decisiones.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/05/10/opinion/014a1eco"
+    },
+    {
+        "fecha": "11/05/2026",
+        "titulo": "Paradojas de la tecnología",
+        "gancho": "Tecnología no aumenta productividad",
+        "contenido_completo": "La Paradoja de Robert Solow plantea que la digitalización de los centros de trabajo no aumenta los rendimientos. El economista estadunidense observó que las organizaciones que invierten en tecnología no necesariamente aumentan su productividad. Esto ha llevado a cuestionar el impacto real de la tecnología en la economía. La productividad ha sido un tema de debate en la comunidad económica. La relación entre tecnología y productividad es compleja y no siempre lineal. La inversión en tecnología no garantiza un aumento en la productividad. La eficiencia y la innovación son clave para aprovechar al máximo la tecnología.",
+        "categoria": "Economía",
+        "impacto": "bajo",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/05/10/opinion/013o1eco"
+    },
+    {
+        "fecha": "11/05/2026",
+        "titulo": "Hospital Universitario en Sonora",
+        "gancho": "Nueva etapa para la salud",
+        "contenido_completo": "El gobernador Alfonso Durazo Montaño y la presidenta Claudia Sheinbaum Pardo han impulsado la construcción de un nuevo Hospital Universitario en Sonora. Este proyecto busca mejorar la salud y la educación médica en la región. El antiguo Hospital General del Estado ha sido rescatado y se está convirtiendo en un centro de salud de vanguardia. La inversión en salud es fundamental para el desarrollo de la región. La educación médica también es un aspecto importante para garantizar la calidad de la atención médica. El nuevo Hospital Universitario será un centro de referencia para la región y ofrecerá servicios de salud de alta calidad.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/05/10/politica/009n3pol"
+    },
+    {
+        "fecha": "11/05/2026",
+        "titulo": "Robots con IA",
+        "gancho": "Robots con IA",
+        "contenido_completo": "La ciudad de Shenzhen en China es líder en el diseño y producción de robots con IA. La pregunta de qué hace un humano que un robot no pueda es cada vez más relevante. Los robots con IA están siendo utilizados en diversas industrias y están revolucionando la forma en que se trabajan las tareas. La parte más lúdica de los robots con IA es su capacidad para aprender y adaptarse a nuevas situaciones. La IA ha avanzado significativamente en los últimos años y ha permitido a los robots realizar tareas complejas. La colaboración entre humanos y robots con IA es cada vez más común y está cambiando la forma en que se trabajan las tareas.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/05/10/economia/012n1eco"
+    },
+    {
         "fecha": "10/05/2026",
         "titulo": "La Feria del Libro: Una Prueba de Resistencia Cultural",
         "gancho": "Libros vs. Redes Sociales",
