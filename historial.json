@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "13/05/2026",
+        "titulo": "Sui retrocede 1,98 %",
+        "gancho": "Sui cae 1,98 %",
+        "contenido_completo": "Sui experimenta una corrección del 1,98 % hasta los 1,26 dólares con un volumen que se dispara un 109 % por encima del promedio de 30 días. Los indicadores técnicos muestran señales mixtas tras un rally reciente del 39 % en el último mes. Esto puede ser un signo de que el mercado está ajustando su valoración de Sui. La corrección puede ser una oportunidad para los inversores que buscan entrar en el mercado.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/sui-retrocede-198-con-volumen-elevado-y-alerta-tecnica/"
+    },
+    {
+        "fecha": "13/05/2026",
+        "titulo": "Zec cae 4,36 por ciento",
+        "gancho": "Zec cae 4,36 %",
+        "contenido_completo": "Zcash registra una caída del 4,36 por ciento hasta los 550,73 dólares en una jornada marcada por aumento del volumen y debilidad técnica. Aunque conserva ganancias anuales superiores al 1.000 por ciento, la caída puede ser un signo de que el mercado está perdiendo confianza en Zec. Los inversores deben evaluar cuidadosamente los niveles de soporte clave antes de tomar posiciones. La debilidad técnica puede ser un indicador de que el mercado está preparado para una corrección más profunda.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zec-cae-436-por-ciento-y-alerta-a-inversores-de-privacidad/"
+    },
+    {
+        "fecha": "13/05/2026",
+        "titulo": "BNB muestra recuperación moderada",
+        "gancho": "BNB sube 1,42 %",
+        "contenido_completo": "Binance Coin (BNB) registra un avance del 1,42% hasta los USD $661,52 en una jornada de volumen superior al promedio. Aunque el activo sigue lejos de su máximo histórico, la recuperación moderada puede ser un signo de que el mercado está encontrando un nuevo equilibrio. La resistencia técnica en el corto plazo puede ser un desafío para BNB, pero la tendencia a largo plazo sigue siendo positiva. Los inversores deben evaluar cuidadosamente los niveles de soporte clave antes de tomar posiciones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bnb-muestra-recuperacion-moderada-con-volumen-al-alza-fecha/"
+    },
+    {
+        "fecha": "13/05/2026",
+        "titulo": "Dogecoin se consolida en rango estrecho",
+        "gancho": "Dogecoin se mantiene estable",
+        "contenido_completo": "Dogecoin mantiene una posición estable pero frágil alrededor de los 0,1097 dólares, con un volumen decreciente y retornos negativos en múltiples plazos. Los inversores deben evaluar cuidadosamente los niveles de soporte clave antes de tomar posiciones. La estabilidad de Dogecoin puede ser un signo de que el mercado está preparado para una ruptura, pero la falta de volumen y la debilidad técnica pueden ser un desafío. La tendencia a largo plazo sigue siendo incierta, y los inversores deben ser cautelosos al tomar decisiones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dogecoin-se-consolida-en-rango-estrecho-cerca-de-los-011-dolares/"
+    },
+    {
+        "fecha": "13/05/2026",
+        "titulo": "XRP mantiene estabilidad cerca de 1,45 dólares",
+        "gancho": "XRP se mantiene estable",
+        "contenido_completo": "XRP se mantiene en 1,45 dólares con un leve avance del 0,52 por ciento en un contexto de volumen moderado y métricas técnicas que sugieren consolidación. La estabilidad de XRP puede ser un signo de que el mercado está encontrando un nuevo equilibrio. La tendencia a largo plazo sigue siendo positiva, y los inversores deben evaluar cuidadosamente los niveles de soporte clave antes de tomar posiciones. La consolidación puede ser un signo de que el mercado está preparado para una ruptura, pero la falta de volumen y la debilidad técnica pueden ser un desafío.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/xrp-mantiene-estabilidad-cerca-de-145-dolares-con-volumen-al-alza/"
+    },
+    {
         "fecha": "12/05/2026",
         "titulo": "macOS 27: La Nueva Era de Apple",
         "gancho": "IA en Safari",
