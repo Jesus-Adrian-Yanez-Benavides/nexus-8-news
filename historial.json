@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "14/05/2026",
+        "titulo": "Ondo (ONDO) en caída",
+        "gancho": "Cae 5,54%",
+        "contenido_completo": "El token de finanzas reales Ondo (ONDO) registra una caída del 5,54% en las últimas 24 horas y se ubica en 0,4067 dólares, con volumen elevado que supera el promedio de 30 días. Esta caída ha generado alertas técnicas y ha llevado a los inversores a revisar sus estrategias. La situación actual del mercado puede influir en la toma de decisiones para los que buscan invertir en este token.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/ondo-ondo-cae-554-y-eleva-alertas-tecnicas-el-13-de-mayo-de-2026/"
+    },
+    {
+        "fecha": "14/05/2026",
+        "titulo": "Canton Network en descenso",
+        "gancho": "Cae 5,75%",
+        "contenido_completo": "Canton Network (CC) registra una contracción del 5,75% en las últimas veinticuatro horas, situándose en USD $0,1525 con capitalización de mercado de USD $5,87 millones y volumen reducido que alerta sobre posible continuación bajista. Los inversores deben estar atentos a los movimientos del mercado para tomar decisiones informadas. La situación actual puede ser un indicador de tendencias futuras en el sector.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/canton-network-cc-cae-5-75-y-presiona-soportes-clave-el-13-de-mayo/"
+    },
+    {
+        "fecha": "14/05/2026",
+        "titulo": "Midnight en caída",
+        "gancho": "Cae 4,37%",
+        "contenido_completo": "El token Midnight ($NIGHT) registra una caída del 4,37 por ciento en las últimas 24 horas, impulsada por un volumen inusualmente alto que supera en más de 125 por ciento el promedio de 30 días, mientras el precio se mantiene muy por debajo de sus medias móviles. Esta situación puede ser un indicador de una posible corrección en el mercado. Los inversores deben estar atentos a los cambios en el mercado para ajustar sus estrategias.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/midnight-cae-437-por-ciento-ante-volumen-elevado/"
+    },
+    {
+        "fecha": "14/05/2026",
+        "titulo": "Rieju expande su producción",
+        "gancho": "Nueva fábrica",
+        "contenido_completo": "La marca catalana Rieju arranca las obras de su nueva sede en Vilamalla para multiplicar su producción y tecnología. Un paso de gigante para consolidar su éxito de ventas en 2026 y plantar cara a los gigantes del sector. Esta expansión puede ser un indicador de la salud financiera de la empresa y su capacidad para innovar y adaptarse al mercado. Los inversores y entusiastas de la industria deben estar atentos a los desarrollos futuros de Rieju.",
+        "categoria": "Industria",
+        "impacto": "alto",
+        "fuente_nombre": "Todocircuito.com",
+        "fuente_url": "https://www.todocircuito.com/noticias/41953-rieju-vende-tantas-motos-que-ha-tenido-que-empezar-a-construir-una-nueva-fabrica.html"
+    },
+    {
+        "fecha": "14/05/2026",
+        "titulo": "Análisis de ton",
+        "gancho": "Debilidad técnica",
+        "contenido_completo": "El token de Tokamak Network registra una caída del 5,30% y se ubica en USD $2,26, con volumen moderado y señales técnicas mixtas que alertan a los inversores sobre posibles movimientos adicionales en el corto plazo. Los inversores deben analizar cuidadosamente los indicadores técnicos y fundamentales antes de tomar decisiones. La situación actual del mercado puede influir en la toma de decisiones para los que buscan invertir en este token.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/analisis-de-ton-revela-debilidad-tecnica-el-13-de-mayo-de-2026/"
+    },
+    {
         "fecha": "13/05/2026",
         "titulo": "Sui retrocede 1,98 %",
         "gancho": "Sui cae 1,98 %",
