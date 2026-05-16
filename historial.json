@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "16/05/2026",
+        "titulo": "Amazon celebra 15 años en España",
+        "gancho": "Amazon cumple 15 años",
+        "contenido_completo": "La tienda online Amazon.es comenzó a operar el 15 de septiembre de 2011 y el primer pedido realizado fue un ejemplar del Código Penal. Desde entonces, la plataforma ha crecido significativamente, ofreciendo una amplia variedad de productos y servicios a los clientes españoles. En estos 15 años, Amazon ha logrado establecerse como una de las tiendas online más populares en España, con millones de clientes que confían en la plataforma para realizar sus compras. La celebración de este aniversario es un hito importante para la empresa, que sigue trabajando para mejorar y expandir sus servicios en el país.",
+        "categoria": "Ecommerce",
+        "impacto": "bajo",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/amazon-celebra-15-anos-en-espana-2580023"
+    },
+    {
+        "fecha": "16/05/2026",
+        "titulo": "Xbox Series X puede recibir FSR 4.1",
+        "gancho": "Xbox Series X actualizado",
+        "contenido_completo": "AMD ha anunciado que la tecnología FSR 4.1 llegará a las tarjetas gráficas Radeon RX 6000 y Radeon RX 7000 de forma oficial. Esto significa que los jugadores de Xbox Series X podrán disfrutar de una experiencia de juego más fluida y con mejores gráficos. La tecnología FSR 4.1 es una herramienta de escalado de imagen que permite mejorar la calidad de la imagen en tiempo real, lo que puede ser especialmente útil en juegos que requieren una gran cantidad de recursos gráficos. La noticia ha generado gran expectación entre los jugadores y los entusiastas de la tecnología, que esperan ver cómo esta actualización mejorará la experiencia de juego en la consola de Microsoft.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Muycomputer.com",
+        "fuente_url": "https://www.muycomputer.com/2026/05/15/xbox-series-x-puede-recibir-fsr-4-1-ps5-no-tiene-potencia-suficiente/"
+    },
+    {
+        "fecha": "16/05/2026",
+        "titulo": "Meet the Tech con Google Pixel 10",
+        "gancho": "Google Pixel 10 presentado",
+        "contenido_completo": "El evento Meet the Tech ha sido el escenario para la presentación del nuevo Google Pixel 10. El evento ha sido descrito como un momento tecnológico que rompe moldes, con una presentación que se ha centrado en la tecnología que ayuda a las personas, en lugar de complicarlas. El Google Pixel 10 ha sido presentado como un dispositivo que combina la última tecnología con una experiencia de usuario intuitiva y fácil de usar. Los detalles del dispositivo aún no han sido revelados, pero se espera que sea una de las opciones más atractivas en el mercado de los smartphones en los próximos meses.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Adslzone.net",
+        "fuente_url": "https://www.adslzone.net/noticias/marcas/movistar-meet-the-tech-google-pixel-10/"
+    },
+    {
+        "fecha": "16/05/2026",
+        "titulo": "DJI lanza la Osmo Pocket 4P",
+        "gancho": "Cámara de bolsillo DJI",
+        "contenido_completo": "DJI ha lanzado la Osmo Pocket 4P, una cámara de bolsillo que ofrece calidad cinematográfica y estabilización profesional. La cámara cuenta con un sensor de 10 bits y un rendimiento excelente en condiciones de poca iluminación, lo que la hace ideal para creadores de contenido que buscan capturar imágenes de alta calidad en cualquier situación. La Osmo Pocket 4P es una herramienta versátil que puede ser utilizada para una variedad de aplicaciones, desde la creación de contenido para redes sociales hasta la producción de videos profesionales.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/ciencia-tecnologia/tecnologia/2026-05-15/dji-lanza-la-osmo-pocket-4p-una-camara-de-bolsillo-con-calidad-cinematografica-7404971/"
+    },
+    {
+        "fecha": "16/05/2026",
+        "titulo": "Probamos el renovado CUPRA Born",
+        "gancho": "Coche eléctrico CUPRA",
+        "contenido_completo": "El CUPRA Born es un coche eléctrico que ha sido renovado y mejorado en su segunda generación. El vehículo ofrece un rendimiento prestacional y una calidad brutal que justifica su precio. Con más de 170.000 unidades vendidas desde su lanzamiento en 2021, el CUPRA Born ha demostrado ser un éxito en el mercado. La nueva generación del coche eléctrico ofrece mejoras significativas en términos de diseño, tecnología y rendimiento, lo que lo convierte en una opción atractiva para aquellos que buscan un vehículo eléctrico de alta calidad.",
+        "categoria": "Automoción",
+        "impacto": "bajo",
+        "fuente_nombre": "Motorpasión",
+        "fuente_url": "https://www.motorpasion.com/pruebas-de-coches/cupra-born-2026-toma-contacto"
+    },
+    {
         "fecha": "15/05/2026",
         "titulo": "Caída Abrupta De Zec",
         "gancho": "Zec cae 9.74%",
