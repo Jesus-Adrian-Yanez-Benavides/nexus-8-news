@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "17/05/2026",
+        "titulo": "Iluminación para espacios pequeños",
+        "gancho": "Lámparas para pisos pequeños",
+        "contenido_completo": "Las lámparas que ocupan poco espacio se han convertido en la solución de iluminación favorita de quienes viven en pisos pequeños, estudios o apartamentos urbanos donde cada centímetro cuenta. Una lámpara bien elegida no solo ilumina, sino que también decora. En este artículo, exploraremos las mejores opciones de lámparas para espacios pequeños y cómo elegir la que mejor se adapte a tus necesidades. Desde lámparas de mesa hasta lámparas de techo, hay una variedad de opciones para iluminar tu espacio de manera efectiva y estilosa.",
+        "categoria": "Hogar",
+        "impacto": "bajo",
+        "fuente_nombre": "Decoracion2.com",
+        "fuente_url": "https://decoracion2.com/lamparas-que-ocupan-poco/"
+    },
+    {
+        "fecha": "17/05/2026",
+        "titulo": "El SUV híbrido más pequeño de Jaecoo",
+        "gancho": "SUV híbrido con 224 CV",
+        "contenido_completo": "El Jaecoo 7 ha sido uno de los elegidos para el desembarco comercial de Omoda y Jaecoo en España. Un coche que gracias a su diseño con aires de todoterreno y acertada posición en el mercado otorgada por su relación entre tamaño, precio, tecnología y equipamiento. El Jaecoo 7 es un SUV híbrido que ofrece una excelente relación entre potencia y eficiencia, con un consumo de combustible de solo 5,3 l/100 km. En este artículo, exploraremos las características y beneficios de este vehículo innovador.",
+        "categoria": "Automoción",
+        "impacto": "alto",
+        "fuente_nombre": "Diariomotor.com",
+        "fuente_url": "https://www.diariomotor.com/noticia/jaecoo-5-shs/"
+    },
+    {
+        "fecha": "17/05/2026",
+        "titulo": "Cilindros gigantes para buques de carga",
+        "gancho": "Reducción del 50% de combustible",
+        "contenido_completo": "El proyecto, llamado CoFlow Jet y liderado por GeCheng Zha, pretende optimizar los rotores Flettner. Un tipo de vela para buques de grandes dimensiones que reduce la dependencia del diésel. Los cilindros gigantes colocados en los buques de carga han demostrado ser efectivos en la reducción del consumo de combustible, lo que puede tener un impacto significativo en la industria marítima. En este artículo, exploraremos los detalles del proyecto y sus posibles implicaciones para el futuro de la navegación.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencial.com",
+        "fuente_url": "https://www.elconfidencial.com/tecnologia/2026-05-16/cilindros-buques-90-menos-combustible-1qrt_4356074/"
+    },
+    {
+        "fecha": "17/05/2026",
+        "titulo": "Monitor gaming con panel QD-OLED",
+        "gancho": "Primer monitor con QD-OLED",
+        "contenido_completo": "MSI presentó en el día de hoy su MAG OLED 271QPX32, un nuevo monitor gaming que alardea de ser el primero en ofrecer un panel QD-OLED Penta Tandem de 27 pulgadas con resolución WQHD. Aunque bueno, siendo sinceros, hay que indicar que realmente el panel tiene una resolución ligeramente inferior. Sin embargo, el monitor ofrece una excelente calidad de imagen y una frecuencia de refresco de 320 Hz, lo que lo convierte en una excelente opción para los jugadores más exigentes. En este artículo, exploraremos las características y beneficios de este monitor innovador.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Elchapuzasinformatico.com",
+        "fuente_url": "https://elchapuzasinformatico.com/?p=652091"
+    },
+    {
+        "fecha": "17/05/2026",
+        "titulo": "Análisis de Blade Runner",
+        "gancho": "Una película que no envejece",
+        "contenido_completo": "Hay películas que no envejecen. Blade Runner es una de ellas. La vi por tercera vez el lunes, en el teatro Colón, mientras el ensamble Nexus-7, integrado por 14 destacados músicos, interpretaba sobre el escenario la música original de Vangelis. La presencia de la música en vivo añadió una nueva dimensión a la experiencia cinematográfica, y me permitió apreciar la película de una manera diferente. En este artículo, exploraremos la película Blade Runner y su impacto en la cultura popular, así como la música que la acompaña.",
+        "categoria": "Cine",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/opinion/ante-el-mundo-distopico-de-blade-runner-nid16052026/"
+    },
+    {
         "fecha": "16/05/2026",
         "titulo": "Amazon celebra 15 años en España",
         "gancho": "Amazon cumple 15 años",
