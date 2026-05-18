@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "18/05/2026",
+        "titulo": "Autos 0km a precios accesibles",
+        "gancho": "Autos 0km por menos de 31M",
+        "contenido_completo": "En el mercado argentino, se pueden encontrar autos 0km a precios accesibles. Con subas moderadas y una creciente presencia de modelos chinos y eléctricos, la oferta más accesible del mercado está cambiando. Los precios de los autos 0km varían según el modelo y la marca, pero hay opciones disponibles por menos de 31 millones de pesos. Esto es una buena noticia para aquellos que buscan adquirir un vehículo nuevo sin gastar una fortuna. La competencia en el mercado argentino es feroz, lo que beneficia a los consumidores.",
+        "categoria": "Autos",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/autos/estos-10-autos-0km-se-consiguen-por-menos-de-31-millones-de-pesos-nid17052026/"
+    },
+    {
+        "fecha": "18/05/2026",
+        "titulo": "Proyectos culturales en Barcelona",
+        "gancho": "Barcelona revive la ramblea",
+        "contenido_completo": "En Barcelona, se están llevando a cabo varios proyectos culturales con el objetivo de revivir la tradición de la ramblea. La Generación X y los 'boomers' recuerdan con nostalgia los días en que la ramblea era una parte importante de la vida social en la ciudad. Ahora, los barceloneses están trabajando para recuperar esta tradición y hacer que la ciudad sea un lugar más atractivo y divertido. Los proyectos incluyen eventos culturales, exposiciones y actividades para todos los gustos. La ciudad está trabajando para que los barceloneses vuelvan a disfrutar de la ramblea y hacer que la ciudad sea un lugar más vibrante.",
+        "categoria": "Cultura",
+        "impacto": "bajo",
+        "fuente_nombre": "Elperiodico.com",
+        "fuente_url": "https://www.elperiodico.com/es/ocio-y-cultura/20260517/proyectos-culturales-en-la-rambla-teatre-principal-centre-dart-digital-de-catalunya-teatre-capitol-130123180"
+    },
+    {
+        "fecha": "18/05/2026",
+        "titulo": "Meta y la IA",
+        "gancho": "Meta graba a sus empleados",
+        "contenido_completo": "La empresa Meta está invirtiendo masivamente en el desarrollo de la inteligencia artificial (IA) y tecnologías críticas. Sin embargo, esto ha generado preocupación entre los empleados, que no saben si serán despedidos. Mientras tanto, la empresa está grabando todo lo que hacen en el ordenador, lo que ha generado un clima de incertidumbre y desconfianza. La empresa de Zuckerberg está en una fase de transformación, y los empleados están pagando el precio. La IA es un tema importante en la industria tecnológica, y Meta está trabajando para estar a la vanguardia.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/empresas-y-economia/empleados-meta-llevan-semanas-saber-van-a-despedir-empresa-graba-todo-que-hacen-ordenador"
+    },
+    {
+        "fecha": "18/05/2026",
+        "titulo": "EBRO expande su presencia en Europa",
+        "gancho": "EBRO llega a Bulgaria",
+        "contenido_completo": "La marca española EBRO está expandiendo su presencia en Europa, y ahora ha llegado a Bulgaria. La empresa ha puesto en marcha una gama de vehículos SUV que combina gasolina, híbridos y enchufables. Esto es un paso importante para la empresa, que busca consolidar su posición en el mercado europeo. La expansión de EBRO es un ejemplo de cómo las empresas españolas pueden tener éxito en el mercado internacional. La gama de vehículos de EBRO es atractiva y ofrece opciones para todos los gustos y necesidades.",
+        "categoria": "Autos",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/ebro-suma-pais-ofensiva-europea-toda-gama-suv/202605171330241021179.html"
+    },
+    {
+        "fecha": "18/05/2026",
+        "titulo": "Parque temático de robots en Corea",
+        "gancho": "Robots que bailan K-Pop",
+        "contenido_completo": "En Corea, se está abriendo un nuevo parque temático que combina tecnología y entretenimiento. El parque cuenta con robots que bailan K-Pop, tecnología de captura de movimiento y experiencias interactivas para niños. Esto es un ejemplo de cómo la tecnología puede ser utilizada para crear experiencias únicas y divertidas. El parque temático es un lugar donde los visitantes pueden disfrutar de la música y la danza de K-Pop, mientras que también aprenden sobre la tecnología y la innovación. La combinación de tecnología y entretenimiento es un tema importante en la industria del ocio, y este parque temático es un ejemplo de cómo se puede hacer realidad.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Montevideo.com.uy",
+        "fuente_url": "https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Robots-que-bailan-K-Pop-el-nuevo-parque-tematico-que-va-a-abrir-en-Corea-uc962329"
+    },
+    {
         "fecha": "17/05/2026",
         "titulo": "Iluminación para espacios pequeños",
         "gancho": "Lámparas para pisos pequeños",
