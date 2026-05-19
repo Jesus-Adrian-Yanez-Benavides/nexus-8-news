@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "19/05/2026",
+        "titulo": "Becas Sof.ia para mujeres en STEM",
+        "gancho": "Becas para impulsar talento femenino",
+        "contenido_completo": "La compañía tecnológica Nunsys Group ha anunciado la apertura oficial de la convocatoria de las Becas Sof.ia by Nunsys Group, una iniciativa enmarcada en su estrategia de responsabilidad social corporativa que cuenta con el apoyo del mayorista tecnológico TD. Estas becas tienen como objetivo impulsar el talento femenino en las áreas de ciencia, tecnología, ingeniería y matemáticas (STEM) en 7 universidades públicas. La iniciativa busca fomentar la igualdad de género en el sector tecnológico y brindar oportunidades a mujeres talentosas para que puedan desarrollar sus habilidades y alcanzar sus metas. Las becas ofrecerán apoyo financiero y mentoría a las beneficiarias, lo que les permitirá enfocarse en sus estudios y proyectos sin preocupaciones económicas. La convocatoria está abierta hasta el próximo mes de junio, y las interesadas pueden enviar sus solicitudes a través de la página web de Nunsys Group.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/sociedad/educacion-00468/noticia-abierta-convocatoria-becas-sofia-impulsar-talento-femenino-stem-universidades-publicas-20260518125246.html"
+    },
+    {
+        "fecha": "19/05/2026",
+        "titulo": "El Papa firma encíclica sobre IA",
+        "gancho": "Papa firma encíclica sobre IA",
+        "contenido_completo": "El Papa firmó su primera encíclica, titulada 'Magnifica humanitas' (Magnífica humanidad), que se publicará el próximo 25 de mayo. La encíclica es un canto a la dignidad humana en un mundo cada vez más guiado por la Inteligencia Artificial. En ella, el Papa reflexiona sobre el impacto de la IA en la sociedad y la humanidad, y llama a la reflexión sobre los valores y principios que deben guiar el desarrollo y el uso de esta tecnología. La encíclica es un llamado a la conciencia y a la responsabilidad, y busca inspirar a los líderes y a la sociedad en general a considerar las implicaciones éticas y morales de la IA. El Papa destaca la importancia de preservar la dignidad humana en un mundo cada vez más automatizado, y de asegurarse de que la IA se utilice para el bien común. La encíclica es un documento importante que busca generar un debate y una reflexión profunda sobre el papel de la IA en la sociedad.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/sociedad/papa-firma-primera-enciclica-alegato-dignidad-humana-20260518124956-nt.html"
+    },
+    {
+        "fecha": "19/05/2026",
+        "titulo": "Sygnum activa agentes de IA para transacciones",
+        "gancho": "Sygnum usa IA para transacciones",
+        "contenido_completo": "Sygnum, una empresa de banca cripto, ha activado agentes de IA para realizar transacciones on-chain. Esto marca un giro en la banca cripto, ya que la IA se utiliza para automatizar y agilizar las transacciones. Los clientes de Sygnum pueden mantener la autocustodia y aprobar cada firma desde su propio dispositivo, lo que les da un mayor control sobre sus activos. La implementación de la IA en las transacciones on-chain es un paso importante hacia la adopción masiva de la tecnología blockchain. Sygnum busca ofrecer a sus clientes una experiencia más segura y eficiente, y la IA es una herramienta clave para lograrlo. La empresa ha ejecutado transacciones on-chain en vivo con un agente de IA, en un piloto que ha demostrado la viabilidad y la seguridad de esta tecnología. Esto abre nuevas posibilidades para la banca cripto y la industria financiera en general.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/sygnum-activa-agentes-de-ia-para-transacciones-on-chain-y-marca-un-giro-en-la-banca-cripto/"
+    },
+    {
+        "fecha": "19/05/2026",
+        "titulo": "Españoles y la IA en compras",
+        "gancho": "Españoles permiten IA en compras",
+        "contenido_completo": "Un estudio reciente ha revelado que el 40% de los españoles permitiría que una IA les sustituya para comprar ropa o tecnología. Sin embargo, el 93% de los españoles quiere que la IA ayude a comprar, pero sin perder nunca el control final de la decisión. Esto sugiere que los consumidores españoles están dispuestos a aceptar la IA como una herramienta de ayuda, pero no como una sustituta de su toma de decisiones. El estudio también encontró que el 63% de los españoles ve la dependencia de agentes de IA no europeos como un riesgo para la soberanía digital. Esto destaca la importancia de desarrollar soluciones de IA que sean transparentes, seguras y respeten la privacidad de los usuarios. La adopción de la IA en las compras es un tema complejo que requiere un enfoque equilibrado entre la innovación y la protección del consumidor.",
+        "categoria": "IA",
+        "impacto": "bajo",
+        "fuente_nombre": "Puromarketing.com",
+        "fuente_url": "https://www.puromarketing.com/102/217127/espanoles-permitiria-sustituya-para-comprar-ropa-tecnologia"
+    },
+    {
+        "fecha": "19/05/2026",
+        "titulo": "Hackeos en préstamos DeFi",
+        "gancho": "Hackeos en préstamos DeFi",
+        "contenido_completo": "Un informe reciente ha revelado que los préstamos DeFi en redes EVM y Solana registraron durante los últimos 12 meses una pérdida neta por hacks cercana a 3 puntos básicos del valor total bloqueado. Esto equivale a unos USD $3 por cada USD $10.000 depositados. Aunque el dato sugiere una exposición relativamente baja al riesgo de hacks, es importante destacar que la seguridad es un tema crítico en la industria DeFi. Los hacks pueden tener consecuencias devastadoras para los inversores y la reputación de la industria en general. Es fundamental que las plataformas DeFi implementen medidas de seguridad robustas y transparentes para proteger a sus usuarios y sus activos. La industria DeFi debe seguir trabajando para mejorar la seguridad y la confianza de los inversores, y los reguladores deben seguir monitoreando la situación para garantizar que se cumplan los estándares de seguridad y protección del consumidor.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/seguridad/hackeos-en-prestamos-defi-costaron-solo-usd-3-por-cada-usd-10-000-bloqueados-en-el-ultimo-ano/"
+    },
+    {
         "fecha": "18/05/2026",
         "titulo": "Autos 0km a precios accesibles",
         "gancho": "Autos 0km por menos de 31M",
