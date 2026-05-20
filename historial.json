@@ -1,5 +1,55 @@
 [
     {
+        "fecha": "20/05/2026",
+        "titulo": "Anthropic vs Pentágono",
+        "gancho": "Pentágono incluye a Anthropic en lista negra",
+        "contenido_completo": "Anthropic y el Departamento de Defensa de Estados Unidos se enfrentan en una corte federal de apelaciones en Washington por la decisión del Pentágono de incluir a la firma de IA en una lista negra asociada a riesgos para la cadena de suministro. Esta decisión ha generado un conflicto entre ambas partes, con Anthropic argumentando que la inclusión en la lista negra es injustificada y el Pentágono defendiendo su decisión. El resultado de este conflicto puede tener implicaciones significativas para la industria de la inteligencia artificial. La corte federal de apelaciones deberá decidir si la inclusión de Anthropic en la lista negra es legítima o no. La decisión del Pentágono ha generado un debate sobre la seguridad y la confiabilidad de las empresas de IA en la cadena de suministro. La industria de la IA está bajo escrutinio y el resultado de este caso puede establecer un precedente para futuras decisiones.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/anthropic-y-el-pentagono-chocan-en-corte-por-polemica-lista-negra-del-dod/"
+    },
+    {
+        "fecha": "20/05/2026",
+        "titulo": "El mercado inmobiliario se reinventa",
+        "gancho": "Menos 'ratoneras' en el mercado",
+        "contenido_completo": "El mercado inmobiliario está experimentando un cambio significativo en su enfoque y estrategia. La industria del real estate está redefiniendo su negocio para adaptarse a las necesidades cambiantes de los consumidores. La tendencia es hacia la creación de viviendas reales y sostenibles, en lugar de simples 'ratoneras' o espacios de inversión. Esto se debe a la creciente demanda de viviendas asequibles y sostenibles, así como a la necesidad de reducir el impacto ambiental de la construcción. La industria del real estate está respondiendo a este cambio mediante la implementación de nuevas tecnologías y estrategias de marketing. El resultado es un mercado inmobiliario más diversificado y sostenible. La industria está trabajando para crear viviendas que no solo sean asequibles, sino también sostenibles y respetuosas con el medio ambiente. Esto puede tener un impacto positivo en la calidad de vida de las personas y en el planeta en general.",
+        "categoria": "Inmobiliario",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/el-mercado-inmobiliario-redefine-su-negocio-menos-ratoneras-y-mas-vivienda-real-nid19052026/"
+    },
+    {
+        "fecha": "20/05/2026",
+        "titulo": "TikTok expande sus servicios financieros",
+        "gancho": "TikTok busca licencia bancaria en Brasil",
+        "contenido_completo": "TikTok está acelerando su expansión en los servicios financieros con dos movimientos importantes. La primera es la solicitud de licencia bancaria en Brasil, lo que le permitiría ofrecer servicios bancarios a sus usuarios en el país. La segunda es una alianza con Visa en Reino Unido para mejorar los pagos a creadores de contenido. Esta estrategia refuerza la tendencia de las finanzas digitales y la expansión de las plataformas de redes sociales en el sector financiero. TikTok busca aprovechar su gran base de usuarios para ofrecer servicios financieros innovadores y accesibles. La expansión de TikTok en los servicios financieros puede tener un impacto significativo en la industria financiera, ya que puede atraer a nuevos usuarios y ofrecer servicios más personalizados y accesibles. La alianza con Visa en Reino Unido es un paso importante en esta dirección, ya que permitirá a TikTok ofrecer pagos más seguros y eficientes a sus creadores de contenido.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/tiktok-acelera-su-ofensiva-financiera-con-banca-en-brasil-y-pagos-en-reino-unido/"
+    },
+    {
+        "fecha": "20/05/2026",
+        "titulo": "SpaceX se acerca a la IPO",
+        "gancho": "SpaceX amenaza con eclipsar a Tesla",
+        "contenido_completo": "La inminente salida a bolsa de SpaceX puede tener un impacto significativo en la industria financiera y en la percepción de la empresa de Elon Musk. La salida a bolsa de SpaceX puede abrir una nueva puerta para invertir en el imperio de Elon Musk, pero también puede restarle atención y capital a Tesla. La valuación de Tesla depende en gran parte de la fe del mercado en la visión y la capacidad de Elon Musk para innovar y liderar la industria. La salida a bolsa de SpaceX puede cambiar la dinámica de la industria y la percepción de los inversores sobre la empresa de Elon Musk. La competencia entre SpaceX y Tesla puede ser beneficiosa para ambas empresas, ya que puede impulsar la innovación y la competencia en la industria. Sin embargo, también puede generar desafíos para Tesla, ya que puede perder la atención y el capital de los inversores.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados/spacex-se-acerca-a-la-opi-y-amenaza-con-quitarle-brillo-y-capital-a-tesla/"
+    },
+    {
+        "fecha": "20/05/2026",
+        "titulo": "Desmantelan granja de minería de Bitcoin",
+        "gancho": "4.000 ASIC incautados en Venezuela",
+        "contenido_completo": "La gobernación del estado Aragua en Venezuela ha desmantelado una granja de minería de Bitcoin que contaba con 4.000 ASIC. La granja de minería estaba ubicada en la Zona Industrial de San Vicente y fue desmantelada en un operativo llevado a cabo por las autoridades. La incautación de los ASIC puede tener un impacto significativo en la industria de la minería de criptomonedas en Venezuela. La minería de criptomonedas es una actividad que requiere una gran cantidad de energía y recursos, y la incautación de los ASIC puede generar desafíos para los mineros de criptomonedas en el país. La industria de la minería de criptomonedas está bajo escrutinio en muchos países, y la incautación de los ASIC en Venezuela puede ser un ejemplo de la creciente regulación y control de la industria. La granja de minería de Bitcoin era una de las más grandes del país, y su desmantelamiento puede tener un impacto significativo en la economía y la industria de la minería de criptomonedas en Venezuela.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Criptonoticias.com",
+        "fuente_url": "https://www.criptonoticias.com/mineria/desmantelan-granja-mineria-bitcoin-venezuela-4000-asic/"
+    },
+    {
         "fecha": "19/05/2026",
         "titulo": "Becas Sof.ia para mujeres en STEM",
         "gancho": "Becas para impulsar talento femenino",
