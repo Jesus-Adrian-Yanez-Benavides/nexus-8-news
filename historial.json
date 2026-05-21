@@ -1,55 +1,5 @@
 [
     {
-        "fecha": "21/05/2026",
-        "titulo": "Transformación de El Higuerón en Córdoba",
-        "gancho": "Inversión millonaria para BLET",
-        "contenido_completo": "La futura Base Logística del Ejército de Tierra en Córdoba sigue dando pasos decisivos antes incluso de entrar en funcionamiento. El Ministerio de Defensa ha activado una nueva inversión estratégica en El Higuerón para responder al crecimiento acelerado de pe. La Base Logística del Ejército de Tierra en Córdoba es un proyecto ambicioso que busca modernizar y mejorar la capacidad de respuesta del Ejército de Tierra en la región. Con esta inversión, el Ministerio de Defensa busca acelerar la transformación de El Higuerón en una base logística de última generación.",
-        "categoria": "Defensa",
-        "impacto": "alto",
-        "fuente_nombre": "Elconfidencialdigital.com",
-        "fuente_url": "https://www.elconfidencialdigital.com/articulo/defensa/defensa-acelera-transformacion-higueron-cordoba-inversion-millonaria-blet/202605201311191021893.html"
-    },
-    {
-        "fecha": "21/05/2026",
-        "titulo": "Xiaomi prepara su primer coche con motor de gasolina",
-        "gancho": "SUV con 1.500 km de autonomía",
-        "contenido_completo": "Xiaomi prepara su primer coche con motor de gasolina, un SUV con 1.500 km de autonomía que también funcionará 400 km en eléctrico. El coche de Xiaomi será un modelo híbrido que combina un motor de gasolina con un motor eléctrico. Con esta nueva iniciativa, Xiaomi busca expandir su presencia en el mercado de la automoción y ofrecer a sus clientes una opción más sostenible y eficiente. El coche de Xiaomi será probablemente lanzado bajo una marca diferente, ya que la empresa busca diferenciar su oferta de automóviles de su línea de productos electrónicos.",
-        "categoria": "Gadgets",
-        "impacto": "bajo",
-        "fuente_nombre": "Diariomotor.com",
-        "fuente_url": "https://www.diariomotor.com/noticia/coche-autonomia-extendida-xiaomi/"
-    },
-    {
-        "fecha": "21/05/2026",
-        "titulo": "Airbus suma Sevilla a Getafe para convertir A330 civiles en aviones cisterna militares",
-        "gancho": "Nueva línea de producción en 2027",
-        "contenido_completo": "Airbus suma Sevilla a Getafe para convertir A330 civiles en aviones cisterna militares. La planta de San Pablo incorporará 200 trabajadores a una nueva línea que debe estar operativa en 2027 para elevar la capacidad de cinco a siete entregas anuales. Esta nueva línea de producción permitirá a Airbus aumentar su capacidad para convertir aviones civiles en aviones cisterna militares, lo que ayudará a satisfacer la demanda creciente de aviones cisterna militares en todo el mundo. La incorporación de Sevilla a Getafe como centro de producción de aviones cisterna militares refuerza la posición de Airbus como líder en la industria aeronáutica.",
-        "categoria": "Aviación",
-        "impacto": "alto",
-        "fuente_nombre": "Elconfidencial.com",
-        "fuente_url": "https://www.elconfidencial.com/espana/andalucia/2026-05-20/airbus-suma-sevilla-a-getafe-para-convertir-a330-civiles-en-aviones-cisterna-militares_4358215/"
-    },
-    {
-        "fecha": "21/05/2026",
-        "titulo": "UGREEN reinventa los cargadores compactos",
-        "gancho": "Nueva gama UGREEN Air Series",
-        "contenido_completo": "UGREEN quiere reinventar los cargadores compactos con su nueva gama UGREEN Air Series. La empresa busca ofrecer a sus clientes una opción más cómoda y eficiente para cargar sus dispositivos en movimiento. La nueva gama de cargadores compactos de UGREEN está diseñada para ser más ligera y compacta que los modelos tradicionales, lo que la hace ideal para llevar en una mochila o bolso. Con esta nueva iniciativa, UGREEN busca diferenciarse en el mercado de los cargadores y ofrecer a sus clientes una opción más innovadora y práctica.",
-        "categoria": "Hardware",
-        "impacto": "bajo",
-        "fuente_nombre": "Androidsis.com",
-        "fuente_url": "https://www.androidsis.com/ugreen-air-series-cargadores-compactos-65w/"
-    },
-    {
-        "fecha": "21/05/2026",
-        "titulo": "Trump ordena revisar acceso de empresas cripto a sistemas de pagos de la FED",
-        "gancho": "Revisión de barreras bancarias",
-        "contenido_completo": "La administración de Donald Trump ordenó revisar posibles barreras bancarias que estarían dificultando el acceso de empresas fintech a los sistemas de pago de la Reserva Federal. Esta medida tiene implicaciones directas para el ecosistema cripto y el debate sobre la regulación de las criptomonedas. La revisión de las barreras bancarias podría permitir a las empresas cripto acceder a los sistemas de pago de la Reserva Federal, lo que podría aumentar la adopción de las criptomonedas y mejorar la eficiencia de los pagos en línea. Sin embargo, también plantea preocupaciones sobre la seguridad y la estabilidad del sistema financiero.",
-        "categoria": "Finanzas",
-        "impacto": "alto",
-        "fuente_nombre": "Diariobitcoin.com",
-        "fuente_url": "https://www.diariobitcoin.com/regulacion/trump-ordena-revisar-acceso-de-empresas-cripto-a-sistemas-de-pagos-de-la-fed/"
-    },
-    {
         "fecha": "20/05/2026",
         "titulo": "Anthropic vs Pentágono",
         "gancho": "Pentágono incluye a Anthropic en lista negra",
