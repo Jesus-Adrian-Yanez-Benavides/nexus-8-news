@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "22/05/2026",
+        "titulo": "Bitcoin y riesgo cuántico",
+        "gancho": "Vulnerabilidad en Bitcoin",
+        "contenido_completo": "Nuevos datos de Glassnode sugieren que el riesgo cuántico sobre Bitcoin no se concentra solo en scripts antiguos, sino también en decisiones operativas como reutilizar direcciones o exponer claves públicas tras gastar fondos. El riesgo cuántico es un tema de gran importancia para la seguridad de las criptomonedas, ya que podría permitir a los atacantes acceder a fondos y comprometer la integridad de la red. La comunidad de Bitcoin debe tomar medidas para mitigar este riesgo y proteger la seguridad de la red.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/criptomonedas/bitcoin-enfrenta-riesgo-cuantico-glassnode-estima-vulnerable-mas-del-30-del-suministro-emitido/"
+    },
+    {
+        "fecha": "22/05/2026",
+        "titulo": "El Sol celebra 40 años",
+        "gancho": "IA y publicidad",
+        "contenido_completo": "Málaga acoge la 40ª edición de El Sol, marcada por la IA, las marcas y el futuro creativo de la publicidad iberoamericana. El evento contará con una variedad de programas y actividades que explorarán las últimas tendencias en la industria publicitaria. La celebración de este aniversario es un momento importante para la comunidad publicitaria, ya que se reunirán expertos y profesionales para compartir conocimientos y experiencias. La IA y la creatividad serán los ejes centrales de la edición de este año.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Marketingdirecto.com",
+        "fuente_url": "https://www.marketingdirecto.com/marketing-general/eventos-y-formacion/el-sol-celebra-40-anos-mas-inscripciones-uno-sus-programas-mas-ambiciosos"
+    },
+    {
+        "fecha": "22/05/2026",
+        "titulo": "LEPAS L8: SUV chino",
+        "gancho": "SUV híbrido enchufable",
+        "contenido_completo": "LEPAS quiere entrar en España sin limitar su discurso a la autonomía ni al precio. El L8 es un SUV híbrido enchufable de 279 CV que llega bajo el paraguas de Chery y busca hacerse sitio en una zona cada vez más competida del mercado. El LEPAS L8 cuenta con características innovadoras y tecnología de vanguardia, lo que lo convierte en un competidor serio en el mercado de los vehículos híbridos. La empresa busca ofrecer una alternativa atractiva a los consumidores españoles, con un enfoque en la sostenibilidad y el rendimiento.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/lepas-l8-suv-chino-279-cv-que-prepara-salto-espana/202605211238161022126.html"
+    },
+    {
+        "fecha": "22/05/2026",
+        "titulo": "Irán y EE. UU. en tensión",
+        "gancho": "Trump amenaza a Irán",
+        "contenido_completo": "Irán confirmó que revisa la más reciente posición de Estados Unidos para poner fin a la guerra, mientras Donald Trump asegura que puede esperar unos días más por una respuesta, aunque mantiene la amenaza de nuevos ataques. El estancamiento mantiene en vilo al mundo entero, ya que la situación entre ambos países es cada vez más tensa. La comunidad internacional sigue de cerca los acontecimientos, esperando una resolución pacífica. La situación es delicada y requiere una solución diplomática para evitar mayores conflictos.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/noticias/iran-revisa-propuesta-de-ee-uu-mientras-trump-amenaza-con-nuevos-ataques/"
+    },
+    {
+        "fecha": "22/05/2026",
+        "titulo": "Festival de Iberdrola en Bilbao",
+        "gancho": "Juanes actúa en Bilbao",
+        "contenido_completo": "Iberdrola celebrará el próximo 12 de junio una festival gratuito y de acceso libre en el parque de Doña Casilda de Bilbao con motivo de su 125 aniversario en el que actuarán Juanes, Antonio Orozco, Rigoberta Bandini y Süne. A continuación, tendrá lugar un evento especial para conmemorar este hito en la historia de la empresa. El festival contará con una variedad de actividades y actuaciones musicales que deleitarán a los asistentes. La celebración de este aniversario es un momento importante para Iberdrola y su comunidad.",
+        "categoria": "Eventos",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/euskadi/noticia-festival-juanes-antonio-orozco-rigoberta-bandini-conmemora-12-junio-bilbao-125-anos-iberdrola-20260521124308.html"
+    },
+    {
         "fecha": "20/05/2026",
         "titulo": "Nace NEXUS 8",
         "gancho": "Descubre Nexus 8, el ecosistema definitivo para derribar las barreras entre el pensamiento humano y la potencia tecnológica.",
