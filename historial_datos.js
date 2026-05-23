@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "23/05/2026",
+        "titulo": "Mini proyectores para cine en casa",
+        "gancho": "Cine en casa con mini proyectores",
+        "contenido_completo": "Durante años, montar cine en casa parecía caro, complicado y reservado para salones enormes. Pero los mini proyectores están cambiando completamente esa idea. Ahora mucha gente está proyectando Netflix, YouTube o partidos directamente en habitación, terraza o incluso en el jardín. Los mini proyectores son pequeños, fáciles de usar y ofrecen una excelente calidad de imagen. Además, son muy asequibles, lo que los hace accesibles a un público más amplio. Con la ayuda de estos dispositivos, cualquier espacio puede convertirse en un cine, lo que es ideal para aquellos que buscan una experiencia de entretenimiento única y emocionante.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260522/1004186305/mini-proyectores-magcubic-haciendo-gente-vuelva-montar-cine-casa-mkt-alie.html"
+    },
+    {
+        "fecha": "23/05/2026",
+        "titulo": "El Samsung Galaxy S27 Ultra cambia su diseño",
+        "gancho": "Diseño innovador para Galaxy S27 Ultra",
+        "contenido_completo": "Una reciente filtración del reputado leaker Ice Universe nos muestra el supuesto diseño del nuevo Galaxy S27 Ultra con una barra de cámaras horizontal que es una mezcla entre la de los Pixel y la del mítico Galaxy S10. Esto podría ser un cambio significativo en el diseño de la serie Galaxy S, que ha mantenido un diseño similar durante varios años. La barra de cámaras horizontal podría ofrecer mejoras en la calidad de las fotos y la estabilidad de la cámara, lo que sería un gran atractivo para los fanáticos de la fotografía móvil. Sin embargo, es importante tener en cuenta que esta es solo una filtración y que el diseño final del Galaxy S27 Ultra podría ser diferente.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/samsung-galaxy-s/fin-algo-diferente-samsung-galaxy-s27-ultra-abandona-camara-vertical-barra-tipo-pixel-cambia-todo_202605226a100e9e7e0b46320790c817.html"
+    },
+    {
+        "fecha": "23/05/2026",
+        "titulo": "La NASA busca soluciones para el combustible espacial",
+        "gancho": "Gasolineras espaciales para Marte",
+        "contenido_completo": "Buena parte del combustible de una nave espacial se consume en las maniobras para salir de la órbita terrestre. Por ese motivo, a medida que las misiones tripuladas se van alejando de nuestro planeta debemos empezar a pensar en usar gasolineras espaciales. La NASA lo sabe y por fin está haciendo algo al respecto. La agencia espacial está trabajando en el desarrollo de tecnologías para la producción y almacenamiento de combustible en el espacio, lo que podría revolucionar la exploración espacial. La idea es que las naves espaciales puedan repostar en el espacio, lo que les permitiría viajar más lejos y durante más tiempo. Esto es especialmente importante para misiones a Marte, donde el combustible es un recurso escaso y valioso.",
+        "categoria": "Espacio",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/espacio/gasolineras-espacio-no-llegaremos-a-marte-nasa-sabe-fin-esta-haciendo-algo-al-respecto"
+    },
+    {
+        "fecha": "23/05/2026",
+        "titulo": "Probamos el robot cortacésped RockMow Z1 LiDAR",
+        "gancho": "Robot cortacésped para jardines complicados",
+        "contenido_completo": "Los robots cortacésped llevan años prometiendo olvidarnos del mantenimiento del jardín, pero la realidad es que muchos siguen teniendo problemas cuando el terreno es complejo, hay árboles por medio, desniveles o zonas estrechas. El nuevo RockMow Z1 LiDAR de R… es una bestia 4x4 pensada para jardines grandes y complicados. Con su avanzada tecnología de navegación y corte, este robot es capaz de manejar terrenos difíciles con facilidad. En nuestra prueba, el RockMow Z1 LiDAR demostró ser una excelente opción para aquellos que buscan un robot cortacésped fiable y eficiente. Su diseño robusto y su capacidad para navegar en terrenos complejos lo convierten en una excelente elección para jardines grandes y complicados.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/portaltic/gadgets/noticia-probamos-robot-cortacesped-rockmow-z1-lidar-bestia-4x4-pensada-jardines-grandes-complicados-20260522114412.html"
+    },
+    {
+        "fecha": "23/05/2026",
+        "titulo": "Evolución de la ciberseguridad empresarial",
+        "gancho": "Ciberseguridad empresarial evoluciona",
+        "contenido_completo": "Un estudio de WatchGuard Technologies analiza la oportunidad de mercado de los proveedores de servicios gestionados. La ciberseguridad empresarial ha evolucionado significativamente en los últimos años, pasando de ser una función interna a un servicio externo. Esto se debe a la creciente complejidad de las amenazas cibernéticas y la necesidad de especialización en la protección de la información. Los proveedores de servicios gestionados ofrecen soluciones personalizadas y actualizadas para ayudar a las empresas a protegerse contra ataques cibernéticos. La tendencia hacia la externalización de la ciberseguridad empresarial es cada vez más común, ya que las empresas buscan aprovechar la experiencia y la tecnología de los proveedores especializados.",
+        "categoria": "Ciberseguridad",
+        "impacto": "alto",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/evolucion-de-la-ciberseguridad-empresarial-de-funcion-interna-a-servicio-externo-2580297"
+    },
+    {
         "fecha": "22/05/2026",
         "titulo": "Bitcoin y riesgo cuántico",
         "gancho": "Vulnerabilidad en Bitcoin",
