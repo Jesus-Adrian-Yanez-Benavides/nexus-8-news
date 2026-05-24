@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "24/05/2026",
+        "titulo": "Plataforma inteligente para turismo",
+        "gancho": "Cáceres mejora gestión turística",
+        "contenido_completo": "La Diputación de Cáceres continúa con el despliegue de la Plataforma Inteligente de Destino Provincia de Cáceres con nuevas acciones formativas. Esta plataforma tiene como objetivo mejorar la gestión turística de la región y ofrecer una experiencia más personalizada a los visitantes. La plataforma inteligente es una herramienta innovadora que permitirá a los turistas planificar su viaje de manera más eficiente y disfrutar al máximo de su estancia en Cáceres. La formación de empresas y agentes turísticos es fundamental para el éxito de esta plataforma, ya que ellos serán los encargados de promocionar y ofrecer los servicios turísticos de la región. La Diputación de Cáceres está trabajando arduamente para convertir la región en un destino turístico atractivo y competitivo.",
+        "categoria": "Turismo",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/extremadura/caceres-provincial-00712/noticia-diputacion-caceres-continua-despliegue-plataforma-inteligente-mejor-gestion-turistica-20260523110951.html"
+    },
+    {
+        "fecha": "24/05/2026",
+        "titulo": "Sofá pixelado de Cristian Zuzunaga",
+        "gancho": "Diseño innovador de sofá",
+        "contenido_completo": "El sofá pixelado es una de esas piezas que, en su momento, sorprendieron al mundo del diseño y que, con el paso del tiempo, se han convertido en pequeños iconos del mueble contemporáneo. Inspirado en la estética del píxel, este sofá es una creación del diseñador español Cristian Zuzunaga. El diseño del sofá es una mezcla perfecta de arte y funcionalidad, lo que lo hace ideal para cualquier hogar moderno. La estética del píxel es una tendencia que se ha vuelto muy popular en el diseño de interiores, y este sofá es un ejemplo perfecto de cómo se puede incorporar esta estética en un mueble. El sofá pixelado es una pieza única y emocionante que puede agregar un toque de personalidad a cualquier habitación.",
+        "categoria": "Diseño",
+        "impacto": "bajo",
+        "fuente_nombre": "Decoracion2.com",
+        "fuente_url": "https://decoracion2.com/sofa-pixelado-para-una-casa-moderna/"
+    },
+    {
+        "fecha": "24/05/2026",
+        "titulo": "Nuevos auriculares de Apple",
+        "gancho": "Apple registra nuevo dispositivo",
+        "contenido_completo": "La Comisión Federal de Comunicaciones de Estados Unidos (FCC) acaba de registrar un nuevo dispositivo de Apple con número de modelo A3577. Se cree que este dispositivo es un nuevo par de auriculares, aunque la empresa no ha confirmado oficialmente su existencia. Los rumores sobre nuevos productos de Apple siempre generan gran expectación entre los fanáticos de la marca. Si se confirma la existencia de estos auriculares, es probable que sean una versión mejorada de los actuales AirPods. La tecnología de audio de Apple es conocida por su calidad y comodidad, por lo que es probable que estos nuevos auriculares sean muy populares.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Isenacode.com",
+        "fuente_url": "https://isenacode.com/apple-prepara-nuevos-auriculares-over-ear-la-fcc-los-filtra-antes-del-anuncio/"
+    },
+    {
+        "fecha": "24/05/2026",
+        "titulo": "Starship V3 despega con éxito",
+        "gancho": "Cohete de Elon Musk despega",
+        "contenido_completo": "SpaceX marca un hito en la carrera espacial con el exitoso debut de Starship V3, su cohete más potente. Este cohete es el más avanzado de la empresa y tiene como objetivo llevar a la humanidad a la Luna y Marte. El despegue de Starship V3 es un paso importante hacia la conquista del espacio. La empresa de Elon Musk sigue innovando y empujando los límites de la tecnología espacial. Con este logro, SpaceX se consolida como una de las empresas líderes en la industria espacial. El futuro de la exploración espacial parece más brillante que nunca.",
+        "categoria": "Espacio",
+        "impacto": "alto",
+        "fuente_nombre": "Elespanol.com",
+        "fuente_url": "https://www.elespanol.com/omicrono/defensa-y-espacio/20260523/starship-v3-hace-historia-gigantesco-cohete-elon-musk-despega-exito-vuelo-inaugural-intento-fallido/1003744257011_0.html"
+    },
+    {
+        "fecha": "24/05/2026",
+        "titulo": "Aposentos secretos de Isabel II",
+        "gancho": "Palacio escocés revela secretos",
+        "contenido_completo": "Las habitaciones privadas de la madre de Carlos III se abren por primera vez en la historia. El palacio escocés de Holyroodhouse es un lugar emblemático y lleno de historia. Ahora, por primera vez, se abren al público las habitaciones privadas de Isabel II. Estas habitaciones ultrasecretas ofrecen una visión única de la vida privada de la monarquía británica. La apertura de estas habitaciones es un evento histórico que atraerá a muchos visitantes curiosos. El palacio escocés de Holyroodhouse es un destino turístico popular, y esta nueva atracción lo hará aún más atractivo.",
+        "categoria": "Historia",
+        "impacto": "alto",
+        "fuente_nombre": "Hola",
+        "fuente_url": "https://www.hola.com/realeza/casa_inglesa/20260523903073/reina-isabel-aposentos-privados-palacio-holyroodhouse/"
+    },
+    {
         "fecha": "23/05/2026",
         "titulo": "Mini proyectores para cine en casa",
         "gancho": "Cine en casa con mini proyectores",
