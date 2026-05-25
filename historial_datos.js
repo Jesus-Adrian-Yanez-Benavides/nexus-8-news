@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "25/05/2026",
+        "titulo": "La princesa Rajwa",
+        "gancho": "Poder femenino",
+        "contenido_completo": "La princesa Rajwa de Jordania acompañó a su marido en un viaje oficial a Alemania, donde todas las miradas terminaron posándose en Rajwa y en su impecable apuesta por el traje sastre como mensaje de poder femenino. La princesa busca reivindicar su sitio junto al príncipe heredero, Hussein. La moda es una forma de expresión y poder. La princesa Rajwa es un ejemplo de cómo la moda puede ser utilizada para hacer una declaración.",
+        "categoria": "Moda",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencial.com",
+        "fuente_url": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-05-24/rajwa-jordania-traje-sastre-hussein-estilo-lujo-poder-femenino-joyas_4360621/"
+    },
+    {
+        "fecha": "25/05/2026",
+        "titulo": "Ferrari e IBM unen fuerzas",
+        "gancho": "IA en el deporte",
+        "contenido_completo": "Ferrari e IBM apuestan por IA para convertir fans de F1 en superfans. Ferrari e IBM están usando inteligencia artificial para transformar una app deportiva en una máquina de fidelización. La apuesta combina datos de carrera, narrativa personalizada y nuevas funciones interactivas para retener a los tifosi durante todo el año. La IA está revolucionando la forma en que se experimenta el deporte. Los fanáticos pueden disfrutar de una experiencia más personalizada y emocionante.",
+        "categoria": "IA",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/noticias/ferrari-e-ibm-apuestan-por-ia-para-convertir-fans-de-f1-en-superfans/"
+    },
+    {
+        "fecha": "25/05/2026",
+        "titulo": "Protección contra spyware",
+        "gancho": "Protege tu privacidad",
+        "contenido_completo": "Apple, Google y WhatsApp activan defensas clave contra el spyware de cero clic. Los ataques con spyware de cero clic ya no son casos excepcionales. Apple, Google y WhatsApp han incorporado funciones opcionales que limitan ciertas herramientas del teléfono, pero elevan la protección para periodistas, activistas y cualquier usuario preocupado por su privacidad. Estas medidas buscan proteger a los usuarios de posibles ataques. La seguridad es un tema cada vez más importante en la era digital.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/noticias/apple-google-y-whatsapp-activan-defensas-clave-contra-el-spyware-de-cero-clic/"
+    },
+    {
+        "fecha": "25/05/2026",
+        "titulo": "Avances en IA y realidad virtual",
+        "gancho": "IA y realidad virtual",
+        "contenido_completo": "La tecnología que de verdad importa se esconde en una óptica muy cerca de ti. Vemos (y probamos) los últimos avances de IA y realidad virtual de Multiópticas. Estos avances buscan mejorar la experiencia del usuario y ofrecer nuevas posibilidades en el campo de la visión. La realidad virtual y la IA están revolucionando la forma en que interactuamos con la tecnología. Los expertos predicen un futuro emocionante para estas tecnologías.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/tecnologia-verdad-importa-se-esconde-optica-muy-cerca-ti_202605246a1030663ce3f96345d06bd9.html"
+    },
+    {
+        "fecha": "25/05/2026",
+        "titulo": "La IA y la humanidad",
+        "gancho": "IA vs humanidad",
+        "contenido_completo": "El papa León XIV publica su primera encíclica, titulado «Magnifica humanitas», que aborda el impacto de la inteligencia artificial en la humanidad. El documento reflexiona sobre la preservación de la humanidad frente al progreso de la tecnología. La encíclica busca concienciar sobre los riesgos y beneficios de la IA. La Iglesia busca encontrar un equilibrio entre el progreso tecnológico y la preservación de la humanidad.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Lavozdegalicia.es",
+        "fuente_url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/05/24/papa-leon-xiv-publica-lunes-primera-enciclica-aborda-inteligencia-artificial/00031779622533999240794.htm"
+    },
+    {
         "fecha": "24/05/2026",
         "titulo": "Plataforma inteligente para turismo",
         "gancho": "Cáceres mejora gestión turística",
