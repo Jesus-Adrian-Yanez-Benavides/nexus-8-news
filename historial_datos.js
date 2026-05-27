@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "27/05/2026",
+        "titulo": "Ataques de EE. UU. en Irán",
+        "gancho": "EE. UU. lanza ataques en Irán",
+        "contenido_completo": "Estados Unidos ha lanzado ataques de autodefensa en el sur de Irán, mientras que Donald Trump asegura que las conversaciones avanzan hacia un posible acuerdo. La operación, que ocurrió en plena tregua, ha vuelto a poner el foco sobre el Estrecho de Ormuz y las relaciones entre EE. UU. e Irán. Los ataques han generado tensiones en la región y han llevado a una escalada de la violencia. La situación es compleja y puede tener consecuencias graves para la estabilidad en la región. Es importante que se busquen soluciones diplomáticas para resolver el conflicto y evitar una escalada mayor. La comunidad internacional debe trabajar juntos para encontrar una solución pacífica y duradera. La situación en Irán es un recordatorio de la importancia de la diplomacia y la cooperación internacional para resolver los conflictos y promover la paz.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/noticias/ee-uu-lanza-ataques-de-autodefensa-en-iran-mientras-trump-presiona-por-un-acuerdo/"
+    },
+    {
+        "fecha": "27/05/2026",
+        "titulo": "Ballenas cripto en Polymarket",
+        "gancho": "Ballenas cripto dominan Polymarket",
+        "contenido_completo": "Un análisis de datos onchain ha revelado que nueve billeteras anónimas concentran cerca de la mitad del poder de voto utilizado para resolver disputas en Polymarket. Esto ha generado dudas sobre la transparencia, los incentivos económicos y la gobernanza en los mercados de predicción. Las ballenas cripto son inversores que tienen una gran cantidad de activos y pueden influir en el mercado con sus decisiones. En este caso, las nueve billeteras anónimas tienen un control significativo sobre el mercado de Polymarket, lo que puede afectar la confianza de los inversores y la estabilidad del mercado. La falta de transparencia y la concentración de poder en manos de unos pocos inversores pueden ser un problema para la integridad del mercado. Es importante que se tomen medidas para garantizar la transparencia y la equidad en los mercados de predicción, para que todos los inversores tengan la oportunidad de participar de manera justa.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados-de-prediccion/nueve-ballenas-cripto-dominan-disputas-multimillonarias-en-polymarket-segun-bloomberg/"
+    },
+    {
+        "fecha": "27/05/2026",
+        "titulo": "Nuevos plegables de Motorola",
+        "gancho": "Motorola lanza nuevos plegables",
+        "contenido_completo": "Motorola ha presentado en Uruguay sus nuevos plegables, que ofrecen una combinación de diseño, audio, bienestar y localización inteligente. Estos nuevos dispositivos están diseñados para proporcionar nuevas experiencias para el mercado uruguayo. Con un enfoque en la innovación y la tecnología, Motorola busca ofrecer a sus clientes productos que se adapten a sus necesidades y preferencias. Los nuevos plegables de Motorola son una opción atractiva para aquellos que buscan un dispositivo móvil con características avanzadas y un diseño elegante. La empresa ha ampliado su ecosistema premium para incluir estos nuevos productos, lo que demuestra su compromiso con la innovación y la satisfacción del cliente. Los nuevos plegables de Motorola son una excelente opción para aquellos que buscan un dispositivo móvil que se adapte a su estilo de vida.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Montevideo.com.uy",
+        "fuente_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Motorola-presento-en-Uruguay-sus-nuevos-plegables-y-amplio-su-ecosistema-premium-uc963130"
+    },
+    {
+        "fecha": "27/05/2026",
+        "titulo": "Día del Libro",
+        "gancho": "Libros para entender el presente",
+        "contenido_completo": "El Día del Libro es una celebración que se lleva a cabo en muchos países para promover la lectura y el amor por los libros. En esta ocasión, se presentan seis recomendaciones de libros que abordan temas como el fútbol, la política y la vida digital. Estos libros ofrecen una perspectiva única sobre el mundo actual y pueden ayudar a los lectores a entender mejor el presente. Desde novelas hasta entrevistas y relatos contemporáneos, hay algo para todos los gustos. Los libros son una herramienta poderosa para expandir nuestra comprensión del mundo y para inspirarnos a ser mejores personas. La lectura es una actividad que puede enriquecer nuestra vida y ayudarnos a crecer como individuos. En este sentido, el Día del Libro es una oportunidad para descubrir nuevos autores y temas, y para compartir nuestra pasión por la lectura con otros.",
+        "categoria": "Cultura",
+        "impacto": "bajo",
+        "fuente_nombre": "Montevideo.com.uy",
+        "fuente_url": "https://www.montevideo.com.uy/Tiempo-libre/Dia-del-Libro-seis-recomendaciones-entre-futbol-politica-y-vida-digital-uc963099"
+    },
+    {
+        "fecha": "27/05/2026",
+        "titulo": "Jabalíes en Barcelona",
+        "gancho": "Jabalíes invaden Barcelona",
+        "contenido_completo": "En 2022, un jabalí irrumpió en una terraza de Cadaqués y se llevó varias bolsas de comida delante de decenas de turistas que lo grabaron con el móvil mientras el animal caminaba entre mesas como si llevara años viviendo allí. Para muchos vecinos fue la confirmación de que los jabalíes se estaban convirtiendo en un problema en la zona. Sin embargo, los cazadores de jabalíes en Barcelona tienen un remedio natural más sencillo: una receta casera. Esta receta consiste en una mezcla de ingredientes naturales que se pueden encontrar en la región. La efectividad de esta receta ha sido probada por varios cazadores y ha demostrado ser una alternativa segura y eficaz para controlar la población de jabalíes. La receta casera es una solución innovadora que puede ayudar a reducir el conflicto entre humanos y jabalíes en la zona.",
+        "categoria": "Medio Ambiente",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/magnet/drones-francotiradores-caza-jabalies-barcelona-tiene-remedio-mucho-sencillo-receta-casera"
+    },
+    {
         "fecha": "25/05/2026",
         "titulo": "La princesa Rajwa",
         "gancho": "Poder femenino",
