@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "28/05/2026",
+        "titulo": "Ruido imposible en el espacio",
+        "gancho": "Misterioso sonido",
+        "contenido_completo": "En 2003, un astronauta chino en el espacio escuchó un ruido 'imposible'. El ruido se describió como un mazo de madera golpeando un cubo de hierro. Sin embargo, ningún objeto impactó contra la nave. La ciencia sigue buscando explicaciones para este fenómeno. El incidente ha generado gran interés y curiosidad. Los expertos siguen investigando para entender lo que sucedió.",
+        "categoria": "Espacio",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencial.com",
+        "fuente_url": "https://www.elconfidencial.com/tecnologia/ciencia/2026-05-27/astronauta-chino-2003-ruido-inexplicable-1qrt_4207783/"
+    },
+    {
+        "fecha": "28/05/2026",
+        "titulo": "Cambio de nombre en Telefónica",
+        "gancho": "Nueva identidad",
+        "contenido_completo": "Telefónica ha cambiado la denominación social de su filial de seguridad. La filial pasa a llamarse Telefónica Defensa y Seguridad. El cambio de nombre refleja la estrategia de la empresa para impulsar su negocio de defensa. La seguridad es un sector clave para la empresa. Con este cambio, Telefónica busca fortalecer su posición en el mercado.",
+        "categoria": "Negocios",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/economia/noticia-telefonica-impulsa-negocio-defensa-cambio-nombre-filial-seguridad-20260527132657.html"
+    },
+    {
+        "fecha": "28/05/2026",
+        "titulo": "Aumento de precio de Galaxy S26",
+        "gancho": "Precios más altos",
+        "contenido_completo": "Los Samsung Galaxy S26 podrían subir de precio el próximo mes. Una filtración asegura que los smartphones insignia de Samsung experimentarán un aumento en su precio. La industria de la tecnología de consumo está experimentando cambios significativos. El aumento de precio podría afectar la demanda de los dispositivos. Los consumidores deberán esperar para ver cómo se desarrolla la situación.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Elnacional.cat",
+        "fuente_url": "https://www.elnacional.cat/es/tecnologia/samsung-galaxy-s26-podrian-subir-precio-proximo-mes_1646143_102.html"
+    },
+    {
+        "fecha": "28/05/2026",
+        "titulo": "Prioridad a fabricantes europeos",
+        "gancho": "Europa vs Starlink",
+        "contenido_completo": "La Comisión Europea diseña un reglamento para priorizar a los fabricantes europeos en la concesión de servicios por satélite. Esto podría afectar a empresas como Starlink o Amazon. La decisión se toma para fortalecer la industria europea y promover la competencia. El reglamento podría tener un impacto significativo en el mercado de los servicios por satélite. La Comisión Europea busca equilibrar la competencia y la innovación en el sector.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/tecnologia/bruselas-primara-fabricantes-europeos-concesion-servicios-satelite-frente-starlink-amazon_1_13253408.html"
+    },
+    {
+        "fecha": "28/05/2026",
+        "titulo": "Reorganización del Real Oviedo",
+        "gancho": "Objetivo: Volver a Primera",
+        "contenido_completo": "El Real Oviedo reorganiza su estructura para la temporada 2026-27 con el objetivo de volver a Primera División lo antes posible. La reorganización se centra en reforzar la estructura institucional y corporativa del club. Con este cambio, el equipo busca mejorar su desempeño y lograr sus objetivos. La temporada 2026-27 se presenta como un desafío importante para el club.",
+        "categoria": "Deportes",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/futbol/oviedo/20260527/1004188323/real-oviedo-reorganiza-estructura-temporada-2026-27.html"
+    },
+    {
         "fecha": "27/05/2026",
         "titulo": "Ataques de EE. UU. en Irán",
         "gancho": "EE. UU. lanza ataques en Irán",
