@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "29/05/2026",
+        "titulo": "Lámparas modulares Puraluce",
+        "gancho": "Iluminación versátil",
+        "contenido_completo": "Las lámparas modulares Puraluce han marcado un antes y un después en la manera de entender la iluminación decorativa del hogar. Lejos de las clásicas piezas fijas, esta firma italiana propone un sistema flexible donde una misma forma puede convertirse en plafón, lámpara de mesa o lámpara de suelo. La versatilidad de las lámparas modulares Puraluce permite a los usuarios crear su propio estilo y adaptar la iluminación a sus necesidades. La iluminación es un elemento fundamental en la decoración del hogar y las lámparas modulares Puraluce ofrecen una solución innovadora y elegante.",
+        "categoria": "Diseño",
+        "impacto": "bajo",
+        "fuente_nombre": "Decoracion2.com",
+        "fuente_url": "https://decoracion2.com/experimenta-la-iluminacion-con-puraluce/"
+    },
+    {
+        "fecha": "29/05/2026",
+        "titulo": "Identificación de desaparecidos",
+        "gancho": "Desaparecidos mexicanos",
+        "contenido_completo": "La cooperación entre México y Alemania busca acelerar la identificación de restos humanos en un país marcado por la desaparición. Durante 2025 en México se reportaron al menos 32 personas como desaparecidas diariamente. La situación ha generado un gran impacto en las familias de los desaparecidos y ha llevado a una búsqueda constante de soluciones para encontrar a los seres queridos. La colaboración entre México y Alemania busca encontrar una solución a este problema y brindar apoyo a las familias afectadas. La identificación de los restos humanos es un paso importante para encontrar la verdad y brindar justicia a las víctimas.",
+        "categoria": "Sociedad",
+        "impacto": "alto",
+        "fuente_nombre": "DW (English)",
+        "fuente_url": "https://www.dw.com/es/el-largo-viaje-de-los-desaparecidos-mexicanos-hacia-la-identificaci%C3%B3n/a-76913806"
+    },
+    {
+        "fecha": "29/05/2026",
+        "titulo": "Encuentro virtual de Xataka",
+        "gancho": "Cita con Xataka",
+        "contenido_completo": "Llega el 28 de mayo y eso, xatakeros, significa una cosa: ¡habemus nuevo encuentro virtual entre xatakeros, xatakeras y editores de Xataka! Como ya sabéis, esta es una de las muchas ventajas exclusivas incluidas en la suscripción a Xataka Xtra y, al menos desde nuestra perspectiva, es una de las más emocionantes. En este encuentro, podrás conocer a los editores de Xataka, hacer preguntas y compartir tus opiniones sobre la tecnología y la innovación. La comunidad de Xataka se reunirá para discutir los temas más relevantes y compartir sus experiencias.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/xataka-xtra/hoy-tienes-cita-xataka-nos-vemos-a-17-00-segundo-q-a-editores-solo-para-miembros-xataka-xtra"
+    },
+    {
+        "fecha": "29/05/2026",
+        "titulo": "Caída del Bitcoin",
+        "gancho": "Bitcoin cae",
+        "contenido_completo": "Bitcoin cayó por debajo de USD $73.000 y Ether perdió el nivel de USD $2.000 en medio de una venta masiva provocada por nuevos ataques de EE. UU. sobre objetivos iraníes cerca del estrecho de Ormuz. La reacción golpeó a las criptomonedas, impulsó el petróleo y generó un clima de incertidumbre en los mercados financieros. Los inversores están pendientes de los acontecimientos y buscan encontrar oportunidades en medio de la volatilidad. La situación ha generado un debate sobre la estabilidad de las criptomonedas y su relación con los eventos geopolíticos.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/criptomonedas/bitcoin-cae-a-usd-73-000-y-liquidaciones-surgen-a-usd-1-000-millones-tras-ataque-de-eeuu-a-iran/"
+    },
+    {
+        "fecha": "29/05/2026",
+        "titulo": "Tensión en el estrecho de Ormuz",
+        "gancho": "Petróleo sube",
+        "contenido_completo": "Los precios del petróleo subieron este jueves luego de nuevos ataques de Estados Unidos en Irán, en un movimiento que volvió a encender las preocupaciones sobre posibles interrupciones en el estrecho de Ormuz, una de las rutas energéticas más sensibles del mundo. La situación ha generado un aumento en los precios del petróleo y ha vuelto a encender las preocupaciones sobre la estabilidad en la región. La comunidad internacional está pendiente de los acontecimientos y busca encontrar una solución pacífica al conflicto.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados/petroleo-sube-tras-nuevos-ataques-de-ee-uu-en-iran-y-crece-temor-por-el-estrecho-de-ormuz/"
+    },
+    {
         "fecha": "28/05/2026",
         "titulo": "Ruido imposible en el espacio",
         "gancho": "Misterioso sonido",
