@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "30/05/2026",
+        "titulo": "La Cecot y Laboral Kutxa colaboran",
+        "gancho": "Acceso a financiación para empresas",
+        "contenido_completo": "La Cecot y Laboral Kutxa, la banca cooperativa vinculada al grupo Mondragon, han formalizado un convenio de colaboración con el objetivo de reforzar el acceso a financiación de las empresas y de los autónomos y contribuir así a la competitividad y el desarrollo económico de la región. El convenio busca proporcionar soluciones financieras innovadoras y personalizadas para satisfacer las necesidades de las empresas y los autónomos, y así impulsar su crecimiento y desarrollo. La colaboración entre La Cecot y Laboral Kutxa es un paso importante para apoyar el desarrollo económico de la región y proporcionar oportunidades para las empresas y los autónomos.",
+        "categoria": "Economía",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/catalunya/noticia-cecot-laboral-kutxa-colaboran-impulsar-acceso-financiacion-empresas-autonomos-20260529114300.html"
+    },
+    {
+        "fecha": "30/05/2026",
+        "titulo": "Anthropic supera a OpenAI",
+        "gancho": "Nueva startup de IA líder",
+        "contenido_completo": "Noviembre de 2022. OpenAI pone en línea a ChatGPT y el mundo se queda pasmado ante las posibilidades de esa nueva máquina capaz de responderlo casi todo. Algunos incluso piensan que, en el medio plazo, la herramienta sustituirá a Google como principal albacea del conocimiento en Internet. Sin embargo, Anthropic ha superado a OpenAI y se ha convertido en la startup de IA más valiosa del mundo. La empresa ha logrado desarrollar tecnologías de IA avanzadas que están revolucionando la forma en que interactuamos con la información. Con su enfoque en la creación de soluciones de IA más seguras y transparentes, Anthropic está liderando la carga en el desarrollo de tecnologías de IA responsables.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/tecnologia/anthropic-supera-openai-convierte-startup-ia-valiosa-20260529114329-nt.html"
+    },
+    {
+        "fecha": "30/05/2026",
+        "titulo": "Dell se dispara en Bolsa",
+        "gancho": "Boom de la IA impulsa a Dell",
+        "contenido_completo": "Dell ha pulverizado las previsiones de Wall Street al calor del boom de la inteligencia artificial. La histórica empresa de ordenadores personales se está beneficiando de la creciente demanda de soluciones de IA y ha logrado un aumento del 39% en su valor en Bolsa. Esto se debe en parte a la creciente adopción de tecnologías de IA en various sectores, lo que ha llevado a un aumento en la demanda de hardware y software especializado. Dell se está posicionando como un líder en este mercado y está aprovechando la oportunidad para expandir su oferta de productos y servicios. La empresa está invirtiendo en investigación y desarrollo para mejorar sus capacidades en IA y mantener su posición en el mercado.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/economia-digital/companias/2026/05/29/6a1957ea468aeb7d1a8b4572.html"
+    },
+    {
+        "fecha": "30/05/2026",
+        "titulo": "Llega el Audi A6 de Toyota",
+        "gancho": "Motor indestructible y eficiente",
+        "contenido_completo": "En plena era del coche eléctrico y de los coches chinos, en Europa siguen existiendo opciones que evolucionan dentro de la gama de los fabricantes más tradicionales, no necesariamente europeos pero sí presentes en el mercado del Viejo Continente desde hace décadas. El Audi A6 de Toyota es uno de ellos, con un motor de 201 CV que se considera uno de los más indestructibles del mundo. A pesar de su potencia, el consumo de combustible es relativamente bajo, con solo 4,8 litros por cada 100 kilómetros recorridos. Esto lo convierte en una excelente opción para aquellos que buscan un coche con un buen equilibrio entre potencia y eficiencia. El Audi A6 de Toyota es un coche que ha sido diseñado para satisfacer las necesidades de los conductores que buscan un vehículo confiable y eficiente.",
+        "categoria": "Automotriz",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariomotor.com",
+        "fuente_url": "https://www.diariomotor.com/noticia/lexus-es-300h-2026/"
+    },
+    {
+        "fecha": "30/05/2026",
+        "titulo": "El nuevo OPPO FIND X9 Ultra",
+        "gancho": "Cámara profesional en un teléfono",
+        "contenido_completo": "Desde que se lanzó hace unas semanas, he escuchado ya varias veces que el nuevo OPPO Find X9 Ultra tiene la mejor cámara del mercado. Por eso, me animé a probarlo para usarlo como mi teléfono principal, tanto para mis viajes personales como cámara para trabajar. La calidad de la cámara es impresionante y ha superado mis expectativas. Con su ayuda, puedo dejar mi cámara profesional en casa y disfrutar de la comodidad de tener una cámara de alta calidad en mi teléfono. Esto me ha permitido capturar momentos increíbles en mis viajes y trabajar de manera más eficiente. La cámara del OPPO Find X9 Ultra es definitivamente una de las mejores del mercado y es una excelente opción para aquellos que buscan una cámara de alta calidad en un teléfono.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Hipertextual",
+        "fuente_url": "https://hipertextual.com/brands/oppo-find-x9-ultra-camara/"
+    },
+    {
         "fecha": "29/05/2026",
         "titulo": "Lámparas modulares Puraluce",
         "gancho": "Iluminación versátil",
