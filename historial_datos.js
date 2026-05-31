@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "31/05/2026",
+        "titulo": "El Coche Práctico Olvidado",
+        "gancho": "Coche práctico de 6 plazas",
+        "contenido_completo": "En el mercado de coches de segunda mano, encontrar un vehículo que cumpla con la triada de ser bueno, bonito y barato es un desafío. Un coche práctico de seis plazas, aunque no necesariamente bonito para todos, puede ser la solución para muchas familias o grupos que buscan un vehículo funcional. Aunque puede no ser el coche más atractivo, su practicidad y capacidad lo hacen una opción valiosa. La etiqueta de la DGT y su reputación de ser fiable son puntos a favor. Los compradores de coches de segunda mano están en constante búsqueda de vehículos que ofrezcan calidad y valor, y este coche puede ser una opción a considerar. Con la variedad de opciones en el mercado, es importante evaluar las necesidades y prioridades al momento de elegir un coche.",
+        "categoria": "Automotriz",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariomotor.com",
+        "fuente_url": "https://www.diariomotor.com/noticia/guia-compra-honda-fr-v-usado/"
+    },
+    {
+        "fecha": "31/05/2026",
+        "titulo": "Bitcoin Muestra Estabilidad",
+        "gancho": "Bitcoin sube 0.28%",
+        "contenido_completo": "Bitcoin ha mostrado una sesión de baja volatilidad, con un leve avance del 0.28 por ciento. Aunque permanece lejos de su máximo histórico y por debajo de varias medias móviles clave, la estabilidad es un indicador positivo. Los inversores están vigilantes, esperando señales de si Bitcoin puede recuperar su fuerza. La comunidad de criptomonedas está atenta a los próximos movimientos, analizando si Bitcoin puede superar los desafíos actuales. Con el mercado criptográfico siendo altamente volátil, la estabilidad de Bitcoin es un tema de interés. Los expertos están evaluando las tendencias y los indicadores técnicos para predecir el próximo movimiento de Bitcoin.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-se-mantiene-estable-pese-a-presion-bajista/"
+    },
+    {
+        "fecha": "31/05/2026",
+        "titulo": "Ethereum Enfrenta Resistencia",
+        "gancho": "Ethereum cerca de $2014",
+        "contenido_completo": "Ethereum ha mantenido un precio estable cerca de los $2014, con una leve alza diaria. Sin embargo, enfrenta resistencia técnica significativa y un volumen decreciente, lo que podría limitar sus movimientos alcistas en el corto plazo. Los inversores están cautelosos, analizando los indicadores técnicos para predecir el próximo movimiento. La comunidad de criptomonedas está atenta a cómo Ethereum navegará estos desafíos. Con el mercado criptográfico en constante cambio, Ethereum busca superar la resistencia y consolidar su posición. Los desarrolladores y usuarios están expectantes, esperando mejoras en la plataforma que puedan influir en su valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/ethereum-eth-mantiene-soporte-clave-pese-a-volumen-bajo-el-30-de-mayo-de-2026/"
+    },
+    {
+        "fecha": "31/05/2026",
+        "titulo": "Solana Mantiene Posición",
+        "gancho": "Solana en USD $82",
+        "contenido_completo": "Solana ha mantenido su posición en el mercado, cotizando alrededor de USD $82,23 con un avance marginal. El volumen de operaciones ha disminuido, lo que podría indicar una tendencia correctiva desde los máximos históricos. Los inversores están vigilantes, esperando señales de si Solana puede recuperar su fuerza. La estabilidad en el precio puede ser un indicador de que los inversores están evaluando su próximo movimiento. Con el mercado criptográfico siendo altamente volátil, Solana busca encontrar un equilibrio. La comunidad está atenta a los próximos movimientos de Solana, analizando si puede superar los desafíos actuales.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/solana-mantiene-posicion-en-usd-82-con-volumen-reducido/"
+    },
+    {
+        "fecha": "31/05/2026",
+        "titulo": "XRP Avanza con Fuerza",
+        "gancho": "XRP sube 2.68%",
+        "contenido_completo": "XRP ha experimentado un aumento moderado en su valor, impulsado por un volumen de operaciones superior al promedio. Los indicadores técnicos muestran señales mixtas en un contexto de mercado volátil. Esto sugiere que los inversores están cautelosos pero aún ven potencial en la criptomoneda. La tendencia actual podría influir en la toma de decisiones de inversión en el corto plazo. La comunidad de criptomonedas está atenta a los movimientos de XRP, esperando ver si puede mantener su impulso. Con el mercado criptográfico en constante evolución, XRP busca consolidar su posición.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/xrp-avanza-2-68-con-volumen-elevado/"
+    },
+    {
         "fecha": "30/05/2026",
         "titulo": "La Cecot y Laboral Kutxa colaboran",
         "gancho": "Acceso a financiación para empresas",
