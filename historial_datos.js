@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "01/06/2026",
+        "titulo": "Lummis advierte sobre criptomonedas",
+        "gancho": "China podría adelantarse a EE. UU. en criptomonedas",
+        "contenido_completo": "La senadora Cynthia Lummis advirtió que China podría adelantarse a Estados Unidos en el sector cripto si Washington no aprueba reglas claras. El debate se cruza con reportes sobre acciones del Tesoro estadounidense, incluida la incautación de casi USD $1.000 millones en activos cripto. La senadora Lummis destaca la importancia de establecer un marco regulatorio claro para las criptomonedas en EE. UU. para evitar que China tome la delantera en este sector.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/lummis-advierte-que-china-escribira-las-reglas-cripto-si-ee-uu-no-aprueba-clarity/"
+    },
+    {
+        "fecha": "01/06/2026",
+        "titulo": "Avatares de IA y empatía racial",
+        "gancho": "Avatares de IA explotan la empatía racial",
+        "contenido_completo": "Una investigación revela cómo cuentas con avatares generados por IA simulan ser pequeños negocios de mujeres negras y otras personas marginadas para vender productos baratos de dropshipping. Estos avatares utilizan historias diseñadas para provocar culpa, empatía y compras impulsivas. La investigación destaca la necesidad de aumentar la conciencia sobre estas prácticas y de tomar medidas para prevenir la explotación de la empatía racial en las redes sociales.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/tecnologia/avatares-de-ia-explotan-la-empatia-racial-para-vender-productos-de-shein-en-redes/"
+    },
+    {
+        "fecha": "01/06/2026",
+        "titulo": "Routers WiFi 7 y compatibilidad",
+        "gancho": "Routers WiFi 7 requieren móviles compatibles",
+        "contenido_completo": "Los routers WiFi 7 están muy bien, pero no los vas a aprovechar si no tienes un móvil compatible. La tecnología WiFi 7 ofrece velocidades de conexión más rápidas y una mayor capacidad de transmisión de datos. Sin embargo, para aprovechar al máximo estas características, es necesario tener un dispositivo móvil que sea compatible con la tecnología WiFi 7. En este artículo, se presentan algunos de los móviles que soportan WiFi 7 en 2026.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/seleccion/routers-wifi-7-estan-muy-bien-no-vas-a-aprovechar-no-tienes-movil-compatible-estos-que-soportan-2026"
+    },
+    {
+        "fecha": "01/06/2026",
+        "titulo": "La generación Z y 'Los Serrano'",
+        "gancho": "La generación Z revive 'Los Serrano'",
+        "contenido_completo": "La generación Z española está encontrando un extraño refugio en series como 'Los Serrano' y 'Aquí no hay quien viva'. Estas series, que fueron populares en el pasado, ahora están experimentando un resurgimiento entre los jóvenes. La razón detrás de este fenómeno es compleja, pero parece estar relacionada con la búsqueda de nostalgia y conexión con el pasado. La generación Z está utilizando estas series como una forma de escapar de la realidad y encontrar un sentido de comunidad.",
+        "categoria": "Entretenimiento",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/cine-y-tv/tiempos-atomizados-generacion-z-espanola-esta-encontrando-extrano-refugio-serrano-aqui-no-hay-quien-viva"
+    },
+    {
+        "fecha": "01/06/2026",
+        "titulo": "Reino Unido sanciona entidades por criptos",
+        "gancho": "Reino Unido sanciona a Rusia",
+        "contenido_completo": "El Reino Unido impuso nuevas sanciones contra exchanges y entidades que, según las autoridades, habrían facilitado redes cripto usadas por Rusia para mover valor y evadir restricciones financieras. Esto se debe a la creciente preocupación por la elusión de sanciones económicas. Las sanciones tienen como objetivo limitar la capacidad de Rusia para utilizar criptomonedas para evadir las restricciones financieras impuestas por la comunidad internacional.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/reino-unido-sanciona-18-entidades-e-individuos-por-facilitar-movimiento-de-criptos-a-rusia/"
+    },
+    {
         "fecha": "31/05/2026",
         "titulo": "El Coche Práctico Olvidado",
         "gancho": "Coche práctico de 6 plazas",
