@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "02/06/2026",
+        "titulo": "RTX Spark: Nvidia y Microsoft",
+        "gancho": "Futuro del ordenador",
+        "contenido_completo": "Nvidia y Microsoft han anunciado una colaboración para redefinir el futuro del ordenador personal con la plataforma RTX Spark. La plataforma está diseñada para ejecutar agentes de inteligencia artificial de forma local, sin depender de centros de datos remotos. La colaboración entre Nvidia y Microsoft supone un importante avance en la tecnología de los ordenadores personales y abre nuevas posibilidades para la inteligencia artificial y el aprendizaje automático. La plataforma RTX Spark está prevista para ser lanzada próximamente, y se espera que tenga un impacto significativo en la industria de la tecnología.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Lavozdegalicia.es",
+        "fuente_url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/06/01/nvidia-alia-microsoft/00031780313145283466488.htm"
+    },
+    {
+        "fecha": "02/06/2026",
+        "titulo": "ETP cripto pierden valor",
+        "gancho": "Salidas millonarias",
+        "contenido_completo": "Los productos de inversión en activos digitales (ETP) han registrado salidas por USD $1.670 millones la semana pasada, su tercera semana consecutiva en negativo y la segunda mayor retirada semanal de 2026, según CoinShares. Bitcoin ha liderado la salida de fondos, con una retirada de USD $1.340 millones. La caída en el valor de los ETP cripto se debe a la incertidumbre en el mercado y a la falta de confianza en las criptomonedas. La tendencia a la baja en el valor de los ETP cripto es un reflejo de la volatilidad del mercado de las criptomonedas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/criptomonedas/etp-cripto-pierden-usd-1-670-millones-semanal-bitcoin-lidera-con-su-mayor-salida-de-2026/"
+    },
+    {
+        "fecha": "02/06/2026",
+        "titulo": "Aave endurece listados",
+        "gancho": "Exploit millonario",
+        "contenido_completo": "Aave, una plataforma de préstamos descentralizados, ha anunciado una revisión profunda de sus activos listados en V3 después de que un exploit de rsETH por USD $230 millones revelara riesgos críticos en puentes entre cadenas, fuera del código central del protocolo. El exploit ha puesto de relieve la importancia de la seguridad en las plataformas de DeFi y ha llevado a Aave a tomar medidas para endurecer sus listados y proteger a sus usuarios. La revisión de los activos listados en V3 es un paso importante para garantizar la seguridad y la confianza en la plataforma.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/blockchain/aave-endurece-sus-listados-tras-exploit-de-rseth-por-usd-230-millones/"
+    },
+    {
+        "fecha": "02/06/2026",
+        "titulo": "SAIC elige Galicia",
+        "gancho": "Inversión millonaria",
+        "contenido_completo": "La empresa china SAIC ha elegido Galicia para ubicar su primera planta europea de coches híbridos y eléctricos. La nueva planta representa una inversión de 200 millones de euros y creará unos 2.000 empleos directos. La producción de vehículos electrificados de la marca MG está prevista para comenzar en 2028. Esta inversión es un importante impulso para la economía gallega y supone un paso adelante en la transición hacia la movilidad sostenible en Europa. La planta de SAIC en Galicia se suma a la creciente presencia de empresas del sector automotriz en la región.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/empresas/motor/2026/06/01/6a1d659f468aeb270a8b45a4.html"
+    },
+    {
+        "fecha": "02/06/2026",
+        "titulo": "Cuerpo viaja a México",
+        "gancho": "Viaje oficial",
+        "contenido_completo": "El vicepresidente primero del Gobierno y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, inicia este martes una visita oficial de dos días a México con el objetivo de profundizar las relaciones institucionales y económicas con el país, que es el mayor socio comercial de España en América Latina. Durante su estancia, Cuerpo se reunirá con la jefa de gobierno de la Ciudad de México, Claudia Sheinbaum, y con otros altos cargos del gobierno mexicano. La visita tiene como objetivo reforzar las relaciones económicas y comerciales entre ambos países, así como abordar temas de interés mutuo como la cooperación en materia de innovación y tecnología.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-cuerpo-inicia-martes-viaje-mexico-reunira-sheinbaum-reforzar-relaciones-economicas-20260601135827.html"
+    },
+    {
         "fecha": "01/06/2026",
         "titulo": "Lummis advierte sobre criptomonedas",
         "gancho": "China podría adelantarse a EE. UU. en criptomonedas",
