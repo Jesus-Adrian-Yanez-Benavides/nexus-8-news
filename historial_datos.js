@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "03/06/2026",
+        "titulo": "Múnich, campo de pruebas para un nuevo robotaxi",
+        "gancho": "Taxis sin conductor en Múnich",
+        "contenido_completo": "Uber, en asociación con la israelí Autobrains, especializada en IA, prueba en la capital bávara un nuevo sistema de taxis sin conductor que espera poder instaurar en otras ciudades de Europa. El primer taxi autónomo sin conductor de prueba circula ya por la ciudad, lo que marca un hito importante en el desarrollo de la tecnología de conducción autónoma. La asociación entre Uber y Autobrains busca combinar la experiencia de Uber en el mercado de los servicios de transporte con la tecnología avanzada de Autobrains. Si este proyecto tiene éxito, podría revolucionar la forma en que nos movemos por las ciudades, haciendo que los viajes sean más seguros y eficientes.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "DW (English)",
+        "fuente_url": "https://www.dw.com/es/m%C3%BAnich-campo-de-pruebas-para-un-nuevo-robotaxi/a-77388947"
+    },
+    {
+        "fecha": "03/06/2026",
+        "titulo": "Tom Lee mantiene el optimismo por Bitcoin y Ethereum",
+        "gancho": "Optimismo en el mercado cripto",
+        "contenido_completo": "Una publicación comunitaria atribuida a CoinPedia News encendió el debate al presentar una “alerta de desplome cripto” y destacar que Tom Lee mantiene una postura optimista sobre Bitcoin y Ethereum. Aunque el extracto disponible no detalla sus argumentos, es claro que Tom Lee sigue siendo positivo sobre el futuro de estas criptomonedas. El mercado de criptomonedas es conocido por su volatilidad, y las opiniones de expertos como Tom Lee pueden tener un impacto significativo en la confianza de los inversores. A medida que el mercado sigue evolucionando, es importante prestar atención a las tendencias y opiniones de los expertos para tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/criptomonedas/tom-lee-mantiene-el-optimismo-por-bitcoin-y-ethereum-pese-al-miedo-de-crash-cripto/"
+    },
+    {
+        "fecha": "03/06/2026",
+        "titulo": "Bizum Pay da un paso atrás",
+        "gancho": "Revolución de los pagos sin tarjeta",
+        "contenido_completo": "El gesto de sacar el móvil del bolsillo, elegir la tarjeta del banco y pasarla por el datáfono, no es algo que sorprenda a nadie. Sin embargo, la idea de eliminar las tarjetas de esa ecuación es lo que busca Bizum Pay. La plataforma busca permitir a los usuarios pagar con su móvil sin necesidad de tarjetas. Aunque la idea es innovadora, el proyecto ha dado un paso atrás después de solo tres semanas. Esto puede ser un indicio de que la tecnología aún no está lista para reemplazar las tarjetas tradicionales. A pesar de esto, la idea de pagar con el móvil sigue siendo atractiva y es probable que sigamos viendo avances en este campo en el futuro.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Xatakamovil.com",
+        "fuente_url": "https://www.xatakamovil.com/movil-y-sociedad/bizum-pay-se-anuncio-como-revolucion-pagos-tarjeta-tres-semanas-despues-acaban-dar-paso-atras"
+    },
+    {
+        "fecha": "03/06/2026",
+        "titulo": "Argelia se blinda ante la sequía",
+        "gancho": "Planta produce 300.000 m³ de agua",
+        "contenido_completo": "Mientras España sigue encadenando ciclos de sequía y restricción hídrica, Argelia ha decidido cambiar y mejorar sus estrategias. La construcción de una planta que produce hasta 300.000 m³ de agua al día es un ejemplo de cómo el país está trabajando para abordar el problema de la sequía. Esta planta es solo una parte de un plan más amplio para mejorar la gestión del agua en Argelia. El país está invirtiendo en tecnologías avanzadas para recoger y tratar el agua, lo que permitirá a los argelinos tener acceso a agua potable de manera más segura. La sequía es un problema grave en muchas partes del mundo, y la forma en que Argelia está abordándolo puede ser un ejemplo para otros países.",
+        "categoria": "Medio Ambiente",
+        "impacto": "alto",
+        "fuente_nombre": "Elespanol.com",
+        "fuente_url": "https://www.elespanol.com/ciencia/20260602/argelia-da-leccion-espana-blinda-sequia-planta-produce-agua-dia/1003744269150_0.html"
+    },
+    {
+        "fecha": "03/06/2026",
+        "titulo": "Ley Clarity y CBDC en el Senado de EE. UU.",
+        "gancho": "Regulación cripto en debate",
+        "contenido_completo": "El Senado de Estados Unidos retomó la ley de claridad de activos digitales, una propuesta que no solo reorganiza la regulación cripto, sino que también bloquearía a la Reserva Federal para emitir una cbdc minorista sin autorización del Congreso. Esta ley busca aclarar las regulaciones actuales y proporcionar una base más sólida para el mercado de activos digitales. La prohibición de la emisión de cbdc sin autorización del Congreso es un aspecto clave de esta propuesta, ya que busca evitar que la Reserva Federal actúe de manera unilateral en este tema. La ley de claridad de activos digitales es un paso importante hacia la regulación de los activos digitales en Estados Unidos.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/senado-de-ee-uu-regresa-de-su-receso-con-ley-clarity-y-prohibicion-de-cbdc-en-la-mira/"
+    },
+    {
         "fecha": "02/06/2026",
         "titulo": "RTX Spark: Nvidia y Microsoft",
         "gancho": "Futuro del ordenador",
