@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "04/06/2026",
+        "titulo": "Editorial: Sin nuevos impuestos",
+        "gancho": "Ajuste fiscal necesario",
+        "contenido_completo": "Si Costa Rica necesita ingresos adicionales, debe empezar por preguntarse quiénes reciben beneficios fiscales, por qué los reciben, cuánto cuestan, qué resultados producen y si todavía se justifican. Las otras dos acciones urgentes son reforzar la lucha contra la evasión fiscal y mejorar la eficiencia en la recaudación de impuestos. El ajuste fiscal debe ser equitativo y no recargar a los contribuyentes. La búsqueda de soluciones para los desafíos fiscales del país requiere un enfoque integral y una voluntad política para implementar cambios necesarios. La situación fiscal actual requiere una atención inmediata y una estrategia clara para el futuro.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Nacion.com",
+        "fuente_url": "https://www.nacion.com/opinion/editorial/editorial-sin-nuevos-impuestos-el-ajuste-debe/75MAHXPRKNBGLP2HUSPVJSFF5U/story/"
+    },
+    {
+        "fecha": "04/06/2026",
+        "titulo": "Totalnet y Gertec se unen",
+        "gancho": "Nueva alianza para pagos",
+        "contenido_completo": "Totalnet y Gertec se unen para transformar los pagos en comercios uruguayos. La alianza incorpora terminales POS inteligentes con Android, nuevas funciones de gestión y más velocidad para la operación diaria. Esto permitirá a los comercios mejorar su eficiencia y ofrecer una mejor experiencia a sus clientes. La tecnología de vanguardia ofrecida por Totalnet y Gertec puede ayudar a los comercios a mantenerse competitivos en un mercado en constante evolución. La colaboración entre ambas empresas puede tener un impacto positivo en el sector comercial.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Montevideo.com.uy",
+        "fuente_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Totalnet-y-Gertec-se-unen-para-transformar-los-pagos-en-comercios-uruguayos-uc963489"
+    },
+    {
+        "fecha": "04/06/2026",
+        "titulo": "IA en la toma de decisiones",
+        "gancho": "IA en empresas",
+        "contenido_completo": "La adopción de inteligencia artificial crece en las empresas, ya que seis de cada diez directivos utilizan esta tecnología para tomar decisiones. Sin embargo, Deloitte advierte que la cultura, la confianza y la adaptación siguen siendo desafíos. La implementación efectiva de la IA requiere una estrategia clara y una comprensión profunda de las necesidades y objetivos de la empresa. La IA puede ofrecer beneficios significativos, como la mejora de la eficiencia y la toma de decisiones informadas. No obstante, es crucial abordar los desafíos asociados con su adopción.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Montevideo.com.uy",
+        "fuente_url": "https://www.montevideo.com.uy/Negocios-y-Tendencias/Seis-de-cada-diez-directivos-ya-usan-IA-para-tomar-decisiones-en-sus-empresas-uc963943"
+    },
+    {
+        "fecha": "04/06/2026",
+        "titulo": "Citroën Test Drive Experience",
+        "gancho": "Prueba de manejo Citroën",
+        "contenido_completo": "Desde Victoria (Entre Ríos), el Pueblo Citronero ha sido mimado con la oportunidad de experimentar los últimos modelos de Citroën. La experiencia de manejo ofrece a los participantes la posibilidad de conocer de cerca las características y beneficios de los vehículos. La iniciativa busca fortalecer la relación entre la marca y sus clientes. La prueba de manejo es una excelente oportunidad para que los entusiastas del automovilismo puedan vivir una experiencia única.",
+        "categoria": "Automovilismo",
+        "impacto": "bajo",
+        "fuente_nombre": "Autoblog.com.ar",
+        "fuente_url": "https://autoblog.com.ar/contacto-en-santa-fe-y-entre-rios-citroen-test-drive-experience/"
+    },
+    {
+        "fecha": "04/06/2026",
+        "titulo": "Diseño en ITM: Fórmula Uno",
+        "gancho": "Diseño inspirado en F1",
+        "contenido_completo": "Los estudiantes de diseño de todos los niveles arrancan el año con temáticas alusivas a la categoría reina: Semáforos, Wheel guns, y Pitwalls. Esto les permite desarrollar habilidades creativas y técnicas. El enfoque en la Fórmula Uno ofrece una oportunidad única para explorar la intersección entre el diseño y la velocidad. Los estudiantes pueden aprender sobre la importancia del diseño en el mundo del automovilismo.",
+        "categoria": "Diseño",
+        "impacto": "bajo",
+        "fuente_nombre": "Autoblog.com.ar",
+        "fuente_url": "https://autoblog.com.ar/diseno-en-itm-ejercicios-masivos-de-formula-uno/"
+    },
+    {
         "fecha": "03/06/2026",
         "titulo": "Múnich, campo de pruebas para un nuevo robotaxi",
         "gancho": "Taxis sin conductor en Múnich",
