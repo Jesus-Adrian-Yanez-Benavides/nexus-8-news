@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "05/06/2026",
+        "titulo": "CUDA Agent supera a torch.compile",
+        "gancho": "CUDA Agent revoluciona la IA",
+        "contenido_completo": "CUDA Agent es un nuevo sistema de inteligencia artificial especializado en CUDA que promete cambiar la forma en que se optimizan los kernels CUDA. Desarrollado por investigadores de ByteDance Seed y Tsinghua AIR, CUDA Agent ha demostrado mejoras significativas en la optimización de kernels CUDA en comparación con torch.compile. La tecnología CUDA es fundamental para el desarrollo de aplicaciones de inteligencia artificial, y la optimización de kernels CUDA es un paso crucial en el proceso de desarrollo. CUDA Agent puede revolucionar la forma en que se desarrollan las aplicaciones de inteligencia artificial, lo que puede tener un impacto significativo en numerous industrias y sectores. El futuro de la inteligencia artificial es emocionante, y CUDA Agent es solo el comienzo. La capacidad de optimizar kernels CUDA de manera eficiente y efectiva puede abrir nuevas posibilidades para el desarrollo de aplicaciones de inteligencia artificial, y CUDA Agent está a la vanguardia de esta revolución.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/tecnologia/cuda-agent-supera-a-torch-compile-y-desafia-a-claude-y-gemini-en-optimizacion-de-kernels-cuda/"
+    },
+    {
+        "fecha": "05/06/2026",
+        "titulo": "Caída de Virtuals Protocol",
+        "gancho": "VIRTUAL cae un 10%",
+        "contenido_completo": "Virtuals Protocol (VIRTUAL) ha experimentado una caída superior al 10% en las últimas 24 horas, lo que ha generado una gran preocupación entre los inversores del sector de inteligencia artificial. La caída se debe a una fuerte presión vendedora y un volumen inusualmente alto. Los expertos atribuyen esta caída a la falta de confianza en el proyecto y la especulación en el mercado. Virtuals Protocol es un proyecto que se centra en la inteligencia artificial y la realidad virtual, y su caída puede ser un indicador de la falta de interés en este sector. El futuro de Virtuals Protocol es incierto, pero es claro que necesita recuperar la confianza de los inversores para poder recuperar su valor. La especulación y la volatilidad son factores clave en el mercado de criptomonedas, y Virtuals Protocol no es la excepción. Los inversores deben ser cautelosos y hacer sus propias investigaciones antes de invertir en este tipo de proyectos.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/virtuals-protocol-virtual-se-desploma-un-10-el-2026-06-04-entre-ventas-masivas/"
+    },
+    {
+        "fecha": "05/06/2026",
+        "titulo": "Caída del token TRUMP",
+        "gancho": "TRUMP cae un 10%",
+        "contenido_completo": "El token político TRUMP ha registrado una caída del 10,32% en las últimas 24 horas, lo que lo ha llevado a cotizar a USD $1,76. Esta caída es parte de un retroceso del 62,50% en lo que va del año. Los expertos atribuyen esta caída a la falta de interés y la especulación en el mercado. El token TRUMP ha sido objeto de mucha especulación y ha experimentado una gran volatilidad en su valor. La caída del token TRUMP puede ser un indicador de la falta de confianza en el mercado y la incertidumbre política. El futuro del token TRUMP es incierto, pero es claro que necesita recuperar la confianza de los inversores para poder recuperar su valor. La especulación y la volatilidad son factores clave en el mercado de tokens políticos, y el token TRUMP no es la excepción. Los inversores deben ser cautelosos y hacer sus propias investigaciones antes de invertir en este tipo de tokens.",
+        "categoria": "Finanzas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/trump-se-desploma-un-10-este-4-de-junio-de-2026-y-enfrenta-su-mayor-prueba-de-soporte/"
+    },
+    {
+        "fecha": "05/06/2026",
+        "titulo": "El auge de la IA y su impacto en el bitcoin",
+        "gancho": "IA supera al bitcoin",
+        "contenido_completo": "El auge de la inteligencia artificial (IA) ha generado un gran interés en el mercado bursátil, lo que ha llevado a una caída en el valor del bitcoin. La correlación entre el Nasdaq y el mercado cripto se ha vuelto negativa, lo que indica que los inversores están perdiendo interés en el bitcoin y se están volcando hacia la IA. Los expertos admiten que el rally de la IA es uno de los factores que ha contribuido a la caída del bitcoin. La IA ha demostrado ser una tecnología más atractiva y prometedora que el bitcoin, lo que ha llevado a los inversores a buscar oportunidades en este sector. El futuro del bitcoin es incierto, pero es claro que la IA es una tecnología que está aquí para quedarse. La IA tiene el potencial de revolucionar numerous industrias y sectores, lo que la hace muy atractiva para los inversores. El bitcoin, por otro lado, sigue siendo una moneda virtual volátil y especulativa.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/mercados/criptomonedas/2026/06/04/6a213624e5fdead9068b459b.html"
+    },
+    {
+        "fecha": "05/06/2026",
+        "titulo": "Colaboración con Occidente y enfoque en el Sur Global",
+        "gancho": "Crecimiento económico en el Sur Global",
+        "contenido_completo": "El enviado del Kremlin destacó la importancia del Sur Global en el crecimiento económico mundial. De hecho, el Sur Global genera más del 80 % de todo el crecimiento económico mundial. Esta afirmación resalta la creciente influencia de las regiones en desarrollo en la economía global. La colaboración con Occidente sigue siendo importante, pero el enfoque en el Sur Global es crucial para el futuro económico. El crecimiento económico en estas regiones es impulsado por factores como la urbanización, la innovación tecnológica y la integración en la economía global. La colaboración entre el Kremlin y el Sur Global puede tener un impacto significativo en la economía mundial. El futuro económico dependerá en gran medida de la capacidad de estas regiones para seguir creciendo y desarrollándose.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "RT",
+        "fuente_url": "https://actualidad.rt.com/actualidad/608938-enviado-kremlin-seguimos-colaborando-occidente-centramos-sur-global"
+    },
+    {
         "fecha": "04/06/2026",
         "titulo": "Editorial: Sin nuevos impuestos",
         "gancho": "Ajuste fiscal necesario",
