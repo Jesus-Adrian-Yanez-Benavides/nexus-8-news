@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "06/06/2026",
+        "titulo": "Apple y iOS 27",
+        "gancho": "iOS 27 revoluciona",
+        "contenido_completo": "Siri cambia para siempre en iOS 27. Descubre cómo será la nueva IA local con chatbot, las funciones de cámara y qué iPhone podrán actualizar este año. La nueva versión del sistema operativo de Apple promete ser una de las más importantes en la historia de la compañía. Con una serie de innovaciones y mejoras, iOS 27 busca ofrecer a los usuarios una experiencia más intuitiva y personalizada. La integración de la inteligencia artificial en Siri es solo uno de los muchos cambios que se esperan en esta versión. Los usuarios de iPhone podrán disfrutar de una serie de nuevas funciones y mejoras, lo que los hará más productivos y entretenidos. La actualización de iOS 27 es un paso importante hacia la creación de un ecosistema más conectado y eficiente.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Soydemac.com",
+        "fuente_url": "https://www.soydemac.com/apple-revoluciona-su-ecosistema-con-ios-27-y-una-nueva-siri-supervitaminada/"
+    },
+    {
+        "fecha": "06/06/2026",
+        "titulo": "Kia y el coche eléctrico",
+        "gancho": "Kia encuentra la tecla",
+        "contenido_completo": "Kia ha encontrado una fórmula poco habitual en el coche eléctrico: no apoyarse en un solo modelo, sino en una familia completa. Su gama EV ya cubre desde SUV urbanos hasta grandes siete plazas, con autonomías medias de 531 km y recargas rápidas en torno a 27 minutos. Esta estrategia permite a Kia ofrecer una variedad de opciones a sus clientes, lo que es fundamental en un mercado cada vez más competitivo. La empresa ha invertido mucho en la investigación y el desarrollo de tecnologías de baterías y motores eléctricos, lo que le ha permitido crear una gama de vehículos eléctricos muy atractivos. Con su enfoque en la innovación y la sostenibilidad, Kia busca ser uno de los líderes en el mercado del coche eléctrico.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/kia-encuentra-tecla-coche-electrico-era-solo-autonomia/202606051141271024761.html"
+    },
+    {
+        "fecha": "06/06/2026",
+        "titulo": "Agentes IA para ecommerce",
+        "gancho": "IA para ecommerce",
+        "contenido_completo": "Los agentes ia para ecommerce de Gurusup responden a esa necesidad con automatización aplicada a consultas, seguimiento de pedidos, devoluciones, recuperación de carritos y reseñas. La inteligencia artificial es cada vez más importante en el mundo del ecommerce, ya que permite a las empresas automatizar tareas y mejorar la experiencia del cliente. Los agentes ia de Gurusup son capaces de aprender y adaptarse a las necesidades de cada negocio, lo que los hace muy versátiles. Con la capacidad de manejar grandes cantidades de datos y tomar decisiones en tiempo real, los agentes ia pueden ayudar a las empresas a aumentar sus ventas y reducir sus costos. La implementación de agentes ia en el ecommerce es un paso importante hacia la creación de una experiencia de compra más personalizada y eficiente.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Marketingdirecto.com",
+        "fuente_url": "https://www.marketingdirecto.com/digital-general/digital/agentes-ia-ecommerce-campanas-alta-demanda"
+    },
+    {
+        "fecha": "06/06/2026",
+        "titulo": "GAC en España",
+        "gancho": "GAC desembarca en España",
+        "contenido_completo": "El quinto fabricante del país asiático desembarca con cinco modelos en este 2026 y un ambicioso objetivo de ventas, todo sobre la base de una política de precios muy agresiva. El goteo incesante de nuevas marcas chinas, y la consiguiente ensalada de logos y modelos, puede ser abrumador para los consumidores. Sin embargo, GAC busca diferenciarse con su enfoque en la calidad y el valor. Con una gama de vehículos que cubren desde el segmento compacto hasta el segmento de lujo, GAC busca atraer a una amplia variedad de clientes. La estrategia de precios agresiva de la compañía es clave para su plan de expansión en el mercado español.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/motor/novedades/gac-gigante-chino-viene-espana_1_13278015.html"
+    },
+    {
+        "fecha": "06/06/2026",
+        "titulo": "Aston Martin en Mónaco",
+        "gancho": "Alonso con Aston Martin",
+        "contenido_completo": "Aston Martin Aramco llega al GP de Mónaco 2026 con una maniobra pensada para que el AMR26 no pase desapercibido entre muros. La operación une a Maaden, Fernando Alonso, Lance Stroll y una pista de 3,337 kilómetros donde la imagen también compite. El equipo ha estado trabajando arduamente para asegurarse de que su presencia en Mónaco sea notable. Con una combinación de habilidad en la pista y estrategia de marketing, Aston Martin busca dejar una huella duradera en el mundo del automovilismo. La participación de Fernando Alonso es clave en este esfuerzo, ya que su experiencia y habilidad en la pista son fundamentales para el éxito del equipo.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/aston-martin-fernando-alonso-monaco-sera-verde-todo/202606051153421024768.html"
+    },
+    {
         "fecha": "05/06/2026",
         "titulo": "CUDA Agent supera a torch.compile",
         "gancho": "CUDA Agent revoluciona la IA",
