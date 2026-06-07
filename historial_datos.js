@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "07/06/2026",
+        "titulo": "Stellar (XLM) rompe resistencia clave",
+        "gancho": "Stellar rompe resistencia",
+        "contenido_completo": "Stellar (XLM) rebota desde un soporte crítico y reconquista la media móvil de 200 días, acompañado de un volumen de negociación un 54% superior al promedio. Este análisis detalla las métricas técnicas, fundamentales y derivadas para que los inversores evalúen la situación y tomen decisiones informadas. La criptomoneda sigue siendo volátil y su comportamiento puede cambiar rápidamente. Los expertos recomiendan analizar las señales técnicas y fundamentales antes de tomar decisiones de inversión. La recuperación puede ser un inicio de una tendencia alcista o una trampa para los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/stellar-xlm-rompe-resistencia-clave-mientras-los-toros-retoman-el-control-el-6-de-junio-de-2026/"
+    },
+    {
+        "fecha": "07/06/2026",
+        "titulo": "Mortadelo y Filemón llevan la ciencia a Avilés",
+        "gancho": "Mortadelo y Filemón en Avilés",
+        "contenido_completo": "El Ayuntamiento de Avilés y la Fundación para el Fomento en Asturias de la Investigación Científica y la Tecnología (Ficyt), entidad dependiente de la Consejería de Ciencia, Industria y Empleo del Principado de Asturias, impulsan la llegada de la exposición 'Crónicas disparatadas' de Mortadelo y Filemón. La exposición busca llevar la ciencia y la tecnología a la sociedad de manera divertida y accesible. Los visitantes podrán disfrutar de una experiencia única y aprender sobre la ciencia de manera interactiva. La exposición es una oportunidad para fomentar la curiosidad y el interés por la ciencia y la tecnología en la región.",
+        "categoria": "Ciencia",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/asturias/noticia-mortadelo-filemon-llevaran-ciencia-cronicas-disparatadas-aviles-20260606122207.html"
+    },
+    {
+        "fecha": "07/06/2026",
+        "titulo": "Moncloa y la Sepi comparecen en el Parlamento",
+        "gancho": "Comparecencia en el Parlamento",
+        "contenido_completo": "El director de la Oficina de Asuntos Económicos del presidente del Gobierno, Manuel de la Rocha, y la presidenta de la Sepi, Belén Gualda, comparecerán el próximo martes, 9 de junio, en la Comisión Mixta (Congreso-Senado) de Seguridad Nacional para informar sobre los movimientos de los Escribano en Indra. La comparecencia es importante para entender los detalles de la situación y cómo puede afectar a la economía y la seguridad nacional. Los expertos recomiendan estar atentos a las declaraciones y análisis de los expertos para entender mejor la situación. La comparecencia puede tener un impacto significativo en la política y la economía del país.",
+        "categoria": "Política",
+        "impacto": "bajo",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/empresas/2026/06/06/6a23f4e7468aebe6138b4570.html"
+    },
+    {
+        "fecha": "07/06/2026",
+        "titulo": "Zcash se desploma un 5,89% en 24 horas",
+        "gancho": "Caída del 5,89%",
+        "contenido_completo": "Zcash ($ZEC) experimenta una fuerte corrección del 5,89% en las últimas 24 horas, perforando soportes móviles críticos mientras el volumen se dispara un 149% sobre la media mensual. El activo cae a USD $367,28, generando señales de sobreventa extrema en medio… La caída puede ser un inicio de un bear market después de las ganancias del 629%. Los inversores deben estar atentos a las señales técnicas y fundamentales para tomar decisiones informadas. La criptomoneda sigue siendo volátil y su comportamiento puede cambiar rápidamente. Los expertos recomiendan diversificar las inversiones para minimizar los riesgos.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zcash-se-desploma-un-589-en-24-horas-inicio-de-un-bear-market-tras-ganancias-del-629/"
+    },
+    {
+        "fecha": "07/06/2026",
+        "titulo": "Canton Network ($CC) despierta con un rebote del 3,39%",
+        "gancho": "Rebote del 3,39%",
+        "contenido_completo": "Canton Network ($CC) registró una subida del 3,39% en las últimas 24 horas, situándose en $0,1529, en un contexto de volumen superior a la media mensual. Aunque las señales técnicas de corto plazo mejoran, la criptomoneda aún cotiza por debajo de sus principa… La recuperación puede ser un inicio de una tendencia alcista o una trampa para los inversores. Los expertos recomiendan tener precaución y analizar las señales técnicas antes de tomar decisiones de inversión. La criptomoneda sigue siendo volátil y su comportamiento puede cambiar rápidamente.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/canton-network-cc-despierta-con-un-rebote-del-339-inicio-de-una-recuperacion-o-trampa-alcista/"
+    },
+    {
         "fecha": "06/06/2026",
         "titulo": "Apple y iOS 27",
         "gancho": "iOS 27 revoluciona",
