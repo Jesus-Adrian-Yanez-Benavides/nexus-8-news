@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "08/06/2026",
+        "titulo": "Sriram Krishnan deja la Casa Blanca",
+        "gancho": "Sriram Krishnan abandona la Casa Blanca",
+        "contenido_completo": "Sriram Krishnan, uno de los rostros más visibles de la política de inteligencia artificial en la segunda administración de Donald Trump, dejará la Casa Blanca a finales de junio. Su salida llega después de impulsar una agenda centrada en centros de datos, menores regulaciones y más inversión en IA. Krishnan ha sido un defensor de la inteligencia artificial y ha trabajado para promover su adopción en la administración. Su salida puede tener un impacto en la política de IA de la administración y puede generar cambios en la forma en que se aborda la inteligencia artificial en el gobierno. Es importante destacar que la política de IA es un tema complejo y controvertido, y cualquier cambio en la administración puede tener consecuencias significativas. La salida de Sriram Krishnan de la Casa Blanca es un recordatorio de la importancia de la continuidad y la estabilidad en la política de IA.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/sriram-krishnan-dejara-la-casa-blanca-tras-impulsar-la-agenda-ia-de-trump/"
+    },
+    {
+        "fecha": "08/06/2026",
+        "titulo": "Transmisión de datos a 362 Gbps",
+        "gancho": "Transmisión de datos a 362 Gbps",
+        "contenido_completo": "Un equipo de investigadores del Reino Unido ha desarrollado un sistema inalámbrico óptico que utiliza una matriz de láseres VCSEL para transmitir datos mediante luz en lugar de ondas de radio. En pruebas, el sistema alcanzó una velocidad de transmisión de 362,7 gigabits por segundo en un enlace de dos metros. Este sistema consume la mitad de energía que el Wi-Fi y no interfiere con otras señales. La tecnología tiene el potencial de revolucionar la forma en que se transmiten los datos y podría ser utilizada en una variedad de aplicaciones, desde la comunicación inalámbrica hasta la transmisión de datos en centros de datos. Los investigadores están trabajando para mejorar la distancia y la velocidad de transmisión del sistema, lo que podría llevar a una mayor adopción en el futuro. La transmisión de datos a 362 Gbps es un logro significativo y podría tener un impacto importante en la forma en que se transmiten los datos en el futuro.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/investigadores-del-reino-unido-transmitieron-datos-a-362-gbps-usando-luz-en-lugar-de-ondas-de-radio-el-sistema-consume-la-mitad-de-energia-que-el-wi-fi-y-no-interfiere-con-otras-senales-2000239853"
+    },
+    {
+        "fecha": "08/06/2026",
+        "titulo": "Renovación de la plaza Matías Prats",
+        "gancho": "Plaza Matías Prats se renueva",
+        "contenido_completo": "El Ayuntamiento de Córdoba ha iniciado el expediente de renovación de la solería defectuosa de la plaza Matías Prats Cañete, en el barrio del Zoco. La renovación tendrá un importe de 62.920 euros y forma parte de un plan más amplio para mejorar la infraestructura urbana de la ciudad. La plaza Matías Prats es un espacio público importante en el barrio del Zoco y su renovación mejorará la calidad de vida de los residentes y visitantes. La obra de renovación incluirá la sustitución de la solería defectuosa y la mejora de la iluminación y la seguridad en la zona. El Ayuntamiento de Córdoba está comprometido con la mejora de la infraestructura urbana y la calidad de vida de los ciudadanos. La renovación de la plaza Matías Prats es solo uno de los muchos proyectos que se están llevando a cabo en la ciudad para mejorar la calidad de vida de los residentes y visitantes.",
+        "categoria": "Urbanismo",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-inicia-obras-ajardinamiento-plaza-matias-prats-20260607141743-nts.html"
+    },
+    {
+        "fecha": "08/06/2026",
+        "titulo": "Vulnerabilidad en Claude Code",
+        "gancho": "Vulnerabilidad en Claude Code expone credenciales",
+        "contenido_completo": "Investigadores de Microsoft han identificado una vulnerabilidad en Claude Code, el agente de programación de Anthropic para GitHub. Esta vulnerabilidad puede ser explotada mediante contenido malicioso en repositorios para exponer credenciales sensibles utilizadas en procesos de desarrollo. La vulnerabilidad puede tener un impacto significativo en la seguridad de los desarrolladores y las empresas que utilizan GitHub. Es importante que los desarrolladores tomen medidas para proteger sus credenciales y actualizar sus sistemas para evitar cualquier tipo de explotación. La vulnerabilidad en Claude Code es un recordatorio de la importancia de la seguridad en el desarrollo de software y la necesidad de realizar pruebas y auditorías regulares para identificar y corregir cualquier tipo de vulnerabilidad. Los desarrolladores deben estar atentos a cualquier actualización o parche que pueda ser liberado para solucionar este problema.",
+        "categoria": "Seguridad",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/ia/microsoft-descubre-vulnerabilidad-en-claude-code-que-podia-filtrar-credenciales/"
+    },
+    {
+        "fecha": "08/06/2026",
+        "titulo": "Guerra en Irán: 100 días de conflicto",
+        "gancho": "Guerra en Irán sacude economía global",
+        "contenido_completo": "La guerra en Irán ha llegado a sus primeros 100 días sin un acuerdo de paz duradero. Esto ha generado un impacto significativo en la economía global, afectando la inflación, los bonos y el petróleo. A pesar de que Wall Street ha marcado máximos históricos gracias a la fiebre de la inteligencia artificial, el resto del tablero financiero se ve afectado por la incertidumbre. La guerra en Irán ha generado una serie de consecuencias económicas que pueden tener un efecto duradero en la economía global. La inflación ha aumentado debido a la escasez de recursos y la disrupción en las cadenas de suministro. Además, el precio del petróleo ha aumentado, lo que ha generado un impacto en la economía de muchos países. Es importante destacar que la situación en Irán sigue siendo volátil y puede generar más consecuencias económicas en el futuro.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados/guerra-en-iran-cumple-100-dias-y-sacude-inflacion-bonos-y-petroleo-global/"
+    },
+    {
         "fecha": "07/06/2026",
         "titulo": "Stellar (XLM) rompe resistencia clave",
         "gancho": "Stellar rompe resistencia",
