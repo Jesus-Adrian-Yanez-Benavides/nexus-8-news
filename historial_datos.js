@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "09/06/2026",
+        "titulo": "NEAR estalla al alza",
+        "gancho": "NEAR sube 15%",
+        "contenido_completo": "El token nativo de NEAR Protocol ha experimentado un aumento del 15% en un solo día, lo que ha generado un gran interés entre los inversores. Este repunte se debe a una combinación de factores fundamentales y técnicos que han activado una oleada compradora agresiva. Sin embargo, es importante analizar si este aumento es sostenible o si se trata de una trampa para los alcistas. La volatilidad del mercado de criptomonedas puede ser muy alta, y los inversores deben ser cautelosos al tomar decisiones. Es fundamental evaluar los fundamentos del token y el mercado en general antes de invertir. La situación actual del token NEAR es un ejemplo de cómo el mercado de criptomonedas puede ser muy volátil y cómo los inversores deben estar preparados para cualquier escenario. El token NEAR ha superado los USD 2,14, lo que ha llamado la atención de los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/near-estalla-al-alza-inicio-de-una-recuperacion-o-trampa-alcista/"
+    },
+    {
+        "fecha": "09/06/2026",
+        "titulo": "Audiera se dispara un 90%",
+        "gancho": "Audiera sube 90%",
+        "contenido_completo": "El token Audiera ($BEAT) ha experimentado un aumento del 90% en un solo día, lo que ha generado un gran interés entre los inversores. Este repunte se debe a una combinación de factores fundamentales y técnicos que han activado una oleada compradora agresiva. Sin embargo, es importante analizar si este aumento es sostenible o si se trata de una trampa para los alcistas. La volatilidad del mercado de criptomonedas puede ser muy alta, y los inversores deben ser cautelosos al tomar decisiones. Es fundamental evaluar los fundamentos del token y el mercado en general antes de invertir. La situación actual del token Audiera es un ejemplo de cómo el mercado de criptomonedas puede ser muy volátil y cómo los inversores deben estar preparados para cualquier escenario. La capitalización de mercado de Audiera ha aumentado significativamente, lo que ha llamado la atención de los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/audiera-beat-se-dispara-un-90-en-24-horas-y-pone-en-alerta-a-los-inversores/"
+    },
+    {
+        "fecha": "09/06/2026",
+        "titulo": "Oro y Bitcoin en medio de tensión",
+        "gancho": "Oro cae, Bitcoin sube",
+        "contenido_completo": "El oro ha continuado su tendencia a la baja, mientras que Bitcoin ha mostrado una mejor evolución en medio de la tensión en Oriente Medio. La situación geopolítica ha generado un aumento en la demanda de activos seguros, lo que ha afectado el precio del oro. Por otro lado, Bitcoin ha demostrado ser más resistente a la volatilidad del mercado y ha ganado terreno en comparación con el oro. La relación entre el oro y Bitcoin es compleja, y los inversores deben considerar varios factores al tomar decisiones. La tensión en Oriente Medio y las expectativas de aumento de tasas en Estados Unidos han influido en el mercado de metales preciosos y criptomonedas. Es importante analizar los fundamentos y la situación actual del mercado para tomar decisiones informadas.",
+        "categoria": "Mercados",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados/oro-extiende-las-perdidas-mientras-bitcoin-gana-terreno-en-medio-de-tension-en-oriente-medio/"
+    },
+    {
+        "fecha": "09/06/2026",
+        "titulo": "SIREN se dispara un 40%",
+        "gancho": "SIREN sube 40%",
+        "contenido_completo": "El token de IA SIREN ha experimentado un aumento del 40% en un solo día, lo que ha generado un gran interés entre los inversores. Este repunte se debe a una combinación de factores fundamentales y técnicos que han activado una oleada compradora agresiva. Sin embargo, es importante analizar si este aumento es sostenible o si se trata de una trampa para los alcistas. La volatilidad del mercado de criptomonedas puede ser muy alta, y los inversores deben ser cautelosos al tomar decisiones. Es fundamental evaluar los fundamentos del token y el mercado en general antes de invertir. La situación actual del token SIREN es un ejemplo de cómo el mercado de criptomonedas puede ser muy volátil y cómo los inversores deben estar preparados para cualquier escenario.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/siren-se-dispara-un-40-oportunidad-o-trampa-para-alcistas/"
+    },
+    {
+        "fecha": "09/06/2026",
+        "titulo": "LG y NVIDIA se unen en IA y robots",
+        "gancho": "Alianza en IA y robots",
+        "contenido_completo": "LG y NVIDIA han anunciado una alianza estratégica para trabajar juntos en el desarrollo de tecnologías de inteligencia artificial, robótica y movilidad autónoma. Esta colaboración busca aprovechar las fortalezas de ambas empresas para crear soluciones innovadoras en estos campos. La alianza incluye el desarrollo de plataformas como Isaac GR00T, DSX, DRIVE Hyperion y otras tecnologías avanzadas. Con esta unión, LG y NVIDIA buscan liderar el mercado de la IA y la robótica en el futuro. La alianza también se enfocará en la creación de infraestructura para fábricas de IA y conducción autónoma. Además, se espera que esta colaboración impulse el desarrollo de la IA soberana en Corea del Sur.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/corea-del-sur/lg-y-nvidia-amplian-alianza-en-robots-centros-de-datos-de-ia-y-movilidad-autonoma/"
+    },
+    {
         "fecha": "08/06/2026",
         "titulo": "Sriram Krishnan deja la Casa Blanca",
         "gancho": "Sriram Krishnan abandona la Casa Blanca",
