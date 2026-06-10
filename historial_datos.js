@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "10/06/2026",
+        "titulo": "Análisis de Aster",
+        "gancho": "Aster desploma 74%",
+        "contenido_completo": "Aster (ASTER) cotiza a USD $0,619, un -74,36% desde su máximo histórico de septiembre 2025. Con médias móviles en cruce bajista, volumen en mínimos y sin catalizadores fundamentales a la vista, el activo entra en zona crítica. Los analistas están evaluando si esta caída es una oportunidad de compra o si el activo está sobrevalorado. Algunos argumentan que la corrección es necesaria para que el activo vuelva a sus niveles fundamentales, mientras que otros creen que la tendencia a largo plazo sigue siendo negativa. Es importante tener en cuenta que el mercado de criptomonedas es volátil y que las tendencias pueden cambiar rápidamente. Los inversores deben tener cuidado al tomar decisiones sobre este activo.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/aster-desploma-74-desde-su-maximo-oportunidad-de-compra-o-activo-toxico/"
+    },
+    {
+        "fecha": "10/06/2026",
+        "titulo": "Análisis de KITE",
+        "gancho": "KITE bajo presión",
+        "contenido_completo": "KITE cayó un 3,07% en la última sesión, ubicándose en USD 0,1876. El token retrocede luego de un año de ganancias superiores al 163%, generando dudas sobre la sostenibilidad de su tendencia. Los analistas están divididos sobre si esta caída es una oportunidad de compra o una señal de que el token está sobrevalorado. Algunos argumentan que la corrección es necesaria para que el token vuelva a sus niveles fundamentales, mientras que otros creen que la tendencia a largo plazo sigue siendo positiva. Es importante tener en cuenta que el mercado de criptomonedas es volátil y que las tendencias pueden cambiar rápidamente.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/kite-bajo-presion-oportunidad-de-compra-o-trampa-de-valor/"
+    },
+    {
+        "fecha": "10/06/2026",
+        "titulo": "Crecimiento económico en España",
+        "gancho": "España lidera el crecimiento en Europa",
+        "contenido_completo": "La economía española vuelve a colocarse en el centro del debate europeo. Mientras Alemania continúa atrapada en el estancamiento y Francia e Italia avanzan con dificultad, Goldman Sachs cree que España seguirá siendo una de las economías más dinámicas de la región. El crecimiento económico de España se debe a una combinación de factores, incluyendo una política fiscal expansiva y una recuperación en el sector turístico. Los analistas de Goldman Sachs esperan que España supere a sus vecinos europeos en términos de crecimiento económico en los próximos años. Esto podría tener un impacto positivo en la economía global y en la confianza de los inversores.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Elperiodico.com",
+        "fuente_url": "https://www.elperiodico.com/es/economia/20260609/goldman-sachs-preve-espana-crecer-mas-que-alemania-francia-italia-eurozona-dv-131190053"
+    },
+    {
+        "fecha": "10/06/2026",
+        "titulo": "SBI Shinsei Bank y criptomonedas",
+        "gancho": "Depósitos con recompensas en criptomonedas",
+        "contenido_completo": "El banco japonés SBI Shinsei Bank planea lanzar un servicio que entregará vouchers canjeables por bitcoin, ether o XRP a clientes con depósitos. La iniciativa busca conectar el negocio bancario tradicional con la plataforma cripto del grupo SBI. Los clientes podrán canjear sus vouchers por criptomonedas, lo que puede atraer a nuevos inversores al mercado. El servicio se lanzará este otoño y busca ofrecer una opción más a los clientes que buscan diversificar sus inversiones. Con este movimiento, SBI Shinsei Bank se posiciona como un líder en la adopción de tecnologías financieras innovadoras.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/sbi-shinsei-bank-premiara-depositos-en-japon-con-cupones-canjeables-por-bitcoin-ether-y-xrp/"
+    },
+    {
+        "fecha": "10/06/2026",
+        "titulo": "iOS 27: Novedades para iPhone",
+        "gancho": "iOS 27 llega a septiembre",
+        "contenido_completo": "Apple ha anunciado sus nuevos sistemas operativos. Los iPhone recibirán iOS 27 a partir de septiembre, coincidiendo con el lanzamiento de los iPhone 18. El nuevo software destaca por la adición de nuevas características y mejoras en la seguridad. Los usuarios podrán disfrutar de una experiencia más fluida y segura en sus dispositivos. La actualización también incluirá mejoras en la cámara y el procesamiento de imágenes. Con iOS 27, Apple busca ofrecer una experiencia más integral y conectada a sus usuarios.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/tecnologia/ios-novedades-interesantes-llegaran-iphone-20260609133310-nt.html"
+    },
+    {
         "fecha": "09/06/2026",
         "titulo": "NEAR estalla al alza",
         "gancho": "NEAR sube 15%",
