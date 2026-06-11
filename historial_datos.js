@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "11/06/2026",
+        "titulo": "La guerra de drones en Ucrania",
+        "gancho": "Guerra de drones en Ucrania",
+        "contenido_completo": "La guerra de drones en Ucrania ha dejado una lección clara: la importancia de la tecnología y la innovación en la guerra moderna. Un ejemplo interesante es la ametralladora Browning M2, que sigue funcionando después de más de 90 años de servicio. Esta historia muestra que, en algunos casos, la tecnología antigua puede ser tan efectiva como la moderna. La guerra de drones en Ucrania ha sido un escenario de prueba para nuevas tecnologías y tácticas, y ha demostrado la importancia de la adaptabilidad y la innovación en la guerra moderna.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/magnet/guerra-drones-ha-dejado-leccion-clara-para-ucrania-no-pueden-salir-casa-ametralladora-hace-100-anos"
+    },
+    {
+        "fecha": "11/06/2026",
+        "titulo": "SAS celebra 50 años",
+        "gancho": "SAS cumple 50 años",
+        "contenido_completo": "La compañía americana SAS está celebrando su 50 aniversario. En este momento, la empresa reafirma su compromiso con la innovación centrada en las personas y las decisiones basadas en datos. SAS ha sido pionera en el desarrollo de soluciones de análisis de datos y ha ayudado a miles de empresas a tomar decisiones informadas. Con su enfoque en la innovación y la calidad, SAS sigue siendo líder en el mercado de la inteligencia empresarial y el análisis de datos.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/sas-celebra-medio-siglo-de-vida-2580908"
+    },
+    {
+        "fecha": "11/06/2026",
+        "titulo": "Acronis democratiza la ciberprotección",
+        "gancho": "Ciberprotección para pymes",
+        "contenido_completo": "Acronis ha anunciado que está democratizando la ciberprotección avanzada para pymes. Esto significa que las tecnologías que hasta hace poco estaban solo al alcance de grandes empresas ahora están disponibles para cualquier tipo de organización a través de los MSP de Acronis. La ciberprotección es un tema cada vez más importante en la era digital, y Acronis busca ofrecer soluciones efectivas y accesibles para todos. Con esta medida, las pymes pueden proteger sus datos y sistemas de manera eficaz y mejorar su seguridad en línea.",
+        "categoria": "Ciberseguridad",
+        "impacto": "alto",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/acronis-democratiza-la-ciberproteccion-avanzada-para-pymes-2580920"
+    },
+    {
+        "fecha": "11/06/2026",
+        "titulo": "Nueva York regula stablecoins",
+        "gancho": "Regulación para stablecoins",
+        "contenido_completo": "El Departamento de Servicios Financieros de Nueva York ha propuesto una regulación para emisores de stablecoins respaldadas por dólares. Esta medida busca adaptar el marco estatal a los nuevos requisitos federales de la Ley GENIUS. La regulación establece límites a las reservas y busca garantizar la estabilidad y la seguridad de las transacciones con stablecoins. Esta medida es un paso importante hacia la regulación del mercado de criptomonedas y puede tener un impacto significativo en la industria financiera.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/new-york/nueva-york-propone-reglas-para-stablecoins-alineadas-con-la-ley-genius-y-anade-limites-a-reservas/"
+    },
+    {
+        "fecha": "11/06/2026",
+        "titulo": "Adsmurai lanza Kata, su IA de Marketing",
+        "gancho": "IA de Marketing revolucionaria",
+        "contenido_completo": "Adsmurai presenta Kata, su IA de Marketing que combina el conocimiento acumulado de la empresa con la infraestructura de AMP y el contexto único de cada marca. Esta solución busca ofrecer una experiencia personalizada y eficaz para los clientes. Con Kata, las empresas pueden aprovechar al máximo sus campañas de marketing y mejorar sus resultados. La entrada de Adsmurai en el mercado de la IA de Marketing es un paso importante hacia la innovación y el progreso en el sector.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Marketingdirecto.com",
+        "fuente_url": "https://www.marketingdirecto.com/marketing-general/agencias/adsmurai-presenta-kata-ia-marketing"
+    },
+    {
         "fecha": "10/06/2026",
         "titulo": "Análisis de Aster",
         "gancho": "Aster desploma 74%",
