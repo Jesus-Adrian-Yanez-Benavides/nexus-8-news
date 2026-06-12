@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "12/06/2026",
+        "titulo": "Mejores tarjetas de crédito",
+        "gancho": "Fácil aprobación en España",
+        "contenido_completo": "Hoy en día, conseguir liquidez de manera casi inmediata y sin tener que pasar por los eternos trámites y papeleos bancarios es más que un capricho; para muchos, es toda una necesidad cuando aparecen esos gastos inesperados que no dan tregua. Seguro que a muchos les ha pasado que necesitan dinero con urgencia y no saben a quién recurrir. Las tarjetas de crédito pueden ser una opción, pero es importante elegir la adecuada. La aprobación fácil es un factor clave en la elección de una tarjeta de crédito.",
+        "categoria": "Finanzas",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elrecomendador/finanzas-personales/20260611/1004193792/mejores-tarjetas-credito-facil-aprobacion-espana-mkt-witm.html"
+    },
+    {
+        "fecha": "12/06/2026",
+        "titulo": "La letra pequeña de Siri AI",
+        "gancho": "Apple oculta la verdad",
+        "contenido_completo": "La última conferencia de desarrolladores de Apple desplegó un futuro espectacular para la inteligencia de Siri, pero un pequeño detalle oculto en los textos oficiales revela una realidad muy diferente. Aunque muchos daban por hecho que no sería gratis, la menuda letra revela que los costos pueden ser más altos de lo esperado. La inteligencia artificial es un campo en constante evolución y los consumidores deben estar informados. La transparencia es fundamental en la industria tecnológica y Apple debe ser más clara en sus comunicaciones.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Movilzona.es",
+        "fuente_url": "https://www.movilzona.es/noticias/rumores/siri-ai-limites-suscripcion-pago/"
+    },
+    {
+        "fecha": "12/06/2026",
+        "titulo": "WLD se dispara",
+        "gancho": "Repunte del 78%",
+        "contenido_completo": "El token WLD sorprende al mercado con un repunte del 78% en treinta días, impulsado por una adopción acelerada en el ecosistema DePIN y expectativas de nuevos desarrollos. Sin embargo, indicadores de sobrecompra y la amenaza regulatoria plantean riesgos. El mercado criptográfico es conocido por su volatilidad y los inversores deben ser cautelosos. La adopción de WLD en el ecosistema DePIN ha sido rápida y ha generado gran interés en la comunidad criptográfica. Los inversores deben considerar los riesgos y beneficios antes de tomar una decisión.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/wld-se-dispara-un-78-en-30-dias-resurreccion-o-trampa-alcista/"
+    },
+    {
+        "fecha": "12/06/2026",
+        "titulo": "Igor Cortadellas",
+        "gancho": "Espectacular inauguración",
+        "contenido_completo": "Igor Cortadellas es el hombre detrás de la espectacular inauguración de la Torre de Jesús. Las imágenes de la Sagrada Familia iluminada, el rosto de Antoni Gaudí dibujado en el cielo con drones y los miles de asistentes con farolillos siguen acumulando reproducciones en redes sociales. El evento ha sido calificado como uno de los más impresionantes de la historia. La planificación y ejecución del evento han sido ampliamente elogiadas. La combinación de tecnología y arte ha creado una experiencia única y memorable.",
+        "categoria": "Arte",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elotromundo/gente/20260611/1004193814/igor-cortadellas-hombre-detras-espectacular-adios-papa-sagrada-familia-maravillado-mundo-dct.html"
+    },
+    {
+        "fecha": "12/06/2026",
+        "titulo": "Bithumb bajo presión",
+        "gancho": "CEO investigado",
+        "contenido_completo": "La mayor presión sobre Bithumb ya no viene solo de los reguladores. Ahora, su CEO enfrenta una investigación por presunto soborno en un caso que mezcla contratación, poder político y rivalidad empresarial en uno de los mercados cripto más vigilados de Asia. La investigación se centra en posibles sobornos relacionados con la contratación de servicios en el mercado coreano. El caso ha generado gran interés en la comunidad financiera y criptográfica. La empresa ha emitido un comunicado expresando su compromiso con la transparencia y la cooperación con las autoridades.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/bithumb-bajo-presion-ceo-es-investigado-por-presunto-soborno-en-corea-del-sur/"
+    },
+    {
         "fecha": "11/06/2026",
         "titulo": "La guerra de drones en Ucrania",
         "gancho": "Guerra de drones en Ucrania",
