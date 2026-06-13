@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "13/06/2026",
+        "titulo": "Dogecoin intenta estabilizarse",
+        "gancho": "Dogecoin sube 1,93%",
+        "contenido_completo": "Dogecoin registra un modesto repunte diario del 1,93 % mientras los inversores evalúan si el soporte clave en $0,08 puede mantenerse tras una caída interanual del 51 %. Los indicadores técnicos mixtos y el bajo volumen complican el panorama de la criptomoneda. La comunidad de inversores se pregunta si Dogecoin puede recuperarse o si esta caída es el inicio de un declive más profundo. La situación actual de Dogecoin es un ejemplo de la volatilidad que caracteriza al mercado de criptomonedas. Los inversores deben ser cautelosos y esperar señales más claras antes de tomar decisiones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dogecoin-intenta-estabilizarse-sobre-0085-en-medio-de-una-crisis-de-confianza/"
+    },
+    {
+        "fecha": "13/06/2026",
+        "titulo": "LEO se desangra lentamente",
+        "gancho": "LEO cae por debajo de $9,5",
+        "contenido_completo": "El token del exchange Bitfinex cotiza en consolidación con volumen mínimo, mientras los indicadores técnicos apuntan a un debilitamiento a corto plazo que podría buscar soporte en la media de 200 días. La comunidad de inversores se pregunta si es momento de acumular o de esperar señales más claras. La situación actual de LEO es un ejemplo de la incertidumbre que caracteriza al mercado de criptomonedas. Los inversores deben ser cautelosos y esperar señales más claras antes de tomar decisiones. La falta de volumen y la debilidad de los indicadores técnicos sugieren que LEO podría seguir cayendo en el corto plazo.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/leo-se-desangra-lentamente-el-volumen-colapsa-un-60-mientras-el-precio-cae-por-debajo-de-los-95/"
+    },
+    {
+        "fecha": "13/06/2026",
+        "titulo": "ZEC en la cuerda floja",
+        "gancho": "ZEC repunta 3,80%",
+        "contenido_completo": "Zcash (ZEC) repunta un 3,80% hasta los $440,07, mostrando resiliencia tras un mes de fuertes caídas. Mientras los indicadores técnicos ofrecen señales mixtas, el mercado sopesa la escasez del activo post-halving y la creciente demanda por privacidad financiera. La comunidad de inversores se pregunta si este repunte es el inicio de un nuevo rally alcista o simplemente un rebote técnico. La situación actual de ZEC es un ejemplo de la complejidad que caracteriza al mercado de criptomonedas. Los inversores deben analizar cuidadosamente los indicadores técnicos y fundamentales antes de tomar decisiones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zec-en-la-cuerda-floja-rebote-tecnico-o-inicio-de-un-nuevo-rally-alcista/"
+    },
+    {
+        "fecha": "13/06/2026",
+        "titulo": "Stellar sufre corrección",
+        "gancho": "Stellar cae 28%",
+        "contenido_completo": "Tras un rally mensual del 21,87%, XLM enfrenta una corrección brusca del 28,01% en dos semanas, situando su precio justo por encima de la media móvil de 200 días. El volumen diario se desploma un 62% respecto al promedio mensual, lo que plantea dudas sobre la sostenibilidad del precio actual. La comunidad de inversores se pregunta si esta corrección es una oportunidad de compra o una trampa de oso. La situación actual de Stellar es un ejemplo de la volatilidad que caracteriza al mercado de criptomonedas. Los inversores deben ser cautelosos y esperar señales más claras antes de tomar decisiones.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/stellar-sufre-correccion-del-28-en-14-dias-oportunidad-de-compra-o-trampa-de-oso/"
+    },
+    {
+        "fecha": "13/06/2026",
+        "titulo": "Monero ($XMR) se dispara",
+        "gancho": "Monero sube 13,5%",
+        "contenido_completo": "Monero ($XMR) experimentó un repunte intradía del 13,54% el 12 de junio de 2026, superando los $386 e impulsado por un volumen que duplica el promedio de 30 días. El cruce de promedios móviles clave y el renovado interés en criptomonedas de privacidad plantea dudas sobre la sostenibilidad de este aumento. La comunidad de inversores se muestra cautelosa, esperando señales más claras sobre el futuro de la criptomoneda. Mientras tanto, el mercado de criptomonedas sigue siendo volátil, con cambios repentinos en la oferta y la demanda. La situación actual de Monero es un ejemplo de la incertidumbre que caracteriza al mercado de criptomonedas.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/monero-xmr-se-dispara-un-135-en-una-jornada-de-alto-volumen-y-recupera-niveles-clave/"
+    },
+    {
         "fecha": "12/06/2026",
         "titulo": "Mejores tarjetas de crédito",
         "gancho": "Fácil aprobación en España",
