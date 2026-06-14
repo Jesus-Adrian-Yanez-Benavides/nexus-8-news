@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "14/06/2026",
+        "titulo": "Plan de la SEC para eliminar regla 611",
+        "gancho": "SEC elimina regla 611",
+        "contenido_completo": "La SEC de Estados Unidos propuso derogar la Regla 611 de la Regulación NMS, un cambio que podría remover la principal traba legal para que las acciones tokenizadas de empresas estadounidenses se negocien sobre infraestructuras DeFi basadas en AMM. La medida, si se aprueba, podría tener un impacto significativo en el mercado de criptomonedas y la forma en que se negocian las acciones. La Regla 611 es una de las principales barreras para que las acciones tokenizadas se negocien en plataformas descentralizadas, y su eliminación podría abrir la puerta a nuevas oportunidades de inversión. Sin embargo, también plantea desafíos regulatorios y de seguridad que deben ser abordados.",
+        "categoria": "Regulación",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/plan-de-la-sec-para-eliminar-regla-611-abriria-la-puerta-a-acciones-tokenizadas-en-defi/"
+    },
+    {
+        "fecha": "14/06/2026",
+        "titulo": "Móvil de vivo con cámara de 200 MP",
+        "gancho": "Móvil vivo con cámara 200MP",
+        "contenido_completo": "Los móviles de vivo no tienen tanto cartel como los de otras marcas, pero son igual o incluso mejores. Una prueba fehaciente de ello es el reciente vivo V70 FE, cuya oferta en Amazon está despertando el interés de los entusiastas de la tecnología. Es uno de los móviles con cámara de 200 MP más asequibles del mercado, lo que lo convierte en una excelente opción para aquellos que buscan un dispositivo con buenas características y un precio razonable. El móvil cuenta con una cámara principal de 200 MP, una pantalla de 6,7 pulgadas y un procesador Qualcomm Snapdragon 888. La batería es de 4500 mAh y admite carga rápida de 33W.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Movilzona.es",
+        "fuente_url": "https://www.movilzona.es/noticias/ofertas/amazon-movil-vivo-v70-fe-0626/"
+    },
+    {
+        "fecha": "14/06/2026",
+        "titulo": "Audiera (BEAT) se dispara un 1930%",
+        "gancho": "Audiera sube 1930%",
+        "contenido_completo": "El token nativo de Audiera, una plataforma descentralizada de streaming musical, subió más del 20% en 24 horas hasta rozar los USD 9,27, tras haber marcado un máximo intradía histórico de USD 11,01 el día anterior. El activo acumula una revalorización cercana al 2000% en un año, lo que lo convierte en uno de los tokens con mayor crecimiento en el mercado. La pregunta es si este aumento es sostenible o si se avecina una corrección. El mercado de criptomonedas es conocido por su volatilidad, y los inversores deben estar preparados para cualquier eventualidad. La plataforma de streaming musical es un sector en constante crecimiento, y Audiera podría ser una buena opción para aquellos que buscan invertir en este ámbito.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/audiera-beat-se-dispara-un-1930-en-un-ano-y-alcanza-los-11-antes-de-una-correccion-del-15/"
+    },
+    {
+        "fecha": "14/06/2026",
+        "titulo": "$GWEI alcanza máximo histórico",
+        "gancho": "$GWEI sube 26%",
+        "contenido_completo": "El token de gas de Ethereum, $GWEI, protagoniza una sesión histórica este 13 de junio al perforar su máximo histórico de $0.20925. Con un incremento del 26% en las últimas 24 horas, el activo de microcapitalización acelera una tendencia alcista que suma más de un año. La pregunta es si este aumento es sostenible o si se avecina una corrección. El mercado de criptomonedas es conocido por su volatilidad, y los inversores deben estar preparados para cualquier eventualidad. El token de gas de Ethereum es un activo importante en el ecosistema de Ethereum, y su aumento podría tener un impacto en el mercado en general.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gwei-se-dispara-un-26-y-toca-maximo-historico-se-avecina-una-correccion/"
+    },
+    {
+        "fecha": "14/06/2026",
+        "titulo": "SKYAI se dispara un 30%",
+        "gancho": "SKYAI sube 30%",
+        "contenido_completo": "El token de inteligencia artificial SKYAI experimenta un rally del 30% el 13 de junio de 2026, impulsado por un renovado interés en el sector y un posible short squeeze. Con una capitalización de mercado aún un 57% por debajo de su máximo histórico, el activo se encuentra en una posición interesante para los inversores. La pregunta es si este aumento es un signo de recuperación o una trampa para los alcistas. El mercado de criptomonedas es conocido por su volatilidad, y los inversores deben estar preparados para cualquier eventualidad. La inteligencia artificial es un sector en constante crecimiento, y SKYAI podría ser una buena opción para aquellos que buscan invertir en este ámbito.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/skyai-se-dispara-un-30-el-13-de-junio-senal-de-recuperacion-o-trampa-para-alcistas/"
+    },
+    {
         "fecha": "13/06/2026",
         "titulo": "Dogecoin intenta estabilizarse",
         "gancho": "Dogecoin sube 1,93%",
