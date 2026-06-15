@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "15/06/2026",
+        "titulo": "China crea superdiamante",
+        "gancho": "Más duro que el diamante",
+        "contenido_completo": "El llamado superdiamante chino tiene una estructura hexagonal y una resistencia superior a la del diamante convencional. Más que una rareza científica, el hallazgo apunta a una nueva generación de materiales ultraduros para cortar, perforar, proteger y explorar. El superdiamante ha sido creado en un laboratorio y su estructura es única. Los científicos están emocionados por el potencial de este material y están trabajando para entender sus propiedades. El superdiamante puede tener un impacto significativo en la industria y la tecnología. La creación de este material es un logro importante para la ciencia y la tecnología.",
+        "categoria": "Materiales",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/misterioso-superdiamante-chino-que-desafia-y-revoluciona-los-limites-resistencia-conocida-2000183737"
+    },
+    {
+        "fecha": "15/06/2026",
+        "titulo": "Tokens de IA descentralizada suben",
+        "gancho": "Tras restricción de EE. UU.",
+        "contenido_completo": "Los tokens de Venice y Morpheus, dos proyectos asociados a inteligencia artificial descentralizada, subieron después de que el Gobierno de Estados Unidos ordenara a Anthropic restringir el acceso de usuarios extranjeros a sus nuevos modelos Fable 5 y Mythos 5. La restricción ha generado un aumento en el interés por los proyectos de IA descentralizada. La inteligencia artificial es un campo en constante evolución y la descentralización puede ofrecer nuevas oportunidades para el desarrollo de esta tecnología. Los tokens de Venice y Morpheus han sido beneficiados por la restricción y es probable que sigan subiendo en el futuro. La IA descentralizada puede ser un área de gran crecimiento en el futuro.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/ia/tokens-de-ia-descentralizada-suben-tras-restriccion-de-ee-uu-a-modelos-de-anthropic/"
+    },
+    {
+        "fecha": "15/06/2026",
+        "titulo": "Migración poscuántica de Bitcoin",
+        "gancho": "Expertos piden acelerar",
+        "contenido_completo": "Un grupo de expertos en criptografía y blockchain advirtió que Bitcoin debe comenzar cuanto antes su migración técnica hacia firmas resistentes a computadoras cuánticas. Aunque la comunidad todavía no tiene consenso sobre qué hacer con monedas antiguas o aparecidas, los expertos están de acuerdo en que la migración es necesaria para proteger la seguridad de la red. La computación cuántica es una tecnología en constante evolución y puede representar un riesgo para la seguridad de las criptomonedas. Los expertos están trabajando para encontrar una solución que proteja la integridad de la red. La migración poscuántica es un paso importante para el futuro de Bitcoin.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/bitcoin/expertos-piden-acelerar-migracion-poscuantica-de-bitcoin-sin-resolver-aun-las-monedas-perdidas/"
+    },
+    {
+        "fecha": "15/06/2026",
+        "titulo": "Fenómeno supera velocidad de la luz",
+        "gancho": "Desafía la teoría de Einstein",
+        "contenido_completo": "Un equipo de científicos ha observado un fenómeno que parece desafiar una de las reglas más conocidas del universo. Aunque no contradice directamente las ideas de Einstein, el descubrimiento abre nuevas preguntas sobre la naturaleza de la luz y los límites del universo. El fenómeno ha sido observado en un entorno controlado y los científicos están trabajando para entender sus implicaciones. La teoría de Einstein es fundamental para nuestra comprensión del universo y este descubrimiento puede tener un impacto significativo en la física. Los científicos están emocionados por el potencial de este descubrimiento.",
+        "categoria": "Física",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/cientificos-observan-un-fenomeno-que-parece-superar-la-velocidad-de-la-luz-sin-contradecir-la-teoria-de-einstein-2000241093"
+    },
+    {
+        "fecha": "15/06/2026",
+        "titulo": "Espectáculo en la Sagrada Familia",
+        "gancho": "Un año de trabajo",
+        "contenido_completo": "Igor Cortadellas y Paulí Subirà han contado en el programa de Julia Otero los detalles más sorprendentes del espectáculo que se llevó a cabo en la Sagrada Familia el pasado miércoles. Europa Laica critica que RTVE ha sido el canal oficial de propaganda del Vaticano. El evento ha generado gran interés y debate en la comunidad. La Sagrada Familia es un lugar emblemático y el espectáculo ha sido un éxito. La crítica de Europa Laica ha generado una gran polémica.",
+        "categoria": "Espectáculos",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/vertele/noticias/creadores-espectaculo-sagrada-familia-sorprenden-detalles-evento-ano-medio-trabajo_1_13300837.html"
+    },
+    {
         "fecha": "14/06/2026",
         "titulo": "Plan de la SEC para eliminar regla 611",
         "gancho": "SEC elimina regla 611",
