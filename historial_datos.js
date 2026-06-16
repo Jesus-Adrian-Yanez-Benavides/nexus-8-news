@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "16/06/2026",
+        "titulo": "Líderes de ciberseguridad piden a EE. UU. retirar límites",
+        "gancho": "Modelos de Anthropic",
+        "contenido_completo": "Más de 50 líderes de ciberseguridad de grandes empresas estadounidenses han pedido a la administración de EE. UU. que retire las restricciones impuestas a los modelos más potentes de Anthropic, una empresa de inteligencia artificial. Los líderes argumentan que las restricciones podrían debilitar la defensa digital del país, ya que los modelos de Anthropic son utilizados para detectar y prevenir ataques cibernéticos. La administración de EE. UU. ha estado trabajando para regular el uso de la inteligencia artificial en la ciberseguridad, y las restricciones a los modelos de Anthropic son parte de este esfuerzo. Sin embargo, los líderes de ciberseguridad argumentan que las restricciones son demasiado estrictas y podrían impedir que las empresas estadounidenses desarrollen soluciones efectivas para protegerse contra los ataques cibernéticos. La situación es un ejemplo de la complejidad de la regulación en el campo de la ciberseguridad y la necesidad de encontrar un equilibrio entre la seguridad y la innovación. Los líderes de ciberseguridad han estado trabajando para encontrar soluciones que satisfagan a todas las partes involucradas, pero el proceso ha sido lento y ha generado tensiones entre las empresas y la administración de EE. UU.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/estados-unidos/lideres-de-ciberseguridad-piden-a-ee-uu-retirar-limites-a-los-modelos-de-anthropic/"
+    },
+    {
+        "fecha": "16/06/2026",
+        "titulo": "La NASA y el vuelo supersónico",
+        "gancho": "Vuelo supersónico",
+        "contenido_completo": "La NASA ha iniciado las pruebas críticas de velocidad con el avión experimental X-59, un prototipo diseñado para suprimir el estruendo acústico y permitir el transporte rápido sobre zonas pobladas. El X-59 es un avión supersónico que puede volar a Mach 1,4, lo que lo convierte en uno de los aviones más rápidos del mundo. La NASA ha estado trabajando en el desarrollo del X-59 durante varios años, y las pruebas actuales son un paso importante hacia la comercialización del vuelo supersónico. El X-59 utiliza una tecnología innovadora para reducir el ruido del sonido, lo que podría permitir que los aviones supersónicos vuelen sobre zonas pobladas sin causar disturbios. La NASA ha estado colaborando con empresas privadas para desarrollar el X-59, y el proyecto ha generado un gran interés en la industria aeronáutica. El vuelo supersónico podría revolucionar el transporte aéreo, permitiendo viajes más rápidos y eficientes. Sin embargo, también hay desafíos técnicos y regulatorios que deben ser superados antes de que el vuelo supersónico se convierta en una realidad.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/nasa-quiere-resucitar-vuelo-supersonico-prohibido-hace-50-anos-su-avion-ya-vuela-mach-14_202606156a2fe2daf2a09b6364ad6399.html"
+    },
+    {
+        "fecha": "16/06/2026",
+        "titulo": "El choque entre Apple y la regulación europea",
+        "gancho": "Siri AI en Europa",
+        "contenido_completo": "El despliegue de Siri AI se ha detenido en Europa debido a un conflicto entre Apple y la regulación europea. La ley DMA (Digital Markets Act) de la Unión Europea establece ciertas restricciones para las empresas tecnológicas, incluyendo la obligación de permitir a los usuarios instalar aplicaciones de terceros en sus dispositivos. Apple ha estado resistiendo esta regulación, lo que ha llevado a un choque entre la empresa y las autoridades europeas. La ley DMA es un intento de la Unión Europea de regular el mercado digital y proteger a los consumidores, pero Apple argumenta que la regulación es demasiado restrictiva y podría comprometer la seguridad de sus dispositivos. El conflicto ha llevado a que Apple no lance Siri AI en el iPhone en España, lo que ha generado frustración entre los usuarios. La situación es un ejemplo de la complejidad de la regulación en el mercado digital y la necesidad de encontrar un equilibrio entre la innovación y la protección del consumidor. La Unión Europea ha estado trabajando para encontrar una solución que satisfaga a todas las partes involucradas, pero el proceso ha sido lento y ha generado tensiones entre Apple y las autoridades europeas.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Actualidadiphone.com",
+        "fuente_url": "https://www.actualidadiphone.com/el-despliegue-de-siri-ai-se-detiene-en-europa-el-choque-entre-apple-y-la-regulacion-europea/"
+    },
+    {
+        "fecha": "16/06/2026",
+        "titulo": "Robinhood y el auge de los mercados de predicción",
+        "gancho": "Auge en los mercados",
+        "contenido_completo": "Robinhood podría recibir un fuerte impulso por el auge de los mercados de predicción durante la Copa Mundial de la FIFA, según Bernstein. La firma estima que los ingresos de Robinhood por este segmento podrían crecer 286% este año, impulsados por volúmenes récord en los mercados de predicción. Esto se debe a la creciente popularidad de los mercados de predicción, que permiten a los usuarios apostar por el resultado de eventos deportivos y otros acontecimientos. La Copa Mundial de la FIFA es uno de los eventos más seguidos y apostados en el mundo, lo que podría generar un gran interés en los mercados de predicción. Robinhood es una plataforma de inversión en línea que ha ganado popularidad en los últimos años, y su participación en los mercados de predicción podría ser un factor clave en su crecimiento. La empresa ha estado expandiendo sus servicios para incluir más opciones de inversión y apostar, lo que podría atraer a más usuarios. Sin embargo, también es importante considerar los riesgos asociados con los mercados de predicción y la importancia de la regulación para proteger a los consumidores.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados-de-prediccion/robinhood-podria-beneficiarse-del-auge-de-mercados-de-prediccion-por-el-mundial-dice-bernstein/"
+    },
+    {
+        "fecha": "16/06/2026",
+        "titulo": "Inventor del 'lego de proteínas' en CNIO",
+        "gancho": "Nanomoléculas terapéuticas",
+        "contenido_completo": "El Centro Nacional de Investigaciones Oncológicas (CNIO) ha informado de que Todd Yeates, conocido como el 'inventor del lego de las proteínas', diseñará nanomoléculas con potencial terapéutico. Yeates es miembro de la Universidad de California en Los Ángeles. Su trabajo se centrará en el diseño de moléculas que puedan tener un impacto significativo en la medicina. El CNIO es un centro de investigación líder en el campo de la oncología y la colaboración con Yeates es un paso importante hacia el avance en la lucha contra el cáncer. Las nanomoléculas diseñadas por Yeates podrían tener un impacto significativo en la medicina, permitiendo el desarrollo de nuevos tratamientos para enfermedades complejas. El trabajo de Yeates en el CNIO es un ejemplo de la colaboración internacional en la investigación científica y su potencial para mejorar la salud humana.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Infosalus.com",
+        "fuente_url": "https://www.infosalus.com/salud-investigacion/noticia-todd-yeates-conocido-inventor-lego-proteinas-disenara-nanomoleculas-potencial-terapeutico-cnio-20260615144746.html"
+    },
+    {
         "fecha": "15/06/2026",
         "titulo": "China crea superdiamante",
         "gancho": "Más duro que el diamante",
