@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "17/06/2026",
+        "titulo": "WLFI se desploma",
+        "gancho": "WLFI cae un 81%",
+        "contenido_completo": "El token de gobernanza de World Liberty Financial, WLFI, ha experimentado una caída del 81% desde su máximo histórico. A pesar de una débil recuperación de corto plazo, el token sigue siendo volátil y su valor puede seguir fluctuando. Un repunte semanal del 9,59% y un volumen diario por encima de la media sugieren interés especulativo en el token, pero es importante tener en cuenta que la volatilidad de los mercados de criptomonedas puede ser alta y los inversores deben ser cautelosos. La caída de WLFI es un ejemplo de la incertidumbre y la volatilidad que caracterizan a los mercados de criptomonedas.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/wlfi-se-desploma-un-81-desde-su-maximo-historico-rebote-o-hundimiento-definitivo/"
+    },
+    {
+        "fecha": "17/06/2026",
+        "titulo": "Cine premium en Málaga",
+        "gancho": "Cine de lujo",
+        "contenido_completo": "Un nuevo cine premium ha abierto sus puertas en Málaga, ofreciendo una experiencia de cine de alta calidad con butacas reclinables, pantallas de última generación y máximo confort. El cine cuenta con varias salas con diferentes capacidades y ofrece una variedad de opciones de comida y bebida. Los precios del cine premium son competitivos con otros cines de la zona, lo que lo hace atractivo para los amantes del cine que buscan una experiencia única. La apertura de este cine es un ejemplo de cómo la industria del entretenimiento está evolucionando para ofrecer experiencias más personalizadas y de alta calidad.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "El Mundo",
+        "fuente_url": "https://www.elmundo.es/andalucia/2026/06/16/6a312bfb21efa0ce4b8b45c1.html"
+    },
+    {
+        "fecha": "17/06/2026",
+        "titulo": "India y el minado de Bitcoin",
+        "gancho": "India mina Bitcoin",
+        "contenido_completo": "Un influencer cripto ha asegurado que India no puede producir oro, pero sí minar Bitcoin. La caída de la rupia y el alza de los aranceles al oro han abierto un nuevo frente de debate en India sobre la viabilidad de la minería de criptomonedas. Kashif Raza, fundador de Bitinning, sostiene que el país no puede producir oro a escala, pero sí puede minar Bitcoin y convertirlo en una herramienta para reducir su dependencia de las importaciones de oro. La minería de Bitcoin en India podría ser una oportunidad para el país de diversificar su economía y reducir su déficit comercial.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/india/india-no-puede-producir-oro-pero-si-minar-bitcoin-asegura-influencer-cripto/"
+    },
+    {
+        "fecha": "17/06/2026",
+        "titulo": "Dispositivos de Apple sin soporte",
+        "gancho": "Apple retira soporte",
+        "contenido_completo": "Apple ha anunciado que varios de sus dispositivos dejarán de recibir soporte tras las últimas novedades de software. Esto significa que los usuarios de estos dispositivos no podrán actualizar su sistema operativo ni recibirán parches de seguridad. La lista de dispositivos afectados incluye varios modelos de iPhone, iPad y Mac. Los usuarios deben comprobar si su dispositivo se encuentra en la lista y considerar la posibilidad de actualizar a un modelo más reciente. La decisión de Apple de retirar el soporte a estos dispositivos es parte de su estrategia para impulsar las ventas de nuevos productos y mantener su base de usuarios actualizada.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Soydemac.com",
+        "fuente_url": "https://www.soydemac.com/dispositivos-de-apple-que-dejaran-de-actualizarse-tras-las-ultimas-novedades-de-software/"
+    },
+    {
+        "fecha": "17/06/2026",
+        "titulo": "El fin de las humanidades",
+        "gancho": "IA remplaza grados",
+        "contenido_completo": "El sistema educativo chino ha eliminado 12.000 carreras de artes y letras para centrar todos sus recursos en la inteligencia artificial y adaptar a sus estudiantes a la nueva economía digital. Esta decisión busca impulsar el desarrollo de habilidades en áreas como la IA, el análisis de datos y la programación. Con esta medida, China busca mantener su competitividad en el mercado global y preparar a su fuerza laboral para los desafíos del futuro. La eliminación de estas carreras ha generado un debate sobre el papel de las humanidades en la educación moderna y su relevancia en la era digital.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/fin-humanidades-universidades-chinas-eliminan-miles-grados-obsoletos-culpa-ia_202606166a313d009b079e64f686f064.html"
+    },
+    {
         "fecha": "16/06/2026",
         "titulo": "Líderes de ciberseguridad piden a EE. UU. retirar límites",
         "gancho": "Modelos de Anthropic",
