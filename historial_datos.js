@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "18/06/2026",
+        "titulo": "Prohibición de gafas con IA",
+        "gancho": "Gafas con IA prohibidas",
+        "contenido_completo": "Gafas con IA al conducir: las claves de la nueva prohibición en Illinois que afectará a los conductores si la firma J.B. Pritzker. La prohibición de gafas con IA al conducir es una medida de seguridad para reducir los accidentes de tráfico. La tecnología de IA puede ser una distracción para los conductores. La decisión de prohibir gafas con IA al conducir es un paso hacia la seguridad vial. La comunidad de conductores debe estar atenta a cualquier cambio en las leyes de tráfico. La seguridad vial es crucial para la protección de los conductores y peatones.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/estados-unidos/illinois/solo-falta-la-firma-de-jb-pritzker-la-ley-de-illinois-que-prohibiria-las-gafas-con-ia-al-conducir-nid17062026/"
+    },
+    {
+        "fecha": "18/06/2026",
+        "titulo": "STABLE se desploma",
+        "gancho": "STABLE cae",
+        "contenido_completo": "STABLE experimenta una fuerte corrección del 5.66% en 24 horas, llevando su precio a USD $0,033 941. Este movimiento, acompañado de un aumento del 11.31% en el volumen de negociación respecto a su media de 30 días, sugiere una presión vendedora significativa. La caída de STABLE puede ser un indicador de la debilidad del mercado de criptomonedas. La estabilidad de las stablecoins es crucial para la confianza de los inversores. La comunidad de criptomonedas está atenta a cualquier cambio en el mercado. La decisión de invertir en STABLE debe ser tomada con precaución.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/stable-se-desploma-un-5-66-senal-de-capitulacion-o-compra-de-oportunidad-en-la-stablecoin-volatil/"
+    },
+    {
+        "fecha": "18/06/2026",
+        "titulo": "Render se desploma",
+        "gancho": "Render cae",
+        "contenido_completo": "Render (RENDER) profundiza su corrección con una caída del 4,04% hasta USD $1,69, perforando soportes intermedios y dejando al token en los niveles más bajos desde mayo. El volumen colapsa un 57% por debajo del promedio mensual, señal de agotamiento vendedor. La caída de Render puede ser un indicador de la debilidad del mercado de criptomonedas. La narrativa de la IA puede estar perdiendo fuerza. La comunidad de criptomonedas está atenta a cualquier cambio en el mercado. La estabilidad del mercado es crucial para la confianza de los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/render-render-se-desploma-es-el-fin-de-la-narrativa-ia/"
+    },
+    {
+        "fecha": "18/06/2026",
+        "titulo": "FED y cambio de tasas",
+        "gancho": "FED sin cambios",
+        "contenido_completo": "La primera reunión de Kevin Warsh como presidente de la Reserva Federal no apunta a un cambio inmediato en las tasas, pero sí podría marcar un giro profundo en la forma en que el banco central se comunica con Wall Street y con el público. Los mercados siguen esperando una señal de cambio en la política monetaria. La decisión del FED tendrá un impacto significativo en la economía estadounidense y mundial. El mercado está atento a cualquier cambio en la política monetaria del FED. La comunicación efectiva del FED es crucial para mantener la estabilidad económica.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/estados-unidos/fed-posiblemente-no-anuncie-un-cambio-de-tasas-en-la-primeara-reunion-de-kevin-warsh/"
+    },
+    {
+        "fecha": "18/06/2026",
+        "titulo": "Pacto con Irán y shock energético",
+        "gancho": "Pacto no frena shock",
+        "contenido_completo": "Aunque un acuerdo de paz entre EE. UU. e Irán alivió parte de la presión sobre el petróleo, varios funcionarios del Banco Central Europeo advierten que el daño sobre la economía ya está hecho. La señal de fondo es clara: el BCE aún ve espacio para nuevas alza de tasas. Esto se debe a que la economía ya ha sufrido los efectos del aumento de los precios del petróleo y la inflación. El BCE debe tomar medidas para controlar la inflación y estabilizar la economía. La decisión del BCE tendrá un impacto significativo en la economía europea y mundial.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/europa/bce-advierte-pacto-con-iran-no-basta-para-frenar-el-shock-energetico-ni-las-alzas-de-tasas/"
+    },
+    {
         "fecha": "17/06/2026",
         "titulo": "WLFI se desploma",
         "gancho": "WLFI cae un 81%",
