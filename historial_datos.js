@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "19/06/2026",
+        "titulo": "Trump anuncia acuerdo con Apple para fabricar chips en EE.UU.",
+        "gancho": "Trump dispara acciones de Intel",
+        "contenido_completo": "El expresidente de EE.UU., Donald Trump, ha anunciado un acuerdo con Apple para fabricar chips en el país. Esto ha causado un aumento en las acciones de Intel, ya que se espera que la empresa se beneficie de la decisión de Apple de fabricar chips en EE.UU. Trump ha dicho que los presidentes anteriores permitieron que Taiwán y otros países robaran las fábricas de semiconductores de EE.UU. y que su administración está trabajando para traer de vuelta la industria de semiconductores al país. El acuerdo con Apple es un paso importante hacia la reindustrialización de EE.UU. y puede tener un impacto significativo en la economía del país.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Latercera.com",
+        "fuente_url": "https://www.latercera.com/pulso/noticia/trump-dispara-acciones-de-intel-tras-anuncio-sobre-acuerdo-con-apple-para-fabricar-chips-en-eeuu/"
+    },
+    {
+        "fecha": "19/06/2026",
+        "titulo": "Restaurantes afectados por el Mundial",
+        "gancho": "Restaurantes expulsados del Mundial",
+        "contenido_completo": "La capital ha sido afectada por la parálisis constante causada por el Mundial, lo que ha afectado a más de mil establecimientos ubicados en corredores económicos, turísticos y gastronómicos clave. Los restaurantes han sido particularmente afectados, ya que la falta de clientes y la disminución de la actividad económica han reducido sus ingresos. La situación es crítica y los dueños de los restaurantes están pidiendo ayuda para poder sobrevivir. La ciudad necesita encontrar una solución para poder operar de manera normal y evitar que los negocios se vean afectados de manera negativa.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "El Financiero",
+        "fuente_url": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/06/18/restaurantes-expulsadosdel-mundial/"
+    },
+    {
+        "fecha": "19/06/2026",
+        "titulo": "El agua de cocción de legumbres tiene propiedades especiales",
+        "gancho": "Agua de cocción para merengue",
+        "contenido_completo": "Científicos han descubierto que el agua de cocción de las legumbres puede ser utilizada para hacer merengue sin huevo. Esto se debe a que el agua de cocción contiene una sustancia llamada aquafaba, que tiene propiedades similares a las del huevo. La aquafaba también puede ser utilizada para crear envases biodegradables y otros productos. Esta descubierta puede tener un impacto significativo en la industria alimentaria y en la reducción de residuos. Las legumbres son una fuente importante de proteínas y nutrientes, y ahora también pueden ser utilizadas para crear productos innovadores.",
+        "categoria": "Ciencia",
+        "impacto": "alto",
+        "fuente_nombre": "Diario EL PAIS Uruguay",
+        "fuente_url": "https://www.elpais.com.uy/bienestar/nutricion/cientificos-descubren-que-el-agua-de-coccion-de-las-legumbres-sirve-para-hacer-merengue-sin-huevo-y-mas"
+    },
+    {
+        "fecha": "19/06/2026",
+        "titulo": "Samsung y Sony se unen en Spider-Man",
+        "gancho": "Z Fold es el rastreador oficial",
+        "contenido_completo": "Samsung se ha aliado con Sony para promocionar la película Spider-Man: Brand New Day. En la película, el personaje de Ned Leeds utiliza un Galaxy Z Fold7 para seguir el rastro de Spider-Man. Esta alianza es una oportunidad para Samsung de mostrar sus productos de manera innovadora y emocionante. La película es una de las más esperadas del año y esta promoción puede ayudar a aumentar la visibilidad de la marca Samsung. El Galaxy Z Fold7 es un dispositivo versátil y potente que puede ser utilizado de muchas maneras diferentes.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Xatakamovil.com",
+        "fuente_url": "https://www.xatakamovil.com/territorio-samsung/samsung-se-alia-sony-para-seguirle-pista-a-spider-man-nuevo-dia-z-fold-rastreador-oficial-pelicula"
+    },
+    {
+        "fecha": "19/06/2026",
+        "titulo": "Tether reordena su oferta de productos",
+        "gancho": "Tether cierra Alloy y aUSDT",
+        "contenido_completo": "Tether anunció el cierre planificado de Alloy by Tether y de aUSD₮, una decisión que reordena su oferta de productos y redirige recursos hacia áreas con mayor demanda, como XAU₮. La empresa ya bloqueó la creación de nuevas posiciones y dio tres meses a los usuarios para que liquiden sus posiciones. Esta decisión se toma tras una revisión exhaustiva de la demanda y prioridades del mercado. El cierre de Alloy y aUSDT permitirá a Tether enfocarse en productos más rentables y con mayor demanda.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/oro/tether-cerrara-alloy-y-ausdt-tras-revisar-demanda-y-prioridades-del-mercado/"
+    },
+    {
         "fecha": "18/06/2026",
         "titulo": "Prohibición de gafas con IA",
         "gancho": "Gafas con IA prohibidas",
