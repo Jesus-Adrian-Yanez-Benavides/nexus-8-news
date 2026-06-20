@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "20/06/2026",
+        "titulo": "Philips Hue renueva su ecosistema",
+        "gancho": "Nuevas lámparas inmersivas",
+        "contenido_completo": "Si tienes luces inteligentes en casa, seguro que has vivido este drama doméstico: configuras la escena de iluminación perfecta para ver una película, alguien entra en la habitación, pulsa el interruptor físico de la pared y desconfigura la bombilla del ecosistema. Philips Hue ha anunciado el lanzamiento de nuevas lámparas inmersivas para el televisor y bombillas compatibles con Matter, lo que promete resolver este problema y mejorar la experiencia del usuario. Las nuevas lámparas ofrecen una mayor inmersión en la experiencia de visualización y son compatibles con una variedad de dispositivos. La actualización del ecosistema de Philips Hue es un ejemplo de la importancia de la innovación y la mejora continua en la industria de la iluminación inteligente. Los usuarios pueden esperar una mayor comodidad y flexibilidad en el control de sus luces inteligentes.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/seleccion/oficial-philips-hue-renueva-su-ecosistema-nuevas-lamparas-inmersivas-para-televisor-bombillas-compatibles-matter"
+    },
+    {
+        "fecha": "20/06/2026",
+        "titulo": "HYPE corrige un 13%",
+        "gancho": "Oportunidad de compra",
+        "contenido_completo": "HYPE retrocede un 13% desde su máximo histórico de USD $76,73 alcanzado hace tres días, en medio de una toma de ganancias generalizada. A pesar de la corrección, el token mantiene un rendimiento superior al 160% en lo que va de 2026 y los fundamentales del proyecto siguen siendo sólidos. Los inversores deben considerar si la corrección es una oportunidad de compra o el inicio de una tendencia bajista. La situación actual de HYPE es un ejemplo de la importancia de analizar los fundamentos y la técnica antes de tomar decisiones de inversión. La criptomoneda puede experimentar una recuperación en el futuro, pero es importante estar preparado para cualquier eventualidad. Los inversores deben mantener una perspectiva a largo plazo y no dejarse llevar por las fluctuaciones a corto plazo.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hype-corrige-un-13-desde-su-maximo-historico-oportunidad-de-compra-o-inicio-de-una-tendencia-bajista/"
+    },
+    {
+        "fecha": "20/06/2026",
+        "titulo": "Zcash se desploma",
+        "gancho": "Caída de Zcash",
+        "contenido_completo": "Zcash enfrenta una encrucijada técnica tras una corrección mensual del 33%, a pesar de mantener un asombroso retorno interanual del 1.017%. La drástica caída en el volumen diario y el quiebre de soportes móviles clave contrastan con la acumulación histórica, lo que plantea dudas sobre el futuro de la criptomoneda. Los inversores deben considerar los factores fundamentales y técnicos que afectan el precio de Zcash antes de tomar decisiones de inversión. La situación actual de Zcash es un recordatorio de la importancia de diversificar las inversiones y no poner todos los huevos en una sola canasta. La criptomoneda puede experimentar una recuperación en el futuro, pero es importante estar preparado para cualquier eventualidad.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zcash-se-desploma-bajo-sus-promedios-moviles-pese-a-retornos-anuales-de-cuatro-digitos/"
+    },
+    {
+        "fecha": "20/06/2026",
+        "titulo": "LEO bajo presión",
+        "gancho": "Token de Bitfinex cae",
+        "contenido_completo": "UNUS SED LEO experimenta una corrección técnica significativa al caer un 1.78% hasta los USD $9,53, con un desplome del volumen diario del 55% frente a su media de 30 días. Este análisis desglosa el quiebre de soportes críticos, la divergencia entre precio y volumen, y las posibles implicaciones para los inversores. La situación actual del token de Bitfinex es un ejemplo de la volatilidad que puede ocurrir en el mercado de criptomonedas. Los inversores deben estar atentos a los cambios en el mercado y ajustar sus estrategias según sea necesario. La corrección del token puede ser una oportunidad para los inversores que buscan comprar a precios más bajos.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/leo-bajo-presion-el-token-de-bitfinex-pierde-soporte-mientras-el-volumen-se-desploma-un-55/"
+    },
+    {
+        "fecha": "20/06/2026",
+        "titulo": "Valladolid se convierte en el escaparate de la innovación",
+        "gancho": "Renault Group triunfa",
+        "contenido_completo": "El Centro Cultural Miguel Delibes de Valladolid se vistió de gala para acoger a cerca de 600 invitados en la novena edición de los Premios de la Industria en España, un certamen organizado por la Fundación TecnoVitae que ya es un referente indiscutible para el sector. En este evento, Renault Group y Opus RS fueron galardonados por sus logros en la industria. La ceremonia de premiación contó con la presencia de destacadas personalidades del mundo empresarial y político. La industria española sigue siendo un motor importante para la economía del país, y eventos como este ayudan a promover la innovación y el progreso.",
+        "categoria": "Innovación",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/motor/economia/valladolid-convierte-escaparate-innovacion-renault-group-opus-20260619122401-nt.html"
+    },
+    {
         "fecha": "19/06/2026",
         "titulo": "Trump anuncia acuerdo con Apple para fabricar chips en EE.UU.",
         "gancho": "Trump dispara acciones de Intel",
