@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "21/06/2026",
+        "titulo": "Polygon (POL) sube un 6.5%",
+        "gancho": "Rebote técnico y renovado interés",
+        "contenido_completo": "El token Polygon (POL) registró un alza del 6.48% el 20 de junio de 2026, cotizando a USD $0.083, en medio de un rebote de corto plazo impulsado por la acumulación de ballenas y expectativas de la próxima actualización de la red AggLayer. Sin embargo, el activismo de los osos y la falta de convicción compradora podrían limitar el alcance del rebote. La comunidad de Polygon sigue siendo optimista sobre el futuro de la criptomoneda, y los inversores están a la espera de noticias que puedan influir en el precio. La próxima actualización de la red AggLayer podría ser un punto de inflexión para Polygon.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/polygon-pol-sube-un-6-5-en-medio-de-un-rebote-tecnico-y-renovado-interes-en-soluciones-de-capa-2/"
+    },
+    {
+        "fecha": "21/06/2026",
+        "titulo": "Ethereum Classic despierta",
+        "gancho": "Golpe de volatilidad inesperado",
+        "contenido_completo": "Ethereum Classic (ETC) repunta un 7.63% en 24 horas con un volumen que supera el promedio mensual en más de un tercio, mientras su precio sigue a -95% desde máximos históricos. ¿Rebote técnico o inicio de una recuperación sostenida? El análisis destapa niveles clave que podrían influir en el futuro de la criptomoneda. La volatilidad del mercado ha generado un interés renovado en Ethereum Classic, y los inversores están a la espera de noticias que puedan influir en el precio. La comunidad de Ethereum Classic sigue siendo activa, lo que podría influir en el futuro de la criptomoneda.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/ethereum-classic-despierta-el-golpe-de-volatilidad-que-nadie-esperaba-este-20-de-junio-de-2026/"
+    },
+    {
+        "fecha": "21/06/2026",
+        "titulo": "Pudgy Penguins ($PENGU) repunta",
+        "gancho": "Memecoin con leve rebote",
+        "contenido_completo": "La criptomoneda asociada a la colección NFT Pudgy Penguins registra un leve rebote del 4.5% en las últimas 24 horas, aunque el volumen de negociación se desploma un 47% frente a la media mensual, lo que sugiere falta de convicción compradora. Con una caída de más del 90% desde su máximo histórico, Pudgy Penguins busca recuperar terreno en un mercado cada vez más competitivo. A pesar del rebote reciente, el futuro de la memecoin sigue siendo incierto, y los inversores deben estar atentos a los cambios en el mercado. La comunidad de Pudgy Penguins sigue siendo activa, lo que podría influir en el precio de la criptomoneda en el futuro.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/pudgy-penguins-pengu-repunta-un-4-5-en-una-semana-negra-para-las-memecoins/"
+    },
+    {
+        "fecha": "21/06/2026",
+        "titulo": "Alfombra calefactable de diseño",
+        "gancho": "Calor y estilo para el hogar",
+        "contenido_completo": "La alfombra calefactable es una de esas soluciones que combinan a la perfección dos deseos universales del hogar: estar cómodo y entrar en calor sin renunciar al estilo. Dentro de esta categoría, pocas piezas resultan tan originales como Eva, un diseño firmado que busca revolucionar la forma en que nos calentamos en casa. Con su innovador sistema de calefacción y su elegante diseño, Eva se posiciona como una excelente opción para aquellos que buscan combinar comodidad y estilo. La alfombra calefactable es ideal para espacios pequeños o grandes, y su fácil instalación la hace accesible a cualquier persona.",
+        "categoria": "Hogar",
+        "impacto": "bajo",
+        "fuente_nombre": "Decoracion2.com",
+        "fuente_url": "https://decoracion2.com/la-tentacion-de-la-comodidad/"
+    },
+    {
+        "fecha": "21/06/2026",
+        "titulo": "Midnight $NIGHT se hunde un 72%",
+        "gancho": "Token de privacidad de Cardano en crisis",
+        "contenido_completo": "Midnight ($NIGHT) experimenta un rebote del 4% hasta USD $0,0321, pero el colapso del volumen en un 76% y las medias móviles descendentes mantienen la presión bajista. Este análisis exhaustivo evalúa si el token de privacidad basado en Cardano ha tocado fondo. La criptomoneda ha estado experimentando un período de declive significativo, lo que ha generado preocupación entre los inversores. A pesar del rebote reciente, el futuro de Midnight sigue siendo incierto. La comunidad de Cardano está a la espera de noticias que puedan influir en el precio del token.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/midnight-night-se-hunde-un-72-desde-su-maximo-el-token-de-privacidad-de-cardano-en-un-punto-de-inflexion/"
+    },
+    {
         "fecha": "20/06/2026",
         "titulo": "Philips Hue renueva su ecosistema",
         "gancho": "Nuevas lámparas inmersivas",
