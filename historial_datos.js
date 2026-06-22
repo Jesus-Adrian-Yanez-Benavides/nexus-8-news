@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "22/06/2026",
+        "titulo": "Ataque al bot Jaredfromsubway",
+        "gancho": "Pérdida de $7,5 millones",
+        "contenido_completo": "El bot Jaredfromsubway.eth, uno de los bots de extracción de valor máximo más notorios de Ethereum, fue víctima de un ataque que le costó más de $7,5 millones. El incidente no explotó una vulnerabilidad tradicional, sino que manipuló el propio sistema de decisión del bot. La noticia ha generado un gran interés en la comunidad financiera, ya que el ataque demuestra la vulnerabilidad de los bots en la industria cripto.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/ethereum/atacante-drena-usd-75-millones-del-famoso-bot-jaredfromsubway/"
+    },
+    {
+        "fecha": "22/06/2026",
+        "titulo": "El océano profundo no es un desierto",
+        "gancho": "Vida en el océano profundo",
+        "contenido_completo": "Durante siglos, los científicos creyeron que el océano profundo era un desierto sin vida. Sin embargo, cada nueva inmersión sigue demostrando que estaban equivocados. La expedición del HMS Challenger encontró más de 4.700 nuevas especies y refutó la teoría de que el océano no podía tener vida por debajo de los 550 metros. Desde entonces, el fondo marino no ha dejado de deparar sorpresas. La noticia ha generado un gran interés en la comunidad científica, ya que el océano profundo es un tema fascinante y poco explorado.",
+        "categoria": "Ciencia",
+        "impacto": "bajo",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/durante-siglos-los-cientificos-creyeron-que-el-oceano-profundo-era-un-desierto-sin-vida-y-cada-nueva-inmersion-sigue-demostrando-que-estaban-equivocados-2000242286"
+    },
+    {
+        "fecha": "22/06/2026",
+        "titulo": "La IA cambia las auditorías de contratos",
+        "gancho": "IA revoluciona la seguridad",
+        "contenido_completo": "La inteligencia artificial podría cambiar para siempre las auditorías de contratos inteligentes en cripto. Expertos consultados aseguran que sistemas como Mythos tienen el potencial de revolucionar la seguridad en la industria cripto. La llegada de herramientas de inteligencia artificial capaces de encontrar vulnerabilidades de forma autónoma podría transformar profundamente la seguridad en la industria cripto. La noticia ha generado un gran interés en la comunidad financiera, ya que la seguridad es un tema crucial en el mundo de las criptomonedas.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/ia/la-ia-podria-cambiar-para-siempre-las-auditorias-de-contratos-inteligentes-en-cripto-advierte-informe/"
+    },
+    {
+        "fecha": "22/06/2026",
+        "titulo": "China lanza satélites con IA",
+        "gancho": "China supera a SpaceX",
+        "contenido_completo": "China lanzó 12 satélites con inteligencia artificial a bordo y aprobó un centro de innovación estatal para construir centros de datos en órbita. Esta movida es un intento de superar a SpaceX en la carrera espacial. El Space Computing Industry Innovation Center es una alianza entre fabricantes de cohetes, empresas de chips y instituciones académicas. El objetivo es desarrollar tecnologías avanzadas para la industria espacial. La noticia ha generado un gran interés en la comunidad tecnológica, ya que China está demostrando su capacidad para innovar y competir en el mercado global.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/china-lanzo-12-satelites-con-ia-a-bordo-y-aprobo-un-centro-de-innovacion-estatal-para-construir-centros-de-datos-en-orbita-antes-de-que-spacex-lo-haga-2000242301"
+    },
+    {
+        "fecha": "22/06/2026",
+        "titulo": "Robert Kiyosaki y el futuro de Bitcoin",
+        "gancho": "Kiyosaki defiende Bitcoin",
+        "contenido_completo": "Robert Kiyosaki volvió a defender a Bitcoin, el oro y la plata en medio de varias semanas de retrocesos. El autor de Rich Dad Poor Dad explicó que esperará una confirmación del contexto económico y político antes de tomar una decisión. Kiyosaki ha sido un defensor de las criptomonedas y metales preciosos durante mucho tiempo. Su enfoque en el contexto económico y político puede ser un indicador de que el mercado está a punto de cambiar. La comunidad financiera está pendiente de las declaraciones de Kiyosaki, ya que su experiencia y conocimientos son muy respetados.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados/robert-kiyosaki-revela-cuando-comprar-bitcoin-oro-y-plata-tras-la-caida-del-mercado/"
+    },
+    {
         "fecha": "21/06/2026",
         "titulo": "Polygon (POL) sube un 6.5%",
         "gancho": "Rebote técnico y renovado interés",
