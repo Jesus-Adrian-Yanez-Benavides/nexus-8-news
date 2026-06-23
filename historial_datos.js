@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "23/06/2026",
+        "titulo": "Laura Dowell, ingeniera de IA",
+        "gancho": "Ingeniera y modelo",
+        "contenido_completo": "Laura Dowell, Miss International España 2026, es una ingeniera de IA que trabaja en Meta. En una entrevista reciente, Dowell habló sobre su pasión por la tecnología y su deseo de inspirar a las niñas a perseguir carreras en STEM. Dowell cree que es importante que las niñas vean que pueden ser lo que sueñen y que no hay límites para sus posibilidades. La ingeniera y modelo gaditana es un ejemplo inspirador de cómo las mujeres pueden tener éxito en campos tradicionalmente dominados por hombres. Dowell también destacó la importancia de la diversidad y la inclusión en la industria de la tecnología y cómo puede ayudar a crear un futuro más equitativo y próspero para todos.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Hola",
+        "fuente_url": "https://www.hola.com/actualidad/20260622908199/laura-dowell-entrevista-miss-international-ingeniera-meta/"
+    },
+    {
+        "fecha": "23/06/2026",
+        "titulo": "Análisis de Venice Token",
+        "gancho": "Rebote del 8.84%",
+        "contenido_completo": "Venice Token ($VVV) experimentó un repunte del 8.84% el 22 de junio, alcanzando USD $15.70 después de una semana de consolidación por debajo de la SMA-30. El movimiento viene acompañado de un aumento moderado en el volumen y un interés abierto estable, sugiriendo que los inversores están comenzando a mostrar interés en la criptomoneda. El análisis técnico sugiere que $VVV podría estar en el comienzo de una tendencia alcista, pero es importante tener en cuenta que el mercado de criptomonedas es altamente volátil y puede cambiar rápidamente. Los inversores deben ser cautelosos y realizar su propia investigación antes de tomar cualquier decisión de inversión.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/analisis-de-venice-token-vvv-hoy-22-de-junio-rebote-del-8-84-bajo-la-lupa-tecnica/"
+    },
+    {
+        "fecha": "23/06/2026",
+        "titulo": "Democratizar la IA",
+        "gancho": "Satya Nadella pide más acceso",
+        "contenido_completo": "Satya Nadella, CEO de Microsoft, pidió modelos más accesibles y mayor control para usuarios y empresas en el desarrollo de la inteligencia artificial. Nadella advirtió sobre el riesgo de dejar el futuro de la IA en manos de un pequeño grupo de empresas y destacó la importancia de democratizar la tecnología. La IA tiene el potencial de transformar la sociedad, pero también plantea riesgos y desafíos significativos. La democratización de la IA podría ayudar a mitigar estos riesgos y asegurar que la tecnología sea desarrollada de manera responsable y beneficiosa para todos. La industria de la IA está en una encrucijada, y la decisión de cómo proceder tendrá un impacto significativo en el futuro de la humanidad.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/tecnologia/ceo-de-microsoft-pide-democratizar-la-ia-y-advierte-por-el-poder-de-openai-y-anthropic/"
+    },
+    {
+        "fecha": "23/06/2026",
+        "titulo": "Robots humanoides en la vida cotidiana",
+        "gancho": "Trabajar con robots humanoides",
+        "contenido_completo": "Investigadores de la Universitat Politècnica de Valencia (UPV) lideran el proyecto Cultur-BOT-XR, cuyo objetivo es estudiar el impacto social de los robots humanoides en nuestra vida cotidiana y, más en concreto, en la experiencia de los visitantes de museos. El proyecto busca entender cómo los robots humanoides pueden mejorar la experiencia del usuario y cómo pueden ser utilizados para mejorar la accesibilidad y la inclusión en la sociedad. Los investigadores están trabajando en el desarrollo de robots humanoides que puedan interactuar con los humanos de manera natural y segura. El proyecto tiene el potencial de revolucionar la forma en que interactuamos con la tecnología y mejorar la calidad de vida de las personas.",
+        "categoria": "Robótica",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/comunidad-valenciana/politecnica-valencia-ensaya-compartir-trabajo-robots-humanoides-20260622125445-nt.html"
+    },
+    {
+        "fecha": "23/06/2026",
+        "titulo": "El colapso de $BEAT",
+        "gancho": "Pérdida de $400M en 10 días",
+        "contenido_completo": "Audiera ($BEAT) cotiza a USD $1,77, acumulando una pérdida de -84% desde su máximo histórico de USD $11,01 alcanzado hace apenas diez días. Tras un ascenso meteórico de casi 290% en un año, el token de la plataforma musical enfrenta una avalancha de ventas y una pérdida significativa de valor. La caída se debe a una combinación de factores, incluyendo la corrección del mercado y la pérdida de confianza de los inversores. El futuro de $BEAT es incierto, y los inversores están a la espera de una posible recuperación. La situación actual de $BEAT es un recordatorio de la volatilidad del mercado de criptomonedas y la importancia de una estrategia de inversión diversificada.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/el-colapso-de-beat-400-millones-evaporados-en-10-dias-y-el-mercado-en-alerta-2026-06-22/"
+    },
+    {
         "fecha": "22/06/2026",
         "titulo": "Ataque al bot Jaredfromsubway",
         "gancho": "Pérdida de $7,5 millones",
