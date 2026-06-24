@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "24/06/2026",
+        "titulo": "SpaceX cae de nuevo",
+        "gancho": "SpaceX pierde valor",
+        "contenido_completo": "SpaceX extendió sus pérdidas en el premercado y quedó en camino de perforar la barrera de USD $2 billones en valor de mercado, después de una racha de ventas que ya borró más de USD $600.000 millones en tres sesiones. El retroceso coincide con una ola de presiones en el mercado. Los inversores están preocupados. La situación es incierta. SpaceX busca recuperarse.",
+        "categoria": "Empresas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mercados/spacex-cae-de-nuevo-y-su-valor-de-mercado-se-acerca-a-perder-el-nivel-de-usd-2-billones/"
+    },
+    {
+        "fecha": "24/06/2026",
+        "titulo": "Mavenir lanza el Agentic Service Assurance Framework",
+        "gancho": "Nueva plataforma de Mavenir",
+        "contenido_completo": "Mavenir lanza el Agentic Service Assurance Framework para monitorear y operar redes. El framework multiagente alineado con TM Forum IG1251/IG1453 que aprende de la experiencia de los equipos NOC para ofrecer automatización escalable y en bucle cerrado en redes multi-proveedor y multi-dominio. La inteligencia artificial detecta, diagnostica, recoge y resuelve problemas de manera eficiente. La plataforma es innovadora.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "GlobeNewswire",
+        "fuente_url": "https://www.globenewswire.com/news-release/2026/06/23/3315804/0/es/Mavenir-lanza-el-Agentic-Service-Assurance-Framework-para-monitorear-y-operar-redes.html"
+    },
+    {
+        "fecha": "24/06/2026",
+        "titulo": "币安人生 detiene su rally",
+        "gancho": "Rally detenido",
+        "contenido_completo": "El token de microcapitalización 币安人生 navega aguas de baja liquidez tras un histórico repunte del 1.263% en tres meses. Mientras las medias móviles de largo plazo aún dan soporte, la debilidad del volumen diario y el alejamiento del máximo histórico siembran dudas sobre la consolidación o distribución silenciosa. Los inversores están en alerta. La situación es incierta.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/%e5%b8%81%e5%ae%89%e4%ba%ba%e7%94%9f-detiene-su-rally-consolidacion-o-distribucion-silenciosa-este-23-de-junio-de-2026/"
+    },
+    {
+        "fecha": "24/06/2026",
+        "titulo": "AutoFull impulsa IEM Cologne Major 2026",
+        "gancho": "Sillas de juego con masaje",
+        "contenido_completo": "AutoFull impulsa IEM Cologne Major 2026 con las primeras sillas de juego con masaje del mundo que incorporan asientos con calefacción y refrigeración. El evento concluyó el 21 de junio con éxito. Las sillas de juego ofrecen una experiencia única para los jugadores. La tecnología de AutoFull es innovadora. La empresa busca revolucionar el mercado de los juegos.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "PRNewswire",
+        "fuente_url": "https://www.prnewswire.com/news-releases/autofull-impulsa-iem-cologne-major-2026-con-las-primeras-sillas-de-juego-con-masaje-del-mundo-302807631.html"
+    },
+    {
+        "fecha": "24/06/2026",
+        "titulo": "ZRO rebota 4,46% el 23 de junio de 2026",
+        "gancho": "ZRO sube 4,46%",
+        "contenido_completo": "LayerZero (ZRO) repunta un 4,46% el 23 de junio de 2026, cotizando a USD $0,9521, tras tocar mínimos de sesión en $0,9142. El token de interoperabilidad acumula una caída del 87,22% respecto a su máximo histórico de $7,45. El volumen diario supera los $45 mil. La tendencia bajista sigue intacta a pesar del repunte. Los inversores siguen vigilantes. La situación del mercado es incierta.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zro-rebota-446-el-23-de-junio-de-2026-pero-la-tendencia-bajista-sigue-intacta/"
+    },
+    {
         "fecha": "23/06/2026",
         "titulo": "Laura Dowell, ingeniera de IA",
         "gancho": "Ingeniera y modelo",
