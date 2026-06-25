@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "25/06/2026",
+        "titulo": "Oferta Dyson",
+        "gancho": "Dyson a precio reducido",
+        "contenido_completo": "La Dyson V8 Origin es una de las aspiradoras más vendidas y ahora está disponible a un precio reducido en el Prime Day de Amazon. Esta aspiradora es ideal para aquellos que buscan una forma efectiva de mantener su hogar limpio. La Dyson V8 Origin es una aspiradora potente y ligera que puede ser utilizada en una variedad de superficies. La oferta del Prime Day es una oportunidad para adquirir esta aspiradora a un precio más asequible. La limpieza del hogar es una tarea importante, y tener la herramienta adecuada puede hacer una gran diferencia.",
+        "categoria": "Hogar",
+        "impacto": "bajo",
+        "fuente_nombre": "Xatakahome.com",
+        "fuente_url": "https://www.xatakahome.com/seleccion/momento-que-esperabas-para-comprar-dyson-prime-day-esta-v8-origin-cuesta-280-euros"
+    },
+    {
+        "fecha": "25/06/2026",
+        "titulo": "Precio del Bitcoin",
+        "gancho": "Bitcoin sube",
+        "contenido_completo": "El Bitcoin ha experimentado un aumento en su valor, situándose en 62.691,83 dólares. Este aumento es un alivio para los inversores que habían visto una caída en el valor del Bitcoin en los últimos días. El mercado de las criptomonedas es muy volátil, y los cambios en el valor del Bitcoin pueden ser repentinos. La evolución del precio del Bitcoin es un tema de interés para muchos inversores. El valor del Bitcoin puede variar dependiendo de varios factores, incluyendo la oferta y la demanda.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/mercados/bitcoin/2026/06/24/6a3ba3a4468aebbb0a8b456d.html"
+    },
+    {
+        "fecha": "25/06/2026",
+        "titulo": "Škoda Peaq",
+        "gancho": "Nuevo SUV eléctrico",
+        "contenido_completo": "El Škoda Peaq es el nuevo SUV eléctrico de 7 plazas con más de 638 km de autonomía. Este vehículo ofrece confort tipo lounge y tecnología avanzada para la conducción diaria. El Peaq es un vehículo innovador que busca satisfacer las necesidades de los conductores que buscan un vehículo eléctrico práctico y cómodo. El Škoda Peaq es un ejemplo de la innovación en el sector automotriz. La autonomía del vehículo es uno de sus puntos fuertes, lo que lo hace ideal para viajes largos.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/skoda-peaq-nuevo-suv-electrico-7-plazas-638-km-autonomia-tecnologia-premium/202606241234261027625.html"
+    },
+    {
+        "fecha": "25/06/2026",
+        "titulo": "Fercam abre sus puertas",
+        "gancho": "Fercam comienza",
+        "contenido_completo": "La 64ª edición de la Feria Nacional del Campo (Fercam) ha abierto sus puertas en Manzanares con más de 200 expositores y 120.000 metros cuadrados de superficie expositiva. La feria tiene como objetivo aportar utilidad al sector agrario. La Fercam es una de las ferias más importantes del sector en el país. La feria ofrece una gran variedad de productos y servicios relacionados con la agricultura. La inauguración de la feria ha generado un gran interés en la comunidad agraria.",
+        "categoria": "Agricultura",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/castilla-lamancha/noticia-fercam-abre-puertas-manzanares-vista-puesta-seguir-aportando-sector-agrario-utilidad-20260624123432.html"
+    },
+    {
+        "fecha": "25/06/2026",
+        "titulo": "Bagnaia deja Ducati",
+        "gancho": "Bagnaia abandona Ducati",
+        "contenido_completo": "Pecco Bagnaia dejará Ducati al final de la presente temporada 2026 para emprender un nuevo reto en MotoGP. Esta noticia había sido un secreto a voces durante semanas. El equipo Ducati confirmó la noticia, lo que genera expectación sobre quién será su reemplazo. La temporada 2026 está siendo emocionante, con cambios importantes en los equipos. La noticia de la partida de Bagnaia ha generado un gran revuelo en el mundo del motociclismo.",
+        "categoria": "Deportes",
+        "impacto": "alto",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/motor/motogp/20260624/1004198870/oficial-pecco-bagnaia-deja-ducati-marc-marquez-tendra-nuevo-companero-sentia-tenia-empezar-nuevo-reto.html"
+    },
+    {
         "fecha": "24/06/2026",
         "titulo": "SpaceX cae de nuevo",
         "gancho": "SpaceX pierde valor",
