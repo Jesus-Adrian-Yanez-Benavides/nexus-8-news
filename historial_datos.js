@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "26/06/2026",
+        "titulo": "SHIB profundiza su caída",
+        "gancho": "Pierde otro cero",
+        "contenido_completo": "El token meme SHIB ha continuado su tendencia a la baja, con una caída del 3.33% en las últimas 24 horas. Esto ha llevado a una pérdida interanual superior al 62%, lo que ha generado preocupación entre los inversores y entusiastas de la criptomoneda. A pesar de su popularidad inicial, SHIB ha luchado por mantener su valor en el mercado de criptomonedas, que es conocido por su volatilidad. Los indicadores técnicos sugieren que el token podría seguir cayendo, lo que podría llevar a una pérdida adicional de valor. La comunidad de SHIB sigue siendo optimista y confía en que el token pueda recuperarse, pero el mercado actual es desafiante. Los inversores y analistas están monitoreando de cerca la situación para determinar si SHIB puede revertir su tendencia a la baja y seguir adelante.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/shib-profundiza-su-caida-anual-esta-el-token-meme-al-borde-de-perder-otro-cero-el-25-de-junio-de-2026/"
+    },
+    {
+        "fecha": "26/06/2026",
+        "titulo": "Inetum lanza Centro de Excelencia",
+        "gancho": "Nueva apuesta de Inetum",
+        "contenido_completo": "Inetum ha anunciado el lanzamiento de un Centro de Excelencia en SAP Autonomous Enterprise, lo que marca un importante paso hacia el futuro de la empresa. Este centro está diseñado para apoyar a las organizaciones en su transición hacia un modelo operativo más eficiente y automatizado. La apuesta de Inetum por este cambio de modelo operativo busca permitir que las personas se enfoquen en tareas de mayor valor, liberándolas de las responsabilidades administrativas y permitiéndoles liderar en el nivel estratégico. Esto no solo mejorará la eficiencia y la productividad, sino que también permitirá a las empresas adaptarse más rápidamente a los cambios del mercado y mantenerse competitivas. El Centro de Excelencia de Inetum está equipado con las últimas tecnologías y cuenta con un equipo de expertos que pueden ofrecer asesoramiento y soporte a las empresas que buscan implementar este nuevo modelo operativo.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/inetum-lanza-un-centro-de-excelencia-en-sap-autonomous-enterprise-2581395"
+    },
+    {
+        "fecha": "26/06/2026",
+        "titulo": "Aave rebota un 13%",
+        "gancho": "Sube un 13% en 24h",
+        "contenido_completo": "El token de gobernanza de Aave, AAVE, ha experimentado un aumento significativo en su valor en las últimas 24 horas, alcanzando un incremento del 13.32%. Esto se debe en parte a un aumento en el volumen de negociación, que supera en un 138% el promedio mensual. A pesar de este estallido de corto plazo, la moneda aún acumula una pérdida significativa desde su máximo histórico. Los inversores y analistas están monitoreando de cerca la situación para determinar si este aumento es un indicador de una tendencia a largo plazo o simplemente una fluctuación temporal. La comunidad de Aave está emocionada con este desarrollo y espera que el token pueda seguir creciendo en valor. Sin embargo, el mercado de criptomonedas es conocido por su volatilidad, y cualquier cambio puede tener un impacto significativo en el valor de los tokens.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/aave-aave-rebota-un-13-en-medio-de-fuertes-volumenes-y-senales-de-capitulacion-bajista/"
+    },
+    {
+        "fecha": "26/06/2026",
+        "titulo": "CRO busca catalizador",
+        "gancho": "Cae 94% desde ATH",
+        "contenido_completo": "El token de Crypto.com, CRO, ha experimentado una caída significativa en su valor desde su máximo histórico, alcanzando una disminución del 94%. Esto ha generado preocupación entre los inversores y entusiastas de la criptomoneda. A pesar de esto, el equipo detrás de CRO está trabajando para encontrar soluciones y mejorar la situación. La búsqueda de un catalizador para impulsar el crecimiento del token es crucial en este momento. Los desarrolladores están explorando nuevas formas de aumentar la adopción y el uso de CRO, lo que podría ayudar a revertir la tendencia a la baja. Sin embargo, el mercado de criptomonedas es altamente volátil, y cualquier cambio puede tener un impacto significativo en el valor de los tokens. La comunidad de CRO sigue siendo optimista y confía en que el token pueda recuperarse y seguir adelante.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cro-25-de-junio-de-2026-el-token-de-crypto-com-clama-por-un-catalizador-tras-caer-94-desde-su-ath/"
+    },
+    {
+        "fecha": "26/06/2026",
+        "titulo": "Una sevillana vuelve a andar",
+        "gancho": "Anda después de 5 años",
+        "contenido_completo": "La creadora de contenido en redes sociales Anabel Domínguez (@nosoyloquevesoficial) cumplió anoche un sueño: volver a andar después de 5 años en silla de ruedas. La sevillana fue una de las invitadas al programa 'El Hormiguero' de Antena 3 de Pablo Motos para compartir su historia de superación. Anabel ha estado luchando contra una enfermedad que la ha mantenido en silla de ruedas durante años, pero gracias a su determinación y esfuerzo, ha logrado dar sus primeros pasos nuevamente. Esta historia conmueve a muchos y es un ejemplo de la fuerza del espíritu humano. Anabel ha demostrado que con perseverancia y apoyo, es posible superar cualquier obstáculo. Su historia es un recordatorio de la importancia de nunca rendirse y de seguir adelante, incluso en los momentos más difíciles.",
+        "categoria": "Inspiración",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/play/television/sevillana-vuelve-andar-hormiguero-despues-anos-creia-20260625124437-nt.html"
+    },
+    {
         "fecha": "25/06/2026",
         "titulo": "Oferta Dyson",
         "gancho": "Dyson a precio reducido",
