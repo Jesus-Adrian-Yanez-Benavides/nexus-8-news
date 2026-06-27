@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "27/06/2026",
+        "titulo": "Juguetes sexuales",
+        "gancho": "Juguetes refrescantes",
+        "contenido_completo": "El verano es una época ideal para probar cosas nuevas, incluyendo en la intimidad. Los juguetes sexuales son una forma de agregar diversión y excitación a las relaciones, ya sea en solitario o en pareja. La nueva generación de juguetes sexuales ofrece diseños discretos, funciones innovadoras y experiencias pensadas para satisfacer las necesidades de todos. Desde juguetes para principiantes hasta opciones más avanzadas, hay algo para cada gusto y preferencia. La clave para disfrutar de los juguetes sexuales es la comunicación y el consentimiento entre las parejas. Es importante elegir juguetes que sean seguros y de buena calidad, y seguir las instrucciones de uso para asegurar una experiencia placentera y sin riesgos. Los juguetes sexuales pueden ser una forma de explorar nuevas sensaciones y profundizar la conexión con la pareja, siempre y cuando se utilicen de manera responsable y consensuada.",
+        "categoria": "Salud",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/favorito/cuidado-personal/juguetes-sexuales-refrescantes-verano-opciones-disfrutar-solitario-20260626113407-nt.html"
+    },
+    {
+        "fecha": "27/06/2026",
+        "titulo": "Inversión en Defensa",
+        "gancho": "Proyectiles de alta precisión",
+        "contenido_completo": "El Ministerio de Defensa ha anunciado una inversión casi millonaria en proyectiles de alta precisión para el Dragon VCR 8x8. Esta inversión forma parte de los esfuerzos del Ejército de España por modernizar y mejorar su capacidad militar. Los proyectiles de alta precisión son una tecnología avanzada que permite una mayor eficacia y precisión en las operaciones militares. La inversión en esta tecnología refleja el compromiso del Ministerio de Defensa con la seguridad y la defensa del país. La adquisición de estos proyectiles también puede tener un impacto positivo en la economía, ya que puede generar empleos y estimular la industria de defensa. La seguridad y la defensa son aspectos fundamentales para cualquier país, y la inversión en tecnologías avanzadas como los proyectiles de alta precisión es crucial para mantener la capacidad militar y proteger los intereses nacionales.",
+        "categoria": "Defensa",
+        "impacto": "alto",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/actualidad/20260626/1004199598/boe-confirma-nueva-inversion-ministerio-defensa-millon-euros-proyectiles-alta-precision-blindado-dragon-vcr-8x8-dml-dct.html"
+    },
+    {
+        "fecha": "27/06/2026",
+        "titulo": "Aeropuertos españoles",
+        "gancho": "Aeropuertos sin premios",
+        "contenido_completo": "Ningún aeropuerto español ha sido elegido como uno de los mejores en los Premios Best Airport Awards 2026 de ACI Europe. Aunque esto puede parecer un resultado negativo, es importante considerar que la evaluación de los aeropuertos se basa en una variedad de factores, incluyendo la eficiencia, la seguridad y la satisfacción del pasajero. Aunque los aeropuertos españoles no han recibido un premio, es importante destacar que algunos de ellos se acercan a los estándares de calidad requeridos. La falta de reconocimiento en estos premios puede servir como un incentivo para que los aeropuertos españoles mejoren sus servicios y se esfuercen por ofrecer una experiencia más satisfactoria para los pasajeros. La competencia en el sector aeroportuario es alta, y los aeropuertos españoles deben trabajar para mantenerse competitivos y ofrecer servicios de alta calidad.",
+        "categoria": "Infraestructura",
+        "impacto": "bajo",
+        "fuente_nombre": "Hosteltur.com",
+        "fuente_url": "https://www.hosteltur.com/177179_ningun-aeropuerto-espanol-entre-los-elegidos-mejores-de-2026-aunque-uno-se-acerca.html"
+    },
+    {
+        "fecha": "27/06/2026",
+        "titulo": "Beneficios de Gemini Pro",
+        "gancho": "IA innovadora",
+        "contenido_completo": "En el mercado actual de asistentes de inteligencia artificial generativa, Gemini Pro se destaca por ofrecer beneficios extra que no todos conocen. Aunque el mercado tiene un estándar de precios definido, Gemini Pro busca diferenciarse a través de sus características innovadoras y su enfoque en la satisfacción del cliente. Los beneficios extra de Gemini Pro incluyen una mayor personalización, acceso a herramientas avanzadas de análisis y una comunidad activa de usuarios que comparten conocimientos y experiencias. Además, Gemini Pro se enfoca en la privacidad y la seguridad de los datos de los usuarios, lo que la convierte en una opción atractiva para aquellos que buscan una solución de IA confiable. Con su enfoque en la innovación y la satisfacción del cliente, Gemini Pro busca establecerse como líder en el mercado de asistentes de IA.",
+        "categoria": "IA",
+        "impacto": "bajo",
+        "fuente_nombre": "Blogthinkbig.com",
+        "fuente_url": "https://blogthinkbig.com/google-ai-pro-ventajas-gemini-one"
+    },
+    {
+        "fecha": "27/06/2026",
+        "titulo": "Premios Zinkers 2026",
+        "gancho": "Innovación educativa",
+        "contenido_completo": "La Fundación Repsol ha celebrado la gala de entrega de los Premios Zinkers 2026 en el Círculo de Bellas Artes de Madrid. Este evento reconoce el compromiso de los centros educativos con la innovación y la sostenibilidad en la transición energética. La gala ha reunido a representantes institucionales y educativos para destacar los esfuerzos de los centros educativos más innovadores en este ámbito. Los Premios Zinkers 2026 buscan fomentar la creatividad y el compromiso con la sostenibilidad en las futuras generaciones. La transición energética es un tema crucial en la actualidad, y la educación juega un papel fundamental en la formación de ciudadanos conscientes y responsables. Los centros educativos galardonados han demostrado un alto nivel de innovación y compromiso con la sostenibilidad, lo que los convierte en ejemplos a seguir para otros centros educativos.",
+        "categoria": "Sostenibilidad",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/epsocial/responsables/noticia-fundacion-repsol-reconoce-centros-educativos-mas-innovadores-transicion-energetica-premios-zinkers-2026-20260626115042.html"
+    },
+    {
         "fecha": "26/06/2026",
         "titulo": "SHIB profundiza su caída",
         "gancho": "Pierde otro cero",
