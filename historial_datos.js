@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "28/06/2026",
+        "titulo": "Litecoin bajo la lupa",
+        "gancho": "Litecoin cae 50% anual",
+        "contenido_completo": "Litecoin (LTC) se desploma a USD $42,54 en medio de una tendencia bajista prolongada y una contracción de volumen, mientras los indicadores técnicos clave refuerzan una narrativa de debilidad persistente. Aunque la tasa de Volumen/Capitalización sugiere un leve apoyo, la falta de impulso alcista y la presencia de resistencias clave plantean dudas sobre su capacidad para recuperar su valor. Es fundamental evaluar las causas subyacentes de este declive y considerar las posibles estrategias para mitigar las pérdidas. La situación de Litecoin es delicada y requiere una revisión exhaustiva de su valoración y perspectivas de crecimiento.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/litecoin-bajo-la-lupa-puede-ltc-sobrevivir-al-colapso-del-50-anual/"
+    },
+    {
+        "fecha": "28/06/2026",
+        "titulo": "Bitcoin Cash en crisis",
+        "gancho": "Bitcoin Cash cae 60% anual",
+        "contenido_completo": "Bitcoin Cash refleja una debilidad estructural profunda. El activo se desploma un 60,60% en un año, con un volumen de negociación 47% inferior a su media de 30 días. Este análisis desmenuza las causas del movimiento, la acción de precios, los indicadores técnicos y las posibles consecuencias para los inversores. La situación de Bitcoin Cash es crítica y requiere una revisión exhaustiva de su valoración y perspectivas de crecimiento. Con una caída tan significativa, es fundamental evaluar si Bitcoin Cash puede recuperarse o si su valoración actual refleja su verdadero valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-cash-en-crisis-silenciosa-desplome-del-60-anual-y-volumen-menguante-sacuden-al-mercado/"
+    },
+    {
+        "fecha": "28/06/2026",
+        "titulo": "Baterías de aire chinas",
+        "gancho": "Baterías de aire prometen 1600 km",
+        "contenido_completo": "Los chinos se están pasando el juego del transporte eléctrico. Según informa Car and Driver, un elemento clave en el sector automovilístico es la tecnología de las baterías. Desde pilas de tofu hasta baterías de cemento, los experimentos continúan para encontrar la solución perfecta. Ahora, los chinos están preparando baterías de aire que prometen 1.600 km de autonomía, lo que podría revolucionar la industria del transporte eléctrico. Esta innovación podría ser un paso significativo hacia la adopción masiva de vehículos eléctricos y reducir la dependencia de los combustibles fósiles.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Huffingtonpost.es",
+        "fuente_url": "https://www.huffingtonpost.es/sociedad/los-chinos-tomando-camino-diferente-preparando-baterias-aire-prometen-1600-km-autonomia-f202606.html"
+    },
+    {
+        "fecha": "28/06/2026",
+        "titulo": "HBAR bajo asedio",
+        "gancho": "HBAR cae 50% en 12 meses",
+        "contenido_completo": "Un análisis bursátil profundamente inquietante: el precio de Hedera Hashgraph ($HBAR) se desploma a USD $0,072, cotizando por debajo de todos sus promedios móviles clave. Con una caída superior al 50% interanual y una contracción del volumen del 37%, el activo enfrenta un desafío significativo para recuperar su valor. La espiral bajista de Hedera se acelera, lo que plantea dudas sobre su capacidad para mantener su posición en el mercado. Es fundamental evaluar las causas subyacentes de este declive y considerar las posibles estrategias para mitigar las pérdidas.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hbar-bajo-asedio-la-espiral-bajista-de-hedera-se-acelera-tras-perder-un-50-en-12-meses/"
+    },
+    {
+        "fecha": "28/06/2026",
+        "titulo": "Sui se desploma un 74% anual",
+        "gancho": "Sui cae 74% en un año",
+        "contenido_completo": "Sui (SUI) cotiza en una zona de mínimos no vistos en más de 12 meses, acumulando una pérdida de valor de casi el 87% desde su máximo histórico. Este análisis desglosa las causas del desplome, evalúa la estructura técnica quebradiza en todos los marcos temporales y explora las posibles consecuencias para los inversores. La situación de Sui es crítica y requiere una revisión exhaustiva de su valoración y perspectivas de crecimiento. Con una caída tan significativa, es fundamental evaluar si Sui puede recuperarse o si su valoración actual refleja su verdadero valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/sui-se-desploma-un-74-anual-mientras-el-mercado-cuestiona-su-valoracion/"
+    },
+    {
         "fecha": "27/06/2026",
         "titulo": "Juguetes sexuales",
         "gancho": "Juguetes refrescantes",
