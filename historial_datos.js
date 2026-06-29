@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "29/06/2026",
+        "titulo": "La paradoja del colón fuerte",
+        "gancho": "Economía en riesgo",
+        "contenido_completo": "A pesar de la estabilidad macroeconómica y el fortalecimiento del colón, la economía costarricense enfrenta desafíos significativos. La pérdida de empleos, la salida de empresas y el estancamiento de las zonas francas revelan las grietas del modelo económico del país. La paradoja del colón fuerte plantea preguntas sobre la sostenibilidad a largo plazo de la economía y la necesidad de implementar políticas para abordar estos desafíos. Es fundamental que los responsables de la política económica tomen medidas para diversificar la economía y promover el crecimiento sostenible.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Nacion.com",
+        "fuente_url": "https://www.nacion.com/opinion/foros/la-paradoja-del-colon-fuerte-el-exito-que-nos-dana/XHEWXPPDTJEHFPJRD4644B7VSA/story/"
+    },
+    {
+        "fecha": "29/06/2026",
+        "titulo": "Grayscale propone venta de Bitcoin",
+        "gancho": "Venta de Bitcoin",
+        "contenido_completo": "El director de investigación de Grayscale ha propuesto que la empresa venda hasta $3.000 millones en Bitcoin para reforzar su liquidez. Esta propuesta surge en un momento de incertidumbre en los mercados financieros y podría tener un impacto significativo en la valoración de la criptomoneda. La decisión de vender una parte de los activos de Bitcoin podría ayudar a Grayscale a fortalecer su posición financiera y recuperar la confianza de los inversores. Sin embargo, también plantea preguntas sobre el futuro de la criptomoneda y su papel en la cartera de inversión de la empresa.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/bitcoin/grayscale-propone-que-strategy-venda-hasta-usd-3-000-millones-en-bitcoin-para-reforzar-su-liquidez/"
+    },
+    {
+        "fecha": "29/06/2026",
+        "titulo": "El coche soñado de Sendín",
+        "gancho": "Coche ideal",
+        "contenido_completo": "Javier Sendín, considerado el mejor mecánico de España, ha revelado cuál sería su coche soñado. En una entrevista, Sendín habló sobre la importancia de elegir el coche adecuado y cómo esta decisión puede ser difícil debido a la gran variedad de opciones disponibles en el mercado. Su elección refleja su experiencia y conocimiento en el campo de la mecánica y los vehículos. La opinión de un experto como Sendín puede ser muy valiosa para aquellos que buscan comprar un coche y están indecisos sobre cuál elegir.",
+        "categoria": "Automoción",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/actualidad/20260628/1004200356/javier-sendin-mejor-mecanico-espana-tuviera-comprarme-coche-nuevo-duda-optaria-hibrido-enchufable-preferiblemente-japones-expt-cmt-dct.html"
+    },
+    {
+        "fecha": "29/06/2026",
+        "titulo": "Tether impulsa el oro tokenizado",
+        "gancho": "Oro digital",
+        "contenido_completo": "Tether ha anunciado una nueva alianza con Ledn para impulsar el uso financiero de su token de oro, XAUT. Esta alianza permitirá a los usuarios utilizar el metal precioso tokenizado para préstamos y otros servicios financieros. La integración de XAUT en la plataforma de Ledn es un paso importante hacia la adopción más amplia de los activos digitales y la tokenización de los activos tradicionales. Esto podría tener un impacto significativo en la forma en que se manejan los activos financieros y se accede a los servicios financieros.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/empresas/tether-impulsa-uso-financiero-de-su-oro-tokenizado-con-nueva-alianza-junto-a-ledn/"
+    },
+    {
+        "fecha": "29/06/2026",
+        "titulo": "Aviación supersónica revolucionada",
+        "gancho": "Vuelos a 1.800 km/h",
+        "contenido_completo": "El avión experimental X-59 ha completado un nuevo ensayo a velocidad supersónica, lo que podría cambiar para siempre la forma en que se realizan los vuelos más rápidos del planeta. Esta innovación tecnológica podría permitir vuelos más rápidos y eficientes, reduciendo los tiempos de viaje y aumentando la productividad. Sin embargo, también plantea desafíos en términos de seguridad y regulación. La comunidad aeronáutica está ansiosa por ver cómo se desarrolla esta tecnología y cómo se implementará en la práctica.",
+        "categoria": "Aviación",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/el-x-59-completa-un-nuevo-ensayo-y-acerca-una-revolucion-en-la-aviacion-mundial-cambiaria-para-siempre-los-vuelos-supersonicos-a-1-800-km-h-2000243599"
+    },
+    {
         "fecha": "28/06/2026",
         "titulo": "Litecoin bajo la lupa",
         "gancho": "Litecoin cae 50% anual",
