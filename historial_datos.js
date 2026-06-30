@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "30/06/2026",
+        "titulo": "Putin y la escasez de combustible",
+        "gancho": "Rusia enfrenta escasez",
+        "contenido_completo": "Vladimir Putin reconoció que Rusia atraviesa escasez de combustible tras una oleada de ataques ucranianos con drones de largo alcance contra instalaciones energéticas. La admisión expone con mayor claridad el costo interno que esos golpes empiezan a imponer sobre la economía rusa. La escasez de combustible puede tener un impacto significativo en la economía y la sociedad rusa, y es importante que se tomen medidas para abordar esta crisis. La situación es compleja, y es fundamental que se analicen las causas y las consecuencias de la escasez de combustible en Rusia.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/noticias/putin-admite-escasez-de-combustible-en-rusia-tras-ataques-ucranianos-a-refinerias/"
+    },
+    {
+        "fecha": "30/06/2026",
+        "titulo": "Palabras de Papa",
+        "gancho": "La vida es experiencia",
+        "contenido_completo": "Si una máquina come, piensa, trabaja, se divierte, sufre, ama y odia por nosotros, entonces nuestra vida habrá terminado para siempre, porque la vida no es otra cosa que experiencia y aventura personales. En su reciente viaje apostólico a España, el Papa reflexionó sobre la importancia de la experiencia humana en un mundo cada vez más dominado por la tecnología. Es fundamental que recordemos que la vida es más que solo una serie de procesos automatizados, y que la experiencia y la aventura personales son esenciales para nuestro crecimiento y desarrollo como seres humanos. La reflexión del Papa nos invita a replantearnos nuestra relación con la tecnología y a encontrar un equilibrio saludable entre la innovación y la experiencia humana.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/canariasahora/opinion/palabras-papa_132_13341462.html"
+    },
+    {
+        "fecha": "30/06/2026",
+        "titulo": "CRO en mínimos",
+        "gancho": "CRO se acerca a mínimos",
+        "contenido_completo": "El token nativo del exchange Crypto.com se encuentra en una tendencia bajista profunda, cotizando por debajo de todos sus promedios móviles principales y con una pérdida de más del 94% desde su máximo histórico. El volumen de negociación diario sigue contrayéndose, lo que indica una falta de interés en el token. La situación es crítica, y es importante que los inversores analicen las tendencias y los factores que influyen en el valor de CRO. La caída de CRO ha generado un impacto significativo en el mercado de criptomonedas, y es fundamental entender las razones detrás de esta tendencia.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cro-se-acerca-a-minimos-historicos-el-token-de-crypto-com-profundiza-su-depreciacion-en-2026/"
+    },
+    {
+        "fecha": "30/06/2026",
+        "titulo": "Europa y MiCA",
+        "gancho": "MiCA amenaza criptomonedas",
+        "contenido_completo": "Europa entra en la fase más dura de la implementación de MiCA, y el cambio podría redibujar por completo el mapa cripto regional. Con el fin del período transitorio el 1 de julio, miles de firmas registradas bajo esquemas nacionales podrían perder su permiso para operar. Esto podría generar un impacto significativo en el mercado de criptomonedas, y es importante que las empresas y los inversores estén preparados para los cambios que se avecinan. La implementación de MiCA es un paso importante hacia la regulación del mercado de criptomonedas en Europa, y es fundamental entender sus implicaciones.",
+        "categoria": "Regulación",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/europa-entra-en-cuenta-regresiva-mica-amenaza-con-cerrar-hasta-80-de-firmas-cripto-sin-licencia/"
+    },
+    {
+        "fecha": "30/06/2026",
+        "titulo": "SUI en crisis",
+        "gancho": "SUI se hunde 87%",
+        "contenido_completo": "El token nativo de Sui ha entrado en una de sus peores crisis, desplomándose un 75% en un año. Con el soporte de $0,68 en juego y el sentimiento de mercado en mínimos, los inversores evalúan si es el momento de comprar en la desesperación o de salir antes de que sea demasiado tarde. La situación es crítica y los inversores deben tomar decisiones informadas para minimizar sus pérdidas. La caída de SUI ha generado un impacto significativo en el mercado de criptomonedas, y es importante analizar las tendencias y los factores que influyen en su valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/sui-se-hunde-un-87-desde-su-maximo-ha-tocado-fondo-el-token/"
+    },
+    {
         "fecha": "29/06/2026",
         "titulo": "La paradoja del colón fuerte",
         "gancho": "Economía en riesgo",
