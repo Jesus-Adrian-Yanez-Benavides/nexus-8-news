@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "01/07/2026",
+        "titulo": "IA avanzada en empresas",
+        "gancho": "Frenazo en la IA",
+        "contenido_completo": "El 57% de las grandes empresas españolas ha decidido frenar la implementación de la IA avanzada hasta 2029. Según el I Barómetro de la Optimización Matemática, la falta de talento y las prioridades estratégicas son los principales obstáculos para la ejecución de la IA prescriptiva. La IA avanzada ofrece una gran cantidad de beneficios para las empresas, incluyendo la mejora de la eficiencia y la toma de decisiones. Sin embargo, la falta de habilidades y conocimientos en este área está limitando la adopción de la IA en muchas empresas. Es importante que las empresas inviertan en la formación y el desarrollo de sus empleados para que puedan aprovechar al máximo los beneficios de la IA. Además, las empresas deben establecer prioridades estratégicas claras para la implementación de la IA y asegurarse de que tienen los recursos necesarios para llevar a cabo estos proyectos.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/el-57-de-las-grandes-empresas-espanolas-frenara-la-ia-avanzada-hasta-2029-2581554"
+    },
+    {
+        "fecha": "01/07/2026",
+        "titulo": "Cargador USB-C Anker",
+        "gancho": "Descuento del 48%",
+        "contenido_completo": "El cargador USB-C Anker Prime de 67W es un dispositivo pequeño y potente que ofrece una solución práctica para cargar dispositivos móviles. Con un descuento del 48% en Amazon, este cargador es una excelente opción para aquellos que buscan una solución de carga eficiente y económica. El Anker Prime USB-C Charger es capaz de cargar dispositivos a una velocidad de hasta 67W, lo que lo hace ideal para cargar teléfonos, tabletas y otros dispositivos móviles. Además, su diseño compacto y ligero lo hace fácil de transportar, lo que lo convierte en un accesorio perfecto para viajes o uso diario. Con este descuento, el cargador Anker Prime es una excelente opción para aquellos que buscan una solución de carga de alta calidad a un precio asequible.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/el-cargador-usb-c-anker-prime-baja-un-48-mientras-amazon-liquida-el-stock-sobrante-de-prime-day-2000243848"
+    },
+    {
+        "fecha": "01/07/2026",
+        "titulo": "Nexo se desploma",
+        "gancho": "Caída del 20%",
+        "contenido_completo": "Nexo ($NEXO) ha experimentado una caída significativa en su valor, con una disminución del 20% en 2026. El análisis técnico muestra una estructura de mercado claramente bajista, con el precio por debajo de todas las medias móviles clave. Esto sugiere que la tendencia a la baja puede continuar en el futuro. La caída de Nexo se debe a una combinación de factores, incluyendo la volatilidad del mercado y la falta de confianza de los inversores. A medida que el mercado sigue evolucionando, es importante para los inversores estar atentos a los cambios en la tendencia y ajustar sus estrategias en consecuencia. La caída de Nexo también puede tener un impacto en el mercado en general, ya que puede afectar la confianza de los inversores y la estabilidad del mercado.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/nexo-se-desploma-un-20-en-2026-y-cotiza-por-debajo-de-todas-sus-medias-moviles/"
+    },
+    {
+        "fecha": "01/07/2026",
+        "titulo": "Buque de Baleària en Canarias",
+        "gancho": "Buque con mayor capacidad",
+        "contenido_completo": "El buque 'Josefina de la Torre' de Baleària Canarias es el de mayor capacidad de carga rodada en las islas. Con una capacidad para 4.000 metros lineales de carga, este buque permitirá aumentar significativamente la capacidad semanal de transporte de mercancías entre Santa Cruz de La Palma y Cádiz. El buque realizará dos viajes semanales, lo que mejorará la conectividad y el comercio entre las islas y el puerto gaditano. La incorporación de este buque es un paso importante para Baleària Canarias, ya que permitirá a la empresa ofrecer servicios más eficientes y competitivos a sus clientes. El aumento de la capacidad de carga también beneficiará a la economía local, ya que permitirá el transporte de más mercancías y productos.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/canariasahora/lapalmaahora/economia/buque-balearia-mayor-capacidad-carga-rodada-canarias-enlazara-santa-cruz-palma-cadiz-veces-semana_1_13344763.html"
+    },
+    {
+        "fecha": "01/07/2026",
+        "titulo": "Fichaje en Achilles",
+        "gancho": "IA para riesgos",
+        "contenido_completo": "Sebastien Roussotte se une a Achilles con el objetivo de potenciar herramientas tecnológicas avanzadas. La priorización de riesgos asistida por Inteligencia Artificial es una de las áreas clave en las que se enfocará. Esto permitirá a la empresa mejorar su capacidad para identificar y mitigar riesgos de manera efectiva. Con la incorporación de Roussotte, Achilles busca fortalecer su posición en el mercado y ofrecer soluciones innovadoras a sus clientes. La Inteligencia Artificial jugará un papel fundamental en este proceso, permitiendo a la empresa tomar decisiones informadas y basadas en datos.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "El Financiero",
+        "fuente_url": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/06/30/fichaje-en-achilles/"
+    },
+    {
         "fecha": "30/06/2026",
         "titulo": "Putin y la escasez de combustible",
         "gancho": "Rusia enfrenta escasez",
