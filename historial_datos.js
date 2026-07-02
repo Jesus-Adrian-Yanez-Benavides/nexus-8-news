@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "02/07/2026",
+        "titulo": "Chainlink: Caída del 40%",
+        "gancho": "Chainlink cae un 40%",
+        "contenido_completo": "Chainlink ($LINK) ha experimentado una caída del 40% en su valor en lo que va de 2026, situándose en $7,22. Esta caída se produce en un contexto de debilidad técnica y ha llevado a que el token pierda el soporte de los niveles de 2020. Los volúmenes menguantes y los promedios móviles descendentes refuerzan la presión bajista, lo que podría indicar una tendencia bajista en el valor del token. La caída de Chainlink se produce en un momento de incertidumbre en el mercado de las criptomonedas, y podría ser un reflejo de la volatilidad y la especulación que caracterizan a este mercado. Es importante tener en cuenta que las criptomonedas son una inversión de alto riesgo y que su valor puede fluctuar rápidamente. Los inversores deben estar preparados para posibles caídas y tener una estrategia de inversión a largo plazo.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/chainlink-link-cae-a-722-los-niveles-de-soporte-de-2020-penden-de-un-hilo/"
+    },
+    {
+        "fecha": "02/07/2026",
+        "titulo": "Wayve: IA de Conducción",
+        "gancho": "IA de conducción autónoma",
+        "contenido_completo": "Wayve, una startup británica de conducción autónoma, ha desarrollado un sistema de IA de extremo a extremo que promete adaptarse a las calles como lo haría un humano. Este avance en la tecnología de conducción autónoma podría revolucionar la forma en que nos desplazamos por las carreteras y reducir el número de accidentes. El sistema de Wayve utiliza algoritmos de aprendizaje automático para aprender de la experiencia y mejorar su capacidad para navegar por las calles. La startup ha captado la atención de fabricantes y inversionistas, y ha recaudado USD $2.800 millones para seguir desarrollando su tecnología. La conducción autónoma es un campo en constante evolución, y Wayve se posiciona como uno de los líderes en esta área. La implementación de la conducción autónoma podría tener un impacto significativo en la seguridad vial y la eficiencia del tráfico.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/startups-verticales/wayve-apuesta-por-la-ia-de-conduccion-y-seduce-a-automotrices-con-usd-2-800-millones/"
+    },
+    {
+        "fecha": "02/07/2026",
+        "titulo": "Gram: Caída del 3%",
+        "gancho": "Gram cae un 3%",
+        "contenido_completo": "El token Gram ha experimentado una caída del 3,10% en su valor, situándose en USD $1,54. Esta caída se produce en un contexto de debilidad técnica y ha llevado a que el token pierda el soporte de USD $1,57. El análisis técnico muestra que las medias de corto y largo plazo están en descenso, lo que podría indicar una tendencia bajista en el valor del token. La caída de Gram se produce en un momento de incertidumbre en el mercado de las criptomonedas, y podría ser un reflejo de la volatilidad y la especulación que caracterizan a este mercado. Es importante tener en cuenta que las criptomonedas son una inversión de alto riesgo y que su valor puede fluctuar rápidamente. Los inversores deben estar preparados para posibles caídas y tener una estrategia de inversión a largo plazo.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gram-se-desploma-3-y-pierde-el-soporte-de-usd-157-en-un-contexto-de-debilidad-tecnica/"
+    },
+    {
+        "fecha": "02/07/2026",
+        "titulo": "Joby y Toyota: Taxis Voladores",
+        "gancho": "Taxis voladores en el horizonte",
+        "contenido_completo": "Joby Aviation y Toyota han anunciado una empresa conjunta para producir taxis voladores a escala comercial. Esta alianza marca un paso importante hacia la movilidad aérea urbana y podría revolucionar la forma en que nos desplazamos por las ciudades. Los taxis voladores ofrecen una solución prometedora para reducir el tráfico y los tiempos de viaje, y podrían ser una opción más sostenible y eficiente que los medios de transporte tradicionales. La empresa conjunta entre Joby y Toyota combina la experiencia en aviación de Joby con la capacidad de producción y la tecnología de Toyota, lo que podría acelerar el desarrollo y la implementación de esta tecnología. La movilidad aérea urbana es un campo en constante evolución, y esta alianza podría ser un paso clave hacia un futuro más sostenible y eficiente.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/estados-unidos/joby-y-toyota-aceleran-su-apuesta-por-los-taxis-voladores-con-nueva-empresa-conjunta/"
+    },
+    {
+        "fecha": "02/07/2026",
+        "titulo": "Samsung S95H: Pantone Validated",
+        "gancho": "Colores reales en pantalla",
+        "contenido_completo": "El televisor S95H de Samsung ha obtenido la certificación Pantone Validated ArtfulColor, lo que garantiza que los colores que se ven en la pantalla son precisos y naturales. Esto se logra gracias a la tecnología de pantalla OLED que ofrece una amplia gama de colores y una gran precisión en la reproducción de los mismos. La certificación de Pantone es un reconocimiento a la calidad de la pantalla del S95H y su capacidad para mostrar colores reales y naturales. Con esta certificación, Samsung se posiciona como uno de los líderes en la industria de la tecnología de pantallas. La precisión en la reproducción de colores es fundamental para una experiencia de visualización inmersiva y realista.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Xatakahome.com",
+        "fuente_url": "https://www.xatakahome.com/territorio-samsung/ed-hattenberger-experto-pantone-nueva-certificacion-oled-s95h-samsung-color-nunca-casual"
+    },
+    {
         "fecha": "01/07/2026",
         "titulo": "IA avanzada en empresas",
         "gancho": "Frenazo en la IA",
