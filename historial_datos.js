@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "03/07/2026",
+        "titulo": "Gram desafía su máximo histórico",
+        "gancho": "Rally del 8.58%",
+        "contenido_completo": "Gram (GRAM) sorprendió con un salto del 8.58% hasta USD $1,69, acercándose a su máximo histórico de $1,74. Con un volumen intradiario de $52 millones y todos los promedios móviles clave convertidos en soporte, la pregunta es si es momento de comprar o el techo está cerca. Los inversores deben considerar cuidadosamente los indicadores técnicos y fundamentales antes de tomar decisiones de inversión. La volatilidad del mercado cripto y la falta de claridad sobre la dirección futura del precio de Gram hacen que sea crucial estar atento a los cambios en la tendencia y ajustar las estrategias de inversión según sea necesario.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gram-desafia-su-maximo-historico-con-rally-del-8-58/"
+    },
+    {
+        "fecha": "03/07/2026",
+        "titulo": "Apple Watch se rediseñará en 2027",
+        "gancho": "Nuevo sistema de correas",
+        "contenido_completo": "El Apple Watch recibirá su mayor rediseño en 2027 con un nuevo sistema de correas magnético, sensores avanzados y pantalla OLED de nueva generación. Este rediseño promete mejorar significativamente la experiencia del usuario y ofrecer funcionalidades innovadoras. La incorporación de tecnologías avanzadas en el Apple Watch puede tener un impacto positivo en la salud y el bienestar de los usuarios, así como en la competitividad de Apple en el mercado de dispositivos wearables. Los detalles del rediseño y sus implicaciones para el futuro de la tecnología wearable serán objeto de gran interés y expectativa.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Isenacode.com",
+        "fuente_url": "https://isenacode.com/apple-watch-redisenno-2027-nuevas-correas/"
+    },
+    {
+        "fecha": "03/07/2026",
+        "titulo": "Canton Network bajo presión",
+        "gancho": "Caída del 27%",
+        "contenido_completo": "Canton Network (CC) enfrenta una presión bajista creciente tras perder niveles técnicos determinantes y mostrar una contracción del volumen de negociación superior al 27%. La reciente debilidad en los datos en cadena y la ausencia de un catalizador inmediato para revertir la tendencia bajista plantean desafíos significativos para los inversores. Es crucial analizar los indicadores técnicos y fundamentales para entender mejor la situación actual de Canton Network y tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/canton-network-se-desliza-bajo-sma-criticas-mientras-el-volumen-se-desploma-un-27/"
+    },
+    {
+        "fecha": "03/07/2026",
+        "titulo": "Litecoin se aferra a $43",
+        "gancho": "Alza del 1.01%",
+        "contenido_completo": "Litecoin se cotiza a USD $43,24 con un alza del 1,01% en 24 horas, pero aún acumula una depreciación del 51% interanual. Las medias móviles de corto plazo muestran una leve mejoría, aunque la estructura técnica sigue siendo bajista. Este análisis desglosa los factores clave que influyen en el precio de Litecoin y explora las posibles direcciones que el mercado cripto puede tomar en el futuro. La volatilidad del mercado cripto sigue siendo un desafío para los inversores, que deben estar atentos a los cambios en la tendencia.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/litecoin-ltc-se-aferra-a-los-usd-43-mientras-el-mercado-cripto-busca-direccion-02-07-2026/"
+    },
+    {
+        "fecha": "03/07/2026",
+        "titulo": "Bitcoin Cash se desploma",
+        "gancho": "Caída del 95%",
+        "contenido_completo": "Bitcoin Cash ($BCH) registra un alza intradía del 4.55% hasta $215.84, acumulando un +13.11% en siete días, aunque aún cotiza un 95% por debajo de su máximo histórico de 2017. El análisis técnico revela un rebote desde la zona de $200 con soporte en las medias móviles de corto plazo. La pregunta es si esta recuperación es sostenible o solo un espejismo en un mercado volátil. Los inversores deben considerar cuidadosamente los indicadores técnicos y fundamentales antes de tomar decisiones de inversión.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-cash-bch-se-desploma-un-95-desde-su-maximo-historico-oportunidad-o-espejismo/"
+    },
+    {
         "fecha": "02/07/2026",
         "titulo": "Chainlink: Caída del 40%",
         "gancho": "Chainlink cae un 40%",
