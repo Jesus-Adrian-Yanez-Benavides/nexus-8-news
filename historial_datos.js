@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "04/07/2026",
+        "titulo": "Borrar tu huella digital con IA",
+        "gancho": "Borra tu rastro",
+        "contenido_completo": "Todos dejamos un rastro constante en internet, la mayoría de las veces sin darnos cuenta. Te registras en un foro para leer un hilo, aceptas unas cookies sin mirar, y años después esa información acaba siendo utilizada para fines publicitarios o incluso para la vigilancia. La IA puede ser una herramienta poderosa para borrar nuestra huella digital de internet. Existen herramientas de IA que pueden ayudar a identificar y eliminar los datos personales que se encuentran en línea, mejorar la seguridad de nuestras cuentas y reducir el riesgo de ser víctimas de fraudes o robo de identidad. Aunque la tarea de borrar completamente nuestra huella digital es compleja, la IA puede ser un aliado valioso en este proceso.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Blogthinkbig.com",
+        "fuente_url": "https://blogthinkbig.com/como-borrar-huella-digital-ia"
+    },
+    {
+        "fecha": "04/07/2026",
+        "titulo": "El uso de la IA en la educación universitaria",
+        "gancho": "IA en las aulas",
+        "contenido_completo": "El 90% de los estudiantes universitarios utiliza la inteligencia artificial (IA) y el 86% de los usuarios cree que dicha tecnología mejora su rendimiento académico, según los resultados del estudio 'Uso y percepción de la IA en el entorno universitario II', realizado por la Fundación CYD. La IA se está convirtiendo en una herramienta cada vez más común en la educación superior, con aplicaciones que van desde la ayuda en la investigación hasta la automatización de tareas administrativas. Los estudiantes ven en la IA una herramienta que les permite mejorar su desempeño académico y acceder a recursos educativos de alta calidad. Sin embargo, también hay preocupaciones sobre el impacto de la IA en la privacidad y la seguridad de los datos de los estudiantes.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/sociedad/educacion-00468/noticia-90-universitarios-usa-ia-86-cree-mejora-rendimiento-academico-fundacion-cyd-20260703115204.html"
+    },
+    {
+        "fecha": "04/07/2026",
+        "titulo": "OKX lanza un mercado de IA autónoma",
+        "gancho": "IA sin intervención humana",
+        "contenido_completo": "OKX, la plataforma de criptomonedas que gestiona activos por valor de 25.000 millones de dólares según su última valoración, ha lanzado OKX AI, un mercado donde agentes de inteligencia artificial pueden contratarse mutuamente, liquidar pagos de forma autónoma y realizar transacciones sin la necesidad de intervención humana. Este mercado representa un paso hacia la adopción más amplia de la tecnología de IA en el sector financiero. La plataforma permite a los agentes de IA interactuar entre sí de manera autónoma, lo que podría mejorar la eficiencia y reducir los costos en las transacciones. La seguridad y la regulación de este tipo de mercados son temas que aún deben ser abordados.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Wwwhatsnew.com",
+        "fuente_url": "https://wwwhatsnew.com/2026/07/03/okx-ai-mercado-agentes-pagos-autonomos-2026/"
+    },
+    {
+        "fecha": "04/07/2026",
+        "titulo": "Taxistas chinos critican la expansión de los robotaxis",
+        "gancho": "Robotaxis, una amenaza",
+        "contenido_completo": "En Shenzhen, China, ya se pueden ver taxis autónomos circulando por las calles, pero de momento forman parte de programas piloto y son minoría frente a los miles de taxis conducidos por humanos. Eso está a punto de cambiar con la nueva ley que da luz verde a más robotaxis en la ciudad. Los taxistas de Shenzhen han expresado su descontento con esta medida, calificándola de 'increíblemente cruel'. La expansión de los robotaxis podría significar la pérdida de empleos para los conductores humanos, lo que ha generado una gran preocupación entre los taxistas. La ciudad de Shenzhen se está convirtiendo en un centro de pruebas para la tecnología de vehículos autónomos, y la nueva ley es un paso hacia la adopción más amplia de esta tecnología.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/movilidad/increiblemente-cruel-asi-definen-taxistas-shenzhen-nueva-ley-que-da-luz-verde-a-robotaxis-ciudad"
+    },
+    {
+        "fecha": "04/07/2026",
+        "titulo": "Venta récord de coches eléctricos en España",
+        "gancho": "Junio, mes récord de ventas",
+        "contenido_completo": "El coche eléctrico sigue sin ser un coche para todos, pero nunca antes se habían vendido tantos turismos eléctricos como este mes de junio de 2026. El coche eléctrico firma así su mejor mes de la historia en España. Según los datos publicados por ANFAC, Facon… La tendencia hacia la electrificación del parque automotor sigue en aumento, con marcas como Tesla y las marcas chinas a la cabeza. Esto se debe en parte a las políticas gubernamentales que fomentan el uso de vehículos más sostenibles. La venta de coches eléctricos ha experimentado un crecimiento significativo en los últimos años, y junio de 2026 ha sido el mes con más ventas registradas hasta la fecha.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Motorpasión",
+        "fuente_url": "https://www.motorpasion.com/observatorio-motorpasion/junio-se-han-vendido-coches-electricos-que-nunca-espana-tesla-marcas-chinas-arrasan"
+    },
+    {
         "fecha": "03/07/2026",
         "titulo": "Gram desafía su máximo histórico",
         "gancho": "Rally del 8.58%",
