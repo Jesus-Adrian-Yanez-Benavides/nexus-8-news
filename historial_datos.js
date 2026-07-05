@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "05/07/2026",
+        "titulo": "El 'cerebro' japonés de la IA",
+        "gancho": "IA en cazas de combate",
+        "contenido_completo": "Estados Unidos no para de hacer pruebas encaminadas hacia la autonomía militar. Muestra de ello es que la Fuerza Aérea de Estados Unidos está confirmando que pudo integrar y validar una tecnología de procesamiento de IA hecha en Japón. Se trata de SAKURA-II, un sistema de procesamiento de inteligencia artificial que permite a los cazas de combate tomar decisiones de manera autónoma. La tecnología es revolucionaria y puede cambiar la forma en que se libran las guerras. Los expertos analizan las implicaciones de esta tecnología y cómo puede afectar a la seguridad global. La autonomía militar es un tema complejo y requiere un análisis detallado.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Elnacional.cat",
+        "fuente_url": "https://www.elnacional.cat/es/tecnologia/es-cerebro-japones-permite-ia-tome-control-cazas-combate_1663550_102.html"
+    },
+    {
+        "fecha": "05/07/2026",
+        "titulo": "Las emociones detrás de un gol",
+        "gancho": "El poder de las emociones",
+        "contenido_completo": "Expertos explican por qué un triunfo futbolístico, o una derrota desgarradora, puede transformar el comportamiento y desafiar incluso las normas sociales. Las emociones juegan un papel fundamental en el deporte y pueden influir en la forma en que los jugadores y los aficionados se comportan. La emoción del fútbol es única y puede generar una gran variedad de reacciones. Los expertos analizan las razones detrás de estas reacciones y cómo pueden afectar a las personas. La emoción del fútbol es un tema fascinante que puede ser estudiado y analizado desde diferentes perspectivas.",
+        "categoria": "Deportes",
+        "impacto": "bajo",
+        "fuente_nombre": "Latercera.com",
+        "fuente_url": "https://www.latercera.com/nacional/noticia/las-emociones-detras-de-un-gol/"
+    },
+    {
+        "fecha": "05/07/2026",
+        "titulo": "Andrew Li (CEO de Omoda Motors Spain)",
+        "gancho": "Omoda Motors conecta con España",
+        "contenido_completo": "Si en esto del empuje de las marcas chinas en España hay una evidencia palpable, ésa es la del grupo Chery. Omoda y Jaecoo son sus puntas de lanza y, desde su llegada hace dos años, han establecido una estrecha relación con los clientes españoles que han empujado a la marca a seguir innovando. Andrew Li, CEO de Omoda Motors Spain, habla sobre el éxito de la marca en el país y los planes para el futuro. La marca china ha logrado conectar con el público español y busca seguir mejorando y innovando para satisfacer las necesidades de sus clientes.",
+        "categoria": "Automoción",
+        "impacto": "bajo",
+        "fuente_nombre": "Elperiodico.com",
+        "fuente_url": "https://www.elperiodico.com/es/motor/20260704/andrew-li-ceo-omoda-motors-132089101"
+    },
+    {
+        "fecha": "05/07/2026",
+        "titulo": "ETH rebasa los USD $1.750",
+        "gancho": "Ethereum sube un 11,6%",
+        "contenido_completo": "Ethereum repunta un 11,6% en siete días y se sitúa sobre los USD $1.755, pero el desplome del volumen y la persistente resistencia de las medias móviles de mediano plazo plantean dudas sobre la sostenibilidad del rebote. La comunidad de inversores está dividida entre aquellos que ven una oportunidad de compra y aquellos que consideran que el mercado está sobrevalorado. La situación actual de Ethereum es compleja y requiere un análisis detallado. Los expertos recomiendan esperar y observar el comportamiento del mercado antes de tomar decisiones de inversión.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/eth-rebasa-los-usd-1-750-mientras-el-volumen-se-desploma-senal-de-recuperacion-o-trampa-alcista/"
+    },
+    {
+        "fecha": "05/07/2026",
+        "titulo": "Bitcoin se sostiene en $62.433",
+        "gancho": "Bitcoin sube un 1,79%",
+        "contenido_completo": "Bitcoin cotiza a USD $62.433 este 4 de julio de 2026, un rebote del +1,79% en la jornada desde la apertura de USD $61.413. Sin embargo, el volumen de compraventa sigue un 25% por debajo del promedio mensual y el precio se mantiene un -50,5% por debajo de su máximo histórico. La incertidumbre en el mercado de criptomonedas sigue siendo alta. Los inversores están a la espera de señales de recuperación o desplome. La situación actual del mercado es delicada y requiere una atención constante.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-se-sostiene-en-62-433-en-visperas-del-4-de-julio-fuegos-artificiales-alcistas-o-desplome-inminente/"
+    },
+    {
         "fecha": "04/07/2026",
         "titulo": "Borrar tu huella digital con IA",
         "gancho": "Borra tu rastro",
