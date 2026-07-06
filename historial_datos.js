@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "06/07/2026",
+        "titulo": "Worldcoin ($WLD)",
+        "gancho": "Caída del 7%",
+        "contenido_completo": "El token WLD sufre una fuerte corrección técnica del 7,32% este 5 de julio, arrastrando su precio a los $0,4076. La caída, acompañada de un desplome del volumen, enciende las alarmas para los inversores mientras el mercado evalúa el soporte crítico de $0,40. La tendencia a la baja puede ser un signo de una corrección más profunda, y los inversores deben estar preparados para una posible caída adicional. La volatilidad del mercado de criptomonedas es alta, y los inversores deben ser cautelosos.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/worldcoin-wld-se-hunde-un-7-y-pierde-el-soporte-de-los-041/"
+    },
+    {
+        "fecha": "06/07/2026",
+        "titulo": "Cosmos (ATOM)",
+        "gancho": "Caída libre",
+        "contenido_completo": "El precio de Cosmos (ATOM) se sitúa en $1,55 tras una semana de pérdidas, acumulando un desplome del 96,52% desde su máximo histórico de $44,59 en 2021. El volumen menguante y la estructura técnica bajista en todos los plazos siembran dudas sobre un posible repunte. Los inversores deben ser cautelosos y evaluar cuidadosamente las tendencias antes de tomar decisiones. La caída de Cosmos (ATOM) puede ser una oportunidad de compra para algunos, pero también puede ser un signo de una tendencia a la baja.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cosmos-atom-en-caida-libre-oportunidad-de-compra-a-155-el-5-de-julio-de-2026/"
+    },
+    {
+        "fecha": "06/07/2026",
+        "titulo": "Marina de Limón",
+        "gancho": "Futuro incierto",
+        "contenido_completo": "La modernización de Japdeva entra en una nueva etapa con la reciente reforma legal. La institución deberá demostrar que puede convertir décadas de rezago en inversión, infraestructura y desarrollo para Limón. La marina de $854 millones puede ser un impulsor importante para la economía local, pero también existe el riesgo de que no se cumplan las expectativas. La comunidad debe estar atenta a los avances y exigir transparencia en la gestión de los recursos.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Nacion.com",
+        "fuente_url": "https://www.nacion.com/opinion/columnistas/la-marina-de-854-millones-que-podria-cambiar-el/W34EESTD3RDVPL5G7GG2VZKGJY/story/"
+    },
+    {
+        "fecha": "06/07/2026",
+        "titulo": "IA en juegos",
+        "gancho": "Ventas en peligro",
+        "contenido_completo": "El uso de la inteligencia artificial en el desarrollo de videojuegos se ha convertido en uno de los temas más debatidos en la industria. Un informe reciente demuestra que los juegos en Steam creados con ayuda de la IA tienen menos éxito, con efectos demoledores en los mejores estudios. La IA puede ser una herramienta poderosa, pero también puede llevar a la homogeneización de los juegos y la pérdida de creatividad. La industria debe encontrar un equilibrio entre la innovación y la creatividad.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Elespanol.com",
+        "fuente_url": "https://vandal.elespanol.com/noticia/1350791410/es-catastrofico-el-uso-de-la-ia-en-los-juegos-puede-desplomar-sus-ventas-especialmente-en-buenos-estudios/"
+    },
+    {
+        "fecha": "06/07/2026",
+        "titulo": "Agotados e hiperconectados",
+        "gancho": "Salud mental en riesgo",
+        "contenido_completo": "La salud mental, el equilibrio vida personal-trabajo y los nuevos modelos de liderazgo son ejes centrales en la gestión de personas. La competitividad puede llevar a un estado de agotamiento y hiperconexión, afectando negativamente la salud mental. Es importante encontrar un equilibrio saludable entre el trabajo y la vida personal. La gestión de personas debe priorizar la salud mental y el bienestar de los empleados.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "Perfil.com",
+        "fuente_url": "https://noticias.perfil.com/noticias/empresas/agotados-e-hiperconectados.phtml"
+    },
+    {
         "fecha": "05/07/2026",
         "titulo": "El 'cerebro' japonés de la IA",
         "gancho": "IA en cazas de combate",
