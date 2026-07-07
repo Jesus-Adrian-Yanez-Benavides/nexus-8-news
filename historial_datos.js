@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "07/07/2026",
+        "titulo": "Dyson HushJet Mini Cool",
+        "gancho": "Ventilador portátil silencioso",
+        "contenido_completo": "El Dyson HushJet Mini Cool es un ventilador portátil de 5 velocidades con tecnología silenciosa y diseño sin aspas. Pesa 212 gramos y ofrece hasta 6 horas de batería para combatir el calor. Este innovador producto de Dyson combina tecnología avanzada con diseño compacto, lo que lo hace ideal para uso en interiores o al aire libre. La tecnología silenciosa de Dyson minimiza el ruido, proporcionando una experiencia de enfriamiento más placentera. Con su batería de larga duración, el Dyson HushJet Mini Cool es una excelente opción para aquellos que buscan un ventilador portátil y eficiente.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Tuexperto.com",
+        "fuente_url": "https://www.tuexperto.com/2026/07/06/dyson-hushjet-mini-cool-un-ventilador-de-mano-con-5-niveles-de-potencia/"
+    },
+    {
+        "fecha": "07/07/2026",
+        "titulo": "Seguridad energética en Canarias",
+        "gancho": "Canarias avanza en seguridad energética",
+        "contenido_completo": "No se trata simplemente de permitir baterías conectadas a la red, sino de reconocer expresamente que estas pueden sustituir una de las funciones que tradicionalmente realizaban las centrales térmicas: mantener capacidad de regulación inmediata para responder a las fluctuaciones en la demanda de energía. Este paso hacia la seguridad energética es crucial para la sostenibilidad y la independencia energética de Canarias. La integración de fuentes de energía renovable y el almacenamiento de energía son clave para lograr este objetivo. La comunidad está expectante por los próximos pasos en este proceso de transición energética.",
+        "categoria": "Energía",
+        "impacto": "alto",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/canariasahora/opinion/primer-paso-seguridad-energetica-canarias_132_13359151.html"
+    },
+    {
+        "fecha": "07/07/2026",
+        "titulo": "Canton Network: un rebote inesperado",
+        "gancho": "Canton Network repunta 1,87%",
+        "contenido_completo": "Canton Network (CC) cotiza en $0,1411 tras un leve repunte del 1,87% en una sesión de volumen ínfimo. El token de microcapitalización enfrenta una tendencia bajista de mediano plazo, con todas sus medias móviles relevantes actuando como resistencia. La escasez de liquidez en el mercado puede estar contribuyendo a la volatilidad de los precios. Los inversores están buscando señales de que el mercado pueda cambiar de tendencia, pero por ahora, la incertidumbre prevalece. La falta de volumen y la baja liquidez son desafíos significativos para Canton Network.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/canton-network-cc-6-julio-2026-el-rebote-que-nadie-pidio-en-un-mar-de-baja-liquidez/"
+    },
+    {
+        "fecha": "07/07/2026",
+        "titulo": "Gram frena su rally",
+        "gancho": "Gram alcanza máximo histórico",
+        "contenido_completo": "Gram (anteriormente Toncoin) muestra signos de agotamiento después de tocar su máximo histórico de $1,83 el 4 de julio. Con una capitalización de mercado de $4,77 mil millones, el token retrocede un 0,85% en las últimas horas mientras los inversores asimilan los movimientos recientes. La pregunta en el aire es si este retroceso marca una corrección temporal o un cambio de tendencia en el mercado. Los analistas están estudiando los indicadores técnicos para predecir los próximos movimientos de Gram. La volatilidad del mercado de criptomonedas sigue siendo un desafío para los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gram-frena-su-rally-tras-alcanzar-maximo-historico-correccion-o-cambio-de-tendencia/"
+    },
+    {
+        "fecha": "07/07/2026",
+        "titulo": "Litecoin: ¿repunte o cambio de tendencia?",
+        "gancho": "Litecoin repunta 0,80%",
+        "contenido_completo": "Litecoin cotiza este 6 de julio de 2026 en USD $44,66, un leve repunte del 0,80% que contrasta con la pérdida del 48% anual. El activo intenta consolidar por encima de sus medias móviles cortas, mientras el volumen repunta y el mercado evalúa si se trata de un cambio de tendencia. La comunidad de inversores está atenta a los movimientos del mercado para determinar si este repunte es efímero o si marca el comienzo de una nueva tendencia. Con una capitalización de mercado significativa, Litecoin sigue siendo un activo importante en el mundo de las criptomonedas.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/litecoin-ltc-6-de-julio-de-2026-repunte-efimero-o-cambio-de-tendencia/"
+    },
+    {
         "fecha": "06/07/2026",
         "titulo": "Worldcoin ($WLD)",
         "gancho": "Caída del 7%",
