@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "08/07/2026",
+        "titulo": "Donación de ecógrafo al HUCA",
+        "gancho": "Ecógrafo donado",
+        "contenido_completo": "La Asociación Galbán ha realizado una donación significativa al Servicio de Cirugía Pediátrica del Hospital Universitario Central de Asturias (HUCA), en Oviedo. El ecógrafo donado permitirá reforzar la atención a niños y niñas con patologías oncológicas y oncohematológicas, mejorando así la calidad de la asistencia médica que se les brinda. Esta donación es un ejemplo de la importante labor que realizan las organizaciones sin fines de lucro en el apoyo a la salud pública. El ecógrafo es un equipo médico fundamental para el diagnóstico y seguimiento de diversas condiciones pediátricas, y su disponibilidad en el HUCA contribuirá a que los pacientes reciban el cuidado especializado que necesitan. La Asociación Galbán ha demostrado su compromiso con la salud y el bienestar de la comunidad, especialmente de los más vulnerables, como los niños y niñas que enfrentan desafíos de salud. Esta donación no solo mejorará la capacidad del hospital para atender a sus pacientes, sino que también simboliza la solidaridad y el apoyo de la comunidad hacia aquellos que más lo necesitan.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/asturias/noticia-asociacion-galban-dona-ecografo-servicio-cirugia-pediatrica-huca-20260707120215.html"
+    },
+    {
+        "fecha": "08/07/2026",
+        "titulo": "Nueva herramienta para becas universitarias",
+        "gancho": "Becas universitarias",
+        "contenido_completo": "La búsqueda de becas universitarias puede ser un proceso complicado y desalentador para muchos estudiantes. Sin embargo, con el lanzamiento de una nueva herramienta en Canarias, este proceso acaba de volverse significativamente más fácil. Desde el 7 de julio, los estudiantes que han presentado solicitudes de beca en convocatorias anteriores recibirán un mensaje SMS y un correo electrónico informándoles del inicio del plazo de solicitud para el curso 2026-2027. Esta herramienta está diseñada para facilitar y agilizar el proceso de solicitud, permitiendo a los estudiantes acceder a la información y los recursos necesarios de manera más eficiente. La iniciativa busca apoyar a los estudiantes en su búsqueda de financiamiento para sus estudios universitarios, contribuyendo así a igualar las oportunidades educativas en la región. Con esta herramienta, los estudiantes podrán gestionar sus solicitudes de beca de manera más efectiva, lo que puede tener un impacto positivo en su futuro académico y profesional. La implementación de esta herramienta es un paso importante hacia la simplificación y transparencia en el proceso de solicitud de becas, y se espera que tenga un impacto significativo en la comunidad estudiantil de Canarias.",
+        "categoria": "Educación",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/canariasahora/politica/becas-universitarias-canarias-herramienta-facilitar-presentacion_1_13361853.html"
+    },
+    {
+        "fecha": "08/07/2026",
+        "titulo": "Rebajas de verano",
+        "gancho": "Gadgets rebajados",
+        "contenido_completo": "Con el verano en pleno apogeo, muchos de nosotros estamos buscando formas de disfrutar al máximo del calor y la libertad que esta estación nos ofrece. Una de las mejores maneras de hacerlo es mediante el uso de gadgets innovadores y prácticos que pueden mejorar nuestra experiencia durante los meses cálidos. Desde dispositivos de refrigeración portátiles hasta accesorios para deportes acuáticos, hay una amplia variedad de gadgets que pueden hacer que nuestro verano sea más entretenido, fresco, cómodo y saludable. Algunos de los gadgets más populares incluyen altavoces waterproof, gafas de sol con tecnología de realidad aumentada, y dispositivos de seguimiento de fitness que pueden monitorear nuestras actividades al aire libre. Con las rebajas de verano en marcha, es el momento perfecto para adquirir estos gadgets a precios más asequibles y disfrutar del verano con estilo y comodidad. Ya sea que estés planeando una aventura al aire libre o simplemente queriendo mejorar tu rutina diaria, estos gadgets pueden ser la clave para un verano inolvidable.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Trecebits.com",
+        "fuente_url": "https://www.trecebits.com/rebajas-verano-gadgets-rebajados/"
+    },
+    {
+        "fecha": "08/07/2026",
+        "titulo": "Bitcoin al borde del abismo",
+        "gancho": "Bitcoin en peligro",
+        "contenido_completo": "El mercado de las criptomonedas, liderado por Bitcoin, ha experimentado una gran volatilidad en los últimos tiempos. Después de una semana de recuperación, Bitcoin se encuentra cerca de los $63,253, pero enfrenta resistencias técnicas significativas que podrían definir su próximo gran movimiento. El volumen de operaciones ha aumentado un 30% sobre el promedio, lo que indica un interés creciente en la criptomoneda. Sin embargo, los promedios móviles de largo plazo continúan actuando como un techo, lo que podría limitar el crecimiento de Bitcoin en el corto plazo. Los inversores y analistas están atentos a los movimientos del mercado, buscando señales de si Bitcoin podrá superar estos obstáculos y continuar su tendencia alcista. La situación actual del mercado de criptomonedas es compleja, con factores tanto técnicos como fundamentales influyendo en el precio de Bitcoin. Los inversores deben estar preparados para posibles fluctuaciones y considerar cuidadosamente su estrategia de inversión en este mercado volátil.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-al-borde-del-abismo-el-soporte-de-61300-podria-definir-el-proximo-gran-movimiento/"
+    },
+    {
+        "fecha": "08/07/2026",
+        "titulo": "Clubes de bienestar",
+        "gancho": "Recupera fuerzas",
+        "contenido_completo": "Los clubes de bienestar ofrecen una experiencia integral que combina disciplinas y encuentros en comunidad. Estos espacios están diseñados para ayudar a las personas a recuperar fuerzas y mejorar su bienestar general. Con una variedad de tratamientos y actividades, los clubes de bienestar buscan proporcionar un entorno apoyo y motivación. En Argentina, estos clubes están empezando a ganar popularidad, ofreciendo una alternativa innovadora para aquellos que buscan mejorar su salud y bienestar. Los clubes de bienestar suelen incluir servicios como terapias de relajación, clases de yoga y meditación, así como espacios para el ejercicio físico y la socialización. Todo esto se combina para crear un ambiente que fomenta el crecimiento personal y el bienestar integral.",
+        "categoria": "Bienestar",
+        "impacto": "bajo",
+        "fuente_nombre": "Perfil.com",
+        "fuente_url": "https://noticias.perfil.com/noticias/costumbres/clubes-de-bienestar-un-shock-de-tratamientos-y-disciplinas-para-recuperar-fuerzas.phtml"
+    },
+    {
         "fecha": "07/07/2026",
         "titulo": "Dyson HushJet Mini Cool",
         "gancho": "Ventilador portátil silencioso",
