@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "09/07/2026",
+        "titulo": "Defensas cripto",
+        "gancho": "Amenaza cuántica",
+        "contenido_completo": "La industria de las criptomonedas empezó a mover fichas ante un riesgo que hasta hace poco parecía lejano: la posibilidad de que la computación cuántica rompa la criptografía que protege billeteras, firmas digitales y transacciones en redes como Bitcoin y Ethereum. Las empresas cripto están trabajando en desarrollar soluciones para mitigar esta amenaza y proteger la seguridad de sus usuarios. La computación cuántica puede revolucionar la forma en que se procesan los datos.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/criptomonedas/criptoempresas-aceleran-defensas-ante-la-amenaza-cuantica-sobre-bitcoin-y-blockchain/"
+    },
+    {
+        "fecha": "09/07/2026",
+        "titulo": "Ampliación de aforos",
+        "gancho": "Aforos de discotecas",
+        "contenido_completo": "El delegado de Urbanismo, Medio Ambiente y Movilidad, Borja Carabante, ha avanzado que estudian una ampliación en los aforos de discotecas, locales y pequeñas salas de ocio nocturno --especialmente los antiguos-- conforme a los criterios actuales de seguridad. Esta medida busca equilibrar la necesidad de seguridad con la demanda de espacios de ocio. La ampliación de aforos puede tener un impacto positivo en la economía local.",
+        "categoria": "Ocio",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/madrid/noticia-ayuntamiento-estudia-ampliacion-aforos-discotecas-salas-ocio-conforme-criterios-seguridad-20260708124317.html"
+    },
+    {
+        "fecha": "09/07/2026",
+        "titulo": "Alianza Apple-Broadcom",
+        "gancho": "Apple amplía alianza",
+        "contenido_completo": "Apple anunció una ampliación de su acuerdo con Broadcom que contempla un gasto superior a USD $30.000 millones hasta 2031, la fabricación de más de 15.000 millones de chips en Estados Unidos y la expansión de una planta en Colorado, en un movimiento que refuerza la posición de Apple en el mercado de la tecnología. Esta alianza puede tener un impacto significativo en la cadena de suministro de componentes electrónicos.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/estados-unidos/apple-ampliara-pacto-con-broadcom-por-usd-30-000-millones-y-15-000-millones-de-chips-en-ee-uu/"
+    },
+    {
+        "fecha": "09/07/2026",
+        "titulo": "Francia vs Meta",
+        "gancho": "Francia ordena a Meta",
+        "contenido_completo": "La autoridad de competencia de Francia ordenó a Meta retomar las conversaciones con grupos de medios sobre los pagos por publicar contenido, en un caso que vuelve a tensar la relación entre las grandes plataformas tecnológicas y la industria periodística europea. Esto puede tener implicaciones significativas para la forma en que se distribuye y se paga el contenido en línea. La decisión de Francia puede sentar un precedente para otros países.",
+        "categoria": "Medios",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/francia-ordena-a-meta-reanudar-negociacion-con-medios-por-pagos-de-publicacion/"
+    },
+    {
+        "fecha": "09/07/2026",
+        "titulo": "Caída de GRAM",
+        "gancho": "GRAM cae 8%",
+        "contenido_completo": "Gram (antes Toncoin) vivió una jornada turbulenta el 8 de julio con una corrección del 8.05% a USD $1,57, arrastrada por una realización masiva de ganancias tras su máximo histórico de USD $1,83 alcanzado hace apenas cuatro días. Con un volumen de negociación considerable, los inversores están atentos a los movimientos del mercado. La caída de GRAM puede ser un indicador de la volatilidad del mercado de criptomonedas.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gram-cae-un-8-tras-tocar-maximos-historicos-8-de-julio-de-2026/"
+    },
+    {
         "fecha": "08/07/2026",
         "titulo": "Donación de ecógrafo al HUCA",
         "gancho": "Ecógrafo donado",
