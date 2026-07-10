@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "10/07/2026",
+        "titulo": "Muse Image de Meta",
+        "gancho": "IA y fotos públicas",
+        "contenido_completo": "Meta ha lanzado Muse Image, una herramienta de IA que genera imágenes a partir de fotos públicas de Instagram. La herramienta ha generado una reacción inmediata en Hollywood. Los creadores y representantes cuestionan la protección de los derechos de autor. La herramienta es un ejemplo de cómo la IA está cambiando la forma en que se crean y se utilizan las imágenes.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/estados-unidos/meta-desata-alarma-en-hollywood-con-muse-image-y-el-uso-de-fotos-publicas-de-instagram/"
+    },
+    {
+        "fecha": "10/07/2026",
+        "titulo": "Campus de datos en Alcobendas",
+        "gancho": "Inversión millonaria",
+        "contenido_completo": "El gobierno de Madrid ha aprobado la construcción de un campus de centros de datos en Alcobendas. La inversión será de más de 1.000 millones de euros. El campus será un centro importante para la tecnología y la innovación en la región. La construcción del campus es un paso importante para el desarrollo económico de la zona.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/madrid/2026-07-09/el-nuevo-gigante-tecnologico-de-madrid-ya-tiene-luz-verde-asi-sera-el-campus-de-datos-de-alcobendas-7433192/"
+    },
+    {
+        "fecha": "10/07/2026",
+        "titulo": "Quién es quién del marketing",
+        "gancho": "Guía del marketing",
+        "contenido_completo": "Puromarketing y Priopcion han lanzado una guía del marketing en retail. El retail es un sector económico importante que refleja cómo compramos y nos relacionamos con las marcas. La guía ofrece una visión completa del sector y cómo está evolucionando. Es un recurso valioso para los profesionales del marketing.",
+        "categoria": "Marketing",
+        "impacto": "bajo",
+        "fuente_nombre": "Puromarketing.com",
+        "fuente_url": "https://www.puromarketing.com/145/217324/puromarketing-priopcion-lanzan-quien-quien-marketing-retail-2026"
+    },
+    {
+        "fecha": "10/07/2026",
+        "titulo": "CRO en caída libre",
+        "gancho": "Caída del 94%",
+        "contenido_completo": "CRO ha caído un 94% desde su máximo histórico. El volumen diario de operaciones también ha disminuido un 19%. El mercado parece haber perdido interés en la criptomoneda. Los niveles técnicos y fundamentales no parecen favorables. La caída de CRO es un ejemplo de la volatilidad del mercado de criptomonedas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cro-lucha-por-los-usd-0056-mientras-el-mercado-ignora-su-desplome-del-94-desde-maximos-este-9-de-julio/"
+    },
+    {
+        "fecha": "10/07/2026",
+        "titulo": "El monopolio de ASML",
+        "gancho": "Un solo proveedor",
+        "contenido_completo": "ASML es la única empresa que fabrica máquinas para producir chips avanzados. Todos los chips del planeta pasan por estas máquinas. La empresa tiene un monopolio total en el mercado. Si ASML dejara de vender, el mercado de tecnología colapsaría. La dependencia de ASML es total, no hay un plan B. La empresa es crucial para la producción de chips de alta tecnología.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/empresas-y-economia/asml-se-ha-convertido-monopolio-importante-mundo-esta-historia-completa"
+    },
+    {
         "fecha": "09/07/2026",
         "titulo": "Defensas cripto",
         "gancho": "Amenaza cuántica",
