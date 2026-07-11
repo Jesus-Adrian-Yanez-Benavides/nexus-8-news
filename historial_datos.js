@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "11/07/2026",
+        "titulo": "Monitor gaming asequible",
+        "gancho": "Monitor gaming barato",
+        "contenido_completo": "El monitor gaming AOCB36X es una excelente opción para aquellos que buscan un monitor de alta calidad a un precio asequible. Por solo 69,99 euros, este monitor ofrece características de gama alta, como una pantalla de alta resolución y una tasa de refresco rápida. El AOCB36X es un monitor gaming que puede competir con modelos de gama alta en términos de características y rendimiento. Es una excelente opción para aquellos que buscan un monitor que pueda seguirles el ritmo sin gastar demasiado dinero. El monitor es compatible con una variedad de dispositivos, lo que lo hace ideal para gamers que necesitan un monitor que pueda conectarse a su consola o PC.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/compras/cuesta-solo-70-euros-es-monitor-gaming-todo-mundo-esta-comprando-pcdays-pccomponentes_202607106a4f8f56c48a78681b7d51b8.html"
+    },
+    {
+        "fecha": "11/07/2026",
+        "titulo": "Festival Pirotécnico en Valencia",
+        "gancho": "Fuegos artificiales en Valencia",
+        "contenido_completo": "El Festival Pirotécnico de la Feria de Valencia se llevará a cabo el sábado 11 de julio en la plaza del Ayuntamiento. El festival contará con un espectáculo piromusical concebido para ofrecer una experiencia inmersiva en la que música, luz y fuegos artificiales se combinarán para crear un espectáculo único. El festival es una excelente oportunidad para disfrutar de la cultura y la tradición de Valencia. Los asistentes podrán disfrutar de un espectáculo emocionante y lleno de color, con fuegos artificiales y música que crearán un ambiente mágico. El festival es un evento gratuito y abierto al público, por lo que todos pueden asistir y disfrutar del espectáculo.",
+        "categoria": "Eventos",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/comunidad-valenciana/castillo-fuegos-artificiales-valencia-sabado-julio-horario-20260710104848-nt.html"
+    },
+    {
+        "fecha": "11/07/2026",
+        "titulo": "Móvil de gama media con características de gama alta",
+        "gancho": "Gama media con 5G",
+        "contenido_completo": "El nuevo móvil de Motorola, el Moto G47 5G, ofrece características de gama alta a un precio asequible. Por solo 185,99 euros, este teléfono cuenta con 5G, 128 GB de almacenamiento y una cámara de 108 MP. Estas características lo convierten en una excelente opción para aquellos que buscan un teléfono con características de gama alta sin el precio correspondiente. El Moto G47 5G es un teléfono de gama media que puede competir con modelos de gama alta en términos de características y rendimiento. Es una excelente opción para aquellos que buscan un teléfono que pueda seguirles el ritmo sin gastar demasiado dinero.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Movilzona.es",
+        "fuente_url": "https://www.movilzona.es/noticias/ofertas/powerplanet-movil-motorola-moto-g47-5g-0726/"
+    },
+    {
+        "fecha": "11/07/2026",
+        "titulo": "POCO 5G con características de gama alta",
+        "gancho": "Potencia sin gama alta",
+        "contenido_completo": "POCO ha lanzado una serie de teléfonos 5G con características de gama alta, como IP68 y carga rápida, a precios asequibles. Estos teléfonos están equipados con procesadores Snapdragon 8 Elite y 8 Gen 3, lo que les proporciona una gran potencia y eficiencia. Además, cuentan con baterías que pueden durar hasta dos días, lo que los hace ideales para usuarios que necesitan un teléfono que pueda seguirles el ritmo. La serie de POCO 5G es una excelente opción para aquellos que buscan un teléfono con características de gama alta sin el precio correspondiente. Los teléfonos de POCO son conocidos por su calidad y valor, y esta serie no es la excepción.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260710/1004204545/tres-poco-5g-ip68-carga-rapida-bateria-dos-dias-potencia-real-mirar-gama-alta-mkt-alie.html"
+    },
+    {
+        "fecha": "11/07/2026",
+        "titulo": "Razer lanza earbuds para Xbox y PlayStation",
+        "gancho": "Earbuds para gamers",
+        "contenido_completo": "Razer, la marca líder en estilo de vida para gamers, ha anunciado los earbuds Razer Hammerhead V3 X HyperSpeed para Xbox y PlayStation. Estos earbuds están diseñados para el juego competitivo en consolas y el uso diario. La gama de earbuds de Razer es conocida por su calidad y estilo. Los Razer Hammerhead V3 X HyperSpeed ofrecen una experiencia de juego inmersiva con su tecnología HyperSpeed. Los jugadores pueden disfrutar de una conexión rápida y estable con sus consolas. Además, los earbuds son cómodos y fáciles de usar, lo que los hace ideales para sesiones de juego prolongadas.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Zonammorpg.com",
+        "fuente_url": "https://www.zonammorpg.com/2026/07/10/razer-lanza-los-hammerhead-v3-x-hyperspeed-para-xbox-y-playstation/"
+    },
+    {
         "fecha": "10/07/2026",
         "titulo": "Muse Image de Meta",
         "gancho": "IA y fotos públicas",
