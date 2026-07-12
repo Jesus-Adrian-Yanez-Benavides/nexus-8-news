@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "12/07/2026",
+        "titulo": "John Deere pierde el control",
+        "gancho": "Fin del monopolio",
+        "contenido_completo": "John Deere ha perdido la partida y el control total de las reparaciones de sus tractores. Después de más de una década de disputas con algunos de sus clientes agricultores, la justicia ha dictaminado en contra de la empresa. Esta decisión puede tener un impacto significativo en el mercado de la maquinaria agrícola, ya que permitirá a los agricultores reparar y personalizar sus tractores de manera más libre. La empresa deberá adaptarse a este nuevo escenario y encontrar formas de mantener su competitividad en un mercado más abierto.",
+        "categoria": "Negocios",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/legislacion-y-derechos/john-deere-pierde-partida-control-total-reparaciones-sus-tractores-estara-lupa-10-anos"
+    },
+    {
+        "fecha": "12/07/2026",
+        "titulo": "Tecnología para perforar la Tierra",
+        "gancho": "Vaporizando la roca",
+        "contenido_completo": "Una empresa en EEUU ha desarrollado una tecnología innovadora que convierte la roca en vapor, permitiendo perforar la Tierra de manera más eficiente y a menor costo. Esta tecnología ha logrado atravesar 100 metros de granito y tiene como objetivo llegar a los 3.000 metros de profundidad. La reducción de costos y el aumento de la eficiencia en la perforación pueden tener un impacto significativo en la exploración y extracción de recursos naturales, así como en la investigación geológica.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencial.com",
+        "fuente_url": "https://www.elconfidencial.com/tecnologia/2026-07-11/eeuu-perfora-tierra-tecnologia-roca-vapor-1qrt_4386437/"
+    },
+    {
+        "fecha": "12/07/2026",
+        "titulo": "Detectar el melanoma",
+        "gancho": "La evolución de un lunar",
+        "contenido_completo": "Los dermatólogos insisten en la importancia de vigilar los cambios en la piel para detectar posibles signos de melanoma. La regla ABCDE es una herramienta útil para identificar lesiones sospechosas, y la \"E\" de evolución puede ser la clave para detectar un melanoma. Los cambios en el tamaño, la forma o el color de una mancha pueden indicar la presencia de un cáncer de piel. Es fundamental acudir a consulta ante cualquier alteración sospechosa para recibir un diagnóstico y tratamiento oportunos.",
+        "categoria": "Salud",
+        "impacto": "bajo",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2026-07-11/cuando-preocuparse-por-un-lunar-la-e-de-evolucion-de-la-regla-abcde-puede-ser-la-clave-para-detectar-un-melanoma-7434246/"
+    },
+    {
+        "fecha": "12/07/2026",
+        "titulo": "Marruecos contra la sequía",
+        "gancho": "Tecnología espacial contra el desierto",
+        "contenido_completo": "El Gobierno de Marruecos ha decidido emplear tecnología espacial para localizar acuíferos ocultos y hacer frente a la sequía. Esta iniciativa forma parte de un plan más amplio para rediseñar el suministro de agua y reparar las presas del país. La tecnología espacial permitirá a Marruecos identificar fuentes de agua subterránea y desarrollar estrategias para su extracción y uso eficiente. Este enfoque innovador podría ser clave para superar los desafíos hídricos y promover el desarrollo sostenible en la región.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Elespanol.com",
+        "fuente_url": "https://www.elespanol.com/ciencia/20260711/marruecos-marca-normas-localiza-acuiferos-ocultos-tecnologia-espacial-busca-nueva-agua-vencer-desierto/1003744316655_0.html"
+    },
+    {
+        "fecha": "12/07/2026",
+        "titulo": "Volvo impulsa su estrategia digital",
+        "gancho": "Volvo incorpora Apple Music",
+        "contenido_completo": "La compañía Volvo ha decidido fortalecer su estrategia digital mediante la incorporación de Apple Music en más de dos millones de vehículos a través de actualizaciones OTA. Esta medida busca mejorar la experiencia del usuario y acompañar el crecimiento de las ventas de modelos eléctricos. En el último mes, Volvo ha registrado un noveno mes consecutivo de crecimiento en las ventas de modelos 100% eléctricos, lo que refleja el interés creciente en la movilidad sostenible. Con esta ofensiva tecnológica, Volvo busca mantener su posición en el mercado y ofrecer a sus clientes las últimas innovaciones en entretenimiento y conectividad.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/volvo-refuerza-estrategia-digital-apple-music-mientras-acelera-crecimiento-electricos/202607111142381030552.html"
+    },
+    {
         "fecha": "11/07/2026",
         "titulo": "Monitor gaming asequible",
         "gancho": "Monitor gaming barato",
