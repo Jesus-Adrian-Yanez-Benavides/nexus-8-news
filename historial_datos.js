@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "13/07/2026",
+        "titulo": "Chainlink se aferra a los $8,01",
+        "gancho": "Volumen en declive",
+        "contenido_completo": "Chainlink (LINK) cotiza a $8,01 este 12 de julio de 2026, un 0,31% al alza en la jornada, pero con un volumen que cae un 20% respecto al promedio mensual. La moneda oracle se recupera un 10% en las últimas dos semanas, aunque permanece atrapada bajo la media móvil de 50 días, lo que sugiere una falta de impulso alcista. La situación actual de Chainlink es un ejemplo de la importancia de analizar los indicadores técnicos y fundamentales antes de tomar decisiones de inversión. La caída del volumen de negociación puede ser un signo de que los inversores están perdiendo interés en la moneda.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/chainlink-link-se-aferra-a-los-801-mientras-el-mercado-lucha-por-definir-su-rumbo-el-12-de-julio-de-2026/"
+    },
+    {
+        "fecha": "13/07/2026",
+        "titulo": "CC se aferra a un soporte frágil",
+        "gancho": "Caída del 17%",
+        "contenido_completo": "Canton Network (CC) apenas logra un rebote del 1,99% este 12 de julio, cotizando alrededor de USD $0,1359, pero el panorama técnico y fundamental sigue siendo sombrío. Con una capitalización de mercado de solo USD $5,31 millones y un volumen que no alcanza ni el 10% del promedio mensual, la moneda se encuentra en una situación precaria. La caída de CC ha generado preocupación entre los inversores, que esperan ver si la moneda puede recuperarse. La situación actual de CC es un recordatorio de la importancia de diversificar las inversiones y no poner todos los huevos en una sola cesta.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cc-se-aferra-a-un-soporte-fragil-tras-desplomarse-un-17-en-30-dias-este-12-de-julio-de-2026/"
+    },
+    {
+        "fecha": "13/07/2026",
+        "titulo": "BCH se consolida en USD $244",
+        "gancho": "Volumen en declive",
+        "contenido_completo": "Bitcoin Cash (BCH) cotiza en torno a USD $244,62 con un avance marginal del 0,05% mientras el volumen de negociación cae un 31% por debajo del promedio mensual, sugiriendo un agotamiento del reciente repunte del 26,10% en 14 días. La situación actual de BCH es un ejemplo de la importancia de analizar los indicadores técnicos y fundamentales antes de tomar decisiones de inversión. La caída del volumen de negociación puede ser un signo de que los inversores están perdiendo interés en la moneda. Sin embargo, la tendencia a largo plazo de BCH sigue siendo alcista, lo que puede ser un factor a favor de los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bch-se-consolida-en-usd-244-con-volumen-en-declive-se-agota-el-rebote/"
+    },
+    {
+        "fecha": "13/07/2026",
+        "titulo": "Gram cae tras máximo histórico",
+        "gancho": "Caída del 6,5%",
+        "contenido_completo": "Tras alcanzar un máximo histórico de USD $1,83 el pasado 4 de julio, Gram (anteriormente Toncoin) se ha contraído un 10,8% en pocos días. El volumen de negociación se ha desplomado un 51% frente a su promedio de 30 días, y las medias móviles de corto plazo apuntan a una posible continuación de la tendencia a la baja. La caída de Gram ha generado preocupación entre los inversores, que esperan ver si la moneda puede recuperarse. La situación actual de Gram es un recordatorio de la importancia de analizar los mercados antes de tomar decisiones de inversión. La volatilidad del mercado de criptomonedas puede ser un desafío para los inversores, pero también puede presentar oportunidades.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gram-cae-un-65-en-siete-dias-tras-rozar-su-maximo-historico/"
+    },
+    {
+        "fecha": "13/07/2026",
+        "titulo": "DEXE alcanza máximo histórico",
+        "gancho": "Nuevo máximo histórico",
+        "contenido_completo": "DeXe (DEXE) alcanzó un nuevo máximo histórico este domingo 12 de julio de 2026, al cotizar en USD $43,35 tras un repunte del 20,53% en 24 horas. Con una capitalización de USD $3,63 mil millones y un volumen de negociación que duplica el promedio mensual, el token ha generado gran expectación en el mercado. La comunidad financiera está atenta a los movimientos de DEXE, esperando ver si puede mantener su tendencia alcista. La situación actual de DEXE es un ejemplo de la volatilidad del mercado de criptomonedas, donde los precios pueden cambiar rápidamente.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dexe-en-alerta-maximo-historico-y-volumen-record-disparan-la-euforia-compradora-12-07-2026/"
+    },
+    {
         "fecha": "12/07/2026",
         "titulo": "John Deere pierde el control",
         "gancho": "Fin del monopolio",
