@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "14/07/2026",
+        "titulo": "Plataforma solar marina",
+        "gancho": "Innovación en Valencia",
+        "contenido_completo": "La primera plataforma solar marina de España se está probando en Valencia. El proyecto, desarrollado por la startup española BlueNewables, busca generar energía renovable en el mar. La plataforma, bautizada como 'Paiporta', tiene el potencial de reducir la dependencia de los combustibles fósiles y mitigar el cambio climático. La innovación en la generación de energía renovable es crucial para un futuro sostenible.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/comunidad-valenciana/paiporta-primera-plataforma-solar-marina-espana-prueba-20260713112949-nt.html"
+    },
+    {
+        "fecha": "14/07/2026",
+        "titulo": "Conexión península ibérica",
+        "gancho": "Nuevas evidencias",
+        "contenido_completo": "La península ibérica y Escandinavia podrían haber estado conectadas hace más de 3.000 años. Un equipo internacional de arqueólogos ha encontrado nuevas evidencias que apuntan a una conexión entre las poblaciones del noroeste de Europa durante la Edad del Bronce. La investigación sugiere que las sociedades de la época no estaban tan aisladas como se pensaba. La conexión entre la península ibérica y Escandinavia podría haber tenido un impacto significativo en el desarrollo cultural y económico de la región.",
+        "categoria": "IA",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/tressesenta/20260713/1004205918/hallan-pruebas-peninsula-iberica-escandinavia-estuvieron-conectadas-mas-3-000-anos-smd-hst.html"
+    },
+    {
+        "fecha": "14/07/2026",
+        "titulo": "Dispositivos para diabetes",
+        "gancho": "Mejora la seguridad",
+        "contenido_completo": "La diabetes Tipo 1 es una enfermedad crónica que requiere un seguimiento constante. La adquisición de 224 dispositivos para controlar la diabetes Tipo 1 es un paso importante para mejorar la seguridad del paciente e integrar datos clínicos. Estos dispositivos pueden ayudar a las personas con diabetes a monitorear sus niveles de glucosa y ajustar su tratamiento según sea necesario. La tecnología médica puede mejorar significativamente la calidad de vida de las personas con diabetes.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/la-rioja/noticia-adquiridos-224-dispositivos-controlar-diabetes-tipo-mejorar-seguridad-paciente-integrar-datos-clinicos-20260713114514.html"
+    },
+    {
+        "fecha": "14/07/2026",
+        "titulo": "Clics fraudulentos",
+        "gancho": "Protege tus anuncios",
+        "contenido_completo": "Los clics fraudulentos son una amenaza para los anunciantes en línea. Aprende a detectar patrones sospechosos y IPs repetitivas para evitar perder dinero en marketing. La detección de clics fraudulentos es crucial para proteger tus campañas publicitarias y asegurarte de que tus anuncios lleguen a tu audiencia objetivo. Con las herramientas adecuadas, puedes identificar y prevenir el fraude en tus campañas publicitarias.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/ciencia-tecnologia/tecnologia/2026-07-13/click-fraud-que-son-los-clics-fraudulentos-y-como-evitarlos-1b-7434784/"
+    },
+    {
+        "fecha": "14/07/2026",
+        "titulo": "Apple vs OpenAI",
+        "gancho": "Apple demanda a OpenAI",
+        "contenido_completo": "Apple acusa a la matriz de ChatGPT y a dos antiguos empleados vinculados actualmente a OpenAI de sustraerle secretos comerciales. La empresa busca proteger su propiedad intelectual y evitar que OpenAI utilice información confidencial para desarrollar sus productos. El caso es un ejemplo de la creciente competencia en el mercado de la inteligencia artificial. La batalla judicial puede tener implicaciones importantes para la industria tecnológica.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Marketingdirecto.com",
+        "fuente_url": "https://www.marketingdirecto.com/digital-general/digital/apple-inicia-batalla-judicial-openai-acusa-sustraerle-secretos-comerciales"
+    },
+    {
         "fecha": "13/07/2026",
         "titulo": "Chainlink se aferra a los $8,01",
         "gancho": "Volumen en declive",
