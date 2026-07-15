@@ -1,5 +1,45 @@
 const historial_noticias = [
     {
+        "fecha": "15/07/2026",
+        "titulo": "Crisis de empleo por IA",
+        "gancho": "IA y despidos",
+        "contenido_completo": "Expertos de todo el mundo exigen a los gobiernos un marco regulatorio inmediato ante un ritmo de automatización que ya se está traduciendo en miles de despidos en gigantes del sector. La IA está cambiando la forma en que las empresas operan, y muchos trabajadores están perdiendo sus empleos debido a la automatización. Los economistas están pidiendo a los gobiernos que tomen medidas para proteger a los trabajadores y garantizar que la transición a una economía más automatizada sea justa y equitativa. En resumen, la IA está generando una crisis de empleo que requiere una respuesta inmediata de los gobiernos.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/debemos-actuar-ya-aviso-200-economistas-inminente-crisis-empleo-se-avecina-culpa-ia_202607146a55ffb0c48a78681b88b906.html"
+    },
+    {
+        "fecha": "15/07/2026",
+        "titulo": "La industria del videojuego en crisis",
+        "gancho": "Consolas en crisis",
+        "contenido_completo": "Las consolas se están volviendo demasiado viejas y caras, y los analistas ya han puesto fecha al peor año del sector. La industria del videojuego está experimentando una crisis debido a la falta de innovación y la alta demanda de los consumidores. Los analistas predicen que los próximos años no serán mejores para las compañías, ya que las consolas se están volviendo obsoletas y los jugadores están buscando experiencias más accesibles y asequibles. En resumen, la industria del videojuego necesita reinventarse para sobrevivir en un mercado cada vez más competitivo.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Vida Extra",
+        "fuente_url": "https://www.vidaextra.com/industria/consolas-se-estan-volviendo-demasiado-viejas-caras-analistas-han-puesto-fecha-al-peor-ano-sector"
+    },
+    {
+        "fecha": "15/07/2026",
+        "titulo": "Éxito de la ciencia española",
+        "gancho": "IA en medicina",
+        "contenido_completo": "El galardón del congreso CMBE 2026 reconoce el estudio de Lucas Tesán, un talento de la Universidad de Zaragoza, en redes neuronales aplicadas a la biología. Este estudio ha abierto nuevas posibilidades para el tratamiento de enfermedades y ha demostrado el potencial de la IA en la medicina. La investigación de Tesán ha sido destacada por su originalidad y su impacto en la comunidad científica. En resumen, la IA está revolucionando la medicina y la ciencia española está a la vanguardia de estos avances.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2026-07-14/exito-de-la-ciencia-espanola-lucas-tesan-galardonado-en-japon-por-su-uso-medico-de-la-ia-7435331/"
+    },
+    {
+        "fecha": "15/07/2026",
+        "titulo": "IA y empleo en España",
+        "gancho": "IA no afecta empleos",
+        "contenido_completo": "Una reciente encuesta apunta que un 68% de las pequeñas y medianas empresas de España señalan que la adopción de la inteligencia artificial no tiene un impacto negativo en el empleo. Esto sugiere que la IA puede ser una herramienta para mejorar la eficiencia y la productividad en el lugar de trabajo, en lugar de reemplazar a los trabajadores. La encuesta también destaca la importancia de la formación y la educación para que los trabajadores puedan adaptarse a los cambios tecnológicos. En resumen, la IA puede ser una oportunidad para el crecimiento y el desarrollo en el mercado laboral español.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Elperiodico.com",
+        "fuente_url": "https://www.elperiodico.com/es/tecnologia/20260714/empresas-espana-aseguran-ia-impacto-negativo-empleo-ocupacion-despidos-microsoft-132414798"
+    },
+    {
         "fecha": "14/07/2026",
         "titulo": "Plataforma solar marina",
         "gancho": "Innovación en Valencia",
