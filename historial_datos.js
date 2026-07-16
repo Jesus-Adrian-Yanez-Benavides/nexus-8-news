@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "16/07/2026",
+        "titulo": "El Tricolor y la Albiceleste, los más favorecidos por el VAR",
+        "gancho": "Favoritismo arbitral en la Copa del Mundo",
+        "contenido_completo": "A medida que la Copa del Mundo avanza a su etapa decisiva, la opinión generalizada en las mesas de análisis y programas deportivos plantea la teoría de que existe un presunto favoritismo arbitral hacia Argentina. Sin embargo, en el análisis de datos sobre las decisiones del VAR, se ha encontrado que México y Argentina son los equipos que más se han beneficiado de las decisiones del sistema de videoarbitraje. Los datos muestran que ambos equipos han recibido un número significativo de decisiones a su favor, lo que ha generado un debate sobre la imparcialidad del VAR. Los expertos argumentan que el VAR es un sistema diseñado para reducir los errores arbitrales y mejorar la justicia en el fútbol. Sin embargo, la percepción de favoritismo hacia ciertos equipos puede afectar la confianza en el sistema y generar controversia. La FIFA y las autoridades del fútbol deben tomar medidas para garantizar la transparencia y la imparcialidad en el uso del VAR y evitar que se genere una percepción de favoritismo hacia ciertos equipos.",
+        "categoria": "Deportes",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/07/15/deportes/a04n1dep"
+    },
+    {
+        "fecha": "16/07/2026",
+        "titulo": "Retos y ventajas de los espacios de datos",
+        "gancho": "Debate sobre espacios de datos",
+        "contenido_completo": "Los retos e incertidumbres que suponen el desarrollo de los espacios de datos y las ventajas y riesgos que conlleva su utilización para optimizar el valor de los datos fueron algunos de los temas que se abordaron en la mesa redonda «Espacios de Datos y casos de éxito». La mesa redonda contó con la participación de expertos en el campo de la inteligencia de datos y la analítica. Los panelistas discutieron sobre las oportunidades y desafíos que presentan los espacios de datos, así como las mejores prácticas para su implementación y gestión. Se destacó la importancia de los espacios de datos para mejorar la toma de decisiones y aumentar la eficiencia en las organizaciones. Sin embargo, también se abordaron los riesgos asociados con la seguridad y la privacidad de los datos. Los expertos coincidieron en que es fundamental establecer políticas y protocolos claros para el manejo y protección de los datos en los espacios de datos. La mesa redonda concluyó con un llamado a la acción para que las organizaciones comiencen a explorar y aprovechar el potencial de los espacios de datos.",
+        "categoria": "Datos",
+        "impacto": "bajo",
+        "fuente_nombre": "Elcorreo.com",
+        "fuente_url": "https://www.elcorreo.com/tecnologia/retos-ventajas-espacios-datos-debate-20260715115709-ntrc.html"
+    },
+    {
+        "fecha": "16/07/2026",
+        "titulo": "Inauguración de Faro Santander",
+        "gancho": "El Rey Felipe VI asistirá",
+        "contenido_completo": "El Rey Felipe VI presidirá el 7 de septiembre el acto inaugural del proyecto cultural Faro Santander, impulsado por Fundación Banco Santander. El proyecto ha transformado el histórico Edificio Pereda, antigua sede de Banco Santander, en un centro de arte. La inauguración contará con la presencia de personalidades destacadas del mundo del arte y la cultura. Faro Santander se convertirá en un espacio para la exhibición de obras de arte y la realización de actividades culturales. El proyecto tiene como objetivo promover el arte y la cultura en la región y convertirse en un referente cultural a nivel nacional. La presencia del Rey Felipe VI en la inauguración refleja la importancia que se le da a este proyecto y su potencial para contribuir al desarrollo cultural de la región. La comunidad artística y cultural está a la espera de la inauguración de Faro Santander con gran expectación. Se espera que el centro se convierta en un espacio vibrante y dinámico que atraiga a visitantes de todo el país.",
+        "categoria": "Cultura",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/cantabria/noticia-rey-felipe-vi-presidira-inauguracion-faro-santander-septiembre-20260715115730.html"
+    },
+    {
+        "fecha": "16/07/2026",
+        "titulo": "OpenAI ofrece 100 dólares en créditos",
+        "gancho": "Regala créditos por cambiar",
+        "contenido_completo": "La batalla por liderar el mercado de la inteligencia artificial generativa ha dejado de librarse únicamente en los laboratorios de investigación para trasladarse al terreno del marketing y la captación agresiva de usuarios. Hasta hace poco, las grandes compañías de tecnología se centraban en desarrollar algoritmos y modelos de aprendizaje automático más avanzados. Sin embargo, ahora están compitiendo por atraer a los usuarios con ofertas atractivas. OpenAI, una de las empresas líderes en este campo, ha lanzado una campaña para atraer a los usuarios de Claude, una plataforma de inteligencia artificial rival. La oferta incluye 100 dólares en créditos para aquellos que se cambien a ChatGPT, la plataforma de OpenAI. Esta estrategia de marketing agresiva ha generado un gran revuelo en la comunidad de la inteligencia artificial. Muchos expertos ven esta oferta como un intento desesperado por ganar terreno en un mercado cada vez más competitivo. Sin embargo, otros argumentan que esta estrategia puede ser efectiva para atraer a nuevos usuarios y aumentar la adopción de la tecnología.",
+        "categoria": "IA",
+        "impacto": "bajo",
+        "fuente_nombre": "Adslzone.net",
+        "fuente_url": "https://www.adslzone.net/noticias/ia/openai-regala-100-dolares-creditos-codex/"
+    },
+    {
+        "fecha": "16/07/2026",
+        "titulo": "La FCC aprueba espejo espacial",
+        "gancho": "Astrónomos aterrorizados",
+        "contenido_completo": "El 10 de julio de 2026, la Comisión Federal de Comunicaciones de Estados Unidos (FCC) autorizó a una startup de Hawthorne, California, a lanzar un satélite con un espejo de 18 metros que reflejará luz solar hacia zonas oscuras de la Tierra por la noche. La FCC ha estado evaluando esta tecnología durante meses y finalmente ha dado el visto bueno. Los astrónomos están preocupados por el impacto que esto podría tener en sus observaciones nocturnas. El espejo espacial podría interferir con la visibilidad de los objetos celestes y afectar la calidad de los datos recopilados. La comunidad científica está a la espera de más información sobre cómo se implementará esta tecnología y cómo se mitigarán sus efectos negativos. La startup responsable del proyecto ha asegurado que tomará medidas para minimizar el impacto en la comunidad astronómica. Sin embargo, muchos expertos siguen siendo escépticos sobre la viabilidad de este proyecto.",
+        "categoria": "Espacio",
+        "impacto": "alto",
+        "fuente_nombre": "Wwwhatsnew.com",
+        "fuente_url": "https://wwwhatsnew.com/2026/07/15/reflect-orbital-espejo-solar-fcc-aprobacion-cielo-astronomos-2026/"
+    },
+    {
         "fecha": "15/07/2026",
         "titulo": "Crisis de empleo por IA",
         "gancho": "IA y despidos",
