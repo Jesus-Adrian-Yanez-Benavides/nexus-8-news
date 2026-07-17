@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "17/07/2026",
+        "titulo": "Infertilidad masculina",
+        "gancho": "Infertilidad masculina ignorada",
+        "contenido_completo": "Especialistas advierten que la atención médica suele relegar al hombre a un rol secundario en los tratamientos de fertilidad; esta invisibilización genera retrasos en los diagnósticos y carga emocional innecesaria sobre las parejas. La infertilidad masculina es un problema que afecta a muchas parejas y puede ser causada por una variedad de factores. La falta de atención médica adecuada para la infertilidad masculina puede generar problemas emocionales y de salud para los hombres y sus parejas. Es importante que los hombres sean incluidos en los tratamientos de fertilidad y que se les brinde la atención médica adecuada. La conciencia sobre la infertilidad masculina puede ayudar a reducir el estigma y a mejorar la atención médica para los hombres.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/lifestyle/los-expertos-explican-por-que-la-infertilidad-masculina-sigue-sin-recibir-la-atencion-necesaria-se-nid16072026/"
+    },
+    {
+        "fecha": "17/07/2026",
+        "titulo": "realme sale del mercado chino",
+        "gancho": "realme se expande globalmente",
+        "contenido_completo": "realme ha anunciado cambios en su estrategia que le llevan a salir del mercado chino para priorizar el mercado indio, donde tiene más peso, y centrarse en el desarrollo de los mercados internacionales. La decisión de realme de abandonar el mercado chino puede ser un paso estratégico para expandirse globalmente. La empresa busca aprovechar su posición en el mercado indio y expandirse a otros mercados. La salida de realme del mercado chino puede generar oportunidades para otras empresas en el mercado chino. La expansión global de realme puede generar una mayor competencia en el mercado de los dispositivos móviles.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/portaltic/empresas/noticia-realme-sale-mercado-chino-centrarse-mercados-internacionales-20260716113957.html"
+    },
+    {
+        "fecha": "17/07/2026",
+        "titulo": "Competencia para Ray-Ban Meta",
+        "gancho": "Nuevas gafas inteligentes",
+        "contenido_completo": "Las Ray-Ban Meta tienen un nuevo competidor que viene pisando fortísimo. Y, como bien lees en el título, vas a tener muy complicado saber quién las ha fabricado. Si llevas unos años interesado por la tecnología, conoces la marca, pero hace tiempo que le perdiste la pista. La nueva competencia para las Ray-Ban Meta puede generar una mayor variedad de opciones para los consumidores. Las nuevas gafas inteligentes ofrecen características innovadoras y un diseño atractivo. La competencia en el mercado de las gafas inteligentes puede impulsar la innovación y la mejora de los productos.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Hipertextual",
+        "fuente_url": "https://hipertextual.com/tecnologia/las-ray-ban-meta-ya-tienen-competencia-y-no-te-vas-a-creer-quien-las-ha-fabricado/"
+    },
+    {
+        "fecha": "17/07/2026",
+        "titulo": "Unión de CFMoto y Brembo",
+        "gancho": "Unión de fabricantes chinos",
+        "contenido_completo": "La unión hace la fuerza, de eso no hay duda. Usar la sinergia entre dos grandes fabricantes solo puede aportar beneficios a ambos. Así lo han entendido CFMoto y Brembo, el primero, uno de los más potentes fabricantes de motos con sede en China, y el segundo, un líder en la fabricación de componentes de frenos. La asociación entre ambas empresas permitirá el desarrollo de productos innovadores y de alta calidad. CFMoto y Brembo trabajarán conjuntamente para mejorar la seguridad y el rendimiento de las motos. La unión de estas dos empresas líderes en sus respectivos campos puede generar grandes beneficios para el mercado de las motos.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/solomoto/20260716/1004204662/potente-fabricante-chino-motos-brembo-asocian-trabajar-conjuntamente.html"
+    },
+    {
+        "fecha": "17/07/2026",
+        "titulo": "Google contra la piratería",
+        "gancho": "Google pide frenar bloqueos",
+        "contenido_completo": "Google ha pedido a la Comisión Europea que limite el uso de bloqueos de direcciones IP contra la piratería cuando esas medidas afectan a servicios compartidos de internet. La compañía sostiene que algunas órdenes dictadas para impedir retransmisiones deportivas pueden afectar a servicios legítimos. Google busca proteger a los usuarios y servicios legítimos de estas medidas. La Comisión Europea deberá considerar la petición de Google y encontrar un equilibrio entre la lucha contra la piratería y la protección de los servicios legítimos.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Redes-sociales.com",
+        "fuente_url": "https://www.redes-sociales.com/google-pide-a-bruselas-frenar-los-bloqueos-de-ip-tras-el-caso-de-laliga/"
+    },
+    {
         "fecha": "16/07/2026",
         "titulo": "El Tricolor y la Albiceleste, los más favorecidos por el VAR",
         "gancho": "Favoritismo arbitral en la Copa del Mundo",
