@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "18/07/2026",
+        "titulo": "Debut de María Mulata en España",
+        "gancho": "Heredera de Totó La Momposina",
+        "contenido_completo": "Este verano, la cantante colombiana María Mulata debuta en España, presentando su nuevo disco 'Etére'. María Mulata es considerada la heredera de Totó La Momposina, una figura icónica en la música colombiana. Con su estilo único, que fusiona tradición y modernidad, María Mulata busca llevar las músicas de su país a un público más amplio. Su gira europea es una oportunidad para que los aficionados a la música mundial descubran su talento y riqueza cultural. María Mulata representa la diversidad y la riqueza de la música colombiana, ofreciendo una experiencia sonora auténtica y emocionante.",
+        "categoria": "Música",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/cultura/musica/maria-mulata-heredera-toto-momposina-debuta-espana-20260717183007-nt.html"
+    },
+    {
+        "fecha": "18/07/2026",
+        "titulo": "Entrevista a Mario Pergolini",
+        "gancho": "Tres décadas en los medios",
+        "contenido_completo": "En una entrevista exclusiva con LA NACION, el conductor y productor Mario Pergolini recorrió sus tres décadas de carrera en la industria de los medios de comunicación. Pergolini reflexionó sobre su trayectoria, destacando los desafíos y logros que ha experimentado a lo largo de su carrera. También compartió sus perspectivas sobre la transformación digital del sector, que ha cambiado radicalmente la forma en que se consume la información y el entretenimiento. Con su experiencia y visión, Pergolini ofrece una mirada profunda sobre el pasado, presente y futuro de los medios de comunicación.",
+        "categoria": "Medios",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/sociedad/mario-pergolini-sobre-su-trayectoria-en-los-medios-de-comunicacion-nunca-me-senti-demasiado-juzgado-nid17072026/"
+    },
+    {
+        "fecha": "18/07/2026",
+        "titulo": "Ingresos trimestrales de TSMC",
+        "gancho": "Mejora del 36 %",
+        "contenido_completo": "La compañía TSMC ha compartido los resultados correspondientes a su segundo trimestre, mostrando una mejora significativa en sus ingresos. Con un aumento del 36 %, TSMC demuestra su fortaleza en el mercado de la fabricación de semiconductores. Esta mejora se debe en parte a la creciente demanda de chips avanzados para aplicaciones como la inteligencia artificial y el Internet de las cosas. TSMC, como líder en la industria, ha logrado capitalizar esta tendencia, mejorando su posición en el mercado global. Los resultados financieros de la compañía reflejan su capacidad para innovar y adaptarse a las necesidades cambiantes del sector tecnológico.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/los-ingresos-trimestrales-de-tsmc-mejoran-un-36-2582192"
+    },
+    {
+        "fecha": "18/07/2026",
+        "titulo": "Ayudas para proyectos empresariales",
+        "gancho": "30,8 millones en ayudas",
+        "contenido_completo": "La Consejería de Empresa, Empleo y Economía Social, a través del Instituto de Fomento (Info), aprobó durante 2025 un total de 1.062 expedientes de ayuda por importe de 30,8 millones de euros. Esto supone un importante impulso para más de 1.000 proyectos empresariales en la región. Estas ayudas tienen como objetivo fomentar el desarrollo económico y el empleo en la zona. Los proyectos apoyados abarcan diversas áreas, desde la innovación tecnológica hasta la creación de empleo en sectores tradicionales. Con esta iniciativa, el Gobierno regional busca estimular la actividad económica y mejorar la competitividad de las empresas locales.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/murcia/noticia-gobierno-regional-impulsa-mas-1000-proyectos-empresariales-308-millones-ayudas-2025-20260717110056.html"
+    },
+    {
+        "fecha": "18/07/2026",
+        "titulo": "Novedades en el iPad mini",
+        "gancho": "iPad mini renovado",
+        "contenido_completo": "El iPad mini es uno de los tablets más interesantes que tiene Apple y un modelo que prácticamente no tiene competencia en el mercado. No se trata solo de un tablet de pequeño tamaño; tiene un chip con bastante potencia que lo hace muy interesante y duradera. El próximo iPad mini está a la vuelta de la esquina y llegará con importantes novedades. Estas novedades incluyen mejoras en su procesador, pantalla y cámara. Con estas mejoras, el iPad mini se posiciona como una opción atractiva para aquellos que buscan un dispositivo portátil y potente. Además, su tamaño compacto lo hace ideal para llevar en cualquier lugar.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Elnacional.cat",
+        "fuente_url": "https://www.elnacional.cat/es/tecnologia/proximo-ipad-mini-esta-vuelta-esquina-llegara-con-estas-cuatro-importantes-novedades_1669697_102.html"
+    },
+    {
         "fecha": "17/07/2026",
         "titulo": "Infertilidad masculina",
         "gancho": "Infertilidad masculina ignorada",
