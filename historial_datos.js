@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "19/07/2026",
+        "titulo": "Furgonetas espía para la policía",
+        "gancho": "Vigilancia en EE.UU.",
+        "contenido_completo": "La empresa israelí Cognyte ha comenzado a vender furgonetas equipadas con tecnología de vigilancia a la policía estadounidense. Estos vehículos, que cuestan alrededor de un millón de dólares, están diseñados para espiar la ubicación de teléfonos y recopilar información valiosa para las fuerzas del orden. La tecnología utilizada por Cognyte es similar a la de Palantir, otra empresa conocida por sus soluciones de vigilancia y análisis de datos. La venta de estas furgonetas espía ha generado debate sobre la privacidad y la seguridad en EE.UU. La capacidad de la policía para recopilar información sin el conocimiento de los ciudadanos plantea preguntas sobre los límites de la vigilancia y la protección de los derechos individuales. La tecnología de vigilancia es cada vez más sofisticada, y su uso por parte de las fuerzas del orden es un tema que requiere una consideración cuidadosa y un debate abierto.",
+        "categoria": "Seguridad",
+        "impacto": "alto",
+        "fuente_nombre": "Meneame.net",
+        "fuente_url": "https://www.meneame.net/m/tecnología/rival-israeli-palantir-vende-furgonetas-espia-millon-dolares-eng"
+    },
+    {
+        "fecha": "19/07/2026",
+        "titulo": "El regreso de un mito",
+        "gancho": "Toyota promete",
+        "contenido_completo": "El mundo de los superdeportivos está a punto de recibir un nuevo miembro. Toyota ha anunciado el regreso de uno de los mitos de la industria, con la promesa de ofrecer una experiencia única y emocionante. Aunque el nuevo modelo no contará con un motor V10 ni quemará gasolina, Toyota asegura que ha encontrado la solución perfecta para que los conductores no echen de menos la potencia y la emoción de los modelos anteriores. El nuevo Lexus promete ser una revolución en el mundo de los superdeportivos, con tecnologías avanzadas y un diseño innovador. Los fanáticos de la marca y los entusiastas de los coches deportivos están ansiosos por ver el nuevo modelo en acción. La espera ha comenzado, y pronto podrán experimentar la emoción de conducir un coche que promete ser uno de los mejores de su clase. La combinación de tecnología y diseño hará de este nuevo modelo un coche verdaderamente especial.",
+        "categoria": "Automoción",
+        "impacto": "alto",
+        "fuente_nombre": "Diariomotor.com",
+        "fuente_url": "https://www.diariomotor.com/noticia/lexus-lfa-baterias-estado-solido/"
+    },
+    {
+        "fecha": "19/07/2026",
+        "titulo": "Jensen Huang y la deuda con Sega",
+        "gancho": "Nvidia y su pasado",
+        "contenido_completo": "La historia de Nvidia es una de innovación y perseverancia. Desde sus inicios, la empresa ha estado comprometida con el desarrollo de tecnologías avanzadas que han revolucionado la industria de la informática. Jensen Huang, el CEO de Nvidia, ha reconocido públicamente la deuda que la empresa tiene con Sega, una compañía que jugó un papel importante en los primeros años de Nvidia. La colaboración entre Nvidia y Sega sentó las bases para el éxito futuro de la empresa. Nvidia ha crecido hasta convertirse en una de las empresas más valiosas del mundo, con una capitalización de mercado superior a 5 billones de dólares. La empresa sigue innovando y expandiendo sus horizontes, siempre buscando nuevas formas de mejorar la experiencia del usuario. La historia de Nvidia es un ejemplo inspirador de cómo la determinación y la innovación pueden llevar al éxito.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/empresas-y-economia/elegimos-tecnologia-equivocada-jensen-huang-vuelve-a-japon-para-reconocer-su-deuda-sega-30-anos-despues"
+    },
+    {
+        "fecha": "19/07/2026",
+        "titulo": "Un mensaje para el vecino",
+        "gancho": "Un llamado amistoso",
+        "contenido_completo": "En ocasiones, la vida nos lleva a cruzarnos con personas que se convierten en parte de nuestro entorno, aunque no siempre tengamos la oportunidad de interactuar con ellas de manera significativa. Un vecino puede ser alguien con quien solo intercambiamos saludos ocasionales, pero que sin embargo puede tener una presencia importante en nuestra vida diaria. Un mensaje amistoso puede ser el punto de partida para fortalecer una relación que podría enriquecer nuestra vida. La columna de esta semana nos invita a reflexionar sobre la importancia de los pequeños gestos y las conexiones humanas en nuestro día a día. La vida está llena de oportunidades para establecer vínculos significativos con los demás. Un simple mensaje puede ser el comienzo de una amistad o una relación más profunda. La conexión con los demás es fundamental para nuestra salud mental y bienestar.",
+        "categoria": "Vida y estilo",
+        "impacto": "bajo",
+        "fuente_nombre": "Huffingtonpost.es",
+        "fuente_url": "https://www.huffingtonpost.es/deporte/estimado-vecino-hoy-cantes-golesbr-f202607.html"
+    },
+    {
+        "fecha": "19/07/2026",
+        "titulo": "Restricción de redes sociales a adolescentes",
+        "gancho": "¿Deberían restringir acceso?",
+        "contenido_completo": "La presidenta de la Comisión Europea, Ursula von der Leyen, ha planteado la pregunta sobre restringir el acceso a las redes sociales a los adolescentes. Esta cuestión se ha convertido en un tema de debate importante en la sociedad actual. La exposición excesiva a las redes sociales puede tener efectos negativos en la salud mental y el bienestar de los jóvenes. Por otro lado, las redes sociales también ofrecen oportunidades para la conexión social y el acceso a información valiosa. Es importante considerar los pros y los contras antes de tomar una decisión. La encuesta de esta semana busca conocer la opinión de los lectores sobre este tema. La participación ciudadana es fundamental para entender las necesidades y preocupaciones de la sociedad. La restricción del acceso a las redes sociales a los adolescentes podría ser una medida para proteger su bienestar, pero también podría limitar su libertad de expresión y acceso a información.",
+        "categoria": "Sociedad",
+        "impacto": "alto",
+        "fuente_nombre": "Elotrolado.net",
+        "fuente_url": "https://www.elotrolado.net/noticias/juegos/semana-28-2026"
+    },
+    {
         "fecha": "18/07/2026",
         "titulo": "Debut de María Mulata en España",
         "gancho": "Heredera de Totó La Momposina",
