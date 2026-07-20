@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "20/07/2026",
+        "titulo": "Chainlink se mantiene",
+        "gancho": "Volumen en descenso",
+        "contenido_completo": "Chainlink (LINK) cotiza a USD $8,33 este 19 de julio de 2026, con un alza marginal del 0,93% en las últimas 24 horas. Pese a una recuperación del 5,15% en la última semana, el activo permanece un 55,24% por debajo de su precio de hace un año y un 84,23% de su máximo histórico. Los inversores deben considerar los factores que influyen en el mercado antes de tomar decisiones. La situación de Chainlink es compleja y requiere un análisis detallado.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/chainlink-link-se-aferra-a-los-usd-833-mientras-el-volumen-de-negociacion-se-desploma-un-25/"
+    },
+    {
+        "fecha": "20/07/2026",
+        "titulo": "Avance médico en Valencia",
+        "gancho": "Implante cerebral",
+        "contenido_completo": "El Hospital Universitari i Politècnic La Fe de València ha realizado su primera cirugía de implante auditivo en el tronco cerebral para tratar un caso de sordera profunda compleja. Con esta paciente no habían dado resultado varios dispositivos de la cirugía más común, por lo que se optó por esta innovadora técnica. El éxito de este procedimiento abre nuevas posibilidades para el tratamiento de la sordera. La investigación y el desarrollo de nuevas tecnologías médicas son fundamentales para mejorar la calidad de vida de los pacientes.",
+        "categoria": "Salud",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/comunidad-valenciana/hospital-estrena-avanzado-implante-cerebral-sordera-compleja-20260719124104-nt.html"
+    },
+    {
+        "fecha": "20/07/2026",
+        "titulo": "Bitcoin Cash se mantiene",
+        "gancho": "Interés en descenso",
+        "contenido_completo": "Bitcoin Cash cotiza en USD $217,58, con una caída marginal del 0,47% en la jornada pero bajo un volumen de negociación que se ha reducido un 45% respecto a su promedio mensual. Este informe de DiarioBitcoin analiza la estructura técnica, el contexto fundamental y las perspectivas de este activo digital. Los inversores deben considerar los factores que influyen en el mercado antes de tomar decisiones. La situación de Bitcoin Cash es compleja y requiere un análisis detallado.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-cash-se-aferra-a-los-217-mientras-el-interes-de-los-inversionistas-se-desploma-un-45-19-de-julio-de-2026/"
+    },
+    {
+        "fecha": "20/07/2026",
+        "titulo": "Canton Network en mínimos",
+        "gancho": "Caída del 27%",
+        "contenido_completo": "Canton Network (CC) cotiza a USD $0,1257265, con una caída del 17,80% en 30 días y una capitalización de mercado exigua de USD $4,91 millones. La liquidez se ha reducido drásticamente, con un volumen diario un 27% por debajo del promedio mensual, y la tendencia muestra un declive constante. Los inversores deben estar atentos a los cambios en el mercado. La situación financiera de Canton Network es delicada y requiere una revisión exhaustiva.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/canton-network-cc-se-acerca-a-minimos-de-2026-mientras-el-volumen-colapsa-un-27/"
+    },
+    {
+        "fecha": "20/07/2026",
+        "titulo": "Italia revive su primera locomotora solar",
+        "gancho": "Europa se renueva",
+        "contenido_completo": "La primera locomotora solar de Italia está a punto de iniciar una segunda vida, tras el primer intento fallido. Después de años abandonada en un depósito de Pistoia, la histórica E.636.385 se ha trasladado para su restauración. Esta iniciativa busca impulsar el transporte sostenible en la región. Con la restauración de esta locomotora, Italia busca posicionarse como líder en innovación y tecnología verde.",
+        "categoria": "Sostenibilidad",
+        "impacto": "alto",
+        "fuente_nombre": "Huffingtonpost.es",
+        "fuente_url": "https://www.huffingtonpost.es/tecnologia/italia-cambia-normas-primera-locomotora-solar-europa-esta-cerca-volver-ponerse-marcha-f202607.html"
+    },
+    {
         "fecha": "19/07/2026",
         "titulo": "Furgonetas espía para la policía",
         "gancho": "Vigilancia en EE.UU.",
