@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "21/07/2026",
+        "titulo": "El ecosistema catalán de tecnologías cuánticas crece",
+        "gancho": "52 empresas en Catalunya",
+        "contenido_completo": "El sector de tecnologías cuánticas en Catalunya tiene 52 empresas (30 más que en 2019) que generaron una facturación de 91,4 millones de euros anuales y unos 470 empleos en 2025, según un estudio de Acció, la agencia por el crecimiento de la empresa de la Generalitat de Catalunya. El ecosistema catalán de tecnologías cuánticas sigue creciendo y se consolida como uno de los más importantes de Europa. La inversión en tecnologías cuánticas puede tener un impacto significativo en la economía y la sociedad en el futuro.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/catalunya/noticia-ecosistema-catalan-tecnologias-cuanticas-tiene-52-empresas-facturo-914-millones-2025-20260720121151.html"
+    },
+    {
+        "fecha": "21/07/2026",
+        "titulo": "El Metropolitano honra a la selección española",
+        "gancho": "España campeona del mundo",
+        "contenido_completo": "La selección española se proclamó campeona del mundo por segunda vez en su historia, 16 años después de la primera, conquistada en Sudáfrica 2010, y afianzó el dominio europeo de la competición más grande del planeta, con cinco ganadores de ese continente por tercer año consecutivo. El Metropolitano honró a la selección española por su logro. La victoria de España es un orgullo para el país y un reconocimiento al esfuerzo y la dedicación de los jugadores y el equipo técnico.",
+        "categoria": "Deportes",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260720/1004208400/metropolitano-honro-segunda-estrella-espana-campeonato-mundial.html"
+    },
+    {
+        "fecha": "21/07/2026",
+        "titulo": "TRX se congela en $0.325",
+        "gancho": "TRX cae 27%",
+        "contenido_completo": "TRON (TRX) registró una variación marginal de -0.01% en 24 horas, cotizando a USD 0.3258, en medio de un volumen que cayó 27% frente al promedio mensual. El mercado se encuentra comprimido entre medias móviles de corto y largo plazo, mientras los fundamentos del activo siguen siendo sólidos. La disminución del volumen puede ser un indicador de una posible corrección en el mercado. Sin embargo, es importante tener en cuenta que la volatilidad del mercado puede cambiar rápidamente.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/trx-se-congela-en-0-325-mientras-el-volumen-se-desploma-un-27/"
+    },
+    {
+        "fecha": "21/07/2026",
+        "titulo": "La red ferroviaria sigue sin ser segura",
+        "gancho": "Víctimas de Adamuz hablan",
+        "contenido_completo": "Mario Samper, presidente de la Asociación de Víctimas de Adamuz, habló con Rosana Laviada en Es la Mañana sobre la lucha de las víctimas de Adamuz tras seis meses del trágico accidente. La asociación busca justicia y seguridad para los afectados. La red ferroviaria sigue sin ser segura, según las declaraciones de Samper. El accidente de Adamuz fue un trágico recordatorio de la importancia de la seguridad en el transporte ferroviario. La asociación seguirá luchando por los derechos de las víctimas y sus familias.",
+        "categoria": "Sociedad",
+        "impacto": "bajo",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/espana/2026-07-20/el-presidente-de-la-asociacion-de-victimas-de-adamuz-la-red-ferroviaria-sigue-sin-ser-segura-7438199/"
+    },
+    {
+        "fecha": "21/07/2026",
+        "titulo": "Hyperliquid (HYPE) en zona de corrección",
+        "gancho": "HYPE cae 13%",
+        "contenido_completo": "Hyperliquid (HYPE) cotiza en zona de corrección tras ceder más del 13% en las últimas dos semanas. Con el precio actual en USD $60,77, el activo se encuentra por debajo de todas sus medias móviles de corto y mediano plazo, aunque aún mantiene un retorno acumulado. La presión vendedora se intensifica y el soporte clave de $62 se ha perdido. El mercado espera con ansias la próxima movimiento del activo. La corrección puede ser una oportunidad para los inversores a largo plazo. Sin embargo, es importante tener en cuenta los riesgos asociados con la volatilidad del mercado.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hyperliquid-hype-pierde-soporte-clave-de-62-mientras-la-presion-vendedora-se-intensifica-20-de-julio-de-2026/"
+    },
+    {
         "fecha": "20/07/2026",
         "titulo": "Chainlink se mantiene",
         "gancho": "Volumen en descenso",
