@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "22/07/2026",
+        "titulo": "Hyperliquid: Un Token en Ascenso",
+        "gancho": "Hyperliquid sube 4.85%",
+        "contenido_completo": "En un entorno de mercado mixto, Hyperliquid (HYPE) registra una ganancia del 4,85% en las últimas 24 horas, situándose en USD $63,11. Con una capitalización de mercado de USD $15,95 mil millones, el token nativo del exchange descentralizado de derivados muestra un crecimiento constante. Hyperliquid ha demostrado ser una de las criptomonedas más prometedoras del mercado, gracias a su tecnología avanzada y su creciente adopción. Su precio actual ofrece una oportunidad atractiva para los inversores que buscan diversificar su cartera y aprovechar el potencial de crecimiento del mercado de criptomonedas.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hyperliquid-hype-sube-un-4-85-el-21-de-julio-que-hay-detras-del-rebote/"
+    },
+    {
+        "fecha": "22/07/2026",
+        "titulo": "Filmin: Un Éxito en el Mundo del Streaming",
+        "gancho": "Filmin alcanza récord",
+        "contenido_completo": "La plataforma española de 'streaming' Filmin cerró el ejercicio económico de 2025 con un beneficio neto de más de dos millones de euros por segundo año consecutivo, tras lograr una cifra récord de ingresos de 30,6 millones de euros. Este éxito se debe a la creciente demanda de contenido de streaming de alta calidad y a la estrategia de Filmin de ofrecer una amplia variedad de películas y series de televisión. Con su enfoque en la calidad y la innovación, Filmin se ha posicionado como una de las plataformas de streaming más populares de España. Además, su éxito financiero demuestra el potencial del mercado de streaming para generar ingresos y crecer en el futuro.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/economia/noticia-filmin-alcanza-record-306-millones-facturacion-2025-12-gana-dos-millones-20260721121607.html"
+    },
+    {
+        "fecha": "22/07/2026",
+        "titulo": "LEO: Un Token en Movimiento",
+        "gancho": "LEO se mantiene estable",
+        "contenido_completo": "El token LEO se mantiene prácticamente inmóvil en USD $9,71, con una variación intradía de apenas -0,06% y un volumen que se desploma un 59% frente al promedio mensual. El activo de iFinex conserva una capitalización de mercado de $8,93 mil millones en medio de un entorno de mercado volátil. A pesar de la disminución del volumen, LEO sigue siendo uno de los tokens más populares y estables del mercado. Su estabilidad y seguridad lo hacen atractivo para los inversores que buscan una opción de inversión segura. Sin embargo, es importante tener en cuenta que el mercado de criptomonedas es altamente volátil y puede cambiar rápidamente.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/leo-se-aferra-al-soporte-de-usd-946-mientras-el-volumen-se-desploma-un-59/"
+    },
+    {
+        "fecha": "22/07/2026",
+        "titulo": "Zcash: El Futuro de la Criptomoneda",
+        "gancho": "Zcash sube 1,147%",
+        "contenido_completo": "Zcash se cotiza a USD $537,73 tras un leve avance del 0,59% en las últimas 24 horas, en un contexto de consolidación que sigue a una ganancia explosiva del 1.147% en un año. El volumen se sitúa un 11,7% por encima del promedio mensual, indicando interés activo en la criptomoneda. Zcash ha demostrado ser una de las criptomonedas más estables y seguras del mercado, gracias a su enfoque en la privacidad y la seguridad. Con su tecnología avanzada y su creciente adopción, Zcash se posiciona como una de las criptomonedas más prometedoras para el futuro. Además, su precio actual ofrece una oportunidad atractiva para los inversores que buscan diversificar su cartera.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zcash-se-consolida-tras-un-repunte-de-1147-en-un-ano-proximo-avance-hacia-los-600/"
+    },
+    {
+        "fecha": "22/07/2026",
+        "titulo": "Mercedes-Maybach GLS 2026: Lujo y Tecnología",
+        "gancho": "SUV de lujo con IA",
+        "contenido_completo": "El nuevo Mercedes-Maybach GLS eleva el concepto de SUV de lujo con un diseño más imponente, un motor V8 electrificado de 612 CV y un interior todavía más exclusivo. La actualización incorpora nuevas funciones de masaje, un sistema MBUX con inteligencia artificial y tecnologías avanzadas para una experiencia de conducción inigualable. Con estas características, el Mercedes-Maybach GLS 2026 se posiciona como uno de los vehículos más lujosos y tecnológicamente avanzados del mercado. Además, su motor V8 electrificado ofrece un equilibrio perfecto entre potencia y eficiencia, lo que lo hace ideal para aquellos que buscan una experiencia de conducción excepcional sin comprometer el medio ambiente.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/mercedes-maybach-gls-2026-suv-lujo-inteligencia-artificial-motor-v8-electrificado/202607211218321032247.html"
+    },
+    {
         "fecha": "21/07/2026",
         "titulo": "El ecosistema catalán de tecnologías cuánticas crece",
         "gancho": "52 empresas en Catalunya",
