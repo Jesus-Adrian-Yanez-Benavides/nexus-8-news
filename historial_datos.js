@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "23/07/2026",
+        "titulo": "Solana (SOL) cede un 0,72% en medio del desplome del volumen",
+        "gancho": "Solana cae un 0,72%",
+        "contenido_completo": "Solana cotiza a USD $77,5 este 22 de julio de 2026, con un retroceso marginal que disimula la fragilidad del activo. Pese a un repunte mensual del 8,42%, el token se mantiene un 73,58% por debajo de su máximo histórico y enfrenta una resistencia técnica formada por las medias móviles a corto plazo. La incertidumbre regulatoria y el desplome del volumen de negociación han generado preocupación entre los inversores, quienes buscan entender las causas detrás de esta caída. La situación actual de Solana es incierta, y los expertos están estudiando de cerca los indicadores técnicos para predecir los próximos movimientos del mercado.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/solana-sol-cede-un-072-en-medio-del-desplome-del-volumen-y-la-incertidumbre-regulatoria/"
+    },
+    {
+        "fecha": "23/07/2026",
+        "titulo": "Uzum figura entre las principales empresas de tecnología financiera",
+        "gancho": "Uzum lidera en tecnología financiera",
+        "contenido_completo": "Uzum figura por primera vez entre las principales empresas de tecnología financiera del mundo, según CNBC y Statista. Uzum, el ecosistema digital nacional de Uzbekistán, ha sido incluido por primera vez en la lista de las principales empresas Fintech del mundo, lo que refleja su crecimiento y reconocimiento en la industria. La inclusión de Uzum en esta lista es un logro significativo para la empresa y para el país, ya que demuestra su capacidad para innovar y liderar en el sector de la tecnología financiera. Uzum ha estado trabajando para desarrollar soluciones innovadoras y accesibles para los mercados financieros, y su reconocimiento es un testimonio de su dedicación y esfuerzo.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "PRNewswire",
+        "fuente_url": "https://www.prnewswire.com/news-releases/uzum-figura-por-primera-vez-entre-las-principales-empresas-de-tecnologia-financiera-del-mundo-302832038.html"
+    },
+    {
+        "fecha": "23/07/2026",
+        "titulo": "Aston Martin Vanquish 25",
+        "gancho": "Aston Martin lanza edición limitada",
+        "contenido_completo": "Aston Martin celebra los 25 años del Vanquish con una edición especial creada por Q by Aston Martin y limitada a solo 50 unidades en todo el mundo. Disponible como Coupé o Volante, mantiene el motor V12 biturbo de 835 CV y añade acabados exclusivos inspirados en la historia del modelo. La edición limitada es un tributo al legado del Vanquish, que ha sido un icono en el mundo del automóvil durante décadas. Los coleccionistas y entusiastas del deportivo británico tienen la oportunidad de adquirir una pieza única que combina estilo, potencia y exclusividad. La producción de la edición limitada está programada para comenzar pronto, y los pedidos ya están siendo aceptados.",
+        "categoria": "Automóviles",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/aston-martin-vanquish-25-edicion-limitada-que-rinde-homenaje-icono-solo-50-unidades/202607221211191032516.html"
+    },
+    {
+        "fecha": "23/07/2026",
+        "titulo": "Dogecoin en caída libre",
+        "gancho": "Dogecoin cae al mínimo",
+        "contenido_completo": "Dogecoin cotiza a USD $0,0724523 el 22 de julio de 2026, manteniéndose en territorio profundamente bajista con un retroceso superior al 90% desde su máximo histórico de mayo de 2021. El volumen de negociación se contrae y todas las medias móviles actúan como resistencias, lo que sugiere una continuación de la tendencia a la baja. La comunidad de inversores está dividida sobre el futuro de Dogecoin, con algunos argumentando que la criptomoneda aún tiene potencial para recuperarse, mientras que otros creen que su momento ha pasado. La situación actual de Dogecoin es incierta, y los inversores deben estar atentos a los cambios en el mercado.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dogecoin-en-caida-libre-el-22-de-julio-de-2026-confirma-la-muerte-del-rally-meme/"
+    },
+    {
+        "fecha": "23/07/2026",
+        "titulo": "HYPE se desploma un 6% en 24 horas",
+        "gancho": "HYPE cae un 6%",
+        "contenido_completo": "Hyperliquid (HYPE) sufre una fuerte corrección intradía del 5.98%, llevando su cotización a USD $59.0 y encendiendo las alarmas técnicas tras perder medias móviles clave de corto plazo. Este análisis profundiza en las causas, los niveles críticos a vigilar y las posibles consecuencias para los inversores. La pérdida de soporte clave ha generado preocupación entre los inversores, quienes buscan entender las razones detrás de esta caída. La situación actual de HYPE es crítica, y los expertos están estudiando de cerca los indicadores técnicos para predecir los próximos movimientos del mercado.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hype-se-desploma-un-6-en-24-horas-y-pone-en-alerta-a-inversores-tras-perder-soporte-clave/"
+    },
+    {
         "fecha": "22/07/2026",
         "titulo": "Hyperliquid: Un Token en Ascenso",
         "gancho": "Hyperliquid sube 4.85%",
