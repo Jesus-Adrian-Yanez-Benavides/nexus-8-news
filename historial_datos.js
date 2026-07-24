@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "24/07/2026",
+        "titulo": "Schaeffler y Sonatus Integran IA",
+        "gancho": "Unidades de control para vehículos",
+        "contenido_completo": "Schaeffler y Sonatus han establecido una colaboración global para integrar la inteligencia artificial en las unidades de control de los vehículos definidos por software (SDV). Esta alianza busca facilitar una transición hacia arquitecturas eléctricas y electrónicas más avanzadas en el sector automotriz, permitiendo una mayor eficiencia, seguridad y personalización en los vehículos. La integración de IA en las unidades de control permitirá a los fabricantes de automóviles desarrollar vehículos más inteligentes y conectados, capaces de adaptarse a las necesidades de los conductores y pasajeros de manera más efectiva. Esta colaboración es un paso significativo hacia la transformación digital del sector automotriz, donde la tecnología de vanguardia desempeña un papel crucial en la definición del futuro de la movilidad.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Redes-sociales.com",
+        "fuente_url": "https://www.redes-sociales.com/schaeffler-y-sonatus-integran-ia-en-unidades-de-control-para-vehiculos-definidos-por-software/"
+    },
+    {
+        "fecha": "24/07/2026",
+        "titulo": "BNB se aferra a los USD $569",
+        "gancho": "Mercado de criptomonedas espera",
+        "contenido_completo": "BNB cotiza lateralmente en USD $569,12, con una caída diaria mínima del 0,46%. Sin embargo, la tendencia a medio plazo sigue siendo bajista: el token acumula una pérdida del 33,97% en lo que va de 2026 y se sitúa un 58,46% por debajo de su máximo histórico alcanzado en el pasado. A medida que el mercado de criptomonedas busca un catalizador para impulsar el crecimiento, BNB se mantiene como uno de los tokens más estables, aunque su desempeño está estrechamente ligado a las condiciones generales del mercado. Los inversores están a la espera de señales que indiquen una posible recuperación o un cambio en la tendencia, lo que podría influir en la decisión de mantener o aumentar su exposición a BNB.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bnb-se-aferra-a-los-usd-569-mientras-el-mercado-de-criptomonedas-espera-un-catalizador/"
+    },
+    {
+        "fecha": "24/07/2026",
+        "titulo": "Moto Guzzi Stelvio",
+        "gancho": "La trail italiana",
+        "contenido_completo": "La Moto Guzzi Stelvio recupera uno de los nombres más emblemáticos de la firma italiana con una propuesta pensada para viajar dentro y fuera del asfalto. Equipa un motor V2 de 1.042 cc y 115 CV, transmisión por cardán, cinco modos de conducción y, de manera destacada, tecnología de radar para mejorar la seguridad en la carretera. Esta moto está diseñada para aquellos que buscan aventuras tanto en terrenos pavimentados como en senderos más desafiantes, ofreciendo una combinación única de potencia, maniobrabilidad y tecnología avanzada. Con su lanzamiento, Moto Guzzi busca capturar una porción significativa del mercado de motos de aventura, atraendo a entusiastas que valoran la libertad de explorar diferentes entornos con una máquina capaz y confiable.",
+        "categoria": "Motos",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/motor/moto-guzzi-stelvio-trail-italiana-115-cv-radar-motor-v2-aventura-asfalto/202607231206351032740.html"
+    },
+    {
+        "fecha": "24/07/2026",
+        "titulo": "$XRP en modo de espera",
+        "gancho": "Consolidación silenciosa",
+        "contenido_completo": "El token nativo de Ripple cotiza con mínima variación, consolidando en un rango estrecho. A pesar de que los promedios móviles de corto plazo comienzan a alinearse al alza, la caída en el volumen negociado y la presión bajista de mediano plazo ponen en duda la capacidad del token para romper la resistencia y seguir una tendencia alcista. Los inversores deben considerar estos factores al evaluar las perspectivas de $XRP en el mercado actual. La falta de un catalizador claro para el cambio mantiene a los inversores en una posición de espera, esperando a que el mercado defina su dirección.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/xrp-en-modo-de-espera-el-23-de-julio-de-2026-consolidacion-silenciosa-tras-semanas-de-recuperacion-modesta/"
+    },
+    {
+        "fecha": "24/07/2026",
+        "titulo": "TRX en punto muerto",
+        "gancho": "¿Silencio previo a quiebre alcista?",
+        "contenido_completo": "TRX cotiza en $0,3273 con un volumen un 24% inferior al promedio mensual, lo que genera un cuadro de consolidación extrema. La criptomoneda de Tron muestra fortaleza relativa al conservar sus medias móviles clave, aunque la resistencia en $0,334 y la ausencia de un catalizador claro para el cambio generan incertidumbre. En este contexto, los inversores y traders deben estar atentos a los indicadores técnicos y las noticias del mercado para tomar decisiones informadas sobre su inversión en TRX. La consolidación puede ser un signo de que el mercado está preparándose para un movimiento significativo, pero la dirección de este movimiento es aún incierta.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/trx-en-punto-muerto-el-silencio-previo-a-un-quiebre-alcista-o-la-calma-que-antecede-la-tormenta-bajista/"
+    },
+    {
         "fecha": "23/07/2026",
         "titulo": "Solana (SOL) cede un 0,72% en medio del desplome del volumen",
         "gancho": "Solana cae un 0,72%",
