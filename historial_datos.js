@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "25/07/2026",
+        "titulo": "VML The Cocktail gana cuenta de CRM",
+        "gancho": "Banco Sabadell",
+        "contenido_completo": "VML The Cocktail ha ganado la cuenta de CRM creativo de Banco Sabadell, tras superar a DDB en el pitch convocado por la entidad financiera. La agencia forma parte del grupo WPP y cuenta con una amplia experiencia en marketing y publicidad. La cuenta de CRM es fundamental para el Banco Sabadell, ya que le permite mantener una relación estrecha con sus clientes y ofrecerles servicios personalizados. VML The Cocktail se encargará de desarrollar campañas de marketing y estrategias de comunicación para el banco, con el objetivo de aumentar la lealtad de los clientes y mejorar la experiencia del usuario.",
+        "categoria": "Marketing",
+        "impacto": "bajo",
+        "fuente_nombre": "Marketingdirecto.com",
+        "fuente_url": "https://www.marketingdirecto.com/marketing-general/agencias/vml-cocktail-banco-sabadell-crm-creativo"
+    },
+    {
+        "fecha": "25/07/2026",
+        "titulo": "Cambium Networks lanza AP Wi-Fi 7",
+        "gancho": "Wi-Fi 7",
+        "contenido_completo": "Cambium Networks ha lanzado el AP Wi-Fi 7 X7-56X, un punto de acceso diseñado para entornos de alta densidad. El dispositivo cuenta con antenas direccionales y está optimizado con IA para ofrecer una experiencia de conectividad más rápida y segura. El AP Wi-Fi 7 X7-56X es ideal para grandes recintos, como estadios, aeropuertos y centros de convenciones, donde la conectividad es fundamental. La tecnología Wi-Fi 7 ofrece velocidades de transferencia más rápidas y una mayor capacidad de conexión, lo que la convierte en una excelente opción para aplicaciones que requieren una gran cantidad de ancho de banda.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/cambium-networks-lanza-el-ap-wi-fi-7-x7-56x-para-entornos-de-alta-densidad-2582433"
+    },
+    {
+        "fecha": "25/07/2026",
+        "titulo": "Costo de echar a Huawei",
+        "gancho": "Mucho",
+        "contenido_completo": "La GSMA ha estimado el costo de eliminar a Huawei de las redes europeas, y el resultado es alarmante. La exclusión de la empresa china podría tener un impacto significativo en la economía y la seguridad de la región. La GSMA ha advertido que la eliminación de Huawei podría llevar a retrasos en la implementación de la tecnología 5G, lo que podría tener consecuencias negativas para la competitividad de la región. Además, la exclusión de Huawei podría llevar a un aumento en los costos para los operadores de redes, lo que podría ser pasado a los consumidores. La situación es compleja y requiere una evaluación cuidadosa de los riesgos y beneficios.",
+        "categoria": "Software",
+        "impacto": "alto",
+        "fuente_nombre": "Xatakamovil.com",
+        "fuente_url": "https://www.xatakamovil.com/conectividad/pregunta-cuanto-costaria-echar-a-huawei-redes-europeas-gsma-tiene-respuesta-mucho"
+    },
+    {
+        "fecha": "25/07/2026",
+        "titulo": "Enjambre sísmico en el Teide",
+        "gancho": "600 terremotos",
+        "contenido_completo": "Un enjambre sísmico ha sacudido el Teide en Tenerife, con más de 600 terremotos registrados en un lapso de tres horas. Los expertos están monitoreando la situación de cerca, ya que estos eventos pueden ser indicativos de actividad volcánica. El Teide es uno de los volcanes más activos del mundo y su actividad es objeto de estudio constante. Los terremotos han sido localizados a profundidades de entre 10 y 15 kilómetros, lo que sugiere que la actividad sísmica está ocurriendo en la cámara magmática del volcán. La situación es objeto de seguimiento por parte de los expertos, que buscan determinar si estos eventos son precursores de una erupción.",
+        "categoria": "Ciencia",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/canarias/nuevo-enjambre-sismico-teide-tenerife-600-terremotos-20260724113551-nt.html"
+    },
+    {
+        "fecha": "25/07/2026",
+        "titulo": "Horizon Zero Dawn Remastered",
+        "gancho": "33% de descuento",
+        "contenido_completo": "Horizon Zero Dawn Remastered es una versión mejorada del juego original que combina exploración, caza y combate táctico en un mundo abierto. La historia sigue a Aloy, una joven cazadora que busca descubrir los secretos de su pasado en un mundo postapocalíptico. Con un 33% de descuento, esta oferta es ideal para aquellos que buscan sumergirse en una aventura emocionante. La versión remasterizada ofrece gráficos mejorados y una experiencia de juego más fluida. Los jugadores pueden explorar un vasto mundo abierto, completar misiones y luchar contra criaturas mecánicas.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Blogdechollos.com",
+        "fuente_url": "https://www.blogdechollos.com/horizon-zero-dawn-remastered-para-ps5-baja-a-1999e-en-game-con-un-33-de-descuento/"
+    },
+    {
         "fecha": "24/07/2026",
         "titulo": "Schaeffler y Sonatus Integran IA",
         "gancho": "Unidades de control para vehículos",
