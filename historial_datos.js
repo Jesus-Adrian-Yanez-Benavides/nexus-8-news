@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "26/07/2026",
+        "titulo": "Mesa auxiliar con enchufes: el diseño Powerwise",
+        "gancho": "Mesa auxiliar inteligente",
+        "contenido_completo": "La mesa auxiliar con enchufes Powerwise es un diseño innovador que resuelve un problema común en muchos hogares: la falta de tomas de corriente cerca de donde se necesitan. Esta mesa auxiliar minimalista integra tomas de corriente ocultas bajo el tablero, lo que la hace ideal para living rooms, dormitorios o espacios de trabajo. El diseño es elegante y funcional, y puede ser personalizado para adaptarse a diferentes estilos decorativos. La mesa auxiliar Powerwise no solo es práctica, sino que también es una declaración de diseño, demostrando que la funcionalidad y la estética pueden combinarse de manera efectiva. Además, su diseño compacto y versátil la hace adecuada para una variedad de entornos, desde apartamentos pequeños hasta casas más grandes.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Decoracion2.com",
+        "fuente_url": "https://decoracion2.com/powerwise-diseno-y-tecnologia-a-nuestro-servicio/"
+    },
+    {
+        "fecha": "26/07/2026",
+        "titulo": "PsiQuantum quiere fabricar un ordenador cuántico imposible",
+        "gancho": "Ordenador cuántico revolucionario",
+        "contenido_completo": "PsiQuantum está trabajando en el desarrollo de un ordenador cuántico que podría revolucionar la forma en que procesamos la información. Este ordenador cuántico tendría la capacidad de calcular con partículas de luz, lo que lo haría mucho más poderoso que los ordenadores clásicos. La empresa está construyendo un edificio de 6.000 metros cuadrados en el sur de Chicago para albergar este proyecto ambicioso. El ordenador cuántico de PsiQuantum podría tener aplicaciones en una amplia gama de campos, desde la medicina hasta la finanza, y podría resolver problemas que actualmente son demasiado complejos para los ordenadores clásicos. Sin embargo, el desarrollo de un ordenador cuántico tolerante a fallos y de escala útil es un desafío técnico significativo que requiere avances en múltiples áreas de la física y la ingeniería.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/ordenadores/psiquantum-quiere-fabricar-ordenador-cuantico-imposible-uno-que-calcule-particulas-luz"
+    },
+    {
+        "fecha": "26/07/2026",
+        "titulo": "Las multilatinas se suben a la nueva ola de inversiones en la Argentina",
+        "gancho": "Multilatinas invierten en Argentina",
+        "contenido_completo": "La Argentina ha visto un aumento en la inversión extranjera en los últimos años, con multilatinas de Brasil, México, Perú y Uruguay liderando el camino. Estas compañías están buscando oportunidades en diversos sectores, desde la industria manufacturera hasta los servicios. La inversión extranjera puede ser un impulsor clave para el crecimiento económico de la Argentina, ya que puede aportar capital, tecnología y experiencia a los mercados locales. Sin embargo, también plantea desafíos, como la necesidad de integrar las operaciones con las normativas y regulaciones locales. Los empresarios locales han sido los primeros en apostar por el país, y ahora las multilatinas están siguiendo sus pasos, lo que puede señalar un nuevo capítulo en el desarrollo económico de la Argentina.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/economia/negocios/las-multilatinas-se-suben-a-la-nueva-ola-de-inversiones-en-la-argentina-nid25072026/"
+    },
+    {
+        "fecha": "26/07/2026",
+        "titulo": "¿Por qué quienes pagan siempre en efectivo tienen mejor control de su economía?",
+        "gancho": "El efectivo controla el gasto",
+        "contenido_completo": "Pagar en efectivo puede tener un impacto significativo en la gestión del presupuesto familiar. Cuando se paga en efectivo, se tiene una percepción más clara del valor del dinero y se tiende a gastar menos. Esto se debe a que el dinero en efectivo es más tangible que las transacciones digitales, lo que puede ayudar a las personas a tomar decisiones más informadas sobre sus compras. Además, el uso de efectivo puede reducir la tentación de gastar en compras impulsivas, ya que se debe contar físicamente con el dinero para realizar una transacción. Los datos sugieren que las personas que pagan en efectivo tienen un mejor control de su economía y pueden ahorrar más a largo plazo. Sin embargo, en la era digital, el uso de efectivo puede presentar desafíos, como la necesidad de llevar grandes cantidades de dinero o la posibilidad de pérdida o robo.",
+        "categoria": "Economía",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/dinero/que-quienes-pagan-siempre-efectivo-tienen-mejor-control-economia-como-impacta-gasto-familiar/202607251144511033078.html"
+    },
+    {
+        "fecha": "26/07/2026",
+        "titulo": "Corea del Sur se afianza como proveedor de chips en EE. UU.",
+        "gancho": "Samsung y SK Hynix firman acuerdos millonarios",
+        "contenido_completo": "Los gigantes surcoreanos de microchips de memoria Samsung Electronics y SK Hynix han firmado acuerdos que suman casi un billón de dólares con tecnológicas estadounidenses. Esto refuerza la posición de Corea del Sur como proveedor clave de chips en el mercado estadounidense. Los acuerdos incluyen la producción de microchips de memoria para satisfacer la creciente demanda de tecnologías avanzadas en EE. UU. La colaboración entre estas empresas surcoreanas y las tecnológicas estadounidenses es un paso importante hacia la diversificación de la cadena de suministro de chips y reduce la dependencia de un solo proveedor. Además, estos acuerdos pueden impulsar la innovación y el desarrollo de nuevas tecnologías en el sector de los microchips.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "DW (English)",
+        "fuente_url": "https://www.dw.com/es/corea-del-sur-se-afianza-como-proveedor-de-chips-en-ee-uu/a-78110743"
+    },
+    {
         "fecha": "25/07/2026",
         "titulo": "VML The Cocktail gana cuenta de CRM",
         "gancho": "Banco Sabadell",
