@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "27/07/2026",
+        "titulo": "PYTH se desploma",
+        "gancho": "PYTH cae 3,8%",
+        "contenido_completo": "El token de Pyth Network sufre un retroceso del 3,8% en las últimas 24 horas, profundizando la corrección semanal hasta el -13% mientras el volumen se desploma un 60% frente al promedio mensual. Aunque el activo aún retiene un avance del 25% en los últimos 30 días, la tendencia actual es descendente. ¿Se desvanece el rebote del 25% mensual o es solo un ajuste temporal? Los expertos analizan las tendencias y los fundamentos para determinar el futuro de PYTH. La situación es incierta, y los inversores deben ser cautelosos al tomar decisiones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/pyth-se-desploma-un-3-8-mientras-el-volumen-se-hunde-se-desvanece-el-rebote-del-25-mensual/"
+    },
+    {
+        "fecha": "27/07/2026",
+        "titulo": "LDO cae levemente",
+        "gancho": "LDO cae 0,53%",
+        "contenido_completo": "El token de gobernanza de Lido, LDO, muestra signos de agotamiento tras un impresionante repunte del 50,93% en los últimos 30 días. La caída intradía del 0,53% con un volumen un 48% por debajo de la media mensual sugiere que el impulso comprador pierde fuerza. ¿Se aproxima una corrección más profunda o es solo un ajuste temporal? Los expertos examinan las tendencias y los indicadores técnicos para predecir el futuro de LDO. La situación es compleja, y los inversores deben estar atentos a los cambios en el mercado.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/ldo-cae-levemente-tras-un-rally-mensual-del-50-se-aproxima-una-correccion-mas-profunda/"
+    },
+    {
+        "fecha": "27/07/2026",
+        "titulo": "Ethena retrocede",
+        "gancho": "ENA cae 3,76%",
+        "contenido_completo": "Ethena (ENA) pierde otro 3,76% hasta los $0,0847, con un volumen diario un 47,8% inferior a la media del último mes, mientras la presión vendedora mantiene al token un 94,4% por debajo de su máximo histórico. ¿Es el fin del camino o el preludio de un rebote considerable? Los expertos analizan las tendencias y los fundamentos para determinar el futuro de ENA. La situación es delicada, y los inversores deben ser cautelosos al tomar decisiones. El mercado es volátil, y cualquier movimiento puede tener consecuencias importantes.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/ethena-ena-retrocede-un-376-y-acelera-la-hemorragia-hacia-los-0084/"
+    },
+    {
+        "fecha": "27/07/2026",
+        "titulo": "Midnight se desploma",
+        "gancho": "NIGHT cae 61%",
+        "contenido_completo": "Midnight ($NIGHT) se desploma sin piedad, perdiendo más del 61% en un año y un 76% en 2026, hasta cotizar a USD $0.01955. La evaporación del volumen, inferior en un 55% a su media mensual, confirma un abandono total comprador. Sin métricas fundamentales que lo sostengan, el token se dirige hacia un abismo sin fondo. Los inversores se preguntan si hay esperanza de recuperación o si es el fin del camino para NIGHT. La situación es crítica, y los expertos advierten sobre el riesgo de pérdidas adicionales.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/midnight-night-se-precipita-hacia-el-abismo-mientras-el-volumen-se-desploma-un-55/"
+    },
+    {
+        "fecha": "27/07/2026",
+        "titulo": "Caída de Polygon",
+        "gancho": "POL cae 93%",
+        "contenido_completo": "El token de Polygon (POL) cotiza en USD 0,0765648 y profundiza su declive histórico con una pérdida acumulada del -68% en 52 semanas. El análisis exhaustivo de precio, medias móviles y volumen revela una estructura técnica bajista, mientras que la ausencia de fundamentos sólidos agrava la situación. La comunidad de inversores se muestra cautelosa ante la posible continuación de la caída. El futuro de POL es incierto, y los expertos recomiendan una estrategia de espera y observación.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/polygon-pol-al-borde-del-abismo-la-caida-de-93-desde-su-maximo-historico-exige-cautela-extrema/"
+    },
+    {
         "fecha": "26/07/2026",
         "titulo": "Mesa auxiliar con enchufes: el diseño Powerwise",
         "gancho": "Mesa auxiliar inteligente",
