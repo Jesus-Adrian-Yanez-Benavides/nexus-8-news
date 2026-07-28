@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "28/07/2026",
+        "titulo": "Zcash se consolida",
+        "gancho": "Rally anual del 1.100%",
+        "contenido_completo": "Zcash (ZEC) mantiene su fortaleza estructural a largo plazo con un retorno anual superior al 1.100%, pero las señales técnicas de corto plazo muestran una clara toma de ganancias tras tocar resistencias clave. El volumen diario cae un 20% respecto al promedio mensual, lo que puede indicar una pausa en el rally de Zcash. Los inversores están a la espera de una posible continuación del rally o una corrección en el precio del token. La situación actual de Zcash es un ejemplo de la volatilidad del mercado de criptomonedas. Los expertos recomiendan tener precaución al invertir en este tipo de activos y seguir de cerca los movimientos del token en el futuro.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zec-se-consolida-en-los-usd-500-tras-un-rally-anual-de-mas-del-1-100-se-acabo-el-impulso-o-solo-es-una-pausa-27-07-2026/"
+    },
+    {
+        "fecha": "28/07/2026",
+        "titulo": "LEO se mantiene estable",
+        "gancho": "Volumen se desploma",
+        "contenido_completo": "El token nativo de Bitfinex cotiza en USD $9,71 con una variación diaria mínima y un volumen que se derrumbó 57% frente al promedio mensual. Mientras las principales criptodivisas registran movimientos amplios, LEO se mantiene en un rango de siete centavos de dólar en las últimas 24 horas. La estabilidad de LEO es un signo positivo para los inversores, pero la caída del volumen de operaciones es un factor a considerar. Los expertos recomiendan seguir de cerca los movimientos del token en el futuro para determinar su potencial a largo plazo. La situación actual de LEO es un reflejo de la complejidad del mercado de criptomonedas.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/leo-se-aferra-a-los-usd-971-mientras-el-volumen-se-desploma-un-57-este-27-de-julio-de-2026/"
+    },
+    {
+        "fecha": "28/07/2026",
+        "titulo": "Chainlink se recupera",
+        "gancho": "Rebota un 3.84%",
+        "contenido_completo": "Chainlink (LINK) se recupera un 3.84% en las últimas 24 horas y se sitúa en USD $8.78, acompañado de un incremento notable del volumen de negociación. El token busca consolidar un rebote desde los USD $8.40 a corto plazo mientras enfrenta la resistencia clave de USD $9.23. Los inversores están atentos a los movimientos de Chainlink, ya que su desempeño puede influir en el mercado de criptomonedas en general. La recuperación de Chainlink es un signo positivo para el mercado, pero es importante tener en cuenta la volatilidad inherente a las criptomonedas. Los expertos recomiendan seguir de cerca los movimientos del token en el futuro.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/link-intenta-salir-del-pozo-chainlink-rebota-un-3-84-y-busca-reconquistar-los-9-23-el-27-de-julio-de-2026/"
+    },
+    {
+        "fecha": "28/07/2026",
+        "titulo": "Multiverse Computing levanta 500 millones",
+        "gancho": "Nuevo unicornio español",
+        "contenido_completo": "La compañía vasca Multiverse Computing ha cerrado una de las mayores rondas de financiación de la historia de España al captar 500 millones de euros para sus herramientas de inteligencia artificial. Esta inversión convierte a Multiverse Computing en un nuevo unicornio español, destacando el potencial de la tecnología de IA en el país. La empresa planea utilizar estos fondos para expandir su negocio y desarrollar nuevas soluciones de IA. El éxito de Multiverse Computing es un ejemplo de la creciente importancia de la inteligencia artificial en la economía actual. La empresa está bien posicionada para liderar el mercado de la IA en el futuro.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "El Mundo",
+        "fuente_url": "https://www.elmundo.es/economia/empresas/2026/07/27/6a672e5ee9cf4ab40d8b4581.html"
+    },
+    {
+        "fecha": "28/07/2026",
+        "titulo": "Monero se desploma",
+        "gancho": "Caída del 4%",
+        "contenido_completo": "Monero (XMR) registra una caída del 4% este 27 de julio, acercándose a soportes críticos mientras el volumen de operaciones sigue en descenso. La criptomoneda de privacidad se ha desplomado más de un 56% desde su máximo histórico de enero, en medio de un entorno de incertidumbre en el mercado de criptomonedas. Los inversores están a la espera de una posible recuperación o una mayor caída. La situación actual de Monero es un reflejo de la volatilidad del mercado de criptomonedas. Los expertos recomiendan tener precaución al invertir en este tipo de activos.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/monero-se-desploma-un-4-rompera-el-soporte-de-345-27-de-julio-de-2026/"
+    },
+    {
         "fecha": "27/07/2026",
         "titulo": "PYTH se desploma",
         "gancho": "PYTH cae 3,8%",
