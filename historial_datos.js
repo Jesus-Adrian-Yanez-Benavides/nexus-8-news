@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "29/07/2026",
+        "titulo": "Faustino Reyes: la medalla que lo cambió todo",
+        "gancho": "La medalla que cambió su vida",
+        "contenido_completo": "A los 17 años, Faustino Reyes subió al podio olímpico de Barcelona 92 con una medalla de plata en boxeo, peso pluma, colgada del cuello. Esta es el inicio de la nueva historia de Mejor […] Faustino Reyes: la medalla que lo cambió todo es un artículo de Blogth… En este artículo, te presentamos la historia de Faustino Reyes y cómo su medalla olímpica lo cambió todo. Faustino Reyes es un boxeador que ha logrado grandes éxitos en su carrera, pero su medalla olímpica es sin duda su mayor logro. En este artículo, te contamos cómo Faustino Reyes se preparó para los Juegos Olímpicos y cómo se sintió al subir al podio. También te ofrecemos algunas lecciones que podemos aprender de la historia de Faustino Reyes y cómo podemos aplicarlas en nuestras propias vidas.",
+        "categoria": "Deportes",
+        "impacto": "bajo",
+        "fuente_nombre": "Blogthinkbig.com",
+        "fuente_url": "https://blogthinkbig.com/faustino-reyes-la-medalla-que-lo-cambio-todo"
+    },
+    {
+        "fecha": "29/07/2026",
+        "titulo": "Litecoin se desploma un 57%",
+        "gancho": "Litecoin cae un 57%",
+        "contenido_completo": "Litecoin ($LTC) se cotiza a USD $46,47, registrando una caída diaria del 2% y una depreciación interanual del 57,42%. La baja volatilidad y el volumen decreciente esconden una lucha técnica entre las medias móviles de corto plazo y la presión estructural baji… La caída de Litecoin se debe a la falta de confianza de los inversores en la criptomoneda. A pesar de su potencial, Litecoin no ha logrado mantener su valor en el mercado. Los expertos predicen que Litecoin puede seguir cayendo en el futuro, lo que podría ser un problema para los inversores que han apostado por esta criptomoneda. Sin embargo, también hay quienes creen que Litecoin puede recuperarse y seguir creciendo en el futuro. En este artículo, te presentamos una análisis detallado de la situación actual de Litecoin y las posibles razones detrás de su caída. También te ofrecemos algunas recomendaciones para los inversores que están considerando apostar por esta criptomoneda.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/litecoin-ltc-se-desploma-un-57-en-un-ano-oportunidad-historica-o-trampa-de-valor/"
+    },
+    {
+        "fecha": "29/07/2026",
+        "titulo": "Herramienta de IA para empleo",
+        "gancho": "Encuentra trabajo con IA",
+        "contenido_completo": "Reverse Matching hace recomendaciones en base a la información aportada por cada persona, incluyendo su puesto más reciente y la ubicación. Esta herramienta de IA es una innovación en el mercado laboral, ya que permite a los empleadores encontrar a los candidatos más adecuados para sus ofertas de empleo. La herramienta utiliza algoritmos avanzados para analizar los datos de los candidatos y encontrar las mejores coincidencias. En este artículo, te presentamos una visión detallada de cómo funciona Reverse Matching y cómo puede ayudar a los empleadores a encontrar a los mejores candidatos para sus ofertas de empleo. También te ofrecemos algunas recomendaciones para los candidatos que están buscando trabajo y quieren aprovechar al máximo esta herramienta de IA.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/grupo-adecco-lanza-una-herramienta-de-ia-que-conecta-curriculos-con-ofertas-de-empleo-2582499"
+    },
+    {
+        "fecha": "29/07/2026",
+        "titulo": "GRAM se desploma un 4%",
+        "gancho": "GRAM cae un 4%",
+        "contenido_completo": "GRAM retrocede un 4,03% en la sesión, situándose en USD $1,45, tras una apertura alcista que no logró sostenerse. La criptomoneda, anteriormente conocida como Toncoin, acumula una corrección del 20,71% desde su máximo histórico de USD $1,83 alcanzado el 4 de … La caída de GRAM se debe a la falta de confianza de los inversores en la criptomoneda. A pesar de su potencial, GRAM no ha logrado mantener su valor en el mercado. Los expertos predicen que GRAM puede seguir cayendo en el futuro, lo que podría ser un problema para los inversores que han apostado por esta criptomoneda. Sin embargo, también hay quienes creen que GRAM puede recuperarse y seguir creciendo en el futuro. En este artículo, te presentamos una análisis detallado de la situación actual de GRAM y las posibles razones detrás de su caída. También te ofrecemos algunas recomendaciones para los inversores que están considerando apostar por esta criptomoneda.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/gram-se-desploma-un-4-tras-alejarse-del-maximo-historico-de-usd-1-83/"
+    },
+    {
+        "fecha": "29/07/2026",
+        "titulo": "Hidrolimpiadoras para coche y jardín",
+        "gancho": "Limpia tu coche fácilmente",
+        "contenido_completo": "¿Cuántas veces te has quedado con el coche a medio enjabonar porque la manguera no llegaba hasta la plaza del garaje? Nos ha pasado más de una vez. Estas limpiadoras a presión pueden ser la solución perfecta para mantener tu coche y jardín limpios. Con su potente chorro de agua, puedes eliminar fácilmente la suciedad y los residuos. Además, son fáciles de usar y no requieren mucho esfuerzo. En este artículo, te presentamos tres opciones de hidrolimpiadoras para coche y jardín que te pueden ayudar a mantener tus espacios limpios y ordenados. La primera opción es una hidrolimpiadora a presión de 1500 psi, ideal para coches y jardines pequeños. La segunda opción es una hidrolimpiadora a presión de 2500 psi, perfecta para coches y jardines medianos. La tercera opción es una hidrolimpiadora a presión de 3500 psi, ideal para coches y jardines grandes. Todas estas opciones son fáciles de usar y ofrecen resultados efectivos.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elrecomendador/bricolaje/20260728/1004210651/he-comparado-3-hidrolimpiadoras-coche-jardin-me-quedo-aguanta-sesion-entera-mkt-alie.html"
+    },
+    {
         "fecha": "28/07/2026",
         "titulo": "Zcash se consolida",
         "gancho": "Rally anual del 1.100%",
