@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "30/07/2026",
+        "titulo": "HYPE enfrenta corrección",
+        "gancho": "HYPE desploma un 28%",
+        "contenido_completo": "Hyperliquid (HYPE) ha retrocedido un 2,10% en las últimas 24 horas, acumulando una caída del 28,23% desde su máximo histórico de junio. Con el precio por debajo de todas las medias móviles de corto y mediano plazo, pero aferrado al soporte de un nivel crítico, los inversores están atentos a los movimientos futuros de HYPE. La corrección puede ser una oportunidad para los inversores que buscan entrar en el mercado a precios más bajos, pero también puede ser un signo de una tendencia más amplia de debilidad en el mercado de criptomonedas. La clave para navegar esta situación es entender las tendencias técnicas y fundamentales que están detrás del movimiento del precio.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hype-se-desploma-un-28-desde-maximos-historicos-comienza-la-correccion-definitiva-el-29-de-julio/"
+    },
+    {
+        "fecha": "30/07/2026",
+        "titulo": "Dogecoin busca recuperación",
+        "gancho": "Dogecoin rebota un 1,18%",
+        "contenido_completo": "Dogecoin ha registrado un modesto avance del 1,18% en la última jornada, alcanzando los USD $0,0708. Sin embargo, este avance es insuficiente para cambiar el sesgo bajista de largo plazo. El activo acumula una caída del 68% interanual y cotiza por debajo de sus promedios móviles de 7, 15 y 30 días. La tendencia bajista de Dogecoin puede ser un desafío para los inversores que buscan oportunidades en el mercado de criptomonedas. Aunque el meme y la comunidad en torno a Dogecoin pueden generar interés, la fundamentación y el análisis técnico son clave para tomar decisiones informadas. La pregunta es si este rebote es el comienzo de una recuperación o simplemente una pausa en la tendencia bajista.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dogecoin-rebota-un-118-pero-sigue-atrapado-en-tendencia-bajista-fin-del-meme-o-acumulacion-silenciosa/"
+    },
+    {
+        "fecha": "30/07/2026",
+        "titulo": "Fortinet y Intel unen fuerzas",
+        "gancho": "Nuevo procesador de seguridad",
+        "contenido_completo": "Fortinet se ha aliado con Intel para desarrollar el procesador de seguridad SP6, diseñado para atender las necesidades de rendimiento de las organizaciones actuales. Este procesador está destinado a mejorar la seguridad y el rendimiento de los sistemas, lo que puede tener un impacto significativo en la protección de la información y la infraestructura de las empresas. La colaboración entre Fortinet y Intel puede llevar a innovaciones importantes en el campo de la seguridad cibernética, ayudando a las organizaciones a mantenerse por delante de las amenazas emergentes. La seguridad es un aspecto crítico en la era digital, y la desarrollo de tecnologías avanzadas como el procesador SP6 puede ser fundamental para proteger los activos digitales.",
+        "categoria": "Seguridad",
+        "impacto": "alto",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/fortinet-se-alia-con-intel-para-desarrollar-el-procesador-de-seguridad-sp6-2582545"
+    },
+    {
+        "fecha": "30/07/2026",
+        "titulo": "ZEC enfrenta desafíos en el mercado",
+        "gancho": "ZEC desploma un 3%",
+        "contenido_completo": "Zcash ($ZEC) ha experimentado un retroceso del 3,15% en las últimas 24 horas, cotizando a USD $461,39, cerca de su mínimo semanal. A pesar de que el activo mantiene ganancias anuales superiores al 1.000%, las señales técnicas de corto plazo sugieren una corrección. Los operadores y los inversores están atentos a los movimientos del mercado, ya que la tendencia a corto plazo puede influir en las decisiones de inversión. La volatilidad del mercado de criptomonedas puede ser un desafío para los inversores, pero también ofrece oportunidades para aquellos que están dispuestos a asumir riesgos. La clave para navegar este mercado es estar informado y tener una estrategia clara.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/zec-se-desploma-un-3-mientras-los-alcistas-luchan-por-mantener-soporte-clave/"
+    },
+    {
+        "fecha": "30/07/2026",
+        "titulo": "Avance en transcripción de voz con IA",
+        "gancho": "IA transcribe voz en tiempo real",
+        "contenido_completo": "OpenAI ha lanzado nuevos modelos de IA para transcribir voz y conversaciones en tiempo real. Estos modelos, denominados GPT-Live-Transcribe y GPT-Transcribe, ofrecen una mayor precisión en la transcripción de distintos idiomas, acentos y entornos con ruido. Esto puede tener un impacto significativo en la forma en que interactuamos con la tecnología. La capacidad de transcribir conversaciones en tiempo real puede ser útil en diversas aplicaciones, desde la transcripción de reuniones hasta la interpretación de lenguas en tiempo real. Además, la mejora en la precisión puede ayudar a reducir errores y mejorar la comprensión en entornos con ruido o con acentos difíciles de entender.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Montevideo.com.uy",
+        "fuente_url": "https://www.montevideo.com.uy/Ciencia-y-Tecnologia/OpenAI-lanza-nuevos-modelos-de-IA-para-transcribir-voz-y-conversaciones-en-tiempo-real-uc969953"
+    },
+    {
         "fecha": "29/07/2026",
         "titulo": "Faustino Reyes: la medalla que lo cambió todo",
         "gancho": "La medalla que cambió su vida",
