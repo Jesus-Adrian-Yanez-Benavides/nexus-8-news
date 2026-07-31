@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "31/07/2026",
+        "titulo": "Precio del Bitcoin hoy",
+        "gancho": "Bitcoin sube un 0,20%",
+        "contenido_completo": "El Bitcoin cae un 0,011% y se sitúa en 63.915,31 dólares a las 08:35, tras varios días de descensos. Datos relevantes del Bitcoin Evolución precio del Bitcoin este mes: el precio del Bitcoin se ha revalorizado en un 0,20% respecto al día anterior. La tendencia del Bitcoin es volátil, y los inversores deben estar atentos a los cambios en el mercado. El precio del Bitcoin puede cambiar rápidamente, y los inversores deben estar preparados para tomar decisiones informadas. La comunidad criptográfica analiza las tendencias actuales para predecir el futuro del Bitcoin.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/mercados/bitcoin/2026/07/30/6a6b19a4e5fdea5d398b4591.html"
+    },
+    {
+        "fecha": "31/07/2026",
+        "titulo": "TRX lucha por mantener los $0,32",
+        "gancho": "TRX sube un 1,02%",
+        "contenido_completo": "TRON (TRX) cotiza a USD $0,328 el 30 de julio de 2026, mostrando un ligero repunte diario del 1,02% con volumen por debajo de su promedio mensual. El activo se consolida en un rango estrecho, sostenido por medias móviles clave, mientras los inversores evalúan el próximo movimiento. La tendencia de TRX es incierta, y los inversores deben estar atentos a los cambios en el mercado. El soporte clave para TRX es crucial para determinar su próximo movimiento. Los inversores están a la espera de señales de compra o venta para tomar decisiones informadas.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/trx-lucha-por-mantener-los-032-el-soporte-clave-que-definira-el-proximo-movimiento-30-de-julio-de-2026/"
+    },
+    {
+        "fecha": "31/07/2026",
+        "titulo": "Xbox admite falla en discos físicos",
+        "gancho": "Xbox falla en discos físicos",
+        "contenido_completo": "Xbox ha confirmado que la caída masiva de casi un día sufrida en los servicios de la consola no debería haberse extendido a los discos físicos, aunque la verificación de licencias impidió arrancar algunos juegos. La empresa ha prometido una solución para evitar que esto vuelva a suceder en el futuro. Los jugadores se sintieron frustrados por la interrupción de los servicios. Xbox está trabajando para mejorar la experiencia del usuario y evitar problemas similares en el futuro. La compañía ha anunciado planes para actualizar su sistema de verificación de licencias para evitar fallas similares.",
+        "categoria": "Gaming",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/portaltic/videojuegos/noticia-xbox-admite-discos-fisicos-deberian-haber-funcionado-caida-servicio-promete-solucion-20260730122746.html"
+    },
+    {
+        "fecha": "31/07/2026",
+        "titulo": "HYPE se desploma 30% desde su máximo",
+        "gancho": "HYPE cae un 29,57%",
+        "contenido_completo": "Hyperliquid (HYPE) cotiza en USD $54,04, acumulando una corrección del -17.95% en los últimos 30 días y un retroceso del -29.57% desde su máximo histórico de USD $76,73 alcanzado el 16 de junio de 2026. Con volúmenes de negociación diarios un 15.65% por debajo del promedio, los inversores evalúan si la corrección es una oportunidad de compra. La tendencia a la baja de HYPE ha generado preocupación entre los inversores. Sin embargo, algunos ven esta caída como una oportunidad para comprar a precios más bajos. El futuro de HYPE es incierto, y los inversores deben estar atentos a los cambios en el mercado.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/hype-se-desploma-30-desde-su-maximo-oportunidad-de-compra-en-la-correccion/"
+    },
+    {
+        "fecha": "31/07/2026",
+        "titulo": "Dogecoin se aferra a los $0,07",
+        "gancho": "Dogecoin cae un 0,21%",
+        "contenido_completo": "Dogecoin cotiza en USD $0,070184 este 30 de julio de 2026, acusando una caída marginal del 0,21% en las últimas 24 horas, pero arrastrando una depreciación superior al 35% en los últimos 90 días y un desplome del 90,47% desde su máximo histórico de 2021. El volumen de negociación diario ha disminuido un 7,6%. La criptomoneda busca estabilizarse en un mercado volátil. Los inversores siguen de cerca los movimientos de Dogecoin en busca de oportunidades de inversión. La comunidad criptográfica analiza las tendencias actuales para predecir el futuro de la moneda.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/dogecoin-se-aferra-a-los-007-mientras-el-volumen-se-desploma-un-76/"
+    },
+    {
         "fecha": "30/07/2026",
         "titulo": "HYPE enfrenta corrección",
         "gancho": "HYPE desploma un 28%",
