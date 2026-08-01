@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "01/08/2026",
+        "titulo": "Redmi 17 a bajo precio",
+        "gancho": "Redmi 17 rebajado",
+        "contenido_completo": "El nuevo Redmi 17 con 7500 mAh de batería y pantalla de 120 Hz ya se vende rebajado por menos de 200 euros. Esta es una oportunidad única para aquellos que buscan un smartphone de alta gama a un precio asequible. El Redmi 17 es uno de los nuevos smartphones de Xiaomi que acaba de ser lanzado al mercado. La rebaja en el precio es una sorpresa para muchos, ya que el teléfono acaba de ser presentado. La oportunidad de adquirir un smartphone de alta calidad a un precio tan bajo es irresistible para muchos usuarios.",
+        "categoria": "Tecnología",
+        "impacto": "bajo",
+        "fuente_nombre": "Movilzona.es",
+        "fuente_url": "https://www.movilzona.es/noticias/ofertas/powerplanet-movil-xiaomi-redmi-17-0726/"
+    },
+    {
+        "fecha": "01/08/2026",
+        "titulo": "Eclipse solar en vivo",
+        "gancho": "Eclipse en vivo",
+        "contenido_completo": "Un avión a 10.000 metros de altura emitirá en directo el eclipse solar del 12 de agosto. El vuelo especial de Iberia llevará a 30 astrónomos que podrán seguir la retransmisión completa a través de tecnología satelital. El eclipse solar es un evento astronómico que atrae a muchos aficionados. La oportunidad de ver el eclipse en vivo es única y emocionante. La tecnología satelital permitirá a los usuarios de todo el mundo seguir el evento en tiempo real.",
+        "categoria": "Astronomía",
+        "impacto": "bajo",
+        "fuente_nombre": "Libertaddigital.com",
+        "fuente_url": "https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2026-07-31/un-avion-a-10-000-metros-de-altura-emitira-en-directo-el-eclipse-solar-del-12-de-agosto-7443998/"
+    },
+    {
+        "fecha": "01/08/2026",
+        "titulo": "LinkedIn y la IA",
+        "gancho": "LinkedIn contra la IA",
+        "contenido_completo": "LinkedIn ha lanzado un nuevo botón que permite a los usuarios etiquetar publicaciones que sospechan han sido generadas con inteligencia artificial. Esta medida tiene como objetivo aumentar la transparencia en la plataforma. La inteligencia artificial ha sido utilizada para generar contenido en varias plataformas, lo que ha generado preocupación entre los usuarios. La medida de LinkedIn ha sido bien recibida por los expertos en tecnología. La transparencia en la generación de contenido es fundamental para mantener la confianza de los usuarios.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Marketingdirecto.com",
+        "fuente_url": "https://www.marketingdirecto.com/digital-general/social-media-marketing/linkedin-estrena-boton-arranca-careta-contenido-sospechoso-haber-sido-generado-ia"
+    },
+    {
+        "fecha": "01/08/2026",
+        "titulo": "Ayudas para viviendas",
+        "gancho": "Ayudas para alquiler",
+        "contenido_completo": "El ICO ha anunciado que dará ayudas no reembolsables del 30% de la inversión a los promotores que construyan viviendas de alquiler barato. Esta medida tiene como objetivo aumentar la oferta de viviendas asequibles en el mercado. La financiación se realizará a través de subvenciones que recibirá el fondo España Crece. La medida ha sido bien recibida por los expertos en el sector. La construcción de viviendas de alquiler barato es una necesidad urgente en muchos lugares del país.",
+        "categoria": "Economía",
+        "impacto": "bajo",
+        "fuente_nombre": "Elespanol.com",
+        "fuente_url": "https://www.elespanol.com/invertia/observatorios/vivienda/20260731/ico-dara-ayudas-no-reembolsables-inversion-promotores-hagan-pisos-alquiler-barato/1003744340174_0.html"
+    },
+    {
+        "fecha": "01/08/2026",
+        "titulo": "Colonialismo en Ceuta",
+        "gancho": "Israel ataca a España",
+        "contenido_completo": "El embajador de Israel ante las Naciones Unidas, Danny Danon, ha criticado la política migratoria de España en Ceuta. La crisis migratoria en la región ha generado una gran cantidad de controversia. La situación en Ceuta ha sido calificada de crítica por varios expertos. La entrada masiva de personas a través de la frontera ha generado una gran presión sobre los recursos locales. El Gobierno de España ha sido criticado por su manejo de la situación.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Huffingtonpost.es",
+        "fuente_url": "https://www.huffingtonpost.es/politica/el-embajador-israel-onu-ataca-espana-colonialismo-ceuta-puente-le-da-inquietante-replica-f202607.html"
+    },
+    {
         "fecha": "31/07/2026",
         "titulo": "Precio del Bitcoin hoy",
         "gancho": "Bitcoin sube un 0,20%",
