@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "02/08/2026",
+        "titulo": "Operativo aéreo contra ratas",
+        "gancho": "Ratas invaden isla",
+        "contenido_completo": "Un ambicioso operativo realizado desde helicópteros buscó detener una invasión que ponía en riesgo a numerosas especies. Tras un largo período de monitoreo, los expertos confirmaron un resultado que pocos imaginaban y que abre una nueva etapa para uno de los ecosistemas más frágiles. La invasión de ratas puede tener consecuencias devastadoras en el equilibrio del ecosistema. El operativo aéreo ha sido un éxito y ha permitido el regreso de una especie que había desaparecido. La conservación del medio ambiente es fundamental para preservar la biodiversidad.",
+        "categoria": "Medio Ambiente",
+        "impacto": "bajo",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/asi-fue-el-gigantesco-operativo-aereo-que-elimino-una-invasion-de-ratas-en-una-isla-y-permitio-el-regreso-de-una-especie-que-habia-desaparecido-2000249056"
+    },
+    {
+        "fecha": "02/08/2026",
+        "titulo": "Muertes por ahogamiento",
+        "gancho": "Ahogamientos en Canarias",
+        "contenido_completo": "Un total de 39 personas han fallecido ahogadas en Canarias entre enero y julio de 2026, lo que ha supuesto un incremento del 30% en relación al mismo período de 2025. La Asociación para la prevención de accidentes acuáticos ha elaborado datos que muestran la gravedad de la situación. Es importante tomar medidas para prevenir estos accidentes y garantizar la seguridad en las zonas acuáticas. La conciencia y la educación son clave para reducir el número de muertes por ahogamiento.",
+        "categoria": "Noticias",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/islas-canarias/noticia-muertes-ahogamiento-crecen-30-canarias-julio-39-fallecimientos-20260801112421.html"
+    },
+    {
+        "fecha": "02/08/2026",
+        "titulo": "Móviles en la infancia",
+        "gancho": "Móviles perjudican",
+        "contenido_completo": "¿De nada sirve prohibir los móviles en el colegio? La ciencia demuestra que el verdadero impacto académico está en ser dueño del dispositivo. Los móviles pueden ser una herramienta útil, pero también pueden ser un obstáculo para el aprendizaje. La exposición temprana a los móviles puede tener consecuencias negativas en la comprensión lectora. Es importante encontrar un equilibrio saludable entre el uso de la tecnología y el desarrollo académico.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/ciencia/tener-movil-infancia-empeora-comprension-lectora-independientemente-se-lleva-colegio_202608016a68627eaa17c0020f347616.html"
+    },
+    {
+        "fecha": "02/08/2026",
+        "titulo": "Mark Zuckerberg sobre la IA",
+        "gancho": "IA, un desafío",
+        "contenido_completo": "Mark Zuckerberg no es muy amigo de las entrevistas, pero esta semana ha hablado con el New York Times, el Wall Street Journal y Financial Times. El tema de conversación principal ha sido la IA. El CEO de Meta ha dejado bastantes reflexiones sobre el futuro de la inteligencia artificial. La IA es un tema complejo que requiere atención y regulación. Zuckerberg ha expresado su preocupación sobre el desarrollo de la IA y su impacto en la sociedad.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/robotica-e-ia/mark-zuckerberg-literalmente-imposible-tener-unica-superinteligencia-benevolente-que-este-alineada-todos-a-vez"
+    },
+    {
+        "fecha": "02/08/2026",
+        "titulo": "Noticias de la semana",
+        "gancho": "Remakes en Square Enix",
+        "contenido_completo": "Esta semana Square Enix y Capcom han hablado de remakes. En la encuesta, se preguntó qué juego de estas compañías recibiría este trato. En Xbox, han sido noticia por el lanzamiento de un remake, Halo C… La comunidad de jugadores está emocionada con las posibles opciones. Los remakes pueden ofrecer experiencias renovadas y emocionantes. La decisión de qué juego remakear es crucial para el éxito.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Elotrolado.net",
+        "fuente_url": "https://www.elotrolado.net/noticias/juegos/semana-30-2026"
+    },
+    {
         "fecha": "01/08/2026",
         "titulo": "Redmi 17 a bajo precio",
         "gancho": "Redmi 17 rebajado",
