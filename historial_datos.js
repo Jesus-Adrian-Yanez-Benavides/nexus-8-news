@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "03/08/2026",
+        "titulo": "FIL cae a niveles mínimos",
+        "gancho": "Filecoin se desploma un 1,27%",
+        "contenido_completo": "Filecoin (FIL) se desploma un 1,27% en las últimas 24 horas, cotizando a USD $0,7131, un 99,7% por debajo de su máximo histórico. Este análisis profundiza en los factores técnicos y fundamentales detrás de la caída, y ofrece escenarios y estrategias para distintos tipos de inversores. La criptomoneda enfrenta desafíos en términos de adopción y competencia en el mercado de almacenamiento descentralizado. A pesar de esto, Filecoin sigue siendo una de las criptomonedas más prominentes en su nicho y puede tener oportunidades de crecimiento a largo plazo.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/fil-cae-a-niveles-minimos-oportunidad-o-trampa/"
+    },
+    {
+        "fecha": "03/08/2026",
+        "titulo": "XDC toca mínimos anuales",
+        "gancho": "XDC cae un 86% desde su máximo",
+        "contenido_completo": "XDC cotiza a USD $0,0262, un 86% por debajo de su máximo histórico. El volumen diario cae 22% y el sentimiento es bajista. A pesar de la presión, los niveles técnicos sugieren posibles rebotes. Análisis completo de los factores técnicos y fundamentales que están detrás de la caída de XDC. La criptomoneda enfrenta desafíos en términos de adopción y competencia en el mercado. Sin embargo, algunos inversores siguen apostando por su potencial a largo plazo debido a su tecnología y aplicaciones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/xdc-toca-minimos-anuales-fin-de-la-correccion-o-mas-dolor-2026-08-02/"
+    },
+    {
+        "fecha": "03/08/2026",
+        "titulo": "EE.UU. invierte en centros de datos africanos",
+        "gancho": "EE.UU. compite con China en África",
+        "contenido_completo": "El gobierno de EE.UU. impulsa acuerdos por USD $26 mil millones para construir centros de datos en África, intensificando la competencia con China y abriendo nuevas oportunidades para la minería de criptomonedas y las redes DePIN en el continente. Esta inversión busca fortalecer la presencia de EE.UU. en el mercado africano y promover el desarrollo de infraestructura digital. La iniciativa también puede tener un impacto positivo en la economía local y la creación de empleos. Sin embargo, también plantea desafíos en términos de seguridad y privacidad de los datos.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mineria/ee-uu-impulsa-usd-26-mil-millones-en-centros-de-datos-africanos-para-competir-con-china/"
+    },
+    {
+        "fecha": "03/08/2026",
+        "titulo": "Morpho se mantiene lateral",
+        "gancho": "Morpho opera sin dirección clara",
+        "contenido_completo": "Morpho (MORPHO) opera sin dirección clara, con una caída del 2,5% en las últimas 24 horas y un volumen diario que se hunde un 56% respecto a su promedio de 30 días. El activo permanece un 53% por debajo de su máximo histórico, atrapado en un rango estrecho en el mercado actual. La falta de liquidez y la volatilidad del mercado están afectando el desempeño de Morpho. Sin embargo, algunos analistas ven oportunidades de crecimiento a largo plazo si el proyecto logra mejorar su adopción y desarrollar nuevas aplicaciones.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/morpho-se-mantiene-lateral-con-baja-liquidez-el-2-de-agosto-de-2026/"
+    },
+    {
+        "fecha": "03/08/2026",
+        "titulo": "Kaspa cae un 1,95%",
+        "gancho": "Kaspa se acerca a mínimos históricos",
+        "contenido_completo": "Kaspa (KAS) ha perdido un 1,95% en las últimas 24 horas, cotizando en USD $0,0267805. La criptomoneda acumula una caída del 68,64% en el último año y del 87,08% desde su máximo histórico de USD $0,207314 alcanzado en agosto de 2024. El volumen diario de operaciones también ha disminuido. La tendencia a la baja de Kaspa se debe a factores como la falta de adopción y la competencia en el mercado de criptomonedas. A pesar de esto, algunos inversores siguen apostando por el potencial de Kaspa a largo plazo.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/kaspa-cae-un-195-y-se-acerca-a-minimos-historicos/"
+    },
+    {
         "fecha": "02/08/2026",
         "titulo": "Operativo aéreo contra ratas",
         "gancho": "Ratas invaden isla",
