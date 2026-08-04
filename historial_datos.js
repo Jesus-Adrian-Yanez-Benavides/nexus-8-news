@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "04/08/2026",
+        "titulo": "SK Hynix logra la triple corona",
+        "gancho": "SK Hynix mejora",
+        "contenido_completo": "SK Hynix, el gigante surcoreano de semiconductores, recibió la triple mejora crediticia en 2026 gracias al auge de la inteligencia artificial. Moody's elevó su calificación a A3+, completando el ciclo de apoyos de S&P y Fitch. Este reconocimiento implica menor riesgo crediticio y mayor confianza en la empresa. La mejora en la calificación crediticia puede tener un impacto positivo en la empresa y en el sector de la tecnología. La inteligencia artificial sigue siendo un factor clave en el crecimiento de la empresa y del sector.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/tecnologia/sk-hynix-logra-la-triple-corona-moodys-eleva-calificacion-a-a3-por-ia/"
+    },
+    {
+        "fecha": "04/08/2026",
+        "titulo": "Shiba Inu (SHIB) se recupera en el corto plazo",
+        "gancho": "SHIB se recupera",
+        "contenido_completo": "Shiba Inu (SHIB) cotiza en USD $0,0000048, un 2,15% menos en la jornada, pero acumula una recuperación del 13,68% en los últimos 14 días. La memecoin sigue un 94,43% por debajo de su máximo histórico, con una capitalización de mercado de USD $2,86 mil millones. Aunque ha habido una recuperación en el corto plazo, el token sigue lejos de su máximo histórico. Los inversores deben considerar las tendencias a largo plazo y los factores fundamentales que podrían influir en el valor del token. La volatilidad del mercado y las noticias relacionadas con el token pueden influir en su valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/shiba-inu-shib-se-recupera-en-el-corto-plazo-pero-sigue-lejos-de-su-maximo-historico/"
+    },
+    {
+        "fecha": "04/08/2026",
+        "titulo": "Avalanche (AVAX) repunta 1,67%",
+        "gancho": "AVAX sube 1,67%",
+        "contenido_completo": "Avalanche (AVAX) sube 1,67% en 24 horas, pero el token sigue muy por debajo de sus medias clave y su máximo histórico. Con un soporte en $6,38 y una resistencia en $6,49, el mercado muestra signos de consolidación tras una fuerte caída. La pregunta es si este repunte es el inicio de una reversión o si se trata de un espejismo. Los inversores deben analizar las tendencias técnicas y los fundamentos del token para determinar su potencial a largo plazo. La volatilidad del mercado y las noticias relacionadas con el token pueden influir en su valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/avalanche-avax-repunta-167-inicio-de-reversion-o-espejismo/"
+    },
+    {
+        "fecha": "04/08/2026",
+        "titulo": "Sui se hunde 87% desde su máximo histórico",
+        "gancho": "Sui cae 87%",
+        "contenido_completo": "Sui (SUI) cotiza en USD $0,685, un 87% por debajo de su máximo histórico, con un volumen diario que se contrajo 43% frente al promedio de 30 días. El análisis técnico muestra una tendencia bajista de mediano plazo, pero el precio se acerca a soportes críticos que podrían ser decisivos para su futuro. La pregunta es si esta caída representa una oportunidad de compra o si el token continuará en una caída libre. Los inversores deben considerar cuidadosamente los factores técnicos y fundamentales antes de tomar decisiones. La situación del mercado y las noticias relacionadas con el token pueden influir en su valor.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/sui-se-hunde-87-desde-su-maximo-historico-oportunidad-de-compra-o-caida-libre/"
+    },
+    {
+        "fecha": "04/08/2026",
+        "titulo": "CRO se hunde 94% desde su máximo histórico",
+        "gancho": "CRO cae 94%",
+        "contenido_completo": "El token CRO de Crypto.com cotiza en USD $0,054, un 94,40% por debajo de su máximo histórico de USD $0,967755 alcanzado en noviembre de 2021. Con una capitalización de USD $2,56 millones y un volumen de trading diario que se ha desplomado más de un 73% en comparación con el promedio de 30 días. Esto plantea dudas sobre el futuro del token y su capacidad para recuperarse. La situación actual del mercado y la falta de confianza en el token pueden ser factores clave en su declive. Es importante considerar las tendencias del mercado y las estrategias de inversión antes de tomar decisiones.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cro-se-hunde-94-desde-su-maximo-historico-que-queda-del-token-de-crypto-com/"
+    },
+    {
         "fecha": "03/08/2026",
         "titulo": "FIL cae a niveles mínimos",
         "gancho": "Filecoin se desploma un 1,27%",
