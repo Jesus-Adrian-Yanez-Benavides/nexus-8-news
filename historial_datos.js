@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "05/08/2026",
+        "titulo": "Jóvenes en Córdoba",
+        "gancho": "59% quiere quedarse",
+        "contenido_completo": "Córdoba es la provincia española donde más jóvenes de bachillerato quieren desarrollar su carrera profesional en su propia tierra, con un 59% que prefiere quedarse en su provincia para trabajar, la cifra más alta de España. Esto según un estudio elaborado por la consultora, que analiza las tendencias laborales entre los jóvenes. La retención de talento en las provincias puede tener un impacto significativo en el desarrollo económico y social de la región.",
+        "categoria": "Economía",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/espana/andalucia/cordoba/jovenes-cordoba-quiere-trabajar-provincia-cifra-alta-20260804122153-nts.html"
+    },
+    {
+        "fecha": "05/08/2026",
+        "titulo": "Ayudas para coches eléctricos",
+        "gancho": "350 millones de euros",
+        "contenido_completo": "El programa Auto + para la compra de coches eléctricos ha abierto su plazo de solicitud, con un presupuesto de 350 millones de euros. Esto busca impulsar la adopción de vehículos eléctricos en el país, reduciendo la dependencia de los combustibles fósiles y disminuyendo la contaminación ambiental. La medida también puede influir en el mercado de ocasión, donde las marcas chinas están ajustando a la baja los precios de los vehículos electrificados.",
+        "categoria": "Medio Ambiente",
+        "impacto": "alto",
+        "fuente_nombre": "Lavozdegalicia.es",
+        "fuente_url": "https://www.lavozdegalicia.es/noticia/economia/2026/08/04/abre-plazo-solicitar-ayudas-programa-auto-compra-coches-electricos-dotado-350-millones-euros/00031785836055083926242.htm"
+    },
+    {
+        "fecha": "05/08/2026",
+        "titulo": "Cardano se dispara",
+        "gancho": "Cardano sube 4,88%",
+        "contenido_completo": "Cardano (ADA) ha subido un 4,88% en las últimas 24 horas, acumulando un avance del 19,93% en la última semana, con un volumen diario un 120% superior a su media de 30 días. A pesar de la fuerte caída anual, el activo muestra señales de recuperación técnica. Expertos analizarán los indicadores para determinar si este repunte es el comienzo de una tendencia alcista o simplemente una corrección temporal.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/cardano-ada-se-dispara-un-488-y-rompe-resistencia-clave/"
+    },
+    {
+        "fecha": "05/08/2026",
+        "titulo": "Hombre encuentra familia biológica",
+        "gancho": "Abandonado al nacer",
+        "contenido_completo": "David Stevenson fue encontrado en un edificio de Londres en 1960, antes de ser adoptado. Después de 65 años, logró encontrar a su familia biológica, lo que ha sido un proceso emocional para él. Stevenson ha expresado sentimientos de compasión hacia su madre biológica, quien hizo lo mejor que pudo en su momento. Esta historia conmovedora destaca la importancia de la conexión familiar y la búsqueda de raíces.",
+        "categoria": "Sociedad",
+        "impacto": "alto",
+        "fuente_nombre": "BBC News",
+        "fuente_url": "https://www.bbc.com/mundo/articles/c141ppn38vvo"
+    },
+    {
+        "fecha": "05/08/2026",
+        "titulo": "Chainlink busca soporte",
+        "gancho": "Chainlink cae 1,18%",
+        "contenido_completo": "Chainlink retrocede 1,18% en las últimas 24 horas, cotizando en USD $8,15, con un soporte clave en $8,12 que los bajistas intentan romper. La criptomoneda acumula una caída de 51% en el último año y pierde terreno frente a sus promedios móviles, pero un volumen diario significativo puede indicar un punto de inflexión. Los inversores están atentos a los movimientos de Chainlink, esperando una señal de recuperación o una mayor caída.",
+        "categoria": "Criptomonedas",
+        "impacto": "bajo",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/chainlink-cae-118-mientras-busca-soporte-en-812/"
+    },
+    {
         "fecha": "04/08/2026",
         "titulo": "SK Hynix logra la triple corona",
         "gancho": "SK Hynix mejora",
