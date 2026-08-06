@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "06/08/2026",
+        "titulo": "Bitcoin en una semana de alta volatilidad",
+        "gancho": "Bitcoin enfrenta volatilidad",
+        "contenido_completo": "Bitcoin (BTC) enfrenta una semana de alta volatilidad. En un entorno de datos limitados, el análisis de Bitcoin (BTC) se centra en la incertidumbre y la prudencia. A pesar de la falta de cifras concretas, la adopción institucional y la volatilidad intrínseca mantienen a BTC como un activo especulativo de alto riesgo. La situación de Bitcoin es incierta y requiere una atención cercana por parte de los inversores. La volatilidad de Bitcoin puede ser una oportunidad para algunos inversores, pero también puede ser un riesgo significativo.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/bitcoin-btc-enfrenta-una-semana-de-alta-volatilidad-el-fecha/"
+    },
+    {
+        "fecha": "06/08/2026",
+        "titulo": "Elon Musk y la IA",
+        "gancho": "Musk cuestiona la IA",
+        "contenido_completo": "Manuel J. Molano analiza la entrevista de Elon Musk con The Economist y cuestiona la promesa de abundancia de la IA y sus riesgos sociales y económicos. La entrevista de Musk genera un debate importante sobre el futuro de la inteligencia artificial y sus posibles consecuencias. La opinión de Musk sobre la IA es controvertida y requiere una evaluación cuidadosa. La discusión sobre la IA y sus riesgos es fundamental para entender el futuro de la tecnología.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "El Financiero",
+        "fuente_url": "https://www.elfinanciero.com.mx/opinion/manuel-molano/2026/08/05/el-trillonario-y-la-periodista/"
+    },
+    {
+        "fecha": "06/08/2026",
+        "titulo": "Alianza entre Multiverse y Qualcomm",
+        "gancho": "Multiverse y Qualcomm unen fuerzas",
+        "contenido_completo": "La española Multiverse Computing trabará en IA para centros de datos con Qualcomm. En base a esta alianza, los modelos de Multiverse Computing estarán especializados para los aceleradores Qualcomm Dragonfly AI200 y AI250. Esta alianza puede ser un paso importante para el desarrollo de la inteligencia artificial en centros de datos. La colaboración entre Multiverse y Qualcomm puede llevar a innovaciones significativas en el campo de la IA.",
+        "categoria": "IA",
+        "impacto": "bajo",
+        "fuente_nombre": "Silicon.es",
+        "fuente_url": "https://www.silicon.es/la-espanola-multiverse-computing-trabara-en-ia-para-centros-de-datos-con-qualcomm-2582748"
+    },
+    {
+        "fecha": "06/08/2026",
+        "titulo": "Sui en caída libre",
+        "gancho": "Sui cae 87%",
+        "contenido_completo": "Sui sigue hundido en un mercado bajista, perdiendo un 87% desde su máximo histórico. A pesar de la moderación en la caída diaria, las señales técnicas siguen siendo débiles. Analizamos si es momento de comprar, vender o esperar. La situación de Sui es alarmante y requiere una evaluación cuidadosa por parte de los inversores. La caída de Sui puede ser una oportunidad para algunos inversores, pero también puede ser un riesgo significativo.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/sui-se-hunde-un-87-desde-su-maximo-historico-que-esperar/"
+    },
+    {
+        "fecha": "06/08/2026",
+        "titulo": "Avalanche en caída",
+        "gancho": "Avalanche cae 3.24%",
+        "contenido_completo": "Avalanche (AVAX) cotiza en $6,66 con una caída del 3,24% en las últimas 24 horas, mientras los inversores evalúan si el soporte en $6,61 se mantiene. A pesar de un repunte semanal del 3,66%, la tendencia de largo plazo sigue siendo bajista, con una pérdida de valor significativa. Los inversores están a la espera de una posible recuperación o una mayor caída. La situación actual de Avalanche es crítica y requiere una atención cercana por parte de los inversores.",
+        "categoria": "Criptomonedas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/analisis/avalanche-cae-3-24-y-se-acerca-a-soportes-clave/"
+    },
+    {
         "fecha": "05/08/2026",
         "titulo": "Jóvenes en Córdoba",
         "gancho": "59% quiere quedarse",
