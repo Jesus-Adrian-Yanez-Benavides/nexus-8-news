@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "07/08/2026",
+        "titulo": "TeraWulf y HPC",
+        "gancho": "Ingresos por HPC superan minería",
+        "contenido_completo": "TeraWulf reporta que los ingresos por arrendamiento de HPC crecen 52% y ahora representan el 71% del total, superando a la minería de bitcoin. La empresa amplía su capacidad y firma contratos multimillonarios con Google y Anthropic. La creciente demanda de capacidad de procesamiento de alta velocidad y bajo consumo de energía ha llevado a TeraWulf a expandir su oferta de servicios de HPC. La empresa está invirtiendo en la adquisición de nuevos equipos y en la mejora de su infraestructura para satisfacer las necesidades de sus clientes. La firma de contratos con empresas líderes como Google y Anthropic es un reconocimiento de la calidad y la capacidad de TeraWulf para ofrecer servicios de HPC de alta calidad. La empresa está bien posicionada para seguir creciendo y expandiendo su presencia en el mercado de HPC, y está explorando oportunidades para ofrecer sus servicios a una variedad de industrias y aplicaciones. La expansión de la capacidad de HPC de TeraWulf también permitirá a la empresa ofrecer servicios más avanzados y personalizados a sus clientes, lo que ayudará a impulsar la innovación y el crecimiento en una variedad de sectores.",
+        "categoria": "HPC",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/mineria/terawulf-los-ingresos-por-hpc-superan-a-la-mineria-de-bitcoin/"
+    },
+    {
+        "fecha": "07/08/2026",
+        "titulo": "Control de Velocidad",
+        "gancho": "Tecnología para controlar velocidad",
+        "contenido_completo": "La velocidad inadecuada se ha consolidado como una de las principales lacras en las carreteras españolas. En 2024 estuvo presente en 307 siniestros mortales, lo que supuso el 22 % del total de fallecidos en el ámbito de la Dirección General de Tráfico (DGT). Para abordar este problema, la DGT estrena tecnología para controlar la velocidad máxima este verano. La nueva tecnología permitirá a las autoridades monitorear y controlar la velocidad de los vehículos en tiempo real, lo que ayudará a reducir el número de accidentes y a mejorar la seguridad vial. La tecnología también permitirá a los conductores recibir alertas y advertencias cuando excedan la velocidad permitida, lo que les dará la oportunidad de ajustar su velocidad y evitar multas. La implementación de esta tecnología es un paso importante hacia la creación de carreteras más seguras y la reducción de la cantidad de accidentes y víctimas mortales. La DGT está trabajando en estrecha colaboración con las autoridades locales y regionales para asegurarse de que la tecnología se implemente de manera efectiva y se ajuste a las necesidades de cada área.",
+        "categoria": "Seguridad Vial",
+        "impacto": "alto",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/motor/reportajes/dgt-estrena-tecnologia-controlar-velocidad-maxima-verano-20260806104600-nt.html"
+    },
+    {
+        "fecha": "07/08/2026",
+        "titulo": "Elon Musk y el Futuro",
+        "gancho": "¿Cuánto tiempo puede perder dinero?",
+        "contenido_completo": "¿Cuánto tiempo puede una empresa perder dinero a una velocidad absurda, mientras se dedica a prometer milagros y a hablar de un futuro maravilloso? La respuesta más honesta es: mientras el mercado siga creyendo que esas pérdidas no son un agujero sin fondo. Elon Musk es un ejemplo de cómo una empresa puede mantenerse a flote gracias a la fe de los inversores y la expectativa de un futuro brillante. Sin embargo, es importante recordar que la realidad económica puede ser cruel y que las pérdidas pueden acumularse rápidamente. La clave para el éxito es encontrar un equilibrio entre la innovación y la rentabilidad, y asegurarse de que las promesas se cumplan con resultados tangibles. La historia de Musk y sus empresas es un recordatorio de que el éxito no es garantizado y que la prudencia y la planificación son fundamentales para navegar los desafíos del mercado. A medida que las empresas siguen innovando y creciendo, es importante mantener los pies en la tierra y no perder de vista la realidad económica. La fe en el futuro es importante, pero no debe reemplazar la prudencia y la responsabilidad fiscal.",
+        "categoria": "Emprendimiento",
+        "impacto": "bajo",
+        "fuente_nombre": "Enriquedans.com",
+        "fuente_url": "https://www.enriquedans.com/2026/08/elon-musk-y-el-privilegio-de-cobrar-hoy-por-los-milagros-de-manana.html"
+    },
+    {
+        "fecha": "07/08/2026",
+        "titulo": "Desarrollo de Chips de IA",
+        "gancho": "Anthropic crea equipo para chips de IA",
+        "contenido_completo": "Anthropic pretende desarrollar chips propios diseñados para impulsar sus modelos de inteligencia artificial (IA) Claude y, así, enfrentar la creciente demanda de esta tecnología. La empresa está buscando ingenieros que conformen un nuevo equipo de desarrollo para trabajar en este proyecto ambicioso. El objetivo es crear chips que sean capaces de procesar grandes cantidades de datos de manera eficiente y efectiva, lo que permitiría a Claude ofrecer servicios de IA más avanzados y personalizados. La creación de chips propios también permitiría a Anthropic tener un mayor control sobre la tecnología y reducir su dependencia de proveedores externos. Esto podría ser un paso importante hacia el desarrollo de soluciones de IA más avanzadas y accesibles para una variedad de industrias y aplicaciones. La empresa está invirtiendo significativamente en este proyecto y espera que los nuevos chips estén disponibles en un plazo de unos pocos años. El equipo de desarrollo estará compuesto por expertos en diseño de chips, ingeniería de software y ciencia de datos, y trabajará en estrecha colaboración con otros departamentos de la empresa para asegurarse de que los chips se ajusten a las necesidades de los clientes y del mercado.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/portaltic/sector/noticia-anthropic-trabaja-desarrollo-propios-chips-ia-claude-conformando-nuevo-equipo-interno-20260806104648.html"
+    },
+    {
+        "fecha": "07/08/2026",
+        "titulo": "La Evolución Humana",
+        "gancho": "Nuestra supervivencia no está asegurada",
+        "contenido_completo": "Fósiles, genética y nuevos estudios desmontan la idea de una evolución humana lineal y predestinada. Otras especies fabricaron herramientas, dominaron entornos extremos y prosperaron durante milenios antes de desaparecer. Nuestra supervivencia tampoco está asegurada. La historia de la humanidad es compleja y llena de ramas evolutivas que han surgido y desaparecido a lo largo del tiempo. Es importante entender que no somos la única especie que ha alcanzado un alto nivel de desarrollo y que nuestra existencia no es garantizada. La evolución es un proceso continuo y dinámico que puede llevar a la emergencia de nuevas especies y a la desaparición de otras. Es fundamental que comprendamos nuestra lugar en el mundo natural y que tomemos medidas para proteger nuestro planeta y asegurar nuestro futuro. La evolución humana es un tema fascinante que sigue siendo objeto de estudio y debate en la comunidad científica. A medida que avanzamos en nuestra comprensión del pasado y del presente, podemos trabajar hacia un futuro más sostenible y próspero para todos. La cooperación y la conservación son clave para asegurar el bienestar de nuestra especie y del planeta en general.",
+        "categoria": "Evolución",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/homo-sapiens-la-especie-que-creyo-ser-el-final-de-la-historia-pero-solo-fue-un-capitulo-mas-tal-vez-tampoco-los-ultimos-2000200055"
+    },
+    {
         "fecha": "06/08/2026",
         "titulo": "Bitcoin en una semana de alta volatilidad",
         "gancho": "Bitcoin enfrenta volatilidad",
