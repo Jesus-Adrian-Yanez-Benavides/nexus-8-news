@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "08/08/2026",
+        "titulo": "Eclipse Solar Total",
+        "gancho": "Experiencia cósmica",
+        "contenido_completo": "El próximo eclipse solar total será una experiencia compartida que nos conecta con el universo. La Agencia Espacial Europea (ESA) organizará una serie de actividades en torno al eclipse, combinando divulgación científica, participación ciudadana y recursos educativos. El eclipse solar total es un evento astronómico raro y emocionante que atrae a personas de todo el mundo. La ESA busca fomentar el interés y la curiosidad por la astronomía y la ciencia en general. Las actividades incluirán observaciones del eclipse, charlas de expertos y talleres para todos los niveles. El eclipse solar total es una oportunidad única para aprender y disfrutar de la belleza del universo.",
+        "categoria": "Ciencia",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/07/ciencias/a06n1cie"
+    },
+    {
+        "fecha": "08/08/2026",
+        "titulo": "Nuevas Pruebas para Aspirantes",
+        "gancho": "Nuevas pruebas",
+        "contenido_completo": "La UNAM ha anunciado que los aspirantes a una licenciatura tendrán que presentar un nuevo examen debido a fallas en el proceso de admisión. Esto ha generado un debate sobre la justicia y la equidad del sistema. Algunos argumentan que el nuevo examen es una oportunidad para que los aspirantes demuestren sus habilidades y conocimientos, mientras que otros creen que es un obstáculo adicional que puede afectar negativamente a los estudiantes. La situación ha generado una gran preocupación entre los aspirantes y sus familias. La UNAM debe garantizar que el proceso de admisión sea justo y transparente para todos los aspirantes.",
+        "categoria": "Educación",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/07/opinion/006o1eco"
+    },
+    {
+        "fecha": "08/08/2026",
+        "titulo": "El Poder de las Citas",
+        "gancho": "Palabras sabias",
+        "contenido_completo": "Las citas son una forma poderosa de expresar ideas y sentimientos. Personas brillantes a lo largo de la historia han utilizado citas para transmitir mensajes profundos y significativos. Las citas pueden ser irónicas, paradójicas o cínicas, pero siempre contienen una verdad profunda. La capacidad de decir mucho con pocas palabras es un arte que pocos dominan. Las citas pueden inspirar, motivar y hacer reflexionar. Son una forma de conectar con los demás y de compartir experiencias y perspectivas. La elección de las palabras adecuadas puede hacer que una cita sea inolvidable y tenga un impacto duradero.",
+        "categoria": "Cultura",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/xlsemanal/firmas/carmen-posadas/carmen-posadas-triunfo-gonadas-20260803102817-ntrc.html"
+    },
+    {
+        "fecha": "08/08/2026",
+        "titulo": "Marcas Chinas en el Mercado Español",
+        "gancho": "20% de ventas",
+        "contenido_completo": "Las marcas chinas están ganando terreno en el mercado español. Marcas como BYD, MG, Ebro, Omoda y Jaecoo representan ya el 20% de todas las ventas de coches en el canal de particulares. Esto se debe a la creciente demanda de vehículos más asequibles y eficientes. La presencia de estas marcas en el mercado español ha generado una mayor competencia, lo que beneficia a los consumidores. La calidad y el precio de los vehículos chinos han mejorado significativamente en los últimos años, lo que los hace más atractivos para los compradores. La tendencia hacia la electrificación y la sostenibilidad también juega a favor de las marcas chinas.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Expansion.com",
+        "fuente_url": "https://www.expansion.com/empresas/motor/2026/08/07/6a7583e0468aeb64158b458c.html"
+    },
+    {
+        "fecha": "08/08/2026",
+        "titulo": "La Torre del Reloj de Aguilar de la Frontera",
+        "gancho": "Monumento histórico",
+        "contenido_completo": "La torre del reloj de Aguilar de la Frontera es uno de los monumentos más venerados del pueblo. Con 32 metros de altura y dos campanas, su construcción concluyó en 1774. Instalado en el siglo XIV, es uno de los relojes en funcionamiento más antiguos de Europa. Su sonido es perceptible en todo el casco urbano. La torre del reloj es un símbolo de la rica historia del pueblo y atrae a visitantes de toda la región. Su arquitectura impresionante y su importancia histórica la convierten en un lugar emblemático. La torre del reloj de Aguilar de la Frontera es un testimonio de la ingeniería y la artesanía de la época.",
+        "categoria": "Historia",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/spin/32-metros-altura-campanas-torre-reloj-pueblo-cordobes-monumentos-venerados-pm_1_13433187.html"
+    },
+    {
         "fecha": "07/08/2026",
         "titulo": "TeraWulf y HPC",
         "gancho": "Ingresos por HPC superan minería",
