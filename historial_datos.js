@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "09/08/2026",
+        "titulo": "Estanislao Bachrach",
+        "gancho": "Intuición y neurociencia",
+        "contenido_completo": "Estanislao Bachrach es un biólogo molecular que ha dedicado su carrera a estudiar la importancia de la intuición y el cuerpo en la plenitud personal. Según Bachrach, la intuición es una herramienta poderosa que puede ayudarnos a alcanzar nuestra plenitud personal y a reducir el malestar mental. Bachrach también ha desarrollado técnicas para transformar la estructura cerebral y reducir el estrés y la ansiedad. La neurociencia es un campo que ha avanzado mucho en los últimos años, y Bachrach es uno de los expertos más destacados en este campo. Su trabajo ha ayudado a muchas personas a entender mejor la importancia de la intuición y el cuerpo en la salud mental. La capacidad de transformar la estructura cerebral y reducir el malestar mental es una característica destacada del trabajo de Bachrach, lo que lo hace una excelente opción para aquellos que buscan mejorar su salud mental. Además, la importancia de la intuición y el cuerpo en la plenitud personal también es una característica destacada del trabajo de Bachrach, lo que lo hace una excelente opción para aquellos que buscan alcanzar su plenitud personal.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-especialista-en-neurociencia-los-mejores-analgesicos-estan-en-el-estomago-nid08082026/"
+    },
+    {
+        "fecha": "09/08/2026",
+        "titulo": "Gafas inteligentes",
+        "gancho": "Gafas revolucionarias",
+        "contenido_completo": "Las gafas inteligentes son un dispositivo que está revolucionando la forma en que escuchamos música, grabamos y nos comunicamos. Estas gafas ofrecen una variedad de funciones, como la reproducción de audio de alta calidad, la grabación de sonido y la conectividad Bluetooth. Además, algunas gafas inteligentes también ofrecen funciones como la realidad aumentada y la navegación por voz. La tecnología de gafas inteligentes ha avanzado mucho en los últimos años, lo que las ha hecho más accesibles y asequibles para el público en general. Estas gafas son ideales para aquellos que buscan una forma más cómoda y práctica de escuchar música o grabar sonido. La calidad de sonido y la comodidad de estas gafas las hacen una excelente opción para aquellos que buscan una experiencia de audio inmersiva. Además, la capacidad de personalizar y configurar estas gafas también es una característica destacada, lo que las hace una excelente opción para aquellos que buscan una experiencia de audio personalizada.",
+        "categoria": "Gadgets",
+        "impacto": "alto",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elrecomendador/tecnologia/20260808/1004213916/gafas-inteligentes-no-son-futuro-modelos-revolucionando-forma-escuchar-musica-grabar-comunicarte-mkt-alie.html"
+    },
+    {
+        "fecha": "09/08/2026",
+        "titulo": "OneOdio Studio Max 2",
+        "gancho": "Auriculares profesionales",
+        "contenido_completo": "Los auriculares OneOdio Studio Max 2 son un dispositivo diseñado para profesionales de la música y el audio. Estos auriculares ofrecen una latencia de 9 ms, lo que significa que el sonido se reproduce de manera casi instantánea. Además, el códec LDAC permite una transmisión de audio de alta calidad, lo que resulta en un sonido más claro y detallado. La batería de 120 horas de duración también es una característica destacada de estos auriculares, lo que los hace ideales para sesiones de grabación o reproducción de audio prolongadas. Los OneOdio Studio Max 2 son compatibles con el ecosistema Apple, lo que los hace una excelente opción para aquellos que utilizan dispositivos de Apple. La calidad de sonido y la comodidad de estos auriculares los hacen una excelente opción para profesionales y aficionados a la música. Además, la durabilidad y la construcción de estos auriculares también son destacables, lo que los hace una inversión a largo plazo para aquellos que buscan una excelente calidad de sonido.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Actualidadiphone.com",
+        "fuente_url": "https://www.actualidadiphone.com/review-oneodio-studio-max-2/"
+    },
+    {
+        "fecha": "09/08/2026",
+        "titulo": "Sensor de 200 MP con OIS del Note 15 Pro",
+        "gancho": "Fotos nítidas",
+        "contenido_completo": "El sensor de 200 MP con OIS del Note 15 Pro es una de las características más destacadas de este dispositivo. Esta tecnología permite tomar fotos de alta calidad, incluso en condiciones de poca luz o con movimiento. La estabilización óptica de imagen (OIS) ayuda a reducir el movimiento de la cámara, lo que resulta en fotos más nítidas y claras. Esto es especialmente útil cuando se toman fotos en conciertos o vacaciones, donde el movimiento y la luz pueden ser un desafío. El Note 15 Pro es un dispositivo que ofrece una excelente calidad de cámara, lo que lo hace ideal para aquellos que disfrutan de la fotografía. La combinación de un sensor de alta resolución con OIS hace que este dispositivo sea una excelente opción para aquellos que buscan tomar fotos de alta calidad en una variedad de situaciones. Además, la capacidad de grabar videos en alta definición y con estabilización de imagen también es una característica destacada de este dispositivo.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Www.abc.es",
+        "fuente_url": "https://www.abc.es/favorito/electronica/moviles-smartphones/para-fotos-de-conciertos-y-vacaciones-20260805091938-nt.html"
+    },
+    {
+        "fecha": "09/08/2026",
+        "titulo": "Liquidación de teles en El Corte Inglés",
+        "gancho": "Teles baratas",
+        "contenido_completo": "El Corte Inglés ofrece una variedad de teles reacondicionadas de marcas como Samsung, Sony y LG a precios muy ajustados. Estos dispositivos pueden ser una excelente opción para aquellos que buscan una buena calidad a un precio razonable. La tienda online de El Corte Inglés suele tener una gran selección de productos reacondicionados, lo que puede ser beneficioso para los consumidores que buscan ahorrar dinero. Sin embargo, es importante tener en cuenta que los productos reacondicionados pueden tener algunas limitaciones en cuanto a garantía y soporte técnico. A pesar de esto, muchos de estos dispositivos pueden ofrecer un rendimiento similar al de los productos nuevos, lo que los hace una opción atractiva para muchos compradores. La liquidación de teles en El Corte Inglés es una oportunidad excelente para aquellos que buscan actualizar su televisor sin gastar demasiado dinero.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/seleccion/liquidacion-teles-outlet-online-corte-ingles-marcas-samsung-sony-lg"
+    },
+    {
         "fecha": "08/08/2026",
         "titulo": "Eclipse Solar Total",
         "gancho": "Experiencia cósmica",
