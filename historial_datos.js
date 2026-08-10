@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "10/08/2026",
+        "titulo": "La ley sobre muestras de ADN y huellas dactilares",
+        "gancho": "Conoce tus derechos",
+        "contenido_completo": "La ley sobre muestras de ADN y huellas dactilares es un tema importante en la actualidad. En Estados Unidos, el FBI y el DHS tienen la autoridad para recopilar y analizar muestras de ADN y huellas dactilares para fines de seguridad nacional y aplicación de la ley. Sin embargo, es fundamental entender qué dice la ley sobre estas muestras y quiénes deben proporcionarlas. La ley establece que ciertas personas, como los extranjeros que solicitan visados o los individuos que han sido condenados por delitos graves, deben proporcionar muestras de ADN y huellas dactilares. Sin embargo, también hay protecciones en lugar para garantizar que las muestras se recopilen y analicen de manera justa y segura. Es importante que los individuos comprendan sus derechos y obligaciones en cuanto a las muestras de ADN y huellas dactilares. La ley también establece procedimientos para la recopilación, el almacenamiento y el análisis de las muestras, y hay sanciones para aquellos que no cumplan con estos procedimientos. En resumen, la ley sobre muestras de ADN y huellas dactilares es compleja, pero es fundamental que los individuos comprendan sus derechos y obligaciones para garantizar que se respeten sus libertades civiles.",
+        "categoria": "Derecho",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/estados-unidos/noticias-del-fbi-y-el-dhs-que-dice-la-ley-en-eeuu-sobre-las-muestras-de-adn-y-huellas-dactilares-nid09082026/"
+    },
+    {
+        "fecha": "10/08/2026",
+        "titulo": "Un libro sobre eclipses solares y lunares",
+        "gancho": "Aprende sobre eclipses",
+        "contenido_completo": "Un libro recientemente publicado por el CSIC explora de manera 'sencilla y rigurosa' todo lo que ocurre durante los eclipses solares y lunares. El libro, titulado 'Eclipses', es una guía completa para entender estos fenómenos astronómicos. Los eclipses solares y lunares son eventos naturales que han fascinado a la humanidad durante siglos. Sin embargo, muchos de nosotros no entendemos completamente lo que sucede durante estos eventos. El libro del CSIC busca cambiar esto, proporcionando una explicación clara y concisa de los eclipses. El libro cubre temas como la astronomía básica, la física de los eclipses y la historia de la observación de estos eventos. También incluye información sobre los eclipses que se podrán observar desde la Península Ibérica en los próximos años. El libro es una excelente fuente de información para aquellos que desean aprender más sobre los eclipses solares y lunares. En resumen, el libro 'Eclipses' es una guía completa y accesible para entender estos fenómenos astronómicos, y es una excelente opción para aquellos que desean aprender más sobre la astronomía.",
+        "categoria": "Astronomía",
+        "impacto": "bajo",
+        "fuente_nombre": "Europapress.es",
+        "fuente_url": "https://www.europapress.es/ciencia/laboratorio/noticia-libro-csic-explica-manera-sencilla-rigurosa-todo-ocurre-eclipses-solares-lunares-20260809110012.html"
+    },
+    {
+        "fecha": "10/08/2026",
+        "titulo": "Cómo buscar cargadores para vehículos eléctricos",
+        "gancho": "No te quedes sin energía",
+        "contenido_completo": "La búsqueda de cargadores para vehículos eléctricos es una tarea importante para los propietarios de coches eléctricos. Con la creciente popularidad de los vehículos eléctricos, es fundamental tener acceso a cargadores convenientes y eficientes. Google Maps es una herramienta útil para encontrar cargadores para vehículos eléctricos. La aplicación permite a los usuarios buscar cargadores en su área y obtener direcciones precisas para llegar a ellos. Además, Google Maps también proporciona información sobre la disponibilidad y el tipo de cargador, lo que ayuda a los conductores a planificar sus rutas de manera efectiva. La búsqueda de cargadores para vehículos eléctricos es un proceso sencillo y rápido con Google Maps. Los usuarios pueden simplemente ingresar su ubicación y seleccionar la opción de 'cargadores para vehículos eléctricos' para obtener una lista de resultados. La aplicación también permite a los usuarios filtrar los resultados por tipo de cargador y distancia, lo que facilita la búsqueda de un cargador conveniente. En resumen, la búsqueda de cargadores para vehículos eléctricos es una tarea importante para los propietarios de coches eléctricos, y Google Maps es una herramienta útil para encontrar cargadores convenientes y eficientes.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Trecebits.com",
+        "fuente_url": "https://www.trecebits.com/como-buscar-cargadores-vehiculos-electricos-google-maps/"
+    },
+    {
+        "fecha": "10/08/2026",
+        "titulo": "La invención del paseo para perros",
+        "gancho": "Una idea que conquistó las calles",
+        "contenido_completo": "La idea de Mary A. Delaney para pasear a los perros fue una invención que revolucionó la forma en que los dueños de mascotas interactúan con sus compañeros caninos. En un momento en que las autoridades se preocupaban por la presencia de perros sueltos en las calles, Mary A. Delaney encontró una solución práctica y segura. Su invención permitió a los dueños de perros disfrutar de paseos seguros y saludables con sus mascotas, mientras que también ayudó a reducir los problemas de seguridad y sanidad en las ciudades. La idea de Mary A. Delaney fue un éxito y pronto se convirtió en una práctica común en muchas ciudades. Hoy en día, el paseo para perros es una actividad popular que permite a los dueños de mascotas disfrutar de tiempo de calidad con sus compañeros caninos. La invención de Mary A. Delaney ha tenido un impacto duradero en la forma en que interactuamos con nuestros perros y ha mejorado la calidad de vida de muchas mascotas. En resumen, la invención del paseo para perros ha sido una contribución significativa a la sociedad, permitiendo a los dueños de mascotas disfrutar de paseos seguros y saludables con sus perros.",
+        "categoria": "Historia",
+        "impacto": "bajo",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/spin/idea-mary-delaney-pasear-perros-sobrevivio-olvido-termino-conquistando-calles-decadas-despues-pm_1_13357570.html"
+    },
+    {
+        "fecha": "10/08/2026",
+        "titulo": "Evolución del trazado de rayos en gaming",
+        "gancho": "Tecnología que revoluciona el gaming",
+        "contenido_completo": "El trazado de rayos no es una tecnología nueva, pero su evolución ha sido clave en la diferenciación del gaming en PC y consola. Desde sus inicios, esta tecnología ha ido mejorando, permitiendo gráficos más realistas y experiencias de juego más inmersivas. En la actualidad, el trazado de rayos es una característica fundamental en los juegos de PC y consola de alta gama. Su impacto en la industria del gaming ha sido significativo, permitiendo a los desarrolladores crear mundos y personajes más detallados y realistas. La evolución del trazado de rayos ha sido constante, con mejoras en la velocidad y la calidad de la renderización. Esto ha permitido a los jugadores disfrutar de experiencias de juego más inmersivas y realistas. En resumen, el trazado de rayos ha sido una tecnología clave en la evolución del gaming, permitiendo la creación de gráficos más realistas y experiencias de juego más inmersivas.",
+        "categoria": "Gaming",
+        "impacto": "alto",
+        "fuente_nombre": "Muycomputer.com",
+        "fuente_url": "https://www.muycomputer.com/2026/08/09/evolucion-del-trazado-de-rayos-la-tecnologia-que-diferencio-el-gaming-en-pc-del-gaming-en-consola/"
+    },
+    {
         "fecha": "09/08/2026",
         "titulo": "Estanislao Bachrach",
         "gancho": "Intuición y neurociencia",
