@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "11/08/2026",
+        "titulo": "IA, el petróleo del siglo XXI",
+        "gancho": "IA y productividad",
+        "contenido_completo": "La inteligencia artificial (IA) se ha convertido en el principal activo en los mercados financieros, y se la considera el petróleo del siglo XXI. La IA tiene el potencial de aumentar la productividad y cambiar la forma en que vivimos y trabajamos. Sin embargo, también plantea desafíos y riesgos, como la pérdida de empleos y la concentración de la riqueza en manos de unos pocos. La IA es un tema complejo y multifacético, y su impacto en la sociedad y la economía es innegable. La especulación sobre la IA como promesa y amenaza para el trabajo de millones de personas es un tema que requiere un análisis profundo y una acción urgente.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/10/economia/016n1eco"
+    },
+    {
+        "fecha": "11/08/2026",
+        "titulo": "Auge de la industria petrolera",
+        "gancho": "Ganancias masivas",
+        "contenido_completo": "La industria petrolera ha experimentado un auge en el segundo trimestre de 2026, a pesar de las interrupciones en Medio Oriente. Las grandes empresas petroleras han reportado ganancias masivas, lo que se debe a la demanda y los precios elevados de los energéticos. Esto ha llevado a un aumento en la producción y la exploración de nuevos yacimientos petroleros. La industria petrolera es un sector clave en la economía global, y su impacto en el medio ambiente y la sociedad es significativo. La búsqueda de nuevas fuentes de energía y la reducción de la dependencia del petróleo son temas que requieren un análisis profundo y una acción urgente.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/10/economia/018n1eco"
+    },
+    {
+        "fecha": "11/08/2026",
+        "titulo": "Estrella roja sobre México",
+        "gancho": "Revolución china",
+        "contenido_completo": "El libro Estrella roja sobre México aborda los vínculos entre la revolución china y la política nacional en México. La revolución china ha sido un tema de interés y sorpresa en la historia, y su influencia en la política mexicana es un tema que requiere un análisis profundo. El periodista Luis Hernández Navarro ha escrito un libro que explora este tema y ofrece una perspectiva única sobre la relación entre la revolución china y la política mexicana. La revolución china ha sido un tema que ha capturado la imaginación de muchos, y su influencia en la política mundial es innegable. El libro de Hernández Navarro es una contribución valiosa a la comprensión de este tema.",
+        "categoria": "Política",
+        "impacto": "bajo",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/10/cultura/a02n1cul"
+    },
+    {
+        "fecha": "11/08/2026",
+        "titulo": "La estupidez humana y el futuro",
+        "gancho": "Estupidez humana",
+        "contenido_completo": "Yuval Noah Harari es tajante al afirmar que la estupidez humana es una de las fuerzas más poderosas de la historia. Sabemos que las armas nucleares pueden destruir la civilización y que la inteligencia artificial pronto excederá nuestra capacidad de controlarla. Esto nos lleva a reflexionar sobre el futuro de la humanidad y cómo podemos evitar que nuestra propia estupidez nos lleve a la destrucción. La inteligencia artificial es un tema cada vez más relevante en la actualidad, y debemos considerar sus implicaciones en nuestra sociedad. La relación entre la estupidez humana y el avance tecnológico es compleja y requiere un análisis profundo.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/10/economia/019a1eco"
+    },
+    {
+        "fecha": "11/08/2026",
+        "titulo": "La estupidez humana y el futuro",
+        "gancho": "Estupidez humana",
+        "contenido_completo": "Yuval Noah Harari es tajante al afirmar que la estupidez humana es una de las fuerzas más poderosas de la historia. Sabemos que las armas nucleares pueden destruir la civilización y que la inteligencia artificial pronto excederá nuestra capacidad de controlarla. Esto nos lleva a reflexionar sobre el futuro de la humanidad y cómo podemos evitar que nuestra propia estupidez nos lleve a la destrucción. La inteligencia artificial es un tema cada vez más relevante en la actualidad, y debemos considerar sus implicaciones en nuestra sociedad. La relación entre la estupidez humana y el avance tecnológico es compleja y requiere un análisis profundo.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/10/opinion/019a1eco"
+    },
+    {
         "fecha": "10/08/2026",
         "titulo": "La ley sobre muestras de ADN y huellas dactilares",
         "gancho": "Conoce tus derechos",
