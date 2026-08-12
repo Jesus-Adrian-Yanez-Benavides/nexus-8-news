@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "12/08/2026",
+        "titulo": "Banco Macro lanza banca por Whatsapp",
+        "gancho": "Banca por Whatsapp",
+        "contenido_completo": "Ya hay cerca de un millón de usuarios; entre otras cosas, se podrán hacer transferencias, consultar la información sobre las tarjetas de crédito, conocer los saldos y movimientos de cuentas e incluso pagar los servicios. El servicio de banca por Whatsapp del Banco Macro es una innovación que busca hacer la banca más accesible y conveniente para los clientes. Con la ayuda de la inteligencia artificial, los clientes pueden realizar diversas operaciones bancarias de manera rápida y segura a través de la aplicación de mensajería. Esto puede ser un paso importante para la banca digital en el país.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/economia/banco-macro-lanza-un-servicio-de-banca-por-whatsapp-que-permite-operar-con-ia-nid11082026/"
+    },
+    {
+        "fecha": "12/08/2026",
+        "titulo": "Caramelito Carrizo lanza álbum",
+        "gancho": "Álbum debut digital",
+        "contenido_completo": "La conductora rememora sus años frente al público infantil al lanzar por primera vez en plataformas digitales su álbum debut, La música de Caramelito en barra. El álbum es un recuerdo nostálgico para muchos que crecieron viendo sus programas, y ahora puede ser disfrutado por nuevas generaciones a través de plataformas digitales. Caramelito Carrizo comparte su emoción al lanzar este álbum y su gratitud hacia su marido y su hermano, que la han apoyado en su carrera. El álbum es una cuenta saldada para la conductora, que puede compartir su legado con un público más amplio.",
+        "categoria": "Entretenimiento",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/espectaculos/personajes/caramelito-carrizo-una-cuenta-saldada-el-recuerdo-de-su-hermano-y-la-emocion-compartida-con-su-nid11082026/"
+    },
+    {
+        "fecha": "12/08/2026",
+        "titulo": "Nuevo canal FAST en TDT",
+        "gancho": "Canal gratis en TDT",
+        "contenido_completo": "Hoy la TDT recibe un nuevo canal. Es gratis, utiliza la tecnología HbbTV y está dedicado a un tema de total actualidad: el eclipse solar de España. Más allá de su contenido 24 horas, es uno de los primeros pasos para hacer de la TDT un espacio mucho más interactivo y atractivo para los espectadores. El nuevo canal ofrece una variedad de programas y contenido, desde documentales hasta entretenimiento, y se puede acceder a través del botón rojo del mando a distancia. Esto puede ser un paso importante para revitalizar la TDT y ofrecer más opciones a los espectadores.",
+        "categoria": "Medios",
+        "impacto": "bajo",
+        "fuente_nombre": "Xatakamovil.com",
+        "fuente_url": "https://www.xatakamovil.com/multimedia/hoy-se-estrena-tdt-nuevo-canal-fast-gratis-encontraras-boton-rojo-tu-mando-a-distancia"
+    },
+    {
+        "fecha": "12/08/2026",
+        "titulo": "Netcapital acusada de fraude",
+        "gancho": "Fraude de valores",
+        "contenido_completo": "La SEC presentó una demanda civil contra Netcapital, acusándola de fraude de valores por inflar sus ingresos mediante contratos de consultoría falsos vinculados al cofundador de Napster, John Fanning. La empresa enfrenta posibles consecuencias legales y de exposición pública. La SEC afirma que Netcapital utilizó estos contratos falsos para inflar sus ingresos y engañar a los inversores. La empresa ha negado las acusaciones, pero la investigación sigue en curso. Esto puede tener un impacto significativo en la confianza de los inversores y en la reputación de la empresa.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/regulacion/netcapital-acusada-por-la-sec-de-inflar-ingresos-con-contratos-falsos/"
+    },
+    {
+        "fecha": "12/08/2026",
+        "titulo": "Ventiladores y piel",
+        "gancho": "Dormir con ventilador",
+        "contenido_completo": "El ventilador y el aire acondicionado se convierten en imprescindibles durante las noches de calor, pero su uso prolongado puede afectar a la piel. La dermatóloga Andrea Combalia explica cómo utilizarlos para evitar sequedad, tirantez e irritación. La clave está en no orientar el ventilador directamente hacia la cara o el cuerpo, ya que esto puede favorecer la deshidratación de la piel. Además, es importante mantener una temperatura moderada y utilizar humidificadores para mantener el nivel de humedad en el aire. De esta manera, se puede disfrutar del frescor sin sacrificar la salud de la piel.",
+        "categoria": "Salud",
+        "impacto": "bajo",
+        "fuente_nombre": "ELLE.com",
+        "fuente_url": "https://www.elle.com/es/belleza/cara-cuerpo/a73281156/andrea-combalia-dermatologa-dormir-con-ventilador-cara-cuerpo-deshidratacion-piel/"
+    },
+    {
         "fecha": "11/08/2026",
         "titulo": "IA, el petróleo del siglo XXI",
         "gancho": "IA y productividad",
