@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "13/08/2026",
+        "titulo": "Nuevo SUV chino en Argentina",
+        "gancho": "SUV chino de 7 plazas",
+        "contenido_completo": "Un nuevo SUV chino de siete plazas ha llegado a la Argentina, reemplazando a un conocido modelo local. El SUV cuenta con un motor turbo de 184 CV y caja automática, y se comercializa a un precio de US$31.000. El vehículo es ideal para familias y grupos que buscan un vehículo espacioso y cómodo. El SUV chino es una alternativa atractiva a los modelos tradicionales, ya que ofrece una excelente relación calidad-precio. El vehículo cuenta con una variedad de características de seguridad y comodidad, incluyendo airbags, ABS y climatización. El SUV chino es un ejemplo de cómo la industria automotriz china está ganando terreno en el mercado internacional. El vehículo es una excelente opción para aquellos que buscan un vehículo práctico y asequible.",
+        "categoria": "Automotriz",
+        "impacto": "bajo",
+        "fuente_nombre": "La Nacion",
+        "fuente_url": "https://www.lanacion.com.ar/autos/llega-a-la-argentina-un-nuevo-suv-chino-de-siete-plazas-que-reemplaza-a-un-conocido-local-nid12082026/"
+    },
+    {
+        "fecha": "13/08/2026",
+        "titulo": "SISQUAL WFM para la policía noruega",
+        "gancho": "SISQUAL WFM en Noruega",
+        "contenido_completo": "SISQUAL WFM ha sido adjudicataria de una importante licitación pública para proporcionar una solución de gestión de personal a la policía noruega. La solución de SISQUAL WFM ayudará a la policía noruega a gestionar de manera más eficiente sus recursos humanos y a mejorar la productividad. La solución incluye una variedad de herramientas y funcionalidades, como la gestión de horarios, la gestión de ausencias y la gestión de capacitación. Con la implementación de SISQUAL WFM, la policía noruega podrá reducir los costos y mejorar la calidad de los servicios que presta a la comunidad. La solución de SISQUAL WFM es escalable y flexible, lo que permite adaptarse a las necesidades específicas de la policía noruega. El contrato es un ejemplo de cómo la tecnología puede ser utilizada para mejorar la eficiencia y la efectividad de las organizaciones públicas.",
+        "categoria": "Software",
+        "impacto": "bajo",
+        "fuente_nombre": "PRNewswire",
+        "fuente_url": "https://www.prnewswire.com/news-releases/sisqual-wfm-proporcionara-una-solucion-de-gestion-de-personal-wfm-a-la-policia-noruega-302848270.html"
+    },
+    {
+        "fecha": "13/08/2026",
+        "titulo": "Teclado mecánico más fino",
+        "gancho": "Teclado de menos de 5mm",
+        "contenido_completo": "La compañía londinense EMO presenta el Altar II, el teclado mecánico más fino del mundo, con un grosor de menos de 5 milímetros. Este teclado es ideal para aquellos que buscan un dispositivo portátil y compacto para trabajar o jugar. El Altar II es un ejemplo de cómo la innovación y la tecnología pueden combinarse para crear productos revolucionarios. El teclado mecánico es conocido por su durabilidad y precisión, y el Altar II no es la excepción. Con su diseño elegante y su tecnología avanzada, el Altar II es el teclado perfecto para cualquier persona que busque un dispositivo de alta calidad. El teclado es compatible con una variedad de dispositivos, incluyendo ordenadores y teléfonos inteligentes. El Altar II es un producto innovador que está revolucionando la forma en que interactuamos con nuestros dispositivos.",
+        "categoria": "Hardware",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/emo-altar-ii-teclado-mecanico-fino-mundo-mide-menos-5-milimetros_202608126a7c234ca046ad6ebcacf1ee.html"
+    },
+    {
+        "fecha": "13/08/2026",
+        "titulo": "Perro robot de construcción",
+        "gancho": "Perro robot de 200 piezas",
+        "contenido_completo": "Una empresa china vende un perro robot de construcción con más de 200 piezas. Este juguete es ideal para adultos y niños que disfrutan de la construcción y la robótica. El perro robot es un desafío emocionante que requiere habilidad y paciencia para armar. La empresa china ofrece una alternativa innovadora a los juguetes tradicionales de construcción, como el LEGO. El perro robot es un ejemplo de cómo la tecnología y la creatividad pueden combinarse para crear productos emocionantes y educativos. El juguete es perfecto para aquellos que buscan un desafío nuevo y emocionante. La construcción del perro robot es un proceso divertido y gratificante que puede ser disfrutado por personas de todas las edades. El perro robot es un regalo ideal para cualquier ocasión, ya sea un cumpleaños o una Navidad.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Xataka.com",
+        "fuente_url": "https://www.xataka.com/robotica-e-ia/te-has-cansado-lego-toda-vida-empresa-china-vende-perro-robot-200-piezas"
+    },
+    {
+        "fecha": "13/08/2026",
+        "titulo": "El banco del queso parmesano",
+        "gancho": "Queso parmesano en peligro",
+        "contenido_completo": "El banco del queso parmesano no entiende de tipos de interés, entiende de cambio climático. Las altas temperaturas ya afectan a su conservación y al ganado. El Magazzini Generali delle Tagliate es un banco singular que custodia queso parmesano en lugar de dinero. La conservación del queso es un proceso delicado que requiere condiciones específicas de temperatura y humedad. Sin embargo, el cambio climático está alterando estas condiciones, lo que puede afectar la calidad y la disponibilidad del queso parmesano. El banco del queso parmesano está trabajando para encontrar soluciones a este problema y garantizar la conservación de este producto gastronómico tan valioso. La situación es crítica, y se necesitan medidas urgentes para proteger el queso parmesano y el ganado que lo produce. El futuro del queso parmesano está en juego, y es importante tomar acción para preservar esta tradición gastronómica.",
+        "categoria": "Medio Ambiente",
+        "impacto": "alto",
+        "fuente_nombre": "Directoalpaladar.com",
+        "fuente_url": "https://www.directoalpaladar.com/actualidad-1/banco-queso-parmesano-no-entiende-tipos-interes-entiende-cambio-climatico-altas-temperaturas-afectan-a-su-conservacion-al-ganado"
+    },
+    {
         "fecha": "12/08/2026",
         "titulo": "Banco Macro lanza banca por Whatsapp",
         "gancho": "Banca por Whatsapp",
