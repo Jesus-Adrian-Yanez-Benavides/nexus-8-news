@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "14/08/2026",
+        "titulo": "Grok Bot, la IA de Elon Musk",
+        "gancho": "IA de Elon Musk",
+        "contenido_completo": "El empresario y visionario tecnológico Elon Musk ha presentado su última creación: Grok Bot, una inteligencia artificial diseñada para trabajar en nombre de los usuarios y simplificar sus vidas. Grok Bot cuenta con su propio ordenador virtual y puede interactuar con diversas aplicaciones, lo que le permite coordinar tareas y ejecutarlas en paralelo de manera eficiente. Esta IA se posiciona como una herramienta personalizada que puede aprender los hábitos y preferencias de cada usuario, ofreciendo así soluciones y recomendaciones personalizadas. Con Grok Bot, Musk busca revolucionar la forma en que interactuamos con la tecnología, haciendo que sea más accesible y útil para el usuario promedio. La IA puede ser utilizada para una amplia gama de tareas, desde la gestión del correo electrónico y la planificación de eventos hasta la automatización de procesos y la resolución de problemas complejos. Aunque Grok Bot aún se encuentra en sus primeras etapas de desarrollo, su potencial para transformar la forma en que vivimos y trabajamos es enorme, y muchos expertos consideran que podría ser uno de los avances más significativos en el campo de la inteligencia artificial en los últimos años.",
+        "categoria": "IA",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/redes-sociales/nueva-ia-elon-musk-trabaja-ti-asi-es-grok-bot_202608136a7d80ec71b42a0b5deccc20.html"
+    },
+    {
+        "fecha": "14/08/2026",
+        "titulo": "Turismo inteligente en Sierra Morena y Doñana",
+        "gancho": "Turismo sostenible",
+        "contenido_completo": "La región de Sierra Morena y Doñana está avanzando hacia un modelo de turismo más sostenible y tecnológico, gracias a la implementación del modelo DTI (Destino Turístico Inteligente) en 15 municipios. Este proyecto, financiado con fondos europeos, busca transformar la forma en que se gestiona y se experiencia el turismo en la zona, aprovechando las tecnologías de la información y la comunicación para mejorar la calidad de los servicios y reducir el impacto ambiental. La iniciativa incluye el desarrollo de un diagnóstico individualizado para cada municipio participante, lo que permitirá identificar áreas de mejora y oportunidades de crecimiento. El turismo inteligente se centra en la sostenibilidad, la accesibilidad y la innovación, con el objetivo de ofrecer experiencias más auténticas y enriquecedoras para los visitantes, al mismo tiempo que se protegen y preservan los recursos naturales y culturales de la región. Este enfoque también busca fomentar la colaboración entre los actores locales, los empresarios y las administraciones públicas para crear un destino turístico más competitivo y resiliente.",
+        "categoria": "Turismo",
+        "impacto": "alto",
+        "fuente_nombre": "Eldiario.es",
+        "fuente_url": "https://www.eldiario.es/sevilla/sevilla-digital/sierra-morena-donana-avanzan-turismo-inteligente-15-municipios-implantan-modelo-dti-financiacion-europea_132_13444635.html"
+    },
+    {
+        "fecha": "14/08/2026",
+        "titulo": "El Concorde persiguió la sombra de la Luna",
+        "gancho": "Concorde y eclipse",
+        "contenido_completo": "En 1973, el avión supersónico Concorde realizó una hazaña impresionante al perseguir la sombra de la Luna durante un eclipse solar total. Este logro, que parecía imposible, permitió a los pasajeros del Concorde experimentar la totalidad del eclipse durante 74 minutos, lo que superó con creces la duración normal de un eclipse solar total. La maniobra requería una precisión y planificación extremas, ya que el Concorde debía volar a una velocidad y altitud específicas para mantenerse dentro de la sombra de la Luna. Este evento único en la historia de la aviación no solo fue un espectáculo visual impresionante, sino que también demostró las capacidades técnicas y la innovación de la época. El Concorde, con su velocidad máxima de Mach 2.04, fue el avión comercial más rápido del mundo durante su tiempo de servicio. Aunque el Concorde ya no está en servicio, su legado como un icono de la ingeniería aeronáutica y la exploración sigue inspirando a nuevas generaciones de ingenieros y científicos.",
+        "categoria": "Aviación",
+        "impacto": "bajo",
+        "fuente_nombre": "Elnacional.cat",
+        "fuente_url": "https://www.elnacional.cat/es/tecnologia/te-parecio-corto-eclipse-en-1973-concorde-persiguio-sombra-luna-durante-74-minutos_1681006_102.html"
+    },
+    {
+        "fecha": "14/08/2026",
+        "titulo": "Proyecto de robótica educativa contra el cambio climático",
+        "gancho": "Robótica educativa",
+        "contenido_completo": "Un innovador proyecto de robótica educativa ha sido implementado en una escuela de primaria con el objetivo de concienciar a los estudiantes sobre el cambio climático y fomentar soluciones tecnológicas para mitigar sus efectos. La experiencia, liderada por la docente Soraya Pulido, se centra en el desarrollo de habilidades STEAM (ciencia, tecnología, ingeniería, arte y matemáticas) en los alumnos de 4º de primaria. A través de este proyecto, los estudiantes aprenden a diseñar y construir soluciones tecnológicas para abordar desafíos relacionados con desastres naturales, como inundaciones y sequías. La robótica educativa se presenta como una herramienta poderosa para inspirar a los jóvenes a convertirse en agentes de cambio y a desarrollar soluciones innovadoras para los problemas ambientales. El proyecto no solo busca educar sobre el cambio climático, sino también fomentar la colaboración, el pensamiento crítico y la resolución de problemas entre los estudiantes. Con esta iniciativa, se busca empoderar a las futuras generaciones para que puedan hacer frente a los desafíos ambientales con creatividad y tecnología.",
+        "categoria": "Educación",
+        "impacto": "alto",
+        "fuente_nombre": "Educaciontrespuntocero.com",
+        "fuente_url": "https://www.educaciontrespuntocero.com/experiencias/proyecto-de-robotica-para-prevenir-inundaciones/"
+    },
+    {
+        "fecha": "14/08/2026",
+        "titulo": "Eva Arguiñano defiende la comida tradicional",
+        "gancho": "Comida tradicional",
+        "contenido_completo": "La cocinera vasca Eva Arguiñano destacó la importancia de la comida tradicional y el producto de proximidad en una entrevista reciente. Según Arguiñano, es fundamental valorar y preservar las recetas heredadas y disfrutar de la mesa cada día sin prisas. Esta filosofía se centra en la calidad de los ingredientes y la experiencia de compartir comidas con los seres queridos. La comida tradicional no solo es una cuestión de gusto, sino también de identidad cultural y conexión con el pasado. Algunas de las recetas más emblemáticas de la cocina vasca incluyen el puchero, un plato contundente y nutritivo que se prepara con ingredientes frescos y locales. La defensa de la comida tradicional por parte de Arguiñano también se extiende a la importancia de apoyar a los productores locales y reducir el impacto ambiental de la producción y distribución de alimentos. En resumen, la comida tradicional es un tesoro que debe ser valorado y protegido para las generaciones futuras.",
+        "categoria": "Gastronomía",
+        "impacto": "bajo",
+        "fuente_nombre": "ELLE.com",
+        "fuente_url": "https://www.elle.com/es/gourmet/gastronomia/a73384597/eva-arguinano-comida-tradicional/"
+    },
+    {
         "fecha": "13/08/2026",
         "titulo": "Nuevo SUV chino en Argentina",
         "gancho": "SUV chino de 7 plazas",
