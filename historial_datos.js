@@ -1,5 +1,45 @@
 const historial_noticias = [
     {
+        "fecha": "15/08/2026",
+        "titulo": "Nubank Logra Hito Financiero",
+        "gancho": "Nubank gana mil mdd",
+        "contenido_completo": "Las buenas noticias no dejan de llegar para Nubank, la firma financiera digital que la semana pasada comenzó a operar como banco en México. Nubank ha logrado ganar mil millones de dólares por primera vez en un trimestre, lo que refleja su creciente presencia en el mercado financiero. La empresa ha sido capaz de atraer a millones de clientes con sus productos y servicios innovadores, ofreciendo alternativas más accesibles y personalizadas en comparación con los bancos tradicionales. Este logro financiero posiciona a Nubank como uno de los actores más prominentes en el sector de los servicios financieros digitales.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/14/economia/016n2eco"
+    },
+    {
+        "fecha": "15/08/2026",
+        "titulo": "Inversión para Reducir Inundaciones",
+        "gancho": "Construyen obras",
+        "contenido_completo": "Con una inversión de 165 millones de pesos, el Gobierno de la Ciudad de México construye ocho obras para mejorar la red de drenaje destinadas a reducir las inundaciones en San Juan de Aragón, La Pradera y zonas aledañas, en la alcaldía Gustavo A. Madero. Estas obras incluyen la construcción de nuevos colectores, la rehabilitación de infraestructura existente y la implementación de sistemas de bombeo. El objetivo es mejorar la calidad de vida de los habitantes de la zona y reducir los riesgos asociados con las inundaciones. La inversión forma parte de un plan más amplio para abordar los desafíos de infraestructura en la ciudad.",
+        "categoria": "Infraestructura",
+        "impacto": "bajo",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/14/capital/027n2cap"
+    },
+    {
+        "fecha": "15/08/2026",
+        "titulo": "Aranceles a Drones Importados",
+        "gancho": "EU impone aranceles",
+        "contenido_completo": "El presidente de Estados Unidos, Donald Trump, anunció aranceles hasta de 100 por ciento a las importaciones de drones y sus componentes, una industria dominada por China. Esta medida busca proteger la industria nacional y reducir la dependencia de productos importados. Los aranceles afectarán a una amplia gama de productos, desde drones recreativos hasta aquellos utilizados en aplicaciones comerciales y militares. La decisión ha generado reacciones encontradas, con algunos argumentando que beneficiará a la economía estadounidense y otros advirtiendo sobre posibles represalias de China.",
+        "categoria": "Economía",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/14/economia/014n2eco"
+    },
+    {
+        "fecha": "15/08/2026",
+        "titulo": "Fidel Castro: Un Líder Revolucionario",
+        "gancho": "Fidel cambió el mundo",
+        "contenido_completo": "Fidel Castro fue el último de los grandes líderes revolucionarios que cambiaron el mundo en el siglo XX. Fue el cerebro, el organizador y el arquitecto de la revolución cubana, la revolución más importante e influyente del siglo XX en América Latina y una de las más significativas a nivel global. Su legado continúa siendo objeto de debate y análisis. La revolución cubana, liderada por Fidel, trajo consigo cambios profundos en la política, la economía y la sociedad de la isla caribeña.",
+        "categoria": "Política",
+        "impacto": "alto",
+        "fuente_nombre": "Jornada.com.mx",
+        "fuente_url": "https://www.jornada.com.mx/2026/08/14/opinion/011a2pol"
+    },
+    {
         "fecha": "14/08/2026",
         "titulo": "Grok Bot, la IA de Elon Musk",
         "gancho": "IA de Elon Musk",
