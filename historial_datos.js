@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "16/08/2026",
+        "titulo": "Polémica en 'Supergirl'",
+        "gancho": "IA generativa en la película",
+        "contenido_completo": "El film protagonizado por Milly Alcock le va a costar pérdidas millonarias a Warner y ha sido un duro varapalo para los planes de James Gunn con la franquicia. La película ha generado polémica debido a su uso de IA generativa. La IA generativa es una tecnología que permite crear contenido de manera automática, pero su uso en la industria del cine es aún un tema de debate. La película 'Supergirl' ha sido criticada por su uso de esta tecnología, lo que ha generado una gran discusión en la industria.",
+        "categoria": "Cine",
+        "impacto": "alto",
+        "fuente_nombre": "20minutos.es",
+        "fuente_url": "https://www.20minutos.es/cinemania/noticias/otra-polemica-para-supergirl-utilizo-ia-generativa-pelicula-mas-criticada-dc_7025730_0.html"
+    },
+    {
+        "fecha": "16/08/2026",
+        "titulo": "Perros robot en la Luna",
+        "gancho": "China avanza en la Luna",
+        "contenido_completo": "De guardianes a constructores: así ayudarán estos cuadrúpedos a los astronautas en la Luna. China ha decidido quién levantará su base de 2035, y no será exactamente un astronauta con casco y guantes. Los perros robot jugarán un papel importante en la construcción y mantenimiento de la base lunar. Estos robots están diseñados para realizar tareas específicas y ayudar a los astronautas en su trabajo. La misión de China en la Luna es un paso importante hacia la exploración y el desarrollo de la tecnología espacial.",
+        "categoria": "Espacio",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/robots/perros-robot-caminando-luna-china-ya-ha-decidido-quien-levantara-su-base-2035-no-sera-exactamente-astronauta-casco-guantes_202608156a7984e0a046ad6ebca911db.html"
+    },
+    {
+        "fecha": "16/08/2026",
+        "titulo": "Sistema WiFi Mesh",
+        "gancho": "Solución a problemas WiFi",
+        "contenido_completo": "Tener una mala conexión a Internet en ciertas habitaciones de la casa es uno de los problemas domésticos más frustrantes de la era digital en la que vivimos. Da igual que tengas contratada una línea de fibra óptica de un giga: si el router de tu operador está lejos o hay obstáculos en el camino, la señal de WiFi se debilita. Un sistema WiFi Mesh es una buena solución a este problema. Estos sistemas utilizan múltiples dispositivos para amplificar la señal de WiFi y proporcionar una conexión estable en todo el hogar.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Xatakahome.com",
+        "fuente_url": "https://www.xatakahome.com/seleccion/tu-wifi-no-llega-a-todos-rincones-casa-este-sistema-wifi-mesh-buena-solucion-a-este-problema"
+    },
+    {
+        "fecha": "16/08/2026",
+        "titulo": "Inversión de Ark Invest",
+        "gancho": "Compra por $44,7 millones",
+        "contenido_completo": "Cathie Wood, fundadora de ARK Invest, adquirió acciones de TSMC y SpaceX por un valor combinado de USD $44,7 millones entre finales de julio y mediados de agosto, financiando la compra con la venta de posiciones en Amazon, Alphabet y Shopify. La operación refleja la confianza de la inversora en el potencial de crecimiento de estas empresas. La decisión de invertir en TSMC y SpaceX puede tener un impacto significativo en el mercado. Es importante analizar las tendencias y estrategias de inversión para tomar decisiones informadas.",
+        "categoria": "Finanzas",
+        "impacto": "alto",
+        "fuente_nombre": "Diariobitcoin.com",
+        "fuente_url": "https://www.diariobitcoin.com/tecnologia/demasiado-tarde-para-seguir-a-cathie-wood-ark-invest-compra-tsmc-y-spacex-por-usd-447-millones/"
+    },
+    {
+        "fecha": "16/08/2026",
+        "titulo": "Ofertas de Amazon hoy",
+        "gancho": "Descuentos hasta 65%",
+        "contenido_completo": "En calidad de Afiliados de Amazon, obtenemos una comisión por cada compra realizada desde nuestros enlaces. Los precios y ofertas mostrados corresponden al momento de publicar y pueden variar. Revisa siempre el importe final en Amazon. Las ofertas de hoy incluyen Nescafé Dolce Gusto, Soundcore, Cecotec y más. Los productos están disponibles con descuentos de hasta el 65%. Es importante verificar los precios antes de realizar la compra.",
+        "categoria": "Gadgets",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/chollos-de-amazon/ofertas-amazon-hoy-15-agosto-nescafe-dolce-gusto-soundcore-cecotec-descuentos-65/202608151004371036214.html"
+    },
+    {
         "fecha": "15/08/2026",
         "titulo": "Nubank Logra Hito Financiero",
         "gancho": "Nubank gana mil mdd",
