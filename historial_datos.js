@@ -1,5 +1,55 @@
 const historial_noticias = [
     {
+        "fecha": "17/08/2026",
+        "titulo": "Motor de hidrógeno para camiones",
+        "gancho": "Hidrógeno vs diésel",
+        "contenido_completo": "Estamos hablando de un avance tecnológico que permite usar motores tradicionales alimentados por hidrógeno para descarbonizar el transporte pesado sin abandonar la infraestructura actual. El motor de hidrógeno ha igualado al diésel en términos de par, lo que lo hace una opción viable para el transporte de mercancías. Además, emite apenas dióxido de carbono, lo que lo convierte en una alternativa más sostenible para el medio ambiente.",
+        "categoria": "Tecnología",
+        "impacto": "alto",
+        "fuente_nombre": "Larazon.es",
+        "fuente_url": "https://www.larazon.es/tecnologia-consumo/movilidad/motor-hidrogeno-acaba-igualar-diesel-unica-cifra-le-importa-camion-par-encima-apenas-emite-dioxido-carbono_202608166a798e4aa046ad6ebca925ad.html"
+    },
+    {
+        "fecha": "17/08/2026",
+        "titulo": "Zapatillas Puma a precio de outlet",
+        "gancho": "Zapatillas rebajadas",
+        "contenido_completo": "Renovar zapatillas no siempre implica gastar mucho: Amazon reúne ahora varias propuestas de Puma rebajadas, desde modelos de aire retro para vestir a diario hasta opciones ligeras para caminar o entrenar. Según el color y la talla disponibles, algunos descuentos pueden llegar a ser significativos. Es importante verificar la autenticidad y la calidad de los productos antes de realizar una compra.",
+        "categoria": "Moda",
+        "impacto": "bajo",
+        "fuente_nombre": "Mundodeportivo.com",
+        "fuente_url": "https://www.mundodeportivo.com/elrecomendador/zapatillas/20260816/1004215737/zapatillas-puma-precio-outlet-5-modelos-puedes-comprar-mitad-mkt-puma.html"
+    },
+    {
+        "fecha": "17/08/2026",
+        "titulo": "Pegatinas en ordenadores portátiles",
+        "gancho": "Quitar pegatinas",
+        "contenido_completo": "Si tu portátil es de Windows, seguro ya llevas tiempo conviviendo con las pegatinas que vienen en la carcasa de la misma, situadas junto al teclado o al trackpad. Nos estamos refiriendo a esas pegatinas que vienen con información; algunas hacen referencia al procesador, la memoria RAM o el sistema operativo. Aunque pueden ser útiles, también pueden ser molestas y feotas. En este artículo, exploramos cómo quitarlas de manera segura.",
+        "categoria": "Hardware",
+        "impacto": "bajo",
+        "fuente_nombre": "Elnacional.cat",
+        "fuente_url": "https://www.elnacional.cat/es/tecnologia/se-pueden-quitar-pegatinas-ordenador-portatil_1681453_102.html"
+    },
+    {
+        "fecha": "17/08/2026",
+        "titulo": "Ofertas de Amazon hoy",
+        "gancho": "Descuentos en Amazon",
+        "contenido_completo": "En calidad de Afiliados de Amazon, obtenemos una comisión por cada compra realizada desde nuestros enlaces. Los precios y ofertas mostrados corresponden al momento de publicar y pueden variar. Revisa siempre el importe final en Amazon. Las ofertas incluyen productos de Mingtawn, Nescafé Dolce Gusto, Govee y más, con descuentos de hasta el 71%. Es importante verificar la disponibilidad y los precios antes de realizar una compra.",
+        "categoria": "Compras",
+        "impacto": "bajo",
+        "fuente_nombre": "Elconfidencialdigital.com",
+        "fuente_url": "https://www.elconfidencialdigital.com/articulo/chollos-de-amazon/ofertas-amazon-hoy-16-agosto-mingtawn-nescafe-dolce-gusto-govee-descuentos-71/202608161001011036270.html"
+    },
+    {
+        "fecha": "17/08/2026",
+        "titulo": "La capital que está naciendo en la selva",
+        "gancho": "Nueva ciudad en la selva",
+        "contenido_completo": "Una nueva ciudad está creciendo desde cero lejos del caos urbano, con una inversión gigantesca y un diseño que promete cambiar la forma de vivir. La ciudad está siendo construida en medio de la selva, lo que plantea desafíos únicos en términos de logística y sostenibilidad. A medida que la ciudad crece, se espera que tenga un impacto significativo en la economía y la cultura del país.",
+        "categoria": "Arquitectura",
+        "impacto": "alto",
+        "fuente_nombre": "Gizmodo.com",
+        "fuente_url": "https://es.gizmodo.com/la-capital-que-esta-naciendo-en-la-selva-y-promete-cambiar-para-siempre-el-mapa-de-un-pais-2000251758"
+    },
+    {
         "fecha": "16/08/2026",
         "titulo": "Polémica en 'Supergirl'",
         "gancho": "IA generativa en la película",
